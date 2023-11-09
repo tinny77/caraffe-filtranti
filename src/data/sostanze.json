@@ -1,0 +1,40 @@
+{
+	"pfas": {
+		"etichetta": "PFAS/PFOA",
+		"nota": "Questo è un testo di nota per la caratteristica PFAS."
+	},
+	"cloro": {
+		"etichetta": "Cloro",
+		"nota": "Nota per il cloro."
+	},
+	"mercurio": {
+		"etichetta": "Mercurio",
+		"nota": "Nota per il mercurio."
+	},
+	"cadmio": {
+		"etichetta": "Cadmio",
+		"nota": "Nota per il cadmio."
+	},
+	"piombo": {
+		"etichetta": "Piombo"
+	}
+	,
+	"rame": {
+		"etichetta": "Piombo"
+	}
+	,
+	"haa5": {
+		"etichetta": "Haa5 (acido aloacetico)"
+	}
+	,
+	"particolato": {
+		"etichetta": "Polveri sottili"
+	}
+	,
+	"benzene": {
+		"etichetta": "Benzene"
+	},
+	"farma": {
+		"etichetta": "Residui farmaceutici"
+	}
+}

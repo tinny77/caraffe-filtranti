@@ -1,0 +1,761 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 73,
+    "credits_remaining": 27,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B01GFJWA52",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-09T09:36:08.585Z",
+    "processed_at": "2023-11-09T09:36:26.819Z",
+    "total_time_taken": 18.23,
+    "amazon_url": "https://www.amazon.it/dp/B01GFJWA52?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+    "search_alias": {
+      "title": "Casa e cucina",
+      "value": "kitchen"
+    },
+    "keywords": "Amazon,Basics,-,Caraffa,filtrante,per,l'acqua,,2,3,litri,,nero",
+    "keywords_list": [
+      "Amazon",
+      "Basics",
+      "Caraffa",
+      "filtrante",
+      "l'acqua",
+      "litri",
+      "nero"
+    ],
+    "asin": "B01GFJWA52",
+    "parent_asin": "B08PVSJ789",
+    "link": "https://www.amazon.it/AmazonBasics-Caraffa-filtrante-lacqua-litri/dp/B01GFJWA52?tag=8vcue204-21",
+    "brand": "Amazon Basics",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B093L8DCQX",
+        "title": "Nero+Bianco",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B093L8DCQX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Nero+Bianco"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31jSBQgwtGL._AC_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31jSBQgwtGL._AC_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61A6CM5vTSL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81FRgSuPIJL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61wu8D0Dl6L._AC_SL1050_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71ys75JfkqL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/716PL9ekRsL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 39.01,
+          "raw": "€39,01"
+        }
+      },
+      {
+        "asin": "B01GFJWA52",
+        "title": "Nero",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B01GFJWA52?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Nero"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61SV9cbfCiL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81j7nqnPgmL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/713jF5todFL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71bOEibP61L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71c4VBCIWxL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51kEtJvMMlL._AC_SL1050_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61OXUzJLfkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/61AyUuijmyL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/31pVTYy+E6L._AC_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/51FigQuG5aL._AC_SL1000_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 23.45,
+          "raw": "€23,45"
+        }
+      },
+      {
+        "asin": "B073ZG9KLJ",
+        "title": "Bianco",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B073ZG9KLJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71I-FmsxX4L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71I-FmsxX4L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51I3OClewzL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71de2plYaOL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71OHn29u4KL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61ZaNy8pa+L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/21YWPlOJBpL._AC_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61LRHbsWxjL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/61DnZtlzQFL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B093L983Z7",
+        "title": "Nero/Bianco",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B093L983Z7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Nero/Bianco"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31Yl6+8--hL._AC_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31Yl6+8--hL._AC_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71ukNgAk-QL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71yr53wdsdL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61jmOVAoKdL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71c4VBCIWxL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51kEtJvMMlL._AC_SL1050_.jpg"
+          },
+          {
+            "variant": "EV01",
+            "link": "https://m.media-amazon.com/images/I/71xUWuaNIgL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 81.95,
+          "raw": "€81,95"
+        }
+      }
+    ],
+    "variant_asins_flat": "B093L8DCQX,B01GFJWA52,B073ZG9KLJ,B093L983Z7",
+    "energy_efficiency": {},
+    "categories": [
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "promotions_feature": "OFFERTE SPECIALI E PROMOZIONI\n  Acquista questo prodotto e ricevi 90 giorni gratis di streaming musicale con Amazon Music Unlimited. Dopo l'acquisto, riceverai un'email contenete informazioni su come iscriverti ad Amazon Music Unlimited.Vedi condizioni",
+    "sub_title": {
+      "text": "Visita lo Store di Amazon Basics",
+      "link": "https://www.amazon.it/stores/AmazonBasics/page/178882AF-AABF-439E-8C0B-8D9EEC2776F1?ref_=ast_bln&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 72,
+        "count": 9126
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 2028
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 887
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 126
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 507
+      }
+    },
+    "ratings_total": 12676,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61SV9cbfCiL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61SV9cbfCiL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81j7nqnPgmL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/713jF5todFL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71bOEibP61L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71c4VBCIWxL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51kEtJvMMlL._AC_SL1050_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61OXUzJLfkL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61AyUuijmyL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31pVTYy+E6L._AC_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51FigQuG5aL._AC_SL1000_.jpg",
+        "variant": "PT09"
+      }
+    ],
+    "images_count": 10,
+    "images_flat": "https://m.media-amazon.com/images/I/61SV9cbfCiL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81j7nqnPgmL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/713jF5todFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71bOEibP61L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71c4VBCIWxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51kEtJvMMlL._AC_SL1050_.jpg,https://m.media-amazon.com/images/I/61OXUzJLfkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61AyUuijmyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/31pVTYy+E6L._AC_.jpg,https://m.media-amazon.com/images/I/51FigQuG5aL._AC_SL1000_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 21,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0de30849-5f5b-48aa-816c-7132e7c9b99b/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41SXOX9WWnL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1_T1",
+        "title": "Amazon Basics Water Filter Jug 2.3L"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0de30849-5f5b-48aa-816c-7132e7c9b99b/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Capacità: Caraffa filtrante per acqua da 2,3 litri con capacità di 1,4 litri di acqua filtrata. Realizzata in plastica senza BPA",
+      "Ottimo sapore dell’acqua: La caraffa filtra l’acqua del rubinetto riducendo il contenuto di cloro, calcare e altre impurità. Ideale per acqua dura",
+      "Design: Coperchio ribaltabile per un facile riempimento direttamente dal lavello, manico ergonomico per versare comodamente l’acqua e beccuccio anti-goccia",
+      "Pratica: la caraffa filtrante può essere lavata in lavastoviglie fino a 50°C (senza coperchio)",
+      "Compatibilità: Adatta per cartucce Amazon Basics e BRITA MAXTRA/MAXTRA+ 1 Cartuccia filtrante per acqua Amazon Basics inclusa",
+      "Con indicatore di sostituzione della cartuccia: Il display elettronico mostra quando è necessario sostituire la cartuccia (ogni 30 giorni)"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "Con indicatore di sostituzione della cartuccia: Il display elettronico mostra quando è necessario sostituire la cartuccia (ogni 30 giorni). Compatibilità: Adatta per cartucce Amazon Basics e BRITA MAXTRA/MAXTRA+ 1 Cartuccia filtrante per acqua Amazon Basics inclusa. Pratica: la caraffa filtrante può essere lavata in lavastoviglie fino a 50°C (senza coperchio). Design: Coperchio ribaltabile per un facile riempimento direttamente dal lavello, manico ergonomico per versare comodamente l’acqua e beccuccio anti-goccia. Ottimo sapore dell’acqua: La caraffa filtra l’acqua del rubinetto riducendo il contenuto di cloro, calcare e altre impurità. Ideale per acqua dura. Capacità: Caraffa filtrante per acqua da 2,3 litri con capacità di 1,4 litri di acqua filtrata. Realizzata in plastica senza BPA.",
+    "attributes": [
+      {
+        "name": "Marchio",
+        "value": "Amazon Basics"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Nome modello",
+        "value": "1030401"
+      },
+      {
+        "name": "Temperatura nominale superiore",
+        "value": "50 Gradi Celsius"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R1E0A0HS3AUBHK",
+        "title": "Idratazione Purificata a Lungo Termine: Un Investimento Saggio",
+        "body": "La Caraffa filtrante Amazon Basics da 2.3 litri è stata per me il miglior acquisto dell'anno, un cambio game-changer nell'abitudine di bere acqua in casa. Con il suo design elegante e funzionale, ha portato non solo un tocco di estetica ma anche una qualità d'acqua nettamente migliore direttamente dalla cucina.  La sorpresa più piacevole è stata vedere come anche i miei bimbi siano stati invogliati a bere più acqua, probabilmente attratti dalla novità e dal gusto fresco e pulito dell'acqua. La facilità d'uso e la capacità adeguata di 2.3 litri hanno reso l'accesso all'acqua filtrata un gioco da ragazzi per tutta la famiglia.  Un altro aspetto che ha reso questo acquisto estremamente conveniente è la durata delle ricariche del filtro. Ogni ricarica dura circa 4 settimane, rendendo la manutenzione molto gestibile. Inoltre, con un costo di circa 3 euro per ricarica quando sono in offerta, il mantenimento della caraffa non pesa sul budget familiare, rendendo l'acqua purificata una scelta accessibile per tutti.  La caraffa ha dimostrato di essere un investimento saggio, fornendo un'acqua di qualità a un costo molto basso nel lungo termine. L'acquisto iniziale più il costo contenuto delle ricariche hanno reso l'idratazione quotidiana più piacevole e salutare senza gravare sul portafoglio.  In conclusione, la caraffa filtrante Amazon Basics è una scelta eccellente per chi cerca una soluzione di filtraggio dell'acqua economica ed efficace. Ha migliorato la qualità dell'acqua, ha invogliato la mia famiglia a bere di più, e ha reso la manutenzione un compito semplice e conveniente. Un acquisto che consiglio vivamente a chiunque desideri migliorare l'esperienza di bere acqua in casa senza spendere una fortuna.Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>La Caraffa filtrante Amazon Basics da 2.3 litri è stata per me il miglior acquisto dell'anno, un cambio game-changer nell'abitudine di bere acqua in casa. Con il suo design elegante e funzionale, ha portato non solo un tocco di estetica ma anche una qualità d'acqua nettamente migliore direttamente dalla cucina.<br><br>La sorpresa più piacevole è stata vedere come anche i miei bimbi siano stati invogliati a bere più acqua, probabilmente attratti dalla novità e dal gusto fresco e pulito dell'acqua. La facilità d'uso e la capacità adeguata di 2.3 litri hanno reso l'accesso all'acqua filtrata un gioco da ragazzi per tutta la famiglia.<br><br>Un altro aspetto che ha reso questo acquisto estremamente conveniente è la durata delle ricariche del filtro. Ogni ricarica dura circa 4 settimane, rendendo la manutenzione molto gestibile. Inoltre, con un costo di circa 3 euro per ricarica quando sono in offerta, il mantenimento della caraffa non pesa sul budget familiare, rendendo l'acqua purificata una scelta accessibile per tutti.<br><br>La caraffa ha dimostrato di essere un investimento saggio, fornendo un'acqua di qualità a un costo molto basso nel lungo termine. L'acquisto iniziale più il costo contenuto delle ricariche hanno reso l'idratazione quotidiana più piacevole e salutare senza gravare sul portafoglio.<br><br>In conclusione, la caraffa filtrante Amazon Basics è una scelta eccellente per chi cerca una soluzione di filtraggio dell'acqua economica ed efficace. Ha migliorato la qualità dell'acqua, ha invogliato la mia famiglia a bere di più, e ha reso la manutenzione un compito semplice e conveniente. Un acquisto che consiglio vivamente a chiunque desideri migliorare l'esperienza di bere acqua in casa senza spendere una fortuna.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1E0A0HS3AUBHK?ASIN=B01GFJWA52",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 22 ottobre 2023",
+          "utc": "2023-10-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "m-acca",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHDUU3YQYWXYNZ4VLKMNNFY7G3YA",
+          "id": "AHDUU3YQYWXYNZ4VLKMNNFY7G3YA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2Y6DD1MKWWDD1",
+        "title": "Buona caraffa alternativa",
+        "body": "Ho preso questa caraffa perché d'estate bere l'acqua del rubinetto a temperatura ambiente non è un granché. La caraffa Amazon è fatta bene, la cartuccia dai test filtra meno il potassio e il magnesio rispetto alla concorrente più famosa e per me è meglio così. Una stella in meno perché i filtri in effetti durano tre settimane con un uso normale poi il gusto diventa simile all'acqua del rubinetto. Il display una volta acceso non si può più spegnere e consuma inutilmente la batteria interna.Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ho preso questa caraffa perché d'estate bere l'acqua del rubinetto a temperatura ambiente non è un granché.<br>La caraffa Amazon è fatta bene, la cartuccia dai test filtra meno il potassio e il magnesio rispetto alla concorrente più famosa e per me è meglio così.<br>Una stella in meno perché i filtri in effetti durano tre settimane con un uso normale poi il gusto diventa simile all'acqua del rubinetto. Il display una volta acceso non si può più spegnere e consuma inutilmente la batteria interna.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2Y6DD1MKWWDD1?ASIN=B01GFJWA52",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 4 novembre 2023",
+          "utc": "2023-11-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Großherzog",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHHRLHHA2KIWTPBKLXEPXMZ3S77Q",
+          "id": "AHHRLHHA2KIWTPBKLXEPXMZ3S77Q",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e5e5c39c-2f2e-4e94-98ee-858278f6ea00._CR34,0,432,432_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R6PW0O42WSHL0",
+        "title": "Ottimo prodotto!",
+        "body": "Da quando ho comprato questa caraffa non ho più preso acqua in bottiglia, ottimo prodotto!Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Da quando ho comprato questa caraffa non ho più preso acqua in bottiglia, ottimo prodotto!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R6PW0O42WSHL0?ASIN=B01GFJWA52",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 1 novembre 2023",
+          "utc": "2023-11-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "marco u.",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AF3A3MFN53AI3MR2AG3JGFIXRO6Q",
+          "id": "AF3A3MFN53AI3MR2AG3JGFIXRO6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RHGHL8CPGUWE0",
+        "title": "Buon risparmio",
+        "body": "Sto utilizzando questa caraffa da un mese e mi trovo bene, si risparmiano un bel po di soldini, il sapore dell'acqua filtrata è buono solo un leggere retrogusto amarognolo forse dovuto alla presenza dei carboni attivi, per il resto 👌Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Sto utilizzando questa caraffa da un mese e mi trovo bene, si risparmiano un bel po di soldini, il sapore dell'acqua filtrata è buono solo un leggere retrogusto amarognolo forse dovuto alla presenza dei carboni attivi, per il resto 👌</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RHGHL8CPGUWE0?ASIN=B01GFJWA52",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 17 settembre 2023",
+          "utc": "2023-09-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shark",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGYYV3IGSP4CSPYDWOJZ4AJX3WBQ",
+          "id": "AGYYV3IGSP4CSPYDWOJZ4AJX3WBQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1NJWQZ4CJRF9J",
+        "title": "AmazonBasics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+        "body": "Prodotto di media manifattura l'acqua ci mette troppo tempo x filtrare in confronto a una nota marca che avevo prima ma mi si è rotta.Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Prodotto di media manifattura l'acqua ci mette troppo tempo x filtrare in confronto a una nota marca che avevo prima ma mi si è rotta.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1NJWQZ4CJRF9J?ASIN=B01GFJWA52",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 18 agosto 2023",
+          "utc": "2023-08-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Francesco",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGNF2ZGPYMGMRZGXR4QO4ZDESQJA",
+          "id": "AGNF2ZGPYMGMRZGXR4QO4ZDESQJA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RCB17GEX1IJNC",
+        "title": "Ottimo",
+        "body": "Ottima caraffa di amazon . Migliore di molte altre . Fa egregiamente il suo dovere. Compatibile con vari filtri di altre marche.Leggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ottima caraffa di amazon . Migliore di molte altre . Fa egregiamente il suo dovere. Compatibile con vari filtri di altre marche.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RCB17GEX1IJNC?ASIN=B01GFJWA52",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 13 settembre 2023",
+          "utc": "2023-09-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Arma",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFJXAX3NKGEJRNIPZANV56C7PGZQ",
+          "id": "AFJXAX3NKGEJRNIPZANV56C7PGZQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RD8QGN82MCHV5",
+        "title": "Ottima",
+        "body": "Si vede e si sente la differenza usata anche con il test dimezza la durezza del acquaLeggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Si vede e si sente la differenza usata anche con il test dimezza la durezza del acqua</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RD8QGN82MCHV5?ASIN=B01GFJWA52",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 11 settembre 2023",
+          "utc": "2023-09-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Annalisa Nardella",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AE3ZWGHV4OTOUIGKL65LUBE6VCCQ",
+          "id": "AE3ZWGHV4OTOUIGKL65LUBE6VCCQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1GCOWUHJTPKJI",
+        "title": "caraffa",
+        "body": "ottimo compromessoLeggi di più",
+        "asin": "B01GFJWA52",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>ottimo compromesso</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1GCOWUHJTPKJI?ASIN=B01GFJWA52",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 21 settembre 2023",
+          "utc": "2023-09-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cliente Amazon",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AESG5BQMLDAZK7EAJNZ2FDWNXL2A",
+          "id": "AESG5BQMLDAZK7EAJNZ2FDWNXL2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R32DF41XP58H41",
+        "title": "sauberes wasser trinken *****",
+        "body": "Der Amazon Basics Krug mit Wasserfiltereinsatz und der 15er-Packung Filters sind eine unschlagbare Kombination, die mich absolut überzeugt hat!  Die Funktionalität dieses Krugs ist beeindruckend. Mit einem Fassungsvermögen von 2,3 Litern bietet er ausreichend Platz für unser gesamtes Haushalt. Der Wasserfiltereinsatz sorgt dafür, dass unser Leitungswasser klar und erfrischend schmeckt. Ich bemerke einen klaren Unterschied in der Qualität des Wassers, seitdem wir diesen Krug verwenden.  Die 15er-Packung der Filter ist wirklich praktisch und bietet langanhaltenden Komfort. Es ist großartig zu wissen, dass wir für eine lange Zeit keine Sorgen über den Nachkauf von Filtern haben werden. Dies ist besonders praktisch für einen geschäftigen Haushalt wie unseren.  Der Krug selbst ist gut durchdacht gestaltet. Das ergonomische Griffdesign und der Ausgießer erleichtern das Gießen und Servieren. Auch die Tatsache, dass der Krug in den meisten Kühlschranktüren passt, ist ein weiterer Pluspunkt.  Insgesamt bin ich mehr als zufrieden mit dem Amazon Basics Krug mit Wasserfiltereinsatz und der 15er-Packung. Diese Kombination bietet nicht nur eine bequeme Art, hochwertiges Wasser zu genießen, sondern spart auch Zeit und Aufwand beim Filtern. Wenn du auf der Suche nach einer zuverlässigen Lösung für besseres Trinkwasser bist, empfehle ich dir diese Produkte ohne Zweifel! User 5 sterne bewertung für: Thai Zitronengras Raumspray und Kissenspray, besonders der gute nicht aufdringliche duft, hällt sehr lange ChatGPT  Titel: Erfrischend und Langanhaltend - Ein Dufterlebnis der Extraklasse!  Bewertung: ⭐️⭐️⭐️⭐️⭐️ (5/5)  Das Thai Zitronengras Raumspray und Kissenspray hat mich positiv überrascht und verdient ohne Frage volle 5 Sterne!  Der Duft dieses Sprays ist einfach fantastisch. Das Zitronengras verströmt eine angenehme Frische, die den Raum oder das Kissen sofort aufhellt. Es ist bemerkenswert, wie der Duft präsent ist, ohne aufdringlich zu sein. Die Balance zwischen der Intensität des Duftes und seiner Subtilität ist perfekt getroffen.  Was mich besonders beeindruckt hat, ist die lange Haltbarkeit des Duftes. Nach dem Aufsprühen bleibt der erfrischende Zitronengrasduft über einen bemerkenswert langen Zeitraum erhalten. Dies sorgt für eine kontinuierliche Erfrischung des Raumes oder des Kissens, ohne dass man ständig nachsprühen muss.  Die Vielseitigkeit des Sprays als Raumspray und Kissenspray ist ebenfalls ein großer Pluspunkt. Es ermöglicht eine schnelle Erfrischung von Räumen und verleiht gleichzeitig Bettwäsche und Kissen einen angenehmen Duft, der zu einem erholsamen Schlaf beiträgt.  Zusammenfassend kann ich das Thai Zitronengras Raumspray und Kissenspray uneingeschränkt empfehlen. Dieses Produkt bietet ein erstklassiges Dufterlebnis, das sowohl erfrischt als auch langanhaltend ist. Wer auf der Suche nach einem hochwertigen Duftspray ist, wird von diesem Produkt begeistert sein!Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Der Amazon Basics Krug mit Wasserfiltereinsatz und der 15er-Packung Filters sind eine unschlagbare Kombination, die mich absolut überzeugt hat!<br><br>Die Funktionalität dieses Krugs ist beeindruckend. Mit einem Fassungsvermögen von 2,3 Litern bietet er ausreichend Platz für unser gesamtes Haushalt. Der Wasserfiltereinsatz sorgt dafür, dass unser Leitungswasser klar und erfrischend schmeckt. Ich bemerke einen klaren Unterschied in der Qualität des Wassers, seitdem wir diesen Krug verwenden.<br><br>Die 15er-Packung der Filter ist wirklich praktisch und bietet langanhaltenden Komfort. Es ist großartig zu wissen, dass wir für eine lange Zeit keine Sorgen über den Nachkauf von Filtern haben werden. Dies ist besonders praktisch für einen geschäftigen Haushalt wie unseren.<br><br>Der Krug selbst ist gut durchdacht gestaltet. Das ergonomische Griffdesign und der Ausgießer erleichtern das Gießen und Servieren. Auch die Tatsache, dass der Krug in den meisten Kühlschranktüren passt, ist ein weiterer Pluspunkt.<br><br>Insgesamt bin ich mehr als zufrieden mit dem Amazon Basics Krug mit Wasserfiltereinsatz und der 15er-Packung. Diese Kombination bietet nicht nur eine bequeme Art, hochwertiges Wasser zu genießen, sondern spart auch Zeit und Aufwand beim Filtern. Wenn du auf der Suche nach einer zuverlässigen Lösung für besseres Trinkwasser bist, empfehle ich dir diese Produkte ohne Zweifel!<br>User<br>5 sterne bewertung für: Thai Zitronengras Raumspray und Kissenspray, besonders der gute nicht aufdringliche duft, hällt sehr lange<br>ChatGPT<br><br>Titel: Erfrischend und Langanhaltend - Ein Dufterlebnis der Extraklasse!<br><br>Bewertung: ⭐️⭐️⭐️⭐️⭐️ (5/5)<br><br>Das Thai Zitronengras Raumspray und Kissenspray hat mich positiv überrascht und verdient ohne Frage volle 5 Sterne!<br><br>Der Duft dieses Sprays ist einfach fantastisch. Das Zitronengras verströmt eine angenehme Frische, die den Raum oder das Kissen sofort aufhellt. Es ist bemerkenswert, wie der Duft präsent ist, ohne aufdringlich zu sein. Die Balance zwischen der Intensität des Duftes und seiner Subtilität ist perfekt getroffen.<br><br>Was mich besonders beeindruckt hat, ist die lange Haltbarkeit des Duftes. Nach dem Aufsprühen bleibt der erfrischende Zitronengrasduft über einen bemerkenswert langen Zeitraum erhalten. Dies sorgt für eine kontinuierliche Erfrischung des Raumes oder des Kissens, ohne dass man ständig nachsprühen muss.<br><br>Die Vielseitigkeit des Sprays als Raumspray und Kissenspray ist ebenfalls ein großer Pluspunkt. Es ermöglicht eine schnelle Erfrischung von Räumen und verleiht gleichzeitig Bettwäsche und Kissen einen angenehmen Duft, der zu einem erholsamen Schlaf beiträgt.<br><br>Zusammenfassend kann ich das Thai Zitronengras Raumspray und Kissenspray uneingeschränkt empfehlen. Dieses Produkt bietet ein erstklassiges Dufterlebnis, das sowohl erfrischt als auch langanhaltend ist. Wer auf der Suche nach einem hochwertigen Duftspray ist, wird von diesem Produkt begeistert sein!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Germania il 15 agosto 2023",
+          "utc": "2023-08-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rico P."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true
+      },
+      {
+        "id": "R2I46O09ZUPID0",
+        "title": "Ravi de l'efficacité du produit",
+        "body": "Comme à mon habitude lorsque je commande sur Amazon, les livreurs cherche a connaître les produits pour les prendre à votre place (tout un côté du colis ouvert). Déçu, il nous l'a donc remis. Après plusieurs rinçage de la cartouche comme indiqué pour éviter les dépôts de charbons actifs (pas du tout nocif ou toxique pour l'homme) dans le fond, des la première véritable filtration un bonheur! Nous qui possédons une eau très très calcaire, mais surtout très même trop enrichie en chlore ou javel, la cartouche nous a retiré et le goût et l'odeur de chlore/javel. Pour le calcaire difficile de dire si oui ou non l'eau est devenu moins dur sans test de dureté donc ne peux pour l'instant se prononcer sur ce sujet. Mais en tout cas ravi de cet achatLeggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Comme à mon habitude lorsque je commande sur Amazon, les livreurs cherche a connaître les produits pour les prendre à votre place (tout un côté du colis ouvert). Déçu, il nous l'a donc remis. Après plusieurs rinçage de la cartouche comme indiqué pour éviter les dépôts de charbons actifs (pas du tout nocif ou toxique pour l'homme) dans le fond, des la première véritable filtration un bonheur! Nous qui possédons une eau très très calcaire, mais surtout très même trop enrichie en chlore ou javel, la cartouche nous a retiré et le goût et l'odeur de chlore/javel. Pour le calcaire difficile de dire si oui ou non l'eau est devenu moins dur sans test de dureté donc ne peux pour l'instant se prononcer sur ce sujet. Mais en tout cas ravi de cet achat</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Francia il 8 ottobre 2023",
+          "utc": "2023-10-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marco"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
+        "id": "RLIU3JB41Q2M",
+        "title": "Tut was er soll…",
+        "body": "Der Wasserfilter tut was er soll. Verarbeitung ist in Ordnung, Fassungsvermögen für uns absolut in Ordnung.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Der Wasserfilter tut was er soll. Verarbeitung ist in Ordnung, Fassungsvermögen für uns absolut in Ordnung.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Germania il 5 novembre 2023",
+          "utc": "2023-11-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "LucyProof",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/ffff4121-7227-4be3-894b-10682916f6a9._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true
+      },
+      {
+        "id": "R1DOA0A84SB870",
+        "title": "Nice tasty water",
+        "body": "I detest tap water and the water in our hard water area is revolting and smelly. Why I have to pay £800 a year for it is mind blowing!  But the good news is that this little (Britta) clone is perfect. The filters produce really nice tasting water that I can drink on its own. It has a usage indicator on the lid so you can keep track of when to change the filter. I only buy bottled water these days (such a shame they all come in plastic bottles) so using this is helping me cut down on the plastic I am using. A really good buy.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I detest tap water and the water in our hard water area is revolting and smelly. Why I have to pay £800 a year for it is mind blowing!<br><br>But the good news is that this little (Britta) clone is perfect. The filters produce really nice tasting water that I can drink on its own.<br>It has a usage indicator on the lid so you can keep track of when to change the filter.<br>I only buy bottled water these days (such a shame they all come in plastic bottles) so using this is helping me cut down on the plastic I am using.<br>A really good buy.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 25 ottobre 2023",
+          "utc": "2023-10-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ray Hatcher",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/71c52acc-13e3-4081-8821-fb90e9a71c3f._CR83,0,333,333_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "RW4R85H8GYKE2",
+        "title": "Great water filter",
+        "body": "Goes in the dishwasher so long as you remove the electronic counter bit. You can still put it back after or keep it somewhere else so long as you remember to check it! Amazed at how good it is for reducing limescale and stopping my pet water bowls from being covered in it too! Got it with all the news about the amount of micro plastics in water (and everything else!). Hopefully it will help reduce these as well as the limescale!Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Goes in the dishwasher so long as you remove the electronic counter bit. You can still put it back after or keep it somewhere else so long as you remember to check it! Amazed at how good it is for reducing limescale and stopping my pet water bowls from being covered in it too!<br>Got it with all the news about the amount of micro plastics in water (and everything else!). Hopefully it will help reduce these as well as the limescale!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 1 novembre 2023",
+          "utc": "2023-11-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Helen Clark"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 10,
+        "hard_maximum": true
+      },
+      "mixed_offers_count": 16,
+      "mixed_offers_from": {
+        "raw": "Spedizione GRATUITA sul tuo primo ordine idoneo."
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "domenica, 12 novembre",
+          "name": "GRATUITA"
+        },
+        "fastest_delivery": {
+          "date": "domani, 10 novembre",
+          "name": "oppure consegna pi rapida domani, 10 novembre. Ordina entro 5 ore 28 min. Maggiori informazioni"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 23.45,
+        "raw": "€23,45"
+      },
+      "rrp": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 24.21,
+        "raw": "€24,21"
+      },
+      "shipping": {
+        "raw": "GRATUITA"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Marchio",
+        "value": "Amazon Basics"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Nome modello",
+        "value": "1030401"
+      },
+      {
+        "name": "Temperatura nominale superiore",
+        "value": "50 Gradi Celsius"
+      }
+    ],
+    "specifications_flat": "Temperatura nominale superiore: 50 Gradi Celsius. Nome modello: 1030401. Sorgente di alimentazione: Non elettrico. Marchio: Amazon Basics."
+  },
+  "brand_store": {
+    "id": "178882AF-AABF-439E-8C0B-8D9EEC2776F1",
+    "link": "https://www.amazon.it/stores/AmazonBasics/page/178882AF-AABF-439E-8C0B-8D9EEC2776F1"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 43.44,
+      "raw": "43,44 €"
+    },
+    "products": [
+      {
+        "asin": "B01GFJWA52",
+        "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+        "link": "https://www.amazon.it/dp/B01GFJWA52?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61SV9cbfCiL._AC_UL116_SR116,116_.jpg"
+      },
+      {
+        "asin": "B07Q1X5TG1",
+        "title": "GOLDEN ICEPURE Filtro Acqua Ricambio per Brita Maxtra +, Brita Maxtra, Anna Duomax Confezione da 6 (Non per Brita Marella Fattura Disponibile) (6)",
+        "link": "https://www.amazon.it/dp/B07Q1X5TG1?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61TNrR6GT+L._AC_UL116_SR116,116_.jpg"
+      }
+    ]
+  }
+}

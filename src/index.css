@@ -1,13 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient( 135deg, #97ABFF 10%, #123597 100%);
+  background-attachment: fixed;
+  line-height: 2;
+}
+label {margin-right:1rem}
+input:not(:read-only), select {color:#333}
+input:read-only {border:none;background:rgba(255,255,255,0)}
+
+.product-grid {
+  width:100%;
+display: grid;
+grid-template-columns: max(25%,150px) auto;
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.product-grid .intro { grid-area: 1 / 1 / 2 / 2; }
+.product-grid .items {grid-area: 1 / 2 / 2 / 3;}
+.product-grid .items .items-container {position:absolute;inset:0}
+.product-grid .items .scroll-container {grid-area: 1 / 2 / 2 / 3;position:relative;width:100%;overflow-x:scroll;overflow-y:visible}
+
+.product-grid .product-col {float:left;position:relative;width:min(40vw,340px)}
+.product-grid .product-col:not(:last-child) {margin-right:20px}
+.product-grid .product-col.selected {background-color: rgba(255,255,255,0.25);}
+.product-grid .product-col .close {
+  position:absolute;top:-10px;right:2px;cursor:pointer;z-index:10;display:block;
 }
+
+.product-grid .product-col .caratteristiche small { display:block;font-size:10px;line-height:1}
+.product-grid .product-col .caratteristiche table {width:80%}
+
+.product-grid .img-container {
+    background: white;
+    aspect-ratio: 3/4;
+    object-fit: contain;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.water-drop, .coin  {display:inline;height:2rem}
+
+.rating * {display:inline}
+.rating span {font-size:12px}
+.coin {margin-inline:2px}
+
+.card {user-select: none;}

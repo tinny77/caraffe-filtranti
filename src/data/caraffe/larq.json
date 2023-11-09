@@ -1,0 +1,576 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 68,
+    "credits_remaining": 32,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B00CWY0CY6",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-09T09:35:02.557Z",
+    "processed_at": "2023-11-09T09:35:08.393Z",
+    "total_time_taken": 5.84,
+    "amazon_url": "https://www.amazon.it/dp/B00CWY0CY6?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "LARQ Carraffa filtro acqua Monaco Blue (Filtro avanzato) 1.9 Litri/ 8-Coppa",
+    "search_alias": {
+      "title": "Industria e Scienza",
+      "value": "industrial"
+    },
+    "keywords": "LARQ,Carraffa,filtro,acqua,Monaco,Blue,(Filtro,avanzato),1.9,Litri/,8-Coppa",
+    "keywords_list": [
+      "LARQ",
+      "Carraffa",
+      "filtro",
+      "acqua",
+      "Monaco",
+      "Blue",
+      "(Filtro",
+      "avanzato)",
+      "Litri/",
+      "8-Coppa"
+    ],
+    "asin": "B00CWY0CY6",
+    "parent_asin": "B0B1Z6XLJD",
+    "link": "https://www.amazon.it/dp/B00CWY0CY6?%3Fth=1&psc=1&tag=8vcue204-21",
+    "brand": "LARQ",
+    "variants": [
+      {
+        "asin": "B00CWY0CY6",
+        "title": "Monaco Blue",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B00CWY0CY6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Monaco Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61fF+sC50DL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71+dKYy6E+L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81WKbbO9QnL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71+nD6MsT0L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 168,
+          "raw": "€168,00"
+        }
+      },
+      {
+        "asin": "B00CWY0OBC",
+        "title": "Pure White",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B00CWY0OBC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Pure White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51lq184iTLL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51lq184iTLL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51++AjDLy1L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71stTOmWvxL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/713m63UxWEL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71VQzXonYBL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 168,
+          "raw": "€168,00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B00CWY0CY6,B00CWY0OBC",
+    "energy_efficiency": {},
+    "categories": [
+      {
+        "name": "Industria e Scienza"
+      },
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "sub_title": {
+      "text": "Visita lo Store di LARQ",
+      "link": "https://www.amazon.it/stores/LARQ/page/AA2979AF-BAFB-4B68-9939-EA6419FB6629?ref_=ast_bln&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 66,
+        "count": 118
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 25
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 7
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 5
+      },
+      "one_star": {
+        "percentage": 13,
+        "count": 23
+      }
+    },
+    "ratings_total": 180,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71SRH54SR+L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61fF+sC50DL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71+dKYy6E+L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81WKbbO9QnL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71+nD6MsT0L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61fF+sC50DL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71+dKYy6E+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81WKbbO9QnL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71+nD6MsT0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "MIGLIORA IL GUSTO DELL’ACQUA - I filtri al carbone innovativi e di origine vegetale rimuovono efficacemente le sostanze chimiche come cloro e particolati. L’acqua dal gusto puro permette di ottenere caffè, tè, frullati dal sapore migliorato; tutto questo, all’insegna di uno stile di vita più sano e sostenibile.",
+      "FILTRAZIONE BEST IN CLASS - Testata in modo indipendente in relazione agli standard NSF/ANSI 42, 53 & 401, si è dimostrata efficace contro contaminanti come piombo, mercurio, PFAS / PFOS, HAA5, sostanze farmaceutiche e VOC e nel prevenire la proliferazione di bio-contaminanti.",
+      "TECNOLOGIA PUREVIS - Migliora la qualità dell’acqua impedendo la proliferazione di bio-contaminanti. Una carica dura fino a 2 mesi d’utilizzo.",
+      "FILTRI DI LUNGA DURATA - capacità del filtro pari a 60 galloni, con durata fino al 50% superiore rispetto ai filtri tradizionali. 1 Filtro LARQ sostituisce più di 450 bottiglie monouso standard. La soluzione migliore per il pianeta e per il portafoglio.",
+      "TRACCIAMENTO INTELLIGENTE DEL FILTRO - I sensori smart monitorano il volume di acqua sottoposta a filtrazione. Non dovrete più calcolare le tempistiche di sostituzione del filtro. Usando l’app LARQ (solo per iOS), è possibile controllare la caraffa Pitcher comodamente dal telefono."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "TRACCIAMENTO INTELLIGENTE DEL FILTRO - I sensori smart monitorano il volume di acqua sottoposta a filtrazione. Non dovrete più calcolare le tempistiche di sostituzione del filtro. Usando l’app LARQ (solo per iOS), è possibile controllare la caraffa Pitcher comodamente dal telefono. FILTRI DI LUNGA DURATA - capacità del filtro pari a 60 galloni, con durata fino al 50% superiore rispetto ai filtri tradizionali. 1 Filtro LARQ sostituisce più di 450 bottiglie monouso standard. La soluzione migliore per il pianeta e per il portafoglio. TECNOLOGIA PUREVIS - Migliora la qualità dell’acqua impedendo la proliferazione di bio-contaminanti. Una carica dura fino a 2 mesi d’utilizzo. FILTRAZIONE BEST IN CLASS - Testata in modo indipendente in relazione agli standard NSF/ANSI 42, 53 & 401, si è dimostrata efficace contro contaminanti come piombo, mercurio, PFAS / PFOS, HAA5, sostanze farmaceutiche e VOC e nel prevenire la proliferazione di bio-contaminanti. MIGLIORA IL GUSTO DELL’ACQUA - I filtri al carbone innovativi e di origine vegetale rimuovono efficacemente le sostanze chimiche come cloro e particolati. L’acqua dal gusto puro permette di ottenere caffè, tè, frullati dal sapore migliorato; tutto questo, all’insegna di uno stile di vita più sano e sostenibile.",
+    "attributes": [
+      {
+        "name": "Marchio",
+        "value": "LARQ"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Bottiglie"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1020 Grammi"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R38XAKKY7P38VA",
+        "title": "Super prodotto",
+        "body": "Non ho mai avuto propensione al bere l'acqua di rubinetto, soprattutto per i precedenti casi di contaminazione da PFAS in Veneto, dove vivo. Ho sempre comprato le mia casse di acqua naturale al supermercato e stop. Da tempo seguivo Larq, marchio conosciuto ai tempi dei crowdfunding col quale sono partiti, ma non sapevo che oltre alle borracce producessero anche caraffe. Fatti due calcoli, con 2 litri di acqua al giorno al costo medio di 35 centesimi al litro, spendo circa €250 all'anno. Con la stessa cifra si compra la caraffa e si comprano i filtri, quelli più cari ed efficaci tra le due tipologie, per un anno. Dal secondo anno in poi, quindi, c'è solo la spesa dei filtri che è di circa €100 annuali, con un risparmio quindi di €150 all'anno nel mio caso. Rispetto alle classiche caraffe filtrate di marchi più conosciuti in Italia, la Larq ha sia un filtro che rimuove Cloro, BPA (Bisfenolo), Mercurio, Cadmio, Rame, piombo, HAA5 e TTHM (residui del cloro), Particolati, Benzene, PFAS/PFOA, redidui farmaceutici e pesticidi, e addirittura microplastiche, sia una tecnologia esclusiva, denominata PureVis, che elimina il 99.9% di biocontaminanti come l'E. coli e tramite raggi UVB purifica l'acqua ad intervalli regolari, automaticamente. Nessun'altra caraffa filtra lo stesso numero di sostanze, difficile trovare caraffe che filtrino PFAS, TTHM, Bisfenolo ecc. tutti assieme, alcune addirittura si limitano a filtare solo calcare (che si può bere tranquillamente) e cloro. La caraffa ha una batteria ricaricabile e si configura con un'app (valutata 4.6 su appstore) per smartphone che ti avvisa quanto il filtro è da sostituire. Unico “neo” è che al momento i filtri vanno comprati sul sito ufficiale di Larq. Sono disponibili con una sottoscrizione che invia un pacco da 3 ogni 6 mesi (i filtri durano massimo 227 litri o 3 mesi l’uno) in automatico, senza spese di spedizione, e può essere annullata o posticipata con un click in qualsiasi momento. Ho preferito prendere qui la caraffa perché il sistema di resi e garanzia di Amazon mi permettono di non sostenere costi in caso fosse necessario rispedire il prodotto…Leggi di più",
+        "asin": "B00CWY0CY6",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Non ho mai avuto propensione al bere l'acqua di rubinetto, soprattutto per i precedenti casi di contaminazione da PFAS in Veneto, dove vivo. Ho sempre comprato le mia casse di acqua naturale al supermercato e stop. Da tempo seguivo Larq, marchio conosciuto ai tempi dei crowdfunding col quale sono partiti, ma non sapevo che oltre alle borracce producessero anche caraffe.<br>Fatti due calcoli, con 2 litri di acqua al giorno al costo medio di 35 centesimi al litro, spendo circa €250 all'anno. Con la stessa cifra si compra la caraffa e si comprano i filtri, quelli più cari ed efficaci tra le due tipologie, per un anno. Dal secondo anno in poi, quindi, c'è solo la spesa dei filtri che è di circa €100 annuali, con un risparmio quindi di €150 all'anno nel mio caso.<br>Rispetto alle classiche caraffe filtrate di marchi più conosciuti in Italia, la Larq ha sia un filtro che rimuove Cloro, BPA (Bisfenolo), Mercurio, Cadmio, Rame, piombo, HAA5 e TTHM (residui del cloro), Particolati, Benzene, PFAS/PFOA, redidui farmaceutici e pesticidi, e addirittura microplastiche, sia una tecnologia esclusiva, denominata PureVis, che elimina il 99.9% di biocontaminanti come l'E. coli e tramite raggi UVB purifica l'acqua ad intervalli regolari, automaticamente.<br>Nessun'altra caraffa filtra lo stesso numero di sostanze, difficile trovare caraffe che filtrino PFAS, TTHM, Bisfenolo ecc. tutti assieme, alcune addirittura si limitano a filtare solo calcare (che si può bere tranquillamente) e cloro.<br>La caraffa ha una batteria ricaricabile e si configura con un'app (valutata 4.6 su appstore) per smartphone che ti avvisa quanto il filtro è da sostituire. Unico “neo” è che al momento i filtri vanno comprati sul sito ufficiale di Larq. Sono disponibili con una sottoscrizione che invia un pacco da 3 ogni 6 mesi (i filtri durano massimo 227 litri o 3 mesi l’uno) in automatico, senza spese di spedizione, e può essere annullata o posticipata con un click in qualsiasi momento. Ho preferito prendere qui la caraffa perché il sistema di resi e garanzia di Amazon mi permettono di non sostenere costi in caso fosse necessario rispedire il prodotto…</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R38XAKKY7P38VA?ASIN=B00CWY0CY6",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 6 novembre 2023",
+          "utc": "2023-11-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazoner",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFW4CIUWNQKG4QIPBPKUFCP7XNJQ",
+          "id": "AFW4CIUWNQKG4QIPBPKUFCP7XNJQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5ffab068-4186-4f3c-a849-c390d89be65e._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RXOX86HB6HDC9",
+        "title": "Eccezionale",
+        "body": "Finalmente possiamo bere l’acqua del rubinetto senza pensieri! Elimina una miriade di elementi che davvero non vuoi bere e dà all’acqua un sapore ottimo. Acquistata attraverso il sito, ne comprerò presto un’altra su amazon per una seconda abitazioneLeggi di più",
+        "asin": "B00CWY0CY6",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Finalmente possiamo bere l’acqua del rubinetto senza pensieri! Elimina una miriade di elementi che davvero non vuoi bere e dà all’acqua un sapore ottimo. Acquistata attraverso il sito, ne comprerò presto un’altra su amazon per una seconda abitazione</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RXOX86HB6HDC9?ASIN=B00CWY0CY6",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 1 settembre 2022",
+          "utc": "2022-09-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Julie",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHNBTGFD5WDKHY4TAVCVTXJD6L6Q",
+          "id": "AHNBTGFD5WDKHY4TAVCVTXJD6L6Q",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e1829891-9082-4d58-8bae-e92fb10f0d9b._CR0,0.0,333,333_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2HXCTFILZAA2Z",
+        "title": "IMPORTANT THINGS TO KNOW",
+        "body": "1.) For a pack of three filters you have to order through LARQ and it will cost you around $76 with tax for 3 filters. And each filter is supposed to last 2 months according to their website so that’s $304 a year on filters IF you really do use a filter every two months (I was at ~3 months time before the app told me that it was time to change the filter) 2.) If you’re looking to use the app a lot you should know that the second you put the pitcher into the fridge it will no longer connect with the app until you take it back out again. So if you put it in the fridge while filtering water it won’t register that it is filtering water which could affect when it determines that you need a new filter compared to when you actually do need a new one. And even outside the fridge the app can be a little laggy when determining if you filtered any water or not. 3.) Check out their direct site because sometimes they have sales when amazon doesn’t. 4.) The battery (at least in my experience) does only last 2 months so you will have to take it out and recharge it ~6 times a year.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">1.) For a pack of three filters you have to order through LARQ and it will cost you around $76 with tax for 3 filters. And each filter is supposed to last 2 months according to their website so that’s $304 a year on filters IF you really do use a filter every two months (I was at ~3 months time before the app told me that it was time to change the filter)<br>2.) If you’re looking to use the app a lot you should know that the second you put the pitcher into the fridge it will no longer connect with the app until you take it back out again. So if you put it in the fridge while filtering water it won’t register that it is filtering water which could affect when it determines that you need a new filter compared to when you actually do need a new one. And even outside the fridge the app can be a little laggy when determining if you filtered any water or not.<br>3.) Check out their direct site because sometimes they have sales when amazon doesn’t.<br>4.) The battery (at least in my experience) does only last 2 months so you will have to take it out and recharge it ~6 times a year.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 25 ottobre 2023",
+          "utc": "2023-10-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 25,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "RLCMYCK5GEBR6",
+        "title": "Best tasting water!",
+        "body": "I recently purchased my LARQ pitcher and this is easily one of the best purchases I have ever made on Amazon! This product is aesthetically pleasing and the water tastes amazing! I wasn’t a huge water drinker in the past, but I am now!  With my brita, I constantly had to clean it to remove the build up and green stuff it would leave behind. But not anymore with the LARQ!  I am definitely going to recommend this to friends and family! A bit pricier, but definitely worth it in my books!Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I recently purchased my LARQ pitcher and this is easily one of the best purchases I have ever made on Amazon! This product is aesthetically pleasing and the water tastes amazing! I wasn’t a huge water drinker in the past, but I am now!<br><br>With my brita, I constantly had to clean it to remove the build up and green stuff it would leave behind. But not anymore with the LARQ!<br><br>I am definitely going to recommend this to friends and family! A bit pricier, but definitely worth it in my books!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 7 novembre 2023",
+          "utc": "2023-11-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R11OH4T007B5ZX",
+        "title": "Very impressive pitcher, tastes better than my other branded one",
+        "body": "I got the Larq a few weeks ago and it's definitely the ferrari of water pitchers: super cool design, slick app, and great tasting water. I'm also really pleased that the filter uses a lot less plastic than other brands. The app was easy to set up and it's a great feature that reminds me when to change out the filter. I was originally worried about needing another thing to charge but the battery lasts a good while and it's not a bother at all. It's also good looking enough where I can leave it out when I have guests around and it blends in with my apartment style. A+Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I got the Larq a few weeks ago and it's definitely the ferrari of water pitchers: super cool design, slick app, and great tasting water. I'm also really pleased that the filter uses a lot less plastic than other brands. The app was easy to set up and it's a great feature that reminds me when to change out the filter. I was originally worried about needing another thing to charge but the battery lasts a good while and it's not a bother at all. It's also good looking enough where I can leave it out when I have guests around and it blends in with my apartment style. A+</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 30 ottobre 2023",
+          "utc": "2023-10-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Gian S."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R2RN1VYZ3LCHY7",
+        "title": "The long-term savings make it a smart choice",
+        "body": "I recently purchased the LARQ Pitcher, and I am delighted with my purchase. The app integration of this pitcher is truly fantastic, providing detailed insights into my water consumption and filter replacement needs.  The app allows me to track my water usage and provides helpful reminders when it's time to replace the filter. This level of monitoring ensures that I always have clean and filtered water available. It's convenient and helps me stay on top of my hydration goals.  Cleaning the LARQ Pitcher is a breeze, and the water it produces tastes absolutely amazing. The advanced filter effectively removes impurities, leaving behind refreshing and crisp water that's a joy to drink. I no longer feel the need to buy bottled water, which has saved me a significant amount of money.  Though the price of the pitcher is higher compared to regular water jugs, the long-term savings and the convenience of having filtered water at home are worth it. I've even subscribed to receive replacement filters every two months, ensuring I always have access to the best filtration.  Initially, I had concerns about the all-plastic feel, but the LARQ Pitcher is well-made and feels sturdy. The construction gives me confidence that it will last for a long time, making it a worthwhile investment.  In conclusion, I highly recommend the LARQ Pitcher to anyone looking for a high-quality water jug. The app integration is excellent, providing valuable information and reminders. The pitcher is easy to clean, the water tastes fantastic, and the long-term savings make it a smart choice. Don't let the initial price deter you; it's a well-constructed product that delivers on its promises.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I recently purchased the LARQ Pitcher, and I am delighted with my purchase. The app integration of this pitcher is truly fantastic, providing detailed insights into my water consumption and filter replacement needs.<br><br>The app allows me to track my water usage and provides helpful reminders when it's time to replace the filter. This level of monitoring ensures that I always have clean and filtered water available. It's convenient and helps me stay on top of my hydration goals.<br><br>Cleaning the LARQ Pitcher is a breeze, and the water it produces tastes absolutely amazing. The advanced filter effectively removes impurities, leaving behind refreshing and crisp water that's a joy to drink. I no longer feel the need to buy bottled water, which has saved me a significant amount of money.<br><br>Though the price of the pitcher is higher compared to regular water jugs, the long-term savings and the convenience of having filtered water at home are worth it. I've even subscribed to receive replacement filters every two months, ensuring I always have access to the best filtration.<br><br>Initially, I had concerns about the all-plastic feel, but the LARQ Pitcher is well-made and feels sturdy. The construction gives me confidence that it will last for a long time, making it a worthwhile investment.<br><br>In conclusion, I highly recommend the LARQ Pitcher to anyone looking for a high-quality water jug. The app integration is excellent, providing valuable information and reminders. The pitcher is easy to clean, the water tastes fantastic, and the long-term savings make it a smart choice. Don't let the initial price deter you; it's a well-constructed product that delivers on its promises.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 8 luglio 2023",
+          "utc": "2023-07-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "G3e",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e0a7fc44-48c5-4816-8b9a-7be10fa80b50._CR0,0,493,493_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "RCLZLQU58ARQ5",
+        "title": "Great functionality with poor business choices",
+        "body": "My LARQ works great and I enjoy using it but there are a few reasons I'll be replacing it.  First, as of this writing you can't buy the filters on Amazon, you have to setup a new account on their own site to buy from them directly. Second the charging cable is non-standard so if you lose or misplace it you'll be stuck going thru them as well, it should be a standard USB-C cable.  If they fixed both of those issues I'd recommend, but not until they're fixed.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">My LARQ works great and I enjoy using it but there are a few reasons I'll be replacing it.<br><br>First, as of this writing you can't buy the filters on Amazon, you have to setup a new account on their own site to buy from them directly. Second the charging cable is non-standard so if you lose or misplace it you'll be stuck going thru them as well, it should be a standard USB-C cable.<br><br>If they fixed both of those issues I'd recommend, but not until they're fixed.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 4 settembre 2023",
+          "utc": "2023-09-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sliver"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "review_country": "it",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "Spedizione GRATUITA."
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "domenica, 12 novembre",
+          "name": "GRATUITA"
+        },
+        "fastest_delivery": {
+          "date": "sabato, 11 novembre",
+          "name": "oppure consegna pi rapida sabato, 11 novembre. Ordina entro 13 ore 24 min. Maggiori informazioni"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "LARQ, Inc.",
+          "link": "https://www.amazon.it/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A18ZHTM0ANAG7O&asin=B00CWY0CY6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A18ZHTM0ANAG7O"
+        }
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 168,
+        "raw": "€168,00"
+      },
+      "shipping": {
+        "raw": "GRATUITA"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "seller_name": "LARQ, Inc.",
+        "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A18ZHTM0ANAG7O&isAmazonFulfilled=0&asin=B00CWY0CY6&ref_=dp_mbc_seller",
+        "free_shipping": true,
+        "position": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Marchio",
+        "value": "LARQ"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Bottiglie"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1020 Grammi"
+      }
+    ],
+    "specifications_flat": "Peso articolo: 1020 Grammi. Informazioni pacco: Bottiglie. Marchio: LARQ.",
+    "weight": "1020 Grammi"
+  },
+  "brand_store": {
+    "id": "AA2979AF-BAFB-4B68-9939-EA6419FB6629",
+    "link": "https://www.amazon.it/stores/LARQ/page/AA2979AF-BAFB-4B68-9939-EA6419FB6629"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 237.95,
+      "raw": "237,95 €"
+    },
+    "products": [
+      {
+        "asin": "B00CWY0CY6",
+        "title": "LARQ Carraffa filtro acqua Monaco Blue (Filtro avanzato) 1.9 Litri/ 8-Coppa",
+        "link": "https://www.amazon.it/dp/B00CWY0CY6?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71SRH54SR+L._AC_UL116_SR116,116_.jpg"
+      },
+      {
+        "asin": "B09R8327HG",
+        "title": "LARQ Bottle Filtered - Acciaio inossidabile isolato Bottiglia per l’acqua Senza BPA con tecnologia Nano Zero e filtri a lunga durata, 740ml, Granite White",
+        "link": "https://www.amazon.it/dp/B09R8327HG?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51+MgNq0TqL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 69.95,
+          "raw": "69,95€"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0BT1F3BV2",
+    "link": "https://www.amazon.it/dp/B0BT1F3BV2/ref=vp_d_cpf-substitute-widget-dynamic-title_pd?_encoding=UTF8&pf_rd_p=75d951f6-faca-4cef-92cc-e3f0adb2e650&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=WO803&pd_rd_i=B0BT1F3BV2&pd_rd_w=hSTs1&content-id=amzn1.sym.75d951f6-faca-4cef-92cc-e3f0adb2e650&pd_rd_r=f28699bf-5c41-4970-a84b-2504d78c2e47&psc=1",
+    "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribaltabile per riempimento facile, in confezione Smart Box sostenibile",
+    "rating": 4.5,
+    "ratings_total": 443,
+    "image": "https://m.media-amazon.com/images/I/71YQ3OaynxL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Marchio Amazon - Belei, Siero idratante anti-age, per pelle ultra sensibile, 30 ml",
+      "asin": "B07V485KXN",
+      "link": "https://www.amazon.it/Marchio-Amazon-idratante-anti-age-sensibile/dp/B07V485KXN/ref=pb_allspark_purchase_sims_desktop_sccl_2_1/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B07V485KXN&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51r855k9ObL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.1,
+      "ratings_total": 851,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 18.85,
+        "raw": "€18,85"
+      }
+    },
+    {
+      "title": "Eve Motion – Sensore di movimento intelligente con sensore di luminosità, IPX3, notifiche, attivazione automatica di luci e d",
+      "asin": "B0B5XRXBTF",
+      "link": "https://www.amazon.it/EVE-intelligente-luminosit%C3%A0-attivazione-dispositivi/dp/B0B5XRXBTF/ref=pb_allspark_purchase_sims_desktop_sccl_2_2/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B0B5XRXBTF&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71SS0BLcK5L._AC_UL160_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 531,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 49.89,
+        "raw": "€49,89"
+      }
+    },
+    {
+      "title": "Marchio Amazon - Belei, Siero idratante anti-age, per pelle ultra sensibile, 30 ml",
+      "asin": "B07V485KXN",
+      "link": "https://www.amazon.it/Marchio-Amazon-idratante-anti-age-sensibile/dp/B07V485KXN/ref=pb_allspark_purchase_sims_desktop_sccl_2_3/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B08F84W8VM&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51r855k9ObL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.1,
+      "ratings_total": 851,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 18.85,
+        "raw": "€18,85"
+      }
+    }
+  ]
+}

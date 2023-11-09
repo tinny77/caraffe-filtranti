@@ -1,0 +1,787 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 75,
+    "credits_remaining": 25,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B09YMH8K33",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-09T09:36:32.658Z",
+    "processed_at": "2023-11-09T09:36:49.386Z",
+    "total_time_taken": 16.73,
+    "amazon_url": "https://www.amazon.it/dp/B09YMH8K33?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "Aarke Purifier, Caraffa Filtrante Brevettata in Vetro e Acciaio Inox, 2.4L, Sacchetto di ricarica del filtro per Aarke Pure",
+    "search_alias": {
+      "title": "Casa e cucina",
+      "value": "kitchen"
+    },
+    "keywords": "Aarke,Purifier,,Caraffa,Filtrante,Brevettata,in,Vetro,e,Acciaio,Inox,,2.4L,,Sacchetto,di,ricarica,del,filtro,per,Aarke,Pure",
+    "keywords_list": [
+      "Aarke",
+      "Purifier",
+      "Caraffa",
+      "Filtrante",
+      "Brevettata",
+      "Vetro",
+      "Acciaio",
+      "Inox",
+      "2.4L",
+      "Sacchetto",
+      "ricarica",
+      "filtro",
+      "Aarke",
+      "Pure"
+    ],
+    "asin": "B09YMH8K33",
+    "link": "https://www.amazon.it/aarke-Purifier-Filtrante-Brevettata-Sacchetto/dp/B09YMH8K33?tag=8vcue204-21",
+    "brand": "aarke",
+    "sell_on_amazon": true,
+    "energy_efficiency": {},
+    "categories": [
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visita lo Store di aarke",
+      "link": "https://www.amazon.it/stores/AARKE/page/6388FF11-D8A8-4561-A346-A5A5103E96C1?ref_=ast_bln&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 73,
+        "count": 191
+      },
+      "four_star": {
+        "percentage": 11,
+        "count": 28
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 10
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 10
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 20
+      }
+    },
+    "ratings_total": 262,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61AIVkrkapL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51kEOxS+5nL._AC_SL1260_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81vH3cW6GkL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51Sk25mV6KL._AC_SL1260_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/4190be4IvWL._AC_SL1260_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31M40YzNooL._AC_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51kEOxS+5nL._AC_SL1260_.jpg,https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81vH3cW6GkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51Sk25mV6KL._AC_SL1260_.jpg,https://m.media-amazon.com/images/I/4190be4IvWL._AC_SL1260_.jpg,https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg,https://m.media-amazon.com/images/I/31M40YzNooL._AC_.jpg,https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 17,
+        "width": 480,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/497401fe-89ad-4ffa-820e-0869855dd156/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71SS1-wYMVL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Purifier 3D animation"
+      },
+      {
+        "duration_seconds": 68,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/df384653-a30f-4b8e-955d-955516858ce2/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ugA87y-kL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "How to use Aarke Purifier"
+      }
+    ],
+    "videos_count": 2,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/497401fe-89ad-4ffa-820e-0869855dd156/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/df384653-a30f-4b8e-955d-955516858ce2/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Aarke Purifier è una caraffa filtrante brevettata in vetro e acciaio inox (senza brocca di plastica, zero filtri di plastica) Basta solo versare i granuli del filtro Aarke nell'unica cartuccia in acciaio riempibile.",
+      "ReFilter System ricaricabile in acciaio inox (senza brocca di plastica, zero filtri di plastica)",
+      "100% lavabile in lavastoviglie",
+      "I granuli filtranti Pure inclusi riducono il cloro, i metalli pesanti e il calcare, offrendoti un'acqua più pulita e dal sapore migliore",
+      "In collaborazione con BWT, una delle aziende leader al mondo nel settore della tecnologia dell’acqua"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "In collaborazione con BWT, una delle aziende leader al mondo nel settore della tecnologia dell’acqua. I granuli filtranti Pure inclusi riducono il cloro, i metalli pesanti e il calcare, offrendoti un'acqua più pulita e dal sapore migliore. 100% lavabile in lavastoviglie. ReFilter System ricaricabile in acciaio inox (senza brocca di plastica, zero filtri di plastica). Aarke Purifier è una caraffa filtrante brevettata in vetro e acciaio inox (senza brocca di plastica, zero filtri di plastica) Basta solo versare i granuli del filtro Aarke nell'unica cartuccia in acciaio riempibile.",
+    "attributes": [
+      {
+        "name": "Marchio",
+        "value": "Aarke"
+      },
+      {
+        "name": "Caratteristica speciale",
+        "value": "Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio Mostra altro"
+      },
+      {
+        "name": "Dimensioni del prodotto",
+        "value": "17,2L x 12,1l x 27,5H cm"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Sacchetto"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1140 Grammi"
+      },
+      {
+        "name": "Nome modello",
+        "value": "Water Filter Pitcher"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2Z7R2BY78IKAA",
+        "title": "Il contenitore di vetro",
+        "body": "Ottima palatabilitadell’acqua filtrata,il vetro per me garanzia e sicurezza rispetto alle caraffe in plastica,facile da pulire,bel design.Leggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ottima palatabilitadell’acqua filtrata,il vetro per me garanzia e sicurezza rispetto alle caraffe in plastica,facile da pulire,bel design.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2Z7R2BY78IKAA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 22 febbraio 2023",
+          "utc": "2023-02-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pietra Paola",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFY4QL7VYBDEI5SMFHMVIPOXNAHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFY4QL7VYBDEI5SMFHMVIPOXNAHA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1YQ6J6X5JG1E9",
+        "title": "Caraffa",
+        "body": "Utilissima, robusta è bella davvero!!!Leggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Utilissima, robusta è bella davvero!!!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1YQ6J6X5JG1E9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 23 agosto 2023",
+          "utc": "2023-08-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "FRANCESCA",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHJLQSMKBQKFY32OVYY3IBOSAOAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHJLQSMKBQKFY32OVYY3IBOSAOAA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RF92U561JOYV1",
+        "title": "Funzionale",
+        "body": "Volevo una caraffa in vetro e acciaio per evitare i problemi creati dalla plastica. L'acqua è buona (io la uso per tisane quindi non so valutare bene il sapore). Facile da usare. Bella e pratica. Il costo non è subito economico ma da quello che ho capito è una delle poche che filtra anche il calcare, quindi in conclusione sono soddisfattaLeggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Volevo una caraffa in vetro e acciaio per evitare i problemi creati dalla plastica. L'acqua è buona (io la uso per tisane quindi non so valutare bene il sapore). Facile da usare. Bella e pratica. Il costo non è subito economico ma da quello che ho capito è una delle poche che filtra anche il calcare, quindi in conclusione sono soddisfatta</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RF92U561JOYV1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 21 giugno 2023",
+          "utc": "2023-06-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "simona",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFCWPRKPIKYTLFBWK3XFJPR26S7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFCWPRKPIKYTLFBWK3XFJPR26S7A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RJLPWOXNBBJ6U",
+        "title": "Bellissima ma arrivata con difetto",
+        "body": "Caraffa molto bella peccato che è arrivata con piccolo difetto sul vetro. Non è una cosa gravissima ma per quel prezzo i prodotti andrebbero controllati meglio prima dì spedirli! Ho fatto il reso e l’ho riordinata, speriamo vada meglio la prossima volta!Leggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Caraffa molto bella peccato che è arrivata con piccolo difetto sul vetro. Non è una cosa gravissima ma per quel prezzo i prodotti andrebbero controllati meglio prima dì spedirli! Ho fatto il reso e l’ho riordinata, speriamo vada meglio la prossima volta!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RJLPWOXNBBJ6U/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 3,
+        "date": {
+          "raw": "Recensito in Italia il 25 marzo 2023",
+          "utc": "2023-03-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rita",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFR5LIYUGAQBHO37WQH3AB65SDOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFR5LIYUGAQBHO37WQH3AB65SDOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R375AZU4B11KTV",
+        "title": "mi sarei aspettato molto di più",
+        "body": "caraffa in vetro con evidenti problemi di costruzione, dopo la seconda volta che la riponevo nel frigo c'era già un crepa sul vetro, da una caraffa che costa più di €.100 mi sarei aspettato molto di piùLeggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>caraffa in vetro con evidenti problemi di costruzione, dopo la seconda volta che la riponevo nel frigo c'era già un crepa sul vetro, da una caraffa che costa più di €.100 mi sarei aspettato molto di più</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R375AZU4B11KTV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 1,
+        "date": {
+          "raw": "Recensito in Italia il 4 ottobre 2023",
+          "utc": "2023-10-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Elena",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHYAIMIUPUFAN4UQNBIFQBTRK36Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHYAIMIUPUFAN4UQNBIFQBTRK36Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R259H2BRC8IA6",
+        "title": "Caraffa plastic free",
+        "body": "Ottimo prodotto plastic free. Non sta sul ripiano del frigo, ma si può rimediare riempendo una bottiglia in vetro con l’acqua purificata. Per completare la vision plastic free, sarebbe ottimo utilizzare un packaging per i filtri di ricambio in carta anziché in plastica. Dopodiché, sarebbe perfetta.  Update: mi si è inspiegabilmente lesionata la caraffa in lavastoviglie. Ho bisogno di un ricambio, ma è sold out sul sito. Chiedo supportoLeggi di più",
+        "asin": "B09YMH8K33",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ottimo prodotto plastic free. Non sta sul ripiano del frigo, ma si può rimediare riempendo una bottiglia in vetro con l’acqua purificata.<br>Per completare la vision plastic free, sarebbe ottimo utilizzare un packaging per i filtri di ricambio in carta anziché in plastica. Dopodiché, sarebbe perfetta.<br><br>Update: mi si è inspiegabilmente lesionata la caraffa in lavastoviglie. Ho bisogno di un ricambio, ma è sold out sul sito. Chiedo supporto</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R259H2BRC8IA6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09YMH8K33",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 25 dicembre 2022",
+          "utc": "2022-12-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "alessio",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG556NRCX2KO7OEPTH6DB2YMOIVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG556NRCX2KO7OEPTH6DB2YMOIVA"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R3LW7XVY09Y42E",
+        "title": "ガラス製、探してました！",
+        "body": "日本はプラスチック製の浄水器しかなく、 aarkeさんのガラス＆ステンレス製のもの、探していました。 デザインも無駄がなく上品、フィルターはオーストリア製。  自分でフィルターを１ヶ月に一度詰め替えるところも気に入っています。 本気で浄水についてこだわっている方にお勧めします。Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">日本はプラスチック製の浄水器しかなく、<br>aarkeさんのガラス＆ステンレス製のもの、探していました。<br>デザインも無駄がなく上品、フィルターはオーストリア製。<br><br>自分でフィルターを１ヶ月に一度詰め替えるところも気に入っています。<br>本気で浄水についてこだわっている方にお勧めします。</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Giappone il 24 settembre 2023",
+          "utc": "2023-09-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "happytokyo"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R1NOTKNVMU7LVI",
+        "title": "aark water filter jug",
+        "body": "I don't normally do reviews, so I bought my 1st jug about a month ago, I love it but some of the filter granules somehow find their way into the filtered water & then into the kettle or the glass. I accidentally knocked it over on the work top & it shattered so the glass isn't overly strong so I ordered another one which came the next day but the little filter cartridge lid is out of shape so doesn't screw onto the cartridge so is useless, fortunately I have the cartridge from the broken one which is OK so didn't need to return it, although for the money I'm dissapointed it was damaged. I have both the pure & enriched filters but the enriched doesn't stop limescale so my new kettle was totally limescale'd up, so had to descale it. The pure is better for hard water. As I have packs of both filters I'm experimenting using half of each in the cartridge so hopefully get the benefits of both. just annoying some filter particles somehow get into the fresh water. Its a little weighty when full , also i have to take the silicone base off to fit it in my fridge door which isn't a big issue really. Overall its a really nice thing to have, just need to be careful that it doesn't knock over.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I don't normally do reviews, so I bought my 1st jug about a month ago, I love it but some of the filter granules somehow find their way into the filtered water &amp; then into the kettle or the glass. I accidentally knocked it over on the work top &amp; it shattered so the glass isn't overly strong so I ordered another one which came the next day but the little filter cartridge lid is out of shape so doesn't screw onto the cartridge so is useless, fortunately I have the cartridge from the broken one which is OK so didn't need to return it, although for the money I'm dissapointed it was damaged. I have both the pure &amp; enriched filters but the enriched doesn't stop limescale so my new kettle was totally limescale'd up, so had to descale it. The pure is better for hard water. As I have packs of both filters I'm experimenting using half of each in the cartridge so hopefully get the benefits of both. just annoying some filter particles somehow get into the fresh water. Its a little weighty when full , also i have to take the silicone base off to fit it in my fridge door which isn't a big issue really. Overall its a really nice thing to have, just need to be careful that it doesn't knock over.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 9 settembre 2023",
+          "utc": "2023-09-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sue"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R11LX602XT8FSV",
+        "title": "Une excellente contribution à l'écologie.",
+        "body": "Un très beau produit bien conçu pour consommer de l'eau tous les jours sans nuire à la planète. Du fait qu'il est fait de verre et d'acier inoxydable, c'est un peu lourd pour les petites mains mais c'est le prix à payer pour mettre fin à des tonnes de plastique, même recyclable, car les moyens de transport des bouteilles d'eau, eux, sont très pollueurs. Il est à noter que le produit filtrant joue parfaitement son rôle et l'eau a un goût entièrement neutre. Contrairement à d'autre produits similaires, il n'y a plus de cartouches filtrantes usagées à recycler, par conséquent c'est le meilleur produit respectueux de notre environnement.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Un très beau produit bien conçu pour consommer de l'eau tous les jours sans nuire à la planète. Du fait qu'il est fait de verre et d'acier inoxydable, c'est un peu lourd pour les petites mains mais c'est le prix à payer pour mettre fin à des tonnes de plastique, même recyclable, car les moyens de transport des bouteilles d'eau, eux, sont très pollueurs. Il est à noter que le produit filtrant joue parfaitement son rôle et l'eau a un goût entièrement neutre. Contrairement à d'autre produits similaires, il n'y a plus de cartouches filtrantes usagées à recycler, par conséquent c'est le meilleur produit respectueux de notre environnement.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Francia il 13 ottobre 2023",
+          "utc": "2023-10-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "LesudVN"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
+        "id": "R2FDDWKI69SK9U",
+        "title": "Me encanta",
+        "body": "He pasado años buscando un filtro de agua que no sólo filtre pero que sea reutiliza le y que no use o apenas use platico. Este es el filtro que estaba buscando. Elimina el sabor de cloro y la cal del agua (que son la razón principal por la que filtro el agua en casa). El agua sabe riquísima defues de ser filtrada. La jarra es de cristal y el componente del filtro es de acero. Si bien tiene juntas de goma y mínimos componente plásticos, en lo general mucho menos que la mayoría de productos similares que hay en el mercado. No se qué tal es la durabilidad del producto, pero teniendo en cuenta los materiales utilizados, a menos que por accidente se rompa la jarra, tiene pinta de durar mucho tiempo.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">He pasado años buscando un filtro de agua que no sólo filtre pero que sea reutiliza le y que no use o apenas use platico.<br>Este es el filtro que estaba buscando.<br>Elimina el sabor de cloro y la cal del agua (que son la razón principal por la que filtro el agua en casa).<br>El agua sabe riquísima defues de ser filtrada.<br>La jarra es de cristal y el componente del filtro es de acero. Si bien tiene juntas de goma y mínimos componente plásticos, en lo general mucho menos que la mayoría de productos similares que hay en el mercado.<br>No se qué tal es la durabilidad del producto, pero teniendo en cuenta los materiales utilizados, a menos que por accidente se rompa la jarra, tiene pinta de durar mucho tiempo.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Spagna il 9 settembre 2023",
+          "utc": "2023-09-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lan Zhan"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R35FRTJOW7NCC0",
+        "title": "Use another refill",
+        "body": "Using the filter granules provided gives a water that tastes like sparkling water gone flat. I used the Phox ones as recommended by a reviewer here and taste was better. Pourable while water is being filtered thanks to the sealed lid. Only negative is the small volume.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Using the filter granules provided gives a water that tastes like sparkling water gone flat.<br>I used the Phox ones as recommended by a reviewer here and taste was better.<br>Pourable while water is being filtered thanks to the sealed lid.<br>Only negative is the small volume.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 6 ottobre 2023",
+          "utc": "2023-10-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ibrahim",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/22303a60-b913-4ab9-bbbe-98c36b61452b._CR0,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 4,
+      "new_offers_from": {
+        "raw": "Spedizione GRATUITA."
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "domenica, 12 novembre",
+          "name": "GRATUITA"
+        },
+        "fastest_delivery": {
+          "date": "domani, 10 novembre",
+          "name": "oppure consegna pi rapida domani, 10 novembre. Ordina entro 5 ore 28 min. Maggiori informazioni"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 117.65,
+        "raw": "€117,65"
+      },
+      "rrp": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 125,
+        "raw": "€125,00"
+      },
+      "shipping": {
+        "raw": "GRATUITA"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Marchio",
+        "value": "‎Aarke"
+      },
+      {
+        "name": "Modello",
+        "value": "‎A1120"
+      },
+      {
+        "name": "Colore",
+        "value": "‎Argento"
+      },
+      {
+        "name": "Dimensioni prodotto",
+        "value": "‎12,1 x 17,2 x 27,5 cm; 1,14 Kg"
+      },
+      {
+        "name": "Volume",
+        "value": "‎2,4 Litri"
+      },
+      {
+        "name": "Caratteristiche speciali",
+        "value": "‎Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "‎1,14 Kilograms"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09YMH8K33"
+      },
+      {
+        "name": "Media recensioni",
+        "value": "4,4 4,4 su 5 stelle         262 voti          4,4 su 5 stelle"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "n. 43,936 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 51 in Caraffe Filtranti"
+      },
+      {
+        "name": "Disponibile su Amazon.it a partire dal",
+        "value": "24 aprile 2022"
+      },
+      {
+        "name": "Marchio",
+        "value": "Aarke"
+      },
+      {
+        "name": "Caratteristica speciale",
+        "value": "Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio Mostra altro"
+      },
+      {
+        "name": "Dimensioni del prodotto",
+        "value": "17,2L x 12,1l x 27,5H cm"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Sacchetto"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1140 Grammi"
+      },
+      {
+        "name": "Nome modello",
+        "value": "Water Filter Pitcher"
+      }
+    ],
+    "specifications_flat": "Nome modello: Water Filter Pitcher. Peso articolo: 1140 Grammi. Sorgente di alimentazione: Non elettrico. Informazioni pacco: Sacchetto. Dimensioni del prodotto: 17,2L x 12,1l x 27,5H cm. Caratteristica speciale: Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio Mostra altro. Marchio: Aarke. Disponibile su Amazon.it a partire dal: 24 aprile 2022. Posizione nella classifica Bestseller di Amazon: n. 43,936 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 51 in Caraffe Filtranti. Media recensioni: 4,4 4,4 su 5 stelle         262 voti          4,4 su 5 stelle. ASIN: B09YMH8K33. Peso articolo: ‎1,14 Kilograms. Caratteristiche speciali: ‎Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio. Volume: ‎2,4 Litri. Dimensioni prodotto: ‎12,1 x 17,2 x 27,5 cm; 1,14 Kg. Colore: ‎Argento. Modello: ‎A1120. Marchio: ‎Aarke.",
+    "bestsellers_rank": [
+      {
+        "category": "Casa e cucina",
+        "rank": 43936,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
+      },
+      {
+        "category": "Caraffe Filtranti",
+        "rank": 51,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
+      }
+    ],
+    "color": "‎Argento",
+    "weight": "1140 Grammi",
+    "first_available": {
+      "raw": "24 aprile 2022",
+      "utc": "2022-04-24T00:00:00.000Z"
+    },
+    "dimensions": "17,2L x 12,1l x 27,5H cm",
+    "bestsellers_rank_flat": "Category: Casa e cucina | Rank: 43936, Category: Caraffe Filtranti | Rank: 51"
+  },
+  "brand_store": {
+    "id": "6388FF11-D8A8-4561-A346-A5A5103E96C1",
+    "link": "https://www.amazon.it/stores/AARKE/page/6388FF11-D8A8-4561-A346-A5A5103E96C1"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 170.39,
+      "raw": "170,39 €"
+    },
+    "products": [
+      {
+        "asin": "B09YMH8K33",
+        "title": "Aarke Purifier, Caraffa Filtrante Brevettata in Vetro e Acciaio Inox, 2.4L, Sacchetto di ricarica del filtro per Aarke Pure",
+        "link": "https://www.amazon.it/dp/B09YMH8K33?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61AIVkrkapL._AC_UL116_SR116,116_.jpg"
+      },
+      {
+        "asin": "B09YMHF5FF",
+        "title": "Aarke Sacchetti Di Ricarica Per Filtri Enriched Da 3 Pezzi - Aumenta il Valore del pH, Aggiunge Magnesio, Riduce i Sapori Sgradevoli & Metalli Pesanti - Filtra Fino a 3x120 Litri di Acqua",
+        "link": "https://www.amazon.it/dp/B09YMHF5FF?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51MrLbTgU0L._AC_UL116_SR116,116_.jpg"
+      },
+      {
+        "asin": "B073FLPM49",
+        "title": "Bottiglia Aarke per Gasatore d’acqua Carbonator 3, senza BPA con Dettagli in Acciaio",
+        "link": "https://www.amazon.it/dp/B073FLPM49?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41-aaC5w9cL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 22.74,
+          "raw": "22,74€"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B01GFJWA52",
+    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt2_TIER4_sessmp_lp_B09YMH8K33_pd?_encoding=UTF8&pf_rd_p=ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=mOCwg&pd_rd_i=B01GFJWA52&pd_rd_w=IOhzW&content-id=amzn1.sym.ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pd_rd_r=b76f7996-5fec-487c-9de7-de7678dad376&psc=1",
+    "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+    "rating": 4.5,
+    "ratings_total": 12676,
+    "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._SS100_.jpg",
+    "is_prime": true
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B09YMH8K33",
+      "image": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SS450_.jpg",
+      "title": "Aarke Purifier, Caraffa Filtrante Brevettata in Vetro e Acciaio Inox, 2.4L, Sacchetto di ricarica del filtro per Aarke Pure",
+      "rating": 4.5,
+      "ratings_total": 262,
+      "link": "https://www.amazon.it/dp/B09YMH8K33"
+    },
+    {
+      "asin": "B07V4PGBQY",
+      "image": "https://m.media-amazon.com/images/I/71aQl5CBmzL._AC_SS450_.jpg",
+      "title": "Invigorated Water PH Restore Caraffa filtrante per acqua alcalina – Brocca acqua filtrante durevole con sistema di filtrazione a più livelli – Brocca in vetro per pH elevato, filtro acqua pura, 3,5 L",
+      "rating": 4.5,
+      "ratings_total": 950,
+      "link": "https://www.amazon.it/dp/B07V4PGBQY"
+    },
+    {
+      "asin": "B0B39C2W9C",
+      "image": "https://m.media-amazon.com/images/I/71mdAW6FnlL._AC_SS450_.jpg",
+      "title": "Wessper Caraffa Filtrante di Vetro con 1 Cartuccia Aquaclassic (Compatibile con Brita Classic), Elimina Cloro, Impurità e Metalli Pesanti, 2.5Litri, Bianco",
+      "rating": 4,
+      "ratings_total": 52,
+      "link": "https://www.amazon.it/dp/B0B39C2W9C"
+    },
+    {
+      "asin": "B07F6RWRDR",
+      "image": "https://m.media-amazon.com/images/I/71LEXno8uYL._AC_SS450_.jpg",
+      "title": "pH REPLENISH - caraffa filtrante in vetro per acqua alcalina e ionizzata - elimina cloro, impurità e metalli pesanti - aumenta il pH - con filtro a lunga durata - 1,8 litri",
+      "rating": 4,
+      "ratings_total": 642,
+      "link": "https://www.amazon.it/dp/B07F6RWRDR"
+    },
+    {
+      "asin": "B07HKXKZ1J",
+      "image": "https://m.media-amazon.com/images/I/713TCrq8CjL._AC_SS450_.jpg",
+      "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, filtro e misuratore della qualitá dell'acqua inclusi, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
+      "rating": 4,
+      "ratings_total": 471,
+      "link": "https://www.amazon.it/dp/B07HKXKZ1J"
+    },
+    {
+      "asin": "B0BT1F3BV2",
+      "image": "https://m.media-amazon.com/images/I/71YQ3OaynxL._AC_SS450_.jpg",
+      "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribaltabile per riempimento facile, in confezione Smart Box sostenibile",
+      "rating": 4.5,
+      "ratings_total": 443,
+      "link": "https://www.amazon.it/dp/B0BT1F3BV2"
+    }
+  ],
+  "also_bought": [
+    {
+      "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribalta",
+      "asin": "B0BT1F3BV2",
+      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_vtp_sccl_2_1/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71YQ3OaynxL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 443,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 61.6,
+        "raw": "€61,60"
+      }
+    },
+    {
+      "title": "aarke Sacchetti Di Ricarica Per Filtri Pure Da 3 Pezzi Ridurre il Cloro, i Metalli Pesanti e il Calcare Filtra Fino a 3x120 L",
+      "asin": "B09YMGXSMP",
+      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Ridurre-Metalli/dp/B09YMGXSMP/ref=pd_vtp_sccl_2_2/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B09YMGXSMP&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51aM37dbzxL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 154,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 20,
+        "raw": "€20,00"
+      }
+    },
+    {
+      "title": "BRITA Caraffa filtrante Marella blu (2.4L) - Memo digitale e coperchio ribaltabile - confezione Smart Box sostenibile",
+      "asin": "B0BSXDLXC4",
+      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_3/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81GaxDSEE+L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 52584,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 28.94,
+        "raw": "€28,94"
+      }
+    },
+    {
+      "title": "Aarke Sacchetti Di Ricarica Per Filtri Enriched Da 3 Pezzi - Aumenta il Valore del pH, Aggiunge Magnesio, Riduce i Sapori Sgr",
+      "asin": "B09YMHF5FF",
+      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Filtri-Enriched/dp/B09YMHF5FF/ref=pd_vtp_sccl_2_4/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B09YMHF5FF&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51MrLbTgU0L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 154,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 30,
+        "raw": "€30,00"
+      }
+    },
+    {
+      "title": "BRITA Caraffa Filtrante Marella per acqua, Grafite (2.4l) - Pacchetto semestrale incl. 6 Filtri MAXTRA+ per la riduzione di c",
+      "asin": "B076NK2QM7",
+      "link": "https://www.amazon.it/BRITA-Marella-Filtro-Acqua-Pezzo/dp/B076NK2QM7/ref=pd_vtp_sccl_2_5/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B076NK2QM7&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71WafloZdYL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.7,
+      "ratings_total": 42952,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 57.18,
+        "raw": "€57,18"
+      }
+    },
+    {
+      "title": "Filtro per acqua BRITA MAXTRA PRO All-in-1 Pacchetto di risparmio semestrale da 6 filtri - MAXTRA+ Riduce impurità, cloro, pe",
+      "asin": "B0BXPN4JDD",
+      "link": "https://www.amazon.it/Filtro-MAXTRA-Pacchetto-risparmio-semestrale/dp/B0BXPN4JDD/ref=pd_vtp_sccl_2_6/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BXPN4JDD&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71q0nnU4TCL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.7,
+      "ratings_total": 596,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 39.7,
+        "raw": "€39,70"
+      }
+    }
+  ]
+}

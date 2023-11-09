@@ -1,0 +1,275 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 71,
+    "credits_remaining": 29,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B0CJ9RWQG2",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-09T09:35:38.149Z",
+    "processed_at": "2023-11-09T09:35:42.917Z",
+    "total_time_taken": 4.77,
+    "amazon_url": "https://www.amazon.it/dp/B0CJ9RWQG2?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "Brita Marella XL Maxtra+, 3,5 l, grigio",
+    "search_alias": {
+      "title": "Industria e Scienza",
+      "value": "industrial"
+    },
+    "keywords": "Brita,Marella,XL,Maxtra+,,3,5,l,,grigio",
+    "keywords_list": [
+      "Brita",
+      "Marella",
+      "Maxtra+",
+      "grigio"
+    ],
+    "asin": "B0CJ9RWQG2",
+    "link": "https://www.amazon.it/Brita-Marella-XL-Maxtra-grigio/dp/B0CJ9RWQG2?tag=8vcue204-21",
+    "brand": "Brita",
+    "energy_efficiency": {},
+    "categories": [
+      {
+        "name": "Industria e Scienza"
+      },
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "sub_title": {
+      "text": "Marca: Brita",
+      "link": "https://www.amazon.it/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Brita&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "four_star": {
+        "percentage": 100,
+        "count": 1
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 1,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/41FaRQUXfML.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/41FaRQUXfML.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41ln7sobFUL.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41AZeZdL1dL.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/416joN-ciRL.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41erUGlIb3L.jpg",
+        "variant": "PT04"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/41FaRQUXfML.jpg,https://m.media-amazon.com/images/I/41ln7sobFUL.jpg,https://m.media-amazon.com/images/I/41AZeZdL1dL.jpg,https://m.media-amazon.com/images/I/416joN-ciRL.jpg,https://m.media-amazon.com/images/I/41erUGlIb3L.jpg",
+    "is_bundle": false,
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "17 - 22 novembre",
+          "name": "a 8"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Flanco Retail",
+          "link": "https://www.amazon.it/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARYGADMYL8LGN&asin=B0CJ9RWQG2&ref_=dp_merchant_link",
+          "id": "ARYGADMYL8LGN"
+        }
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 24.99,
+        "raw": "€24,99"
+      },
+      "shipping": {
+        "symbol": "€",
+        "value": 8,
+        "currency": "EUR",
+        "raw": "€a 8"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Disponibile su Amazon.it a partire dal",
+        "value": "18 settembre 2023"
+      },
+      {
+        "name": "Produttore",
+        "value": "Brita"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CJ9RWQG2"
+      },
+      {
+        "name": "Riferimento produttore",
+        "value": "BR1040412"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "Visualizza i Top 100 nella categoria Casa e cucina"
+      }
+    ],
+    "specifications_flat": "Posizione nella classifica Bestseller di Amazon: Visualizza i Top 100 nella categoria Casa e cucina. Riferimento produttore: BR1040412. ASIN: B0CJ9RWQG2. Produttore: Brita. Disponibile su Amazon.it a partire dal: 18 settembre 2023.",
+    "bestsellers_rank": [
+      {
+        "category": "Visualizza i Top 100 nella categoria Casa e cucina",
+        "rank": 409513,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
+      },
+      {
+        "category": "Caraffe Filtranti",
+        "rank": 262,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
+      }
+    ],
+    "first_available": {
+      "raw": "18 settembre 2023",
+      "utc": "2023-09-18T00:00:00.000Z"
+    },
+    "bestsellers_rank_flat": "Category: Visualizza i Top 100 nella categoria Casa e cucina | Rank: 409513, Category: Caraffe Filtranti | Rank: 262"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 100.88,
+      "raw": "100,88 €"
+    },
+    "products": [
+      {
+        "asin": "B0CJ9RWQG2",
+        "title": "Brita Marella XL Maxtra+, 3,5 l, grigio",
+        "link": "https://www.amazon.it/dp/B0CJ9RWQG2?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41FaRQUXfML._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 24.99,
+          "raw": "24,99€"
+        }
+      },
+      {
+        "asin": "B06XYG1P2G",
+        "title": "BRITA Filtri MAXTRA+ per Caraffa Filtrante per acqua - Pacchetto semestrale incl. 6 Filtri MAXTRA+ per la riduzione di cloro, calcare e impurità",
+        "link": "https://www.amazon.it/dp/B06XYG1P2G?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61cOcbbaZhL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 43.99,
+          "raw": "43,99€"
+        }
+      },
+      {
+        "asin": "B01MXSHEKB",
+        "title": "BRITA Caraffa Filtrante Marella XL per acqua, Blu (3.5l) - incl. 1 Filtro MAXTRA+ per la riduzione di cloro, calcare e impurità",
+        "link": "https://www.amazon.it/dp/B01MXSHEKB?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61tqfGlm79L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 31.9,
+          "raw": "31,90€"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B01GFJWA52",
+    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt1_TIER4_trans_lp_B0CJ9RWQG2_pd?_encoding=UTF8&pf_rd_p=75fe3d72-561e-49da-8142-0cec61c0a0d4&pf_rd_r=P972NE09NQ38Z64ABF75&pd_rd_wg=mqv0Q&pd_rd_i=B01GFJWA52&pd_rd_w=AU9gl&content-id=amzn1.sym.75fe3d72-561e-49da-8142-0cec61c0a0d4&pd_rd_r=af1b8199-89b5-42f5-bab1-3afdc6e4725f&psc=1",
+    "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+    "rating": 4.5,
+    "ratings_total": 12676,
+    "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "BRITA Caraffa Filtrante Marella XL Bianca (3.5L) incl. 1 Filtro MAXTRA PRO All-in-1 Adatta alla Porta del Frigorifero con Mem",
+      "asin": "B0BSXFVB6M",
+      "link": "https://www.amazon.it/Filtrante-Frigorifero-Ribaltabile-Confezione-Sostenibile/dp/B0BSXFVB6M/ref=pd_sbs_sccl_2_1/261-8625033-0480755?pd_rd_w=coejL&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=P972NE09NQ38Z64ABF75&pd_rd_wg=11zuP&pd_rd_r=9983849a-d8e8-4ed9-9661-40b045a3f3e4&pd_rd_i=B0BSXFVB6M&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81MWz9x9ZtL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.7,
+      "ratings_total": 9047,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 29.64,
+        "raw": "€29,64"
+      }
+    }
+  ]
+}

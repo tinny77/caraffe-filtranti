@@ -1,0 +1,847 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 70,
+    "credits_remaining": 30,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B07QCNTCK8",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-09T09:35:17.374Z",
+    "processed_at": "2023-11-09T09:35:37.759Z",
+    "total_time_taken": 20.39,
+    "amazon_url": "https://www.amazon.it/dp/B07QCNTCK8?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus) Bianco",
+    "search_alias": {
+      "title": "Industria e Scienza",
+      "value": "industrial"
+    },
+    "title_excluding_variant_name": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus)",
+    "keywords": "Waterdrop,Chubby,Caraffa,Filtrante,da,3,5,Litri,Certificata,NSF,con,1,Filtro,da,90,Giorni,,Riduce,il,Piombo,,il,Fluoro,,il,Cloro,e,Altro,,Senza,BPA,,Bianca,(Filtro,di,Ricambio:,WD-PF-01A,Plus)",
+    "keywords_list": [
+      "Waterdrop",
+      "Chubby",
+      "Caraffa",
+      "Filtrante",
+      "Litri",
+      "Certificata",
+      "Filtro",
+      "Giorni",
+      "Riduce",
+      "Piombo",
+      "Fluoro",
+      "Cloro",
+      "Altro",
+      "Senza",
+      "Bianca",
+      "(Filtro",
+      "Ricambio:",
+      "WD-PF-01A",
+      "Plus)"
+    ],
+    "asin": "B07QCNTCK8",
+    "parent_asin": "B08KNQ877R",
+    "link": "https://www.amazon.it/dp/B07QCNTCK8?%3Fth=1&psc=1&tag=8vcue204-21",
+    "brand": "Waterdrop",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B07QCNTCK8",
+        "title": "Bianco",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B07QCNTCK8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61eAyClCnqL._SL1447_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61eAyClCnqL._SL1447_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51yVZ7vj1-L._SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/613RGTkeZ1L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71xctONYo2L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71XjFaxdc4L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71XJojzI1sL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71em9j6OZvL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71VE3mrcTlL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 26.99,
+          "raw": "€26,99"
+        }
+      },
+      {
+        "asin": "B07QDMM2WL",
+        "title": "Blu",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B07QDMM2WL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Blu"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61hsNRaUc2L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61hsNRaUc2L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51yVZ7vj1-L._SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61raDc97T1L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71I7rp4vPyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71JyJQxSD-L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71eimTBPxhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71XJojzI1sL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71em9j6OZvL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 26.99,
+          "raw": "€26,99"
+        }
+      }
+    ],
+    "variant_asins_flat": "B07QCNTCK8,B07QDMM2WL",
+    "energy_efficiency": {},
+    "documents": [
+      {
+        "name": "Certificato di conformità (PDF)",
+        "link": "https://m.media-amazon.com/images/I/81cTDWtrZSL.pdf"
+      },
+      {
+        "name": "Manuale utente (PDF)",
+        "link": "https://m.media-amazon.com/images/I/D1M5HNazomL.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Industria e Scienza"
+      },
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "description": "DESCRIZIONE PRODOTTO \n \n\nWaterdrop Chubby - Caraffa filtrante per acqua \n\nConfezione da 3 filtri di ricambio disponibili per l'acquisto! (modello di ricerca: WD-PF-01A Plus). \n\n\n\n1. Attenzione: prima del primo utilizzo, immergere il filtro in acqua fredda del rubinetto per 10 minuti e rimuovere le bolle per attivare il filtro e garantire le migliori prestazioni di filtrazione. Non utilizzare una lavastoviglie per pulire il prodotto. Si noti che è normale trovare particelle residue di polvere di carbonio nell'acqua durante il risciacquo o l'ammollo del filtro. \n\n2. Metodo di funzionamento e sostituzione dell'indicatore: durante il primo utilizzo, attivare l'indicatore di induzione di gravità premendo il pulsante di avvio per 3-5 secondi fino a quando la luce blu lampeggia. Ripristinare la durata dell'indicatore del filtro dopo ogni sostituzione del filtro. L'indicatore di gravità indotto è sostituibile. Sostituirlo stringendo la ganascia di serraggio. Assicurarsi che la mascella di vongole sia inserita completamente nella scanalatura. \n\n3. Introduzione degli stati della spia luminosa: la luce blu dell'indicatore sarà accesa se il filtro è in buono stato, la luce rossa lampeggerà 6 volte se il filtro deve essere sostituito, e la luce rossa sarà accesa se il filtro deve essere sostituito contemporaneamente. \n\n4. Lunga durata: per ottenere i migliori risultati, cambiare il filtro ogni 3 mesi o dopo ogni 200 galloni (a seconda di quale si verifica prima). Questo può variare in base alla qualità dell'acqua. \n\n5. Non una serie di rimozione TDS : \"TDS\" sta per \"solidi disciolti totali\"; è composto fondamentalmente da sali inorganici e una piccola quantità di materia organica. Il filtro può rimuovere le sostanze nocive mantenendo calcio e magnesio benefici, che sono i componenti principali dei sali inorganici. \n\nApprezziamo sinceramente il tuo feedback. Se avete problemi o avete bisogno di qualsiasi chiarimento, non esitate a contattarci! Non vediamo l'ora di servirvi.",
+    "sub_title": {
+      "text": "Visita lo Store di Waterdrop",
+      "link": "https://www.amazon.it/stores/Waterdrop/page/8ED09DBC-7993-42CF-B62B-0450826C9A79?ref_=ast_bln&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 5577
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 941
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 362
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 144
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 289
+      }
+    },
+    "ratings_total": 7244,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61eAyClCnqL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61eAyClCnqL._SL1447_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51yVZ7vj1-L._SL1000_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/613RGTkeZ1L._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xctONYo2L._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XjFaxdc4L._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XJojzI1sL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71em9j6OZvL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71VE3mrcTlL._SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/61eAyClCnqL._SL1447_.jpg,https://m.media-amazon.com/images/I/51yVZ7vj1-L._SL1000_.jpg,https://m.media-amazon.com/images/I/613RGTkeZ1L._SL1500_.jpg,https://m.media-amazon.com/images/I/71xctONYo2L._SL1500_.jpg,https://m.media-amazon.com/images/I/71XjFaxdc4L._SL1500_.jpg,https://m.media-amazon.com/images/I/71XJojzI1sL._SL1500_.jpg,https://m.media-amazon.com/images/I/71em9j6OZvL._SL1500_.jpg,https://m.media-amazon.com/images/I/71VE3mrcTlL._SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Efficace filtrazione: utilizzando la tecnologia di filtraggio della brocca dell'acqua a 7 stadi, la caraffa filtrante Waterdrop Chubby prova l'acqua per eliminare al minimo il minimo. Riduce metalli pesanti come arsenico, piombo e altri contaminanti come fluoruro, cloro, nonché qualsiasi odore e sapore. Offre acqua più sana e dal sapore migliore (testato da un terzo laboratorio).",
+      "Qualità eccezionale: il prodotto è realizzato in plastica senza BPA di alta qualità, con un semplice ma rigido manico in legno naturale, che facilita la manipolazione dell'attrezzatura. Utilizzando carbone attivo caricato in argento e ACF altamente efficiente dal Giappone per il filtro della caraffa d'acqua, si garantisce prestazioni ottimali.",
+      "Lunga durata con garanzia senza rischi: i filtri di alta qualità producono oltre 200 litri di acqua prima della sostituzione. Inoltre, una caraffa filtrante Waterdrop Chubby sostituisce oltre 1600 bottiglie di acqua standard. Questa brocca viene fornita con una garanzia di 90 giorni, garanzia di qualità e pronta consegna.",
+      "Indicatore intelligente: il nostro design intelligente garantisce una vita più sana e senza problemi per gli utenti, in quanto è possibile monitorare la qualità dell'acqua in qualsiasi momento. Grazie all'indicatore intelligente sostituibile che rileva quando l'acqua viene versata, ora è possibile vedere lo stato di utilizzo dell'elemento filtro in base alla modalità di visualizzazione del LED (diodo di emissione di luce) in tempo reale.",
+      "Design innovativo: la caraffa filtrante Waterdrop Chubby permette al filtro dell'acqua di essere perfettamente posizionato sulla maggior parte delle porte del frigorifero, il design innovativo del coperchio del beccuccio può aiutare a evitare che polvere e altre particelle entrino nella brocca. È molto facile ricaricare la brocca, in quanto non è nemmeno necessario rimuovere il coperchio."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Design innovativo: la caraffa filtrante Waterdrop Chubby permette al filtro dell'acqua di essere perfettamente posizionato sulla maggior parte delle porte del frigorifero, il design innovativo del coperchio del beccuccio può aiutare a evitare che polvere e altre particelle entrino nella brocca. È molto facile ricaricare la brocca, in quanto non è nemmeno necessario rimuovere il coperchio. Indicatore intelligente: il nostro design intelligente garantisce una vita più sana e senza problemi per gli utenti, in quanto è possibile monitorare la qualità dell'acqua in qualsiasi momento. Grazie all'indicatore intelligente sostituibile che rileva quando l'acqua viene versata, ora è possibile vedere lo stato di utilizzo dell'elemento filtro in base alla modalità di visualizzazione del LED (diodo di emissione di luce) in tempo reale. Lunga durata con garanzia senza rischi: i filtri di alta qualità producono oltre 200 litri di acqua prima della sostituzione. Inoltre, una caraffa filtrante Waterdrop Chubby sostituisce oltre 1600 bottiglie di acqua standard. Questa brocca viene fornita con una garanzia di 90 giorni, garanzia di qualità e pronta consegna. Qualità eccezionale: il prodotto è realizzato in plastica senza BPA di alta qualità, con un semplice ma rigido manico in legno naturale, che facilita la manipolazione dell'attrezzatura. Utilizzando carbone attivo caricato in argento e ACF altamente efficiente dal Giappone per il filtro della caraffa d'acqua, si garantisce prestazioni ottimali. Efficace filtrazione: utilizzando la tecnologia di filtraggio della brocca dell'acqua a 7 stadi, la caraffa filtrante Waterdrop Chubby prova l'acqua per eliminare al minimo il minimo. Riduce metalli pesanti come arsenico, piombo e altri contaminanti come fluoruro, cloro, nonché qualsiasi odore e sapore. Offre acqua più sana e dal sapore migliore (testato da un terzo laboratorio).",
+    "attributes": [
+      {
+        "name": "Marchio",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "Caratteristica speciale",
+        "value": "Riduzione del cloro, Certificato NSF"
+      },
+      {
+        "name": "Dimensioni del prodotto",
+        "value": "26,4L x 13,5l x 25,4H cm"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Brocca"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "453,59 Grammi"
+      },
+      {
+        "name": "Nome modello",
+        "value": "WD-PT-04W"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "RKXU63YTH7BBO",
+        "title": "Soddisfatta",
+        "body": "La brocca è leggera da vuota, diversamente a quanto pensavo dato le recensioni. È normale che se la riempi d'acqua pesa, l'acqua pesa. Comunque il sapore dell'acqua è buono. Sono piacevolmente sorpresa per questo prodotto. Stra felice ♥️Leggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>La brocca è leggera da vuota, diversamente a quanto pensavo dato le recensioni. È normale che se la riempi d'acqua pesa, l'acqua pesa. Comunque il sapore dell'acqua è buono. Sono piacevolmente sorpresa per questo prodotto. Stra felice ♥️</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RKXU63YTH7BBO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 23 agosto 2023",
+          "utc": "2023-08-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lady Perez",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHFVEL6RUNMDKHTIKJSZXXDMIOAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHFVEL6RUNMDKHTIKJSZXXDMIOAQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5c42a142-4e24-430c-bb6b-1e515efc9c0d._CR137,0,225,225_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R184YJ1WTYB4P3",
+        "title": "Ottimo",
+        "body": "Non più casse pesanti da portare su....ottimo.acquistoLeggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Non più casse pesanti da portare su....ottimo.acquisto</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R184YJ1WTYB4P3/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 21 agosto 2023",
+          "utc": "2023-08-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cliente Amazon",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG7PD2RAEZWOIWHAFYURAK7CFLAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG7PD2RAEZWOIWHAFYURAK7CFLAQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2B2D1XCUCQ8VI",
+        "title": "Il coperchio non è fisso",
+        "body": "La caraffa è di buona fattura ed esteticamente è molto bella, sopratutto il manico in legno. Le dimensioni sono adatte ad una famiglia di 4/5 persone, ma purtroppo il tappo non rimane chiuso e mentre si versa l'acqua la caraffa si apre, inoltre è troppo ingombrante per la porta del frigorifero e non ci sta.Leggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>La caraffa è di buona fattura ed esteticamente è molto bella, sopratutto il manico in legno. Le dimensioni sono adatte ad una famiglia di 4/5 persone, ma purtroppo il tappo non rimane chiuso e mentre si versa l'acqua la caraffa si apre, inoltre è troppo ingombrante per la porta del frigorifero e non ci sta.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2B2D1XCUCQ8VI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 3,
+        "date": {
+          "raw": "Recensito in Italia il 17 ottobre 2023",
+          "utc": "2023-10-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "denis",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGFWEODIZYHMGLZXBWYDBQ5MOYVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGFWEODIZYHMGLZXBWYDBQ5MOYVQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2S5HVDH53M3YU",
+        "title": "Niente piu' bottiglie da comprare,un peso",
+        "body": "Perfetta,anche se acqua Milano gia' buona,filtrata ancora meglio,unica pecca pesante la brocca quando piena!!!Leggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Perfetta,anche se acqua Milano gia' buona,filtrata ancora meglio,unica pecca pesante la brocca quando piena!!!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2S5HVDH53M3YU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 17 luglio 2023",
+          "utc": "2023-07-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Valter Cosco",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEAMPN6373VIEXLFGQMMNUX7HC7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEAMPN6373VIEXLFGQMMNUX7HC7Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2OLN3A3QLY9E2",
+        "title": "Super ottimo",
+        "body": "Acqua sana e pura 🔝🔝🔝Leggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Acqua sana e pura 🔝🔝🔝</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2OLN3A3QLY9E2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 10 maggio 2023",
+          "utc": "2023-05-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cesare",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG6PVO2DM7W3O6ZU7PFXQMX2MBLQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG6PVO2DM7W3O6ZU7PFXQMX2MBLQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/db4da9c0-de18-4ac9-9c5b-f1f149e5f558._CR0,0,498,498_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RKYNJX05Q1IIF",
+        "title": "Ottimo rapporto qualità prezzo",
+        "body": "Filtra perfettamente e l'acqua è buona. Unica pecca che è un po' pesante come caraffa, ma basta non riempirla troppo.Leggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Filtra perfettamente e l'acqua è buona. Unica pecca che è un po' pesante come caraffa, ma basta non riempirla troppo.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RKYNJX05Q1IIF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 10 marzo 2023",
+          "utc": "2023-03-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Delia Ravera",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEPUQXOIO2FJMYEASPRPWR3KQWXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEPUQXOIO2FJMYEASPRPWR3KQWXA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/c97109bb-7e63-4fe3-89d1-3bd6836b14bc._CR0,0,399,399_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R3HGEG3TQW4W23",
+        "title": "Bella, veloce ma pesante",
+        "body": "Bella esteticamente, molto veloce il filtraggio, molto pesante completamente pienaLeggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bella esteticamente, molto veloce il filtraggio, molto pesante completamente piena</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3HGEG3TQW4W23/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 2 novembre 2022",
+          "utc": "2022-11-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jonas",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG2GBBJVOFBC65IBV4KFIEYNK3BA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG2GBBJVOFBC65IBV4KFIEYNK3BA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RI65OIT6QB5E4",
+        "title": "come da descrizione.ottima",
+        "body": "caraffa filtrante ottimaLeggi di più",
+        "asin": "B07QCNTCK8",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>caraffa filtrante ottima</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RI65OIT6QB5E4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07QCNTCK8",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 15 marzo 2023",
+          "utc": "2023-03-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "sbrinde",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHQFXETYHFHSTGEECBNZJAWNIIFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHQFXETYHFHSTGEECBNZJAWNIIFQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/72a0095b-3296-46b3-9088-215cc70c5c40._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R20HE2YWN19LJK",
+        "title": "Great tasting and clean water! Worth it!",
+        "body": "Really a great water filter. It does what it is supposed and it is much better than Britta. Price is also amazing and super competitive. Easy to clean. I got a white colour and I have to say I should probably go with the clear version because at the moment I am just guessing how much water is left to filter. However, filtering process is super fast.  In overall a great and effective product. Only downside or negative is that you really need to use both hands to pour filtered water into a glass. The lid isn’t locked and it tend to fell out. So you always need to pour water with one hand and secure/hold with other one.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Really a great water filter. It does what it is supposed and it is much better than Britta. Price is also amazing and super competitive. Easy to clean. I got a white colour and I have to say I should probably go with the clear version because at the moment I am just guessing how much water is left to filter. However, filtering process is super fast.<br><br>In overall a great and effective product. Only downside or negative is that you really need to use both hands to pour filtered water into a glass. The lid isn’t locked and it tend to fell out. So you always need to pour water with one hand and secure/hold with other one.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 3 novembre 2023",
+          "utc": "2023-11-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "IsItPrime?"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R3K129D8R8BR7Y",
+        "title": "Great value and design",
+        "body": "I absolutely love this water filter. I had a glass one I owned for 20 years and broke the other day so went on a wf search and how times have changed. This is a great price. BPA free. Lovely design. Holds a lot of water. Filters much quicker than my old filter due to better cartridge design and the lid is really well designed with a filter expired indicator so clever for a great price in these straitened times. I was so upset myvfilter broke and now so glad as I can see it was passed its best and I needed an upgrade. Highly recommendedLeggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I absolutely love this water filter. I had a glass one I owned for 20 years and broke the other day so went on a wf search and how times have changed. This is a great price. BPA free. Lovely design. Holds a lot of water. Filters much quicker than my old filter due to better cartridge design and the lid is really well designed with a filter expired indicator so clever for a great price in these straitened times. I was so upset myvfilter broke and now so glad as I can see it was passed its best and I needed an upgrade. Highly recommended</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 27 ottobre 2023",
+          "utc": "2023-10-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "miss sarah r hedley"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R32ZJKTSL4I2F0",
+        "title": "Increíble",
+        "body": "Sin duda la mejor jarra filtradora que hemos tenido nunca. Antes tuvimos Brita y BWT y con esta nos hemos sorprendido por el buen sabor de agua que deja, al menos en Valencia donde el agua del grifo es bastante clorada y calcárea y por ende su sabor resulta bastante desagradable. Filtra de forma muy rápida y ademas los cartuchos duran muchísimo más que las anteriores que hemos tenido. De momento estamos muy contentos con su uso, nos hemos evitado el estar subiendo garrafas de agua y por supuesto el plástico generado. Muy recomendable aún pareciendo más caras que las otras.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Sin duda la mejor jarra filtradora que hemos tenido nunca. Antes tuvimos Brita y BWT y con esta nos hemos sorprendido por el buen sabor de agua que deja, al menos en Valencia donde el agua del grifo es bastante clorada y calcárea y por ende su sabor resulta bastante desagradable. Filtra de forma muy rápida y ademas los cartuchos duran muchísimo más que las anteriores que hemos tenido. De momento estamos muy contentos con su uso, nos hemos evitado el estar subiendo garrafas de agua y por supuesto el plástico generado. Muy recomendable aún pareciendo más caras que las otras.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Spagna il 30 agosto 2023",
+          "utc": "2023-08-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Inyick",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/857c1ce5-808e-4b6b-99ca-7f3be72ac52d._CR109,0,281,281_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R1MVS19LPI8352",
+        "title": "Practical and Good taste",
+        "body": "Its large capacity is very practical as I use it for both drinking and making coffee. It has a solid, sturdy structure. There is a little opening on the top of the jug for filling it up so you don't have to remove the lid. And most importantly, the water tastes great. All in all, I am very satisfied.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Its large capacity is very practical as I use it for both drinking and making coffee.<br>It has a solid, sturdy structure.<br>There is a little opening on the top of the jug for filling it up so you don't have to remove the lid.<br>And most importantly, the water tastes great.<br>All in all, I am very satisfied.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nei Paesi Bassi il 18 agosto 2023",
+          "utc": "2023-08-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "sanem alicli"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R27NXZU5082ETJ",
+        "title": "Best filter for the price",
+        "body": "Wanted a filter that can filter 3+ liters quick, and it does exactly that. Tastes like drinking bottled water after it. I fill up a 2.4l jug to drink from, I can filter enough water in the morning in a few minutes and I'm good to go.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Wanted a filter that can filter 3+ liters quick, and it does exactly that. Tastes like drinking bottled water after it. I fill up a 2.4l jug to drink from, I can filter enough water in the morning in a few minutes and I'm good to go.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito nel Regno Unito il 6 novembre 2023",
+          "utc": "2023-11-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "H Fleetwood"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "domenica, 12 novembre",
+          "name": "GRATUITA"
+        },
+        "fastest_delivery": {
+          "date": "domani, 10 novembre",
+          "name": "oppure consegna pi rapida domani, 10 novembre. Ordina entro 4 ore 59 min. Maggiori informazioni"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Waterdrop direct",
+          "link": "https://www.amazon.it/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A63AVEWJK89C&asin=B07QCNTCK8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A63AVEWJK89C"
+        }
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 26.99,
+        "raw": "€26,99"
+      },
+      "shipping": {
+        "raw": "GRATUITA"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Fuori produzione",
+        "value": "No"
+      },
+      {
+        "name": "Dimensioni prodotto",
+        "value": "14,48 x 30 x 27 cm; 453,59 grammi"
+      },
+      {
+        "name": "Disponibile su Amazon.it a partire dal",
+        "value": "3 luglio 2017"
+      },
+      {
+        "name": "Produttore",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "ASIN",
+        "value": "B07QCNTCK8"
+      },
+      {
+        "name": "Numero modello articolo",
+        "value": "WD-PT-04W"
+      },
+      {
+        "name": "Paese di origine",
+        "value": "Cina"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "Visualizza i Top 100 nella categoria Casa e cucina"
+      },
+      {
+        "name": "Marchio",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "Caratteristica speciale",
+        "value": "Riduzione del cloro, Certificato NSF"
+      },
+      {
+        "name": "Dimensioni del prodotto",
+        "value": "26,4L x 13,5l x 25,4H cm"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Brocca"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Non elettrico"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "453,59 Grammi"
+      },
+      {
+        "name": "Nome modello",
+        "value": "WD-PT-04W"
+      }
+    ],
+    "specifications_flat": "Nome modello: WD-PT-04W. Peso articolo: 453,59 Grammi. Sorgente di alimentazione: Non elettrico. Informazioni pacco: Brocca. Dimensioni del prodotto: 26,4L x 13,5l x 25,4H cm. Caratteristica speciale: Riduzione del cloro, Certificato NSF. Marchio: Waterdrop. Posizione nella classifica Bestseller di Amazon: Visualizza i Top 100 nella categoria Casa e cucina. Paese di origine: Cina. Numero modello articolo: WD-PT-04W. ASIN: B07QCNTCK8. Produttore: Waterdrop. Disponibile su Amazon.it a partire dal: 3 luglio 2017. Dimensioni prodotto: 14,48 x 30 x 27 cm; 453,59 grammi. Fuori produzione: No.",
+    "bestsellers_rank": [
+      {
+        "category": "Visualizza i Top 100 nella categoria Casa e cucina",
+        "rank": 10941,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
+      },
+      {
+        "category": "Caraffe Filtranti",
+        "rank": 28,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
+      }
+    ],
+    "weight": "453,59 Grammi",
+    "first_available": {
+      "raw": "3 luglio 2017",
+      "utc": "2017-07-03T00:00:00.000Z"
+    },
+    "dimensions": "26,4L x 13,5l x 25,4H cm",
+    "model_number": "WD-PT-04W",
+    "bestsellers_rank_flat": "Category: Visualizza i Top 100 nella categoria Casa e cucina | Rank: 10941, Category: Caraffe Filtranti | Rank: 28",
+    "whats_in_the_box": [
+      "filtro"
+    ]
+  },
+  "brand_store": {
+    "id": "8ED09DBC-7993-42CF-B62B-0450826C9A79",
+    "link": "https://www.amazon.it/stores/Waterdrop/page/8ED09DBC-7993-42CF-B62B-0450826C9A79"
+  },
+  "user_guide": "https://m.media-amazon.com/images/I/81cTDWtrZSL.pdf",
+  "newer_model": {
+    "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 4 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus)",
+    "asin": "B08HN2LCDG",
+    "link": "https://www.amazon.it/Waterdrop-Caraffa-Filtrante-Certificata-Ricambio-dp-B08HN2LCDG/dp/B08HN2LCDG/ref=dp_ob_image_def?tag=8vcue204-21",
+    "image": "https://m.media-amazon.com/images/I/51XyRWKX1GL._SR75,75_.jpg",
+    "rating": 4.5,
+    "ratings_total": 31,
+    "price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 59.99,
+      "raw": "€59,99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 60.98,
+      "raw": "60,98 €"
+    },
+    "products": [
+      {
+        "asin": "B07QCNTCK8",
+        "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus)",
+        "link": "https://www.amazon.it/dp/B07QCNTCK8?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61eAyClCnqL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 26.99,
+          "raw": "26,99€"
+        }
+      },
+      {
+        "asin": "B08RHSHJ8Y",
+        "title": "Waterdrop WD-PF-01A Plus Filtri di Ricambio Certificati NSF per Tutti i Sistemi di Filtrazione Della Caraffa Waterdrop, Durano Fino a 3 Mesi o 757 Litri (Confezione da 3)",
+        "link": "https://www.amazon.it/dp/B08RHSHJ8Y?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71I8WdJMJ9L._AC_UL116_SR116,116_.jpg"
+      }
+    ]
+  },
+  "also_bought": [
+    {
+      "title": "Waterdrop Caraffa Filtrante per Acqua da Frigo Elfin con Filtro per 3 Mesi, 2,5L, Riduce Fluoruro, Cloro e Altro, Certificata",
+      "asin": "B081GKX8FF",
+      "link": "https://www.amazon.it/Waterdrop-Lovely-dellacqua-filtrazione-fluoruro/dp/B081GKX8FF/ref=pd_sbs_sccl_2_1/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B081GKX8FF&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61TRA98YkPL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 6114,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 22.99,
+        "raw": "€22,99"
+      }
+    },
+    {
+      "title": "Waterdrop Lucid NSF Certificato 3.5L Caraffa Filtrante Progettata con 1×90 Giorni Filtro, Riduce Piombo, Fluoro, Cloro e Altr",
+      "asin": "B07C3P2RZP",
+      "link": "https://www.amazon.it/Waterdrop-Certificato-Filtrante-Progettata-Ricambio/dp/B07C3P2RZP/ref=pd_sbs_sccl_2_2/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B07C3P2RZP&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71oh4ll1HPL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 6918,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 24.99,
+        "raw": "€24,99"
+      }
+    },
+    {
+      "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 4 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cl",
+      "asin": "B08HN2LCDG",
+      "link": "https://www.amazon.it/Waterdrop-Caraffa-Filtrante-Certificata-Ricambio/dp/B08HN2LCDG/ref=pd_sbs_sccl_2_3/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B08HN2LCDG&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51XyRWKX1GL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 59.99,
+        "raw": "€59,99"
+      }
+    },
+    {
+      "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+      "asin": "B01GFJWA52",
+      "link": "https://www.amazon.it/AmazonBasics-Caraffa-filtrante-lacqua-litri/dp/B01GFJWA52/ref=pd_sbs_sccl_2_4/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B01GFJWA52&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61SV9cbfCiL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 12676,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 23.45,
+        "raw": "€23,45"
+      }
+    },
+    {
+      "title": "Philips Instant Water Filter, caraffa filtrante con capacità di 3 l, ricaricabile tramite porta USB-C",
+      "asin": "B09BR77WFK",
+      "link": "https://www.amazon.it/Philips-Water-filtrante-capacit%C3%A0-ricaricabile/dp/B09BR77WFK/ref=pd_sbs_sccl_2_5/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B09BR77WFK&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61AHIpdVQWL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.2,
+      "ratings_total": 2265,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 39.99,
+        "raw": "€39,99"
+      }
+    },
+    {
+      "title": "Waterdrop WD-PF-01A Plus Filtri di Ricambio Certificati NSF per Tutti i Sistemi di Filtrazione Della Caraffa Waterdrop, Duran",
+      "asin": "B08RHSHJ8Y",
+      "link": "https://www.amazon.it/Waterdrop-WD-PF-01A-Certificati-Filtrazione-Confezione/dp/B08RHSHJ8Y/ref=pd_sbs_sccl_2_6/261-7853746-9200048?pd_rd_w=osjVD&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=ASQQ0FAGC410T3H3YEJF&pd_rd_wg=JEpWF&pd_rd_r=20766a3a-73b4-4e16-b265-6b164f5f8d12&pd_rd_i=B08RHSHJ8Y&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71I8WdJMJ9L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1525,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 33.99,
+        "raw": "€33,99"
+      }
+    }
+  ]
+}
