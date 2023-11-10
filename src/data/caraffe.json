@@ -7,26 +7,41 @@
 		"filtri": [
 			{
 				"nome": "Essential",
-				"asin": "ASIN_Filtro_PFAS",
+				"asin": "",
 				"url": "hhttps://www.livelarq.com/accessories/larq-pitcher-filter-essential-filter",
 				"durata_litri": 227,
 				"durata_mesi": 3,
 				"costo": 21.32,
 				"caratteristiche": {
+					"calcare": 0,
+					"pfas": 0,
 					"cloro": 1,
 					"mercurio": 1,
 					"cadmio": 1,
-					"rame": 1
+					"rame": 1,
+					"bpa": 0,
+					"pesti": 1,
+					"benzene": 0,
+					"haa5": 0,
+					"deet": 0,
+					"voc": 1,
+					"tetracloruro": 1,
+					"stirene": 1,
+					"toluene": 1,
+					"particolato": 0,
+					"piombo": 0,
+					"resfarma": 0
 				}
 			},
 			{
 				"nome": "Advanced",
-				"asin": "ASIN_Filtro_Cloro",
+				"asin": "",
 				"url": "https://www.livelarq.com/accessories/larq-pitcher-filter-advanced-filter/",
 				"durata_litri": 227,
 				"durata_mesi": 3,
 				"costo": 27.88,
 				"caratteristiche": {
+					"calcare": 0,
 					"cloro": 1,
 					"mercurio": 1,
 					"cadmio": 1,
@@ -36,7 +51,14 @@
 					"particolato": 1,
 					"benzene": 1,
 					"pfas": 1,
-					"farma": 1
+					"resfarma": 1,
+					"bpa": 1,
+					"pesti": 1,
+					"stirene": 1,
+					"tetracloruro": 1,
+					"voc": 1,
+					"deet": 1,
+					"toluene": 1
 				}
 			}
 		]
@@ -45,19 +67,21 @@
 		"title": "ZeroWater",
 		"asin": "B07HKXKZ1J",
 		"file": "zerowater.json",
-
 		"filtri": [
 			{
 				"nome": "Unico",
-				"asin": "ASIN_Filtro_PFAS",
+				"asin": "",
 				"url": "https://www.google.it/",
 				"durata_litri": 500,
 				"durata_mesi": 2,
 				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
+					"pfas": 1,
+					"cloro": 1,
 					"mercurio": 1,
-					"piombo": 0
+					"piombo": 0,
+					"rame": 1,
+					"bpa": 0,
+					"pesti": 0
 				}
 			}
 		]
@@ -66,7 +90,6 @@
 		"title": "Waterdrop Chubby",
 		"asin": "B07QCNTCK8",
 		"file": "waterdrop-chubby.json",
-
 		"filtri": [
 			{
 				"nome": "Filtro PFAS",
@@ -78,7 +101,8 @@
 					"pfas": 0,
 					"cloro": -1,
 					"mercurio": 1,
-					"piombo": 0
+					"piombo": 0,
+					"haa5": 0
 				}
 			},
 			{
@@ -100,19 +124,21 @@
 		"title": "Brita Marella XL",
 		"asin": "B0CJ9RWQG2",
 		"file": "brita.json",
-
 		"filtri": [
 			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
+				"nome": "Filtro standard",
+				"asin": "",
 				"url": "https://www.google.it/",
 				"durata_litri": 500,
 				"durata_mesi": 2,
 				"caratteristiche": {
 					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
+					"cloro": 1,
+					"mercurio": 0,
+					"piombo": 0,
+					"rame": 1,
+					"bpa": 0,
+					"pesti": 0
 				}
 			},
 			{
@@ -134,7 +160,6 @@
 		"title": "Philips Instant Water",
 		"asin": "B09BR77WFK",
 		"file": "philips.json",
-
 		"filtri": [
 			{
 				"nome": "Filtro PFAS",

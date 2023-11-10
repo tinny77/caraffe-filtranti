@@ -1,40 +1,48 @@
 {
 	"pfas": {
-		"etichetta": "PFAS/PFOA",
-		"nota": "Questo è un testo di nota per la caratteristica PFAS."
+		"etichetta": "PFAS/PFOA"
 	},
 	"cloro": {
-		"etichetta": "Cloro",
-		"nota": "Nota per il cloro."
+		"etichetta": "Cloro"
 	},
 	"mercurio": {
-		"etichetta": "Mercurio",
-		"nota": "Nota per il mercurio."
+		"etichetta": "Mercurio"
 	},
 	"cadmio": {
-		"etichetta": "Cadmio",
-		"nota": "Nota per il cadmio."
+		"etichetta": "Cadmio"
 	},
 	"piombo": {
 		"etichetta": "Piombo"
-	}
-	,
+	},
 	"rame": {
-		"etichetta": "Piombo"
-	}
-	,
+		"etichetta": "Rame"
+	},
 	"haa5": {
-		"etichetta": "Haa5 (acido aloacetico)"
-	}
-	,
+		"etichetta": "Haa5 (Acido aloacetico)"
+	},
+	"deet": {
+		"etichetta": "DEET (Dietiltoluamide)"
+	},
+	"pesti": {
+		"etichetta": "Pesticidi, erbicidi, diserbanti"
+	},
+	"voc": {
+		"etichetta": "VOCs (Composti organici volatili)"
+	},
 	"particolato": {
 		"etichetta": "Polveri sottili"
-	}
-	,
+	},
 	"benzene": {
 		"etichetta": "Benzene"
 	},
-	"farma": {
+	"resfarma": {
 		"etichetta": "Residui farmaceutici"
-	}
+	},
+	"tetracloruro": { "etichetta": "Tetracloruro di carbonio" },
+	"stirene": { "etichetta": "Stirene" },
+	"toluene": { "etichetta": "Toluene" },
+	"bpa": {
+		"etichetta": "BPA (Bisfenolo A)"
+	},
+	"calcare": { "etichetta": "Calcare" }
 }

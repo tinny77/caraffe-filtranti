@@ -1,13 +1,21 @@
 import React, { useState, useEffect } from 'react';
 
-export default function Calcolatore({ lista, mainfile, car, setCar }) {
+export default function Calcolatore({
+	lista,
+	mainfile,
+	car,
+	setCar,
+	getFiltroString,
+}) {
 	const [eurlit, setEurlit] = useState(0.35);
 	const [daylit, setDaylit] = useState(2);
 	const [yearCost, setYearCost] = useState(0);
 	const [startCost, setStartCost] = useState('');
 	const [newYearCost, setNewYearCost] = useState('');
-	const [durataMesi,setDurataMesi] = useState(0);
-	const [durataLitri,setDurataLitri] = useState(0);
+	const [durataMesi, setDurataMesi] = useState(0);
+	const [durataLitri, setDurataLitri] = useState(0);
+	const [filters, setFilters] = useState(1);
+	const [newYearCostNotes, setNewYearCostNotes] = useState('');
 
 	const Drops = ({ litres }) => {
 		let icons = [];
@@ -33,11 +41,21 @@ export default function Calcolatore({ lista, mainfile, car, setCar }) {
 		let coins = [];
 		let totcoins = Math.floor(amount * 10);
 
-		for (let i = 0; i < totcoins; i++) {
+		for (let i = 1; i < totcoins; i++) {
 			coins.push(<img key={i} src="/img/coin.svg" className="coin" />);
 		}
 
 		return <div>{coins}</div>;
+	};
+
+	const Filters = ({ number }) => {
+		let filters = [];
+
+		for (let i = 0; i < number; i++) {
+			filters.push(<img key={i} src="/img/filter.svg" className="filter" />);
+		}
+
+		return <div>{filters}</div>;
 	};
 
 	const manageEurLit = (e) => {
@@ -51,40 +69,76 @@ export default function Calcolatore({ lista, mainfile, car, setCar }) {
 		setDaylit(val);
 	};
 
-const manageNewCost = (e) => {
-  let providedAsin = e.target.value;
-  setCar(providedAsin);
-  let [actualAsin, filtroNome] = providedAsin.split('_'); // Dividi l'input in asin e filtroNome se c'è un underscore
+	const manageNewCost = (e) => {
+		let providedAsin = e.target.value;
+		setCar(providedAsin);
+		let [actualAsin, filtroNome] = providedAsin.split('_'); // Dividi l'input in asin e filtroNome se c'è un underscore
 
-  const matchingObject = lista.find((item) => item.asin === (filtroNome ? actualAsin : providedAsin));
+		const matchingCaraffa = lista.find(
+			(item) => item.asin === (filtroNome ? actualAsin : providedAsin)
+		);
 
-  if (matchingObject) {
-    setStartCost(matchingObject.price);
-    
-    if (filtroNome) {
-      const filtro = matchingObject.filtri.find(
-        (f) =>
-          f.nome.toLowerCase().replace(/ /g, '') === filtroNome.toLowerCase()
-      );
+		if (matchingCaraffa) {
+			setStartCost(matchingCaraffa.price);
 
-      if (filtro) {
-        // Utilizza i valori del filtro per il calcolo
-        setDurataMesi(filtro.durata_mesi);
-        setDurataLitri(filtro.durata_litri);
-      }
-    } else {
-      setDurataMesi(null);
-      setDurataLitri(null);
-    }
-  }
-};
+			if (filtroNome) {
+				const filtro = matchingCaraffa.filtri.find(
+					(f) => getFiltroString(f.nome) === getFiltroString(filtroNome)
+				);
 
+				let prezzo_filtro = 0;
+
+				if (filtro) {
+					// Utilizza i valori del filtro per il calcolo
+					setDurataMesi(filtro.durata_mesi);
+					setDurataLitri(filtro.durata_litri);
+					prezzo_filtro = filtro.costo;
+					//console.log(`Durata mesi:  ${durataMesi}`);
+					//console.log(`Durata litri:  ${durataLitri}`);
+				}
+				//Calcolo costo filtri annuale
+				let durata_filtro_giorni = durataMesi * 30;
+				let filtri = 12 / durataMesi;
+				setNewYearCostNotes(
+					`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
+						daylit * (durataMesi * 30)
+					} litri, inferiori al limite di ${durataLitri} litri per ogni filtro. Verranno quindi consumati circa ${
+						12 / durataMesi
+					} filtri all'anno (questo perché il filtro andrà comunque cambiato ogni ${durataMesi} mesi).`
+				);
+				//Se consumo più litri, il filtro dura meno...
+				if (daylit * durata_filtro_giorni > durataLitri) {
+					durata_filtro_giorni = durataLitri / daylit;
+					filtri = 365 / durata_filtro_giorni;
+					setNewYearCostNotes(
+						`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
+							daylit * (durataMesi * 30)
+						} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
+							0
+						)} giorni, per un consumo di circa ${(
+							365 / durata_filtro_giorni
+						).toFixed(0)} filtri all'anno.`
+					);
+				}
+				/*console.log(
+					`365 / ${durata_filtro_giorni} * ${prezzo_filtro} ---- daylit: ${daylit}`
+				);*/
+				setNewYearCost(
+					((365 / durata_filtro_giorni) * prezzo_filtro).toFixed(0)
+				);
+				setFilters(filtri.toFixed(0));
+			} else {
+				setDurataMesi(null);
+				setDurataLitri(null);
+			}
+		}
+	};
 
 	useEffect(() => {
 		if (car) {
 			manageNewCost({ target: { value: car } });
 		}
-	}, [lista, car, manageNewCost]);
+	}, [lista, car, manageNewCost, daylit]);
 	useEffect(() => {
 		const costo_annuale = Math.round(eurlit * daylit * 365);
 		setYearCost(costo_annuale);
@@ -127,7 +181,7 @@ const manageNewCost = (e) => {
 					/>
 				</div>
 				<div className="row underline">
-					<label>Costo annuale </label>
+					<label>Costo annuale acqua in bottiglia</label>
 					<span>€ {yearCost}</span>
 				</div>
 			</div>
@@ -135,60 +189,56 @@ const manageNewCost = (e) => {
 				<h1 className="text-4xl font-bold mb-4">
 					Spesa futura (acqua filtrata)
 				</h1>
-				<div className="row">
+				<div className="row mb-2">
 					<label>Caraffa</label>
-<select onChange={(e) => manageNewCost(e)}>
-  {!car && (
-    <option value="" selected>
-      Seleziona...
-    </option>
-  )}
-  {lista.flatMap((entry) =>
-    entry.filtri.length > 1
-      ? entry.filtri.map((filtro) => (
-          <option
-            key={`${entry.asin}_${filtro.nome.toLowerCase().replace(/ /g, '')}`}
-            value={`${entry.asin}_${filtro.nome.toLowerCase().replace(/ /g, '')}`}
-            selected={`${entry.asin}_${filtro.nome.toLowerCase().replace(/ /g, '')}` === car}
-          >
-            {entry.custom_title} - {filtro.nome}
-          </option>
-        ))
-      : [
-          <option
-            key={entry.asin}
-            value={entry.asin}
-            selected={entry.asin === car}
-          >
-            {entry.custom_title}
-          </option>,
-        ]
-  )}
-</select>
+					<select onChange={(e) => manageNewCost(e)}>
+						{!car && (
+							<option value="" selected>
+								Seleziona...
+							</option>
+						)}
+						{lista.flatMap((entry) =>
+							entry.filtri.length > 1
+								? entry.filtri.map((filtro) => (
+										<option
+											key={`${entry.asin}${getFiltroString(filtro.nome)}`}
+											value={`${entry.asin}${getFiltroString(filtro.nome)}`}
+											selected={
+												`${entry.asin}${getFiltroString(filtro.nome)}` === car
+											}
+										>
+											{entry.custom_title} - {filtro.nome}
+										</option>
+								  ))
+								: [
+										<option
+											key={entry.asin}
+											value={entry.asin}
+											selected={entry.asin === car}
+										>
+											{entry.custom_title}
+										</option>,
+								  ]
+						)}
+					</select>
 				</div>
 				{car && (
 					<>
-						<div className="row underline">
-							<label>Costo iniziale</label>
+						{/* <Coins amount={startCost} /> */}
+						<div className="row underline py-4">
+							<label>Costo iniziale caraffa</label>
 							<span>€ {startCost}</span>
 						</div>
 
+						{/* <Filters number={filters} /> */}
+
 						<div className="row underline">
-							<label>Costo annuale successivo</label>
-							<span
-								className={
-									newYearCost < yearCost ? 'text-green-600' : 'text-red-600'
-								}
-							>
-								€ {newYearCost}
-							</span>
+							<label>Costo annuale filtri</label>
+							<span>€ {newYearCost}</span>
 						</div>
 						<div className="row">
 							<br />
-							<small>
-								Note su filtro incluso o meno, numero filtri utilizzati, ecc..
-							</small>
-							CARAFFA SELEZIONATA: {car}
+							<small className="text-block">{newYearCostNotes}</small>
 						</div>
 					</>
 				)}

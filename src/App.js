@@ -5,11 +5,14 @@ import Caraffe from './Caraffe';
 import Calcolatore from './Calcolatore';
 import caraffeData from './data/caraffe.json';
 
-function shuffleArray(array) {
+const shuffleArray = (array) => {
 	return array.sort(function () {
 		return Math.random() - 0.5;
 	});
-}
+};
+
+const getFiltroString = (filtro = '') =>
+	filtro ? '_' + filtro.toLowerCase().replace(/ /g, '') : '';
 
 function App() {
 	const [loadedData, setLoadedData] = useState([]);
@@ -52,12 +55,14 @@ function App() {
 						setLista={setLoadedData}
 						car={selectedCaraffa}
 						setCar={setSelectedCaraffa}
+						getFiltroString={getFiltroString}
 					/>
 					<Calcolatore
 						lista={loadedData}
 						mainfile={caraffeData}
 						car={selectedCaraffa}
 						setCar={setSelectedCaraffa}
+						getFiltroString={getFiltroString}
 					/>
 				</>
 			) : (
