@@ -1,8 +1,9 @@
 [
 	{
-		"title": "Larq",
+		"title": "LARQ Pitcher PureVis",
 		"asin": "B00CWY0CY6",
 		"file": "larq.json",
+		"capacita": 1.9,
 		"nota": "Il prezzo della caraffa è comprensivo di 1 filtro 'advanced'",
 		"filtri": [
 			{
@@ -90,32 +91,21 @@
 		"title": "Waterdrop Chubby",
 		"asin": "B07QCNTCK8",
 		"file": "waterdrop-chubby.json",
+		"capacita": 3.5,
 		"filtri": [
 			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
+				"nome": "Filtro WD-PF-01A Plus",
+				"asin": "B08RHSHJ8Y",
+				"url": "https://www.amazon.it/Waterdrop-WD-PF-01A-Certificati-Filtrazione-Confezione/dp/B08RHSHJ8Y",
+				"costo": 32.29,
+				"durata_litri": 757,
+				"durata_mesi": 3,
 				"caratteristiche": {
 					"pfas": 0,
 					"cloro": -1,
 					"mercurio": 1,
 					"piombo": 0,
 					"haa5": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
 				}
 			}
 		]

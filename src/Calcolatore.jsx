@@ -81,56 +81,56 @@ export default function Calcolatore({
 		if (matchingCaraffa) {
 			setStartCost(matchingCaraffa.price);
 
+			//console.log(filtroNome);
+			let filtro;
+
 			if (filtroNome) {
-				const filtro = matchingCaraffa.filtri.find(
+				filtro = matchingCaraffa.filtri.find(
 					(f) => getFiltroString(f.nome) === getFiltroString(filtroNome)
 				);
+			} else {
+				filtro = matchingCaraffa.filtri[0];
+			}
 
-				let prezzo_filtro = 0;
+			let prezzo_filtro = 0;
 
-				if (filtro) {
-					// Utilizza i valori del filtro per il calcolo
-					setDurataMesi(filtro.durata_mesi);
-					setDurataLitri(filtro.durata_litri);
-					prezzo_filtro = filtro.costo;
-					//console.log(`Durata mesi:  ${durataMesi}`);
-					//console.log(`Durata litri:  ${durataLitri}`);
-				}
-				//Calcolo costo filtri annuale
-				let durata_filtro_giorni = durataMesi * 30;
-				let filtri = 12 / durataMesi;
+			if (filtro) {
+				// Utilizza i valori del filtro per il calcolo
+				setDurataMesi(filtro.durata_mesi);
+				setDurataLitri(filtro.durata_litri);
+				prezzo_filtro = filtro.costo;
+				//console.log(`Durata mesi:  ${durataMesi}`);
+				//console.log(`Durata litri:  ${durataLitri}`);
+			}
+			//Calcolo costo filtri annuale
+			let durata_filtro_giorni = durataMesi * 30;
+			let filtri = 12 / durataMesi;
+			setNewYearCostNotes(
+				`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
+					daylit * (durataMesi * 30)
+				} litri, inferiori al limite di ${durataLitri} litri per ogni filtro. Verranno quindi consumati circa ${
+					12 / durataMesi
+				} filtri all'anno (questo perché il filtro andrà comunque cambiato ogni ${durataMesi} mesi).`
+			);
+			//Se consumo più litri, il filtro dura meno...
+			if (daylit * durata_filtro_giorni > durataLitri) {
+				durata_filtro_giorni = durataLitri / daylit;
+				filtri = 365 / durata_filtro_giorni;
 				setNewYearCostNotes(
 					`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
 						daylit * (durataMesi * 30)
-					} litri, inferiori al limite di ${durataLitri} litri per ogni filtro. Verranno quindi consumati circa ${
-						12 / durataMesi
-					} filtri all'anno (questo perché il filtro andrà comunque cambiato ogni ${durataMesi} mesi).`
+					} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
+						0
+					)} giorni, per un consumo di circa ${(
+						365 / durata_filtro_giorni
+					).toFixed(0)} filtri all'anno.`
 				);
-				//Se consumo più litri, il filtro dura meno...
-				if (daylit * durata_filtro_giorni > durataLitri) {
-					durata_filtro_giorni = durataLitri / daylit;
-					filtri = 365 / durata_filtro_giorni;
-					setNewYearCostNotes(
-						`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
-							daylit * (durataMesi * 30)
-						} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
-							0
-						)} giorni, per un consumo di circa ${(
-							365 / durata_filtro_giorni
-						).toFixed(0)} filtri all'anno.`
-					);
-				}
-				/*console.log(
+			}
+			/*console.log(
 					`365 / ${durata_filtro_giorni} * ${prezzo_filtro} ---- daylit: ${daylit}`
 				);*/
-				setNewYearCost(
-					((365 / durata_filtro_giorni) * prezzo_filtro).toFixed(0)
-				);
-				setFilters(filtri.toFixed(0));
-			} else {
-				setDurataMesi(null);
-				setDurataLitri(null);
-			}
+			setNewYearCost(((365 / durata_filtro_giorni) * prezzo_filtro).toFixed(0));
+			setFilters(filtri.toFixed(0));
 		}
 	};
 

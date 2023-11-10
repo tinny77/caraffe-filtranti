@@ -111,7 +111,9 @@ const ProductItem = ({
 			<Caratteristiche filtro={filtro} sostanzeData={sostanzeData} />
 
 			<a href={entry.link} target="_blank" rel="noreferrer">
-				<button className="bg-gray-800 p-1 px-4 mt-5">ACQUISTA</button>
+				<button className="bg-gray-800 p-1 px-4 mt-5 rounded-md">
+					ACQUISTA
+				</button>
 			</a>
 			{lista.length > 1 && (
 				<span
