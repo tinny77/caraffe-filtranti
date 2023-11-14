@@ -1,8 +1,8 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 74,
-    "credits_remaining": 26,
+    "credits_used": 84,
+    "credits_remaining": 16,
     "credits_used_this_request": 1
   },
   "request_parameters": {
@@ -15,9 +15,9 @@
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-09T09:36:27.287Z",
-    "processed_at": "2023-11-09T09:36:32.408Z",
-    "total_time_taken": 5.12,
+    "created_at": "2023-11-10T16:52:12.524Z",
+    "processed_at": "2023-11-10T16:52:23.910Z",
+    "total_time_taken": 11.39,
     "amazon_url": "https://www.amazon.it/dp/B0CG1KX7ZH?th=1&psc=1&language=it_IT"
   },
   "product": {
@@ -192,7 +192,7 @@
       "fulfillment": {
         "type": "3p",
         "standard_delivery": {
-          "date": "16 - 20 novembre",
+          "date": "20 - 22 novembre",
           "name": "GRATUITA"
         },
         "is_sold_by_amazon": false,
@@ -276,9 +276,23 @@
   },
   "also_bought": [
     {
+      "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cl",
+      "asin": "B07QCNTCK8",
+      "link": "https://www.amazon.it/Waterdrop-Caraffa-Filtrante-Certificata-Ricambio/dp/B07QCNTCK8/ref=pd_day0_sccl_2_1/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B07QCNTCK8&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61eAyClCnqL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 7248,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 26.99,
+        "raw": "€26,99"
+      }
+    },
+    {
       "title": "Laica J31Af Stream Line Caraffa Filtrante, Plastica, 2.3L, Bianco, ‎‎22 x 21 x 9 cm 617 grammi",
       "asin": "B002ECI19E",
-      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_day0_sccl_2_1/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_day0_sccl_2_2/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/513eQbk7f0L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
       "ratings_total": 1452,
@@ -290,26 +304,12 @@
       }
     },
     {
-      "title": "Laica Kit J9057 Caraffa Filtrante per il Trattamento dell'Acqua Big Roma, con 3 Indicatori Manuali Volorati, Capacità totale ",
-      "asin": "B01GQ0ODJG",
-      "link": "https://www.amazon.it/Laica-filtrante-trattamento-dellacqua-Indicatori/dp/B01GQ0ODJG/ref=pd_day0_sccl_2_2/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B01GQ0ODJG&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61EEwP+p11L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 587,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 26,
-        "raw": "€26,00"
-      }
-    },
-    {
       "title": "Wessper Caraffa Filtrante di Vetro con 1 Cartuccia Aquaclassic (Compatibile con Brita Classic), Elimina Cloro, Impurità e Met",
       "asin": "B0B39C2W9C",
-      "link": "https://www.amazon.it/Wessper-Filtrante-Cartuccia-Aquaclassic-Compatibile/dp/B0B39C2W9C/ref=pd_day0_sccl_2_3/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B0B39C2W9C&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Wessper-Filtrante-Cartuccia-Aquaclassic-Compatibile/dp/B0B39C2W9C/ref=pd_day0_sccl_2_3/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B0B39C2W9C&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71mdAW6FnlL._AC_UL160_SR160,160_.jpg",
       "rating": 4,
-      "ratings_total": 52,
+      "ratings_total": 53,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -320,10 +320,10 @@
     {
       "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribalta",
       "asin": "B0BT1F3BV2",
-      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_day0_sccl_2_4/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_day0_sccl_2_4/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71YQ3OaynxL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.4,
-      "ratings_total": 443,
+      "rating": 4.5,
+      "ratings_total": 455,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -334,10 +334,10 @@
     {
       "title": "BRITA Caraffa Filtrante Marella per acqua, Bianco (2.4l) - incl. 3 Filtri MAXTRA+ per la riduzione di cloro, calcare e impuri",
       "asin": "B01MZZI7OI",
-      "link": "https://www.amazon.it/BRITA-Marella-Confezione-Caraffa-Coperchio/dp/B01MZZI7OI/ref=pd_day0_sccl_2_5/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B01MZZI7OI&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/BRITA-Marella-Confezione-Caraffa-Coperchio/dp/B01MZZI7OI/ref=pd_day0_sccl_2_5/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B01MZZI7OI&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61+qVHTtxLL._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
-      "ratings_total": 52584,
+      "ratings_total": 52608,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -346,17 +346,17 @@
       }
     },
     {
-      "title": "BRITA Caraffa Filtrante Marella XL per acqua, Bianco (3.5l) - incl. 1 Filtro MAXTRA+ per la riduzione di cloro, calcare e imp",
-      "asin": "B01N2O4KQC",
-      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-Bianco/dp/B01N2O4KQC/ref=pd_day0_sccl_2_6/261-3904442-7528166?pd_rd_w=IbX1f&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=7Y6J8Q0GW6SVJRWFF1GW&pd_rd_wg=msmuL&pd_rd_r=11acbf66-58e9-43de-b091-3e7bfc186e6f&pd_rd_i=B01N2O4KQC&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61P99P5BSUL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.7,
-      "ratings_total": 9047,
+      "title": "BRITA Caraffa Filtrante Marella per acqua, Bianco (2.4l) - incl. 1 Filtro MAXTRA+ per la riduzione di cloro, calcare e impuri",
+      "asin": "B01NCEIPNM",
+      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-Bianco/dp/B01NCEIPNM/ref=pd_day0_sccl_2_6/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B01NCEIPNM&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/618qcOfmTkL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 9058,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 34.9,
-        "raw": "€34,90"
+        "value": 23.8,
+        "raw": "€23,80"
       }
     }
   ]

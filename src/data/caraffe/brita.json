@@ -1,8 +1,8 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 71,
-    "credits_remaining": 29,
+    "credits_used": 81,
+    "credits_remaining": 19,
     "credits_used_this_request": 1
   },
   "request_parameters": {
@@ -15,9 +15,9 @@
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-09T09:35:38.149Z",
-    "processed_at": "2023-11-09T09:35:42.917Z",
-    "total_time_taken": 4.77,
+    "created_at": "2023-11-10T16:51:17.623Z",
+    "processed_at": "2023-11-10T16:51:25.328Z",
+    "total_time_taken": 7.71,
     "amazon_url": "https://www.amazon.it/dp/B0CJ9RWQG2?th=1&psc=1&language=it_IT"
   },
   "product": {
@@ -134,7 +134,7 @@
       "fulfillment": {
         "type": "3p",
         "standard_delivery": {
-          "date": "17 - 22 novembre",
+          "date": "20 - 23 novembre",
           "name": "a 8"
         },
         "is_sold_by_amazon": false,
@@ -186,12 +186,12 @@
     "bestsellers_rank": [
       {
         "category": "Visualizza i Top 100 nella categoria Casa e cucina",
-        "rank": 409513,
+        "rank": 440813,
         "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
       },
       {
         "category": "Caraffe Filtranti",
-        "rank": 262,
+        "rank": 273,
         "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
       }
     ],
@@ -199,7 +199,7 @@
       "raw": "18 settembre 2023",
       "utc": "2023-09-18T00:00:00.000Z"
     },
-    "bestsellers_rank_flat": "Category: Visualizza i Top 100 nella categoria Casa e cucina | Rank: 409513, Category: Caraffe Filtranti | Rank: 262"
+    "bestsellers_rank_flat": "Category: Visualizza i Top 100 nella categoria Casa e cucina | Rank: 440813, Category: Caraffe Filtranti | Rank: 273"
   },
   "frequently_bought_together": {
     "total_price": {
@@ -249,26 +249,32 @@
   },
   "similar_to_consider": {
     "asin": "B01GFJWA52",
-    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt1_TIER4_trans_lp_B0CJ9RWQG2_pd?_encoding=UTF8&pf_rd_p=75fe3d72-561e-49da-8142-0cec61c0a0d4&pf_rd_r=P972NE09NQ38Z64ABF75&pd_rd_wg=mqv0Q&pd_rd_i=B01GFJWA52&pd_rd_w=AU9gl&content-id=amzn1.sym.75fe3d72-561e-49da-8142-0cec61c0a0d4&pd_rd_r=af1b8199-89b5-42f5-bab1-3afdc6e4725f&psc=1",
+    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt2_TIER4_trans_lp_B0CJ9RWQG2_pd?_encoding=UTF8&pf_rd_p=ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pf_rd_r=7C9VYZQ7PNZHQ9T3BEJE&pd_rd_wg=OlEjn&pd_rd_i=B01GFJWA52&pd_rd_w=oxLxZ&content-id=amzn1.sym.ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pd_rd_r=440059b2-61d9-41fb-ba91-4ad232f56c36&psc=1",
     "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
     "rating": 4.5,
-    "ratings_total": 12676,
+    "ratings_total": 12685,
     "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._SS100_.jpg",
+    "price": {
+      "currency": "EUR",
+      "value": 23.45,
+      "symbol": "€",
+      "raw": "EUR 23,45"
+    },
     "is_prime": true
   },
   "also_bought": [
     {
-      "title": "BRITA Caraffa Filtrante Marella XL Bianca (3.5L) incl. 1 Filtro MAXTRA PRO All-in-1 Adatta alla Porta del Frigorifero con Mem",
+      "title": "BRITA Caraffa filtrante Marella bianca XL (3.5L) incl. 1 filtro MAXTRA PRO All-in-1, adatta alla porta del frigorifero con Me",
       "asin": "B0BSXFVB6M",
-      "link": "https://www.amazon.it/Filtrante-Frigorifero-Ribaltabile-Confezione-Sostenibile/dp/B0BSXFVB6M/ref=pd_sbs_sccl_2_1/261-8625033-0480755?pd_rd_w=coejL&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=P972NE09NQ38Z64ABF75&pd_rd_wg=11zuP&pd_rd_r=9983849a-d8e8-4ed9-9661-40b045a3f3e4&pd_rd_i=B0BSXFVB6M&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/filtrante-frigorifero-ribaltabile-confezione-sostenibile/dp/B0BSXFVB6M/ref=pd_sbs_sccl_2_1/258-6371412-1966745?pd_rd_w=FaFV1&content-id=amzn1.sym.ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_p=ce400ce7-984f-4f97-b73f-ff7e0243db6f&pf_rd_r=7C9VYZQ7PNZHQ9T3BEJE&pd_rd_wg=UEiTU&pd_rd_r=bdfde867-c825-4744-a372-f59c4f775677&pd_rd_i=B0BSXFVB6M&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81MWz9x9ZtL._AC_UL160_SR160,160_.jpg",
       "rating": 4.7,
-      "ratings_total": 9047,
+      "ratings_total": 9069,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 29.64,
-        "raw": "€29,64"
+        "value": 27.69,
+        "raw": "€27,69"
       }
     }
   ]

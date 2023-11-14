@@ -1,314 +1,70 @@
 [
 	{
 		"title": "LARQ Pitcher PureVis",
+		"code": "larq",
 		"asin": "B00CWY0CY6",
 		"file": "larq.json",
 		"capacita": 1.9,
-		"nota": "Il prezzo della caraffa è comprensivo di 1 filtro 'advanced'",
-		"filtri": [
-			{
-				"nome": "Essential",
-				"asin": "",
-				"url": "hhttps://www.livelarq.com/accessories/larq-pitcher-filter-essential-filter",
-				"durata_litri": 227,
-				"durata_mesi": 3,
-				"costo": 21.32,
-				"caratteristiche": {
-					"calcare": 0,
-					"pfas": 0,
-					"cloro": 1,
-					"mercurio": 1,
-					"cadmio": 1,
-					"rame": 1,
-					"bpa": 0,
-					"pesti": 1,
-					"benzene": 0,
-					"haa5": 0,
-					"deet": 0,
-					"voc": 1,
-					"tetracloruro": 1,
-					"stirene": 1,
-					"toluene": 1,
-					"particolato": 0,
-					"piombo": 0,
-					"resfarma": 0
-				}
-			},
-			{
-				"nome": "Advanced",
-				"asin": "",
-				"url": "https://www.livelarq.com/accessories/larq-pitcher-filter-advanced-filter/",
-				"durata_litri": 227,
-				"durata_mesi": 3,
-				"costo": 27.88,
-				"caratteristiche": {
-					"calcare": 0,
-					"cloro": 1,
-					"mercurio": 1,
-					"cadmio": 1,
-					"rame": 1,
-					"haa5": 1,
-					"piombo": 1,
-					"particolato": 1,
-					"benzene": 1,
-					"pfas": 1,
-					"resfarma": 1,
-					"bpa": 1,
-					"pesti": 1,
-					"stirene": 1,
-					"tetracloruro": 1,
-					"voc": 1,
-					"deet": 1,
-					"toluene": 1
-				}
-			}
-		]
+		"nota": "Il prezzo della caraffa è comprensivo di 1 filtro 'advanced'"
 	},
 	{
 		"title": "ZeroWater",
+		"code": "zerowater",
 		"asin": "B07HKXKZ1J",
 		"file": "zerowater.json",
-		"filtri": [
-			{
-				"nome": "Unico",
-				"asin": "",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 1,
-					"cloro": 1,
-					"mercurio": 1,
-					"piombo": 0,
-					"rame": 1,
-					"bpa": 0,
-					"pesti": 0
-				}
-			}
-		]
+		"capacita": 2.5
+	},
+	{
+		"title": "Waterdrop Lucid",
+		"code": "waterdrop-lucid",
+		"asin": "B0891QZ9PT",
+		"file": "waterdrop-lucy.json",
+		"capacita": 3.5
 	},
 	{
 		"title": "Waterdrop Chubby",
+		"code": "waterdrop-chubby",
 		"asin": "B07QCNTCK8",
 		"file": "waterdrop-chubby.json",
-		"capacita": 3.5,
-		"filtri": [
-			{
-				"nome": "Filtro WD-PF-01A Plus",
-				"asin": "B08RHSHJ8Y",
-				"url": "https://www.amazon.it/Waterdrop-WD-PF-01A-Certificati-Filtrazione-Confezione/dp/B08RHSHJ8Y",
-				"costo": 32.29,
-				"durata_litri": 757,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0,
-					"haa5": 0
-				}
-			}
-		]
+		"capacita": 3.5
 	},
 	{
 		"title": "Brita Marella XL",
+		"code": "brita-marella-xl",
 		"asin": "B0CJ9RWQG2",
-		"file": "brita.json",
-		"filtri": [
-			{
-				"nome": "Filtro standard",
-				"asin": "",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": 1,
-					"mercurio": 0,
-					"piombo": 0,
-					"rame": 1,
-					"bpa": 0,
-					"pesti": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"file": "brita.json"
 	},
 	{
 		"title": "Philips Instant Water",
+		"code": "philips-instant-water",
 		"asin": "B09BR77WFK",
 		"file": "philips.json",
-		"filtri": [
-			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"capacita": 3
 	},
 	{
 		"title": "Amazon Basics",
+		"code": "amazon-basics",
 		"asin": "B01GFJWA52",
 		"file": "amazon.json",
-		"filtri": [
-			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"capacita": 1.4
 	},
 	{
 		"title": "Dafi Crystal",
+		"code": "dafi-crystal",
 		"asin": "B0CG1KX7ZH",
-		"file": "dafi-crystal.json",
-		"filtri": [
-			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"file": "dafi-crystal.json"
 	},
 	{
 		"title": "Aarke Purifier",
+		"code": "aarke",
 		"asin": "B09YMH8K33",
 		"file": "aarke.json",
-		"filtri": [
-			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"capacita": 1.2
 	},
 	{
 		"title": "Laica J996",
+		"code": "laica-j996",
 		"asin": "B0086W3D8K",
-		"file": "laica-j996.json",
-		"filtri": [
-			{
-				"nome": "Filtro PFAS",
-				"asin": "ASIN_Filtro_PFAS",
-				"url": "https://www.google.it/",
-				"durata_litri": 500,
-				"durata_mesi": 2,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			},
-			{
-				"nome": "Filtro Cloro",
-				"asin": "ASIN_Filtro_Cloro",
-				"url": "https://www.google.it/",
-				"durata_litri": 1000,
-				"durata_mesi": 3,
-				"caratteristiche": {
-					"pfas": 0,
-					"cloro": -1,
-					"mercurio": 1,
-					"piombo": 0
-				}
-			}
-		]
+		"file": "laica-j996.json"
 	}
 ]

@@ -1,8 +1,8 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 68,
-    "credits_remaining": 32,
+    "credits_used": 77,
+    "credits_remaining": 23,
     "credits_used_this_request": 1
   },
   "request_parameters": {
@@ -15,9 +15,9 @@
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-09T09:35:02.557Z",
-    "processed_at": "2023-11-09T09:35:08.393Z",
-    "total_time_taken": 5.84,
+    "created_at": "2023-11-10T16:50:46.943Z",
+    "processed_at": "2023-11-10T16:50:53.541Z",
+    "total_time_taken": 6.6,
     "amazon_url": "https://www.amazon.it/dp/B00CWY0CY6?th=1&psc=1&language=it_IT"
   },
   "product": {
@@ -40,118 +40,8 @@
       "8-Coppa"
     ],
     "asin": "B00CWY0CY6",
-    "parent_asin": "B0B1Z6XLJD",
-    "link": "https://www.amazon.it/dp/B00CWY0CY6?%3Fth=1&psc=1&tag=8vcue204-21",
+    "link": "https://www.amazon.it/LARQ-Pitcher-PureVis/dp/B0B1Z6XLJD?tag=8vcue204-21",
     "brand": "LARQ",
-    "variants": [
-      {
-        "asin": "B00CWY0CY6",
-        "title": "Monaco Blue",
-        "is_current_product": true,
-        "link": "https://www.amazon.it/dp/B00CWY0CY6?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Colore",
-            "value": "Monaco Blue"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61fF+sC50DL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/71+dKYy6E+L._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/81WKbbO9QnL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/71+nD6MsT0L._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg"
-          }
-        ],
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 168,
-          "raw": "€168,00"
-        }
-      },
-      {
-        "asin": "B00CWY0OBC",
-        "title": "Pure White",
-        "is_current_product": false,
-        "link": "https://www.amazon.it/dp/B00CWY0OBC?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Colore",
-            "value": "Pure White"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/51lq184iTLL._AC_SL1500_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/51lq184iTLL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/51++AjDLy1L._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/71stTOmWvxL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/713m63UxWEL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/91OUI7U9hlL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/71VQzXonYBL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71hX1+tEXlL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71aZe5fri-L._AC_SL1500_.jpg"
-          }
-        ],
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 168,
-          "raw": "€168,00"
-        }
-      }
-    ],
-    "variant_asins_flat": "B00CWY0CY6,B00CWY0OBC",
     "energy_efficiency": {},
     "categories": [
       {
@@ -174,6 +64,155 @@
       }
     ],
     "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7abffaeb-de38-44c3-beb5-d828528f3492.__CR0,0,315,145_PT0_SX315_V1___.png",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d8ade36-44da-40f1-8c95-a623981db4b3.__CR36,0,2928,1250_PT0_SX1464_V1___.png",
+        "description": "L'approccio di LARQ all'innovazione del prodotto è guidato da un unico scopo - rendiamo semplice optare per la scelta di idratazione più salutare e sostenibile, in qualsiasi momento e ovunque.",
+        "brand_store": {
+          "link": "/stores/page/AA2979AF-BAFB-4B68-9939-EA6419FB6629",
+          "id": "AA2979AF-BAFB-4B68-9939-EA6419FB6629"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d8ade36-44da-40f1-8c95-a623981db4b3.__CR36,0,2928,1250_PT0_SX1464_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b4968be-ee0f-4ae7-8fac-5f191473b904.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/462d3619-6d87-4100-b221-2b734cf03d66.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38b6b707-e9fc-4382-9ad5-e5f2137c63ba.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f8b164f-40d3-4e62-9767-992a054d3ea5.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e7bd3976-db57-4116-a8a5-cf0ff23e1208.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54814cb2-9796-4701-aa69-c9b29e9dbe9b.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7667f328-c95f-40d9-80f5-f25b77cc9fed.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/440626ca-5667-4cdb-abc6-d64801ca4485.__CR0,0,724,906_PT0_SX362_V1___.png"
+        ],
+        "products": [
+          {
+            "title": "LARQ",
+            "asin": "B07YGVR8QL",
+            "link": "/dp/B07YGVR8QL/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfdfb960-fb7a-405a-aacd-01b9e92b2448.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Carraffa filtro acqua Pure White (Filtro avanzato) 1.9 Litri / 8-Coppa",
+            "asin": "B00CWY0OBC",
+            "link": "/dp/B00CWY0OBC/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea28b66e-8136-4c45-8700-3ff6539936d1.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Twist Top 740ml - Bottiglia d'acqua in acciaio inossidabile isolato | Termos, senza B...",
+            "asin": "B00CWXY40U",
+            "link": "/dp/B00CWXY40U/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ee8c5b4-fd07-4ed4-9e1a-648e669b25d8.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottiglia filtrata – bottiglia d'acqua isolata in acciaio inox senza BPA con tecnologia Nano...",
+            "asin": "B09R84FRX9",
+            "link": "/dp/B09R84FRX9/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af234af9-ddae-4892-a4e0-3346057bb703.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 500ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J4HG85",
+            "link": "/dp/B0C6J4HG85/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e5b83b6-3113-42d2-9e35-d28f82473579.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 500ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J4BBS8",
+            "link": "/dp/B0C6J4BBS8/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11425dda-0759-4e42-99df-905d13bc7b02.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 740ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J47Q72",
+            "link": "/dp/B0C6J47Q72/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e5b83b6-3113-42d2-9e35-d28f82473579.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 740ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J4RNFQ",
+            "link": "/dp/B0C6J4RNFQ/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11425dda-0759-4e42-99df-905d13bc7b02.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle – Bottiglia d'Acqua autopulente e Sistema di depurazione dell'Acqua, 740ml, Obsidian ...",
+            "asin": "B00CWXSNY8",
+            "link": "/dp/B00CWXSNY8/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/662b83c3-a915-4d7f-b247-b56205ee4e4c.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle – Bottiglia d'Acqua autopulente e Sistema di depurazione dell'Acqua, 500ml, Granite W...",
+            "asin": "B00CWXPEPE",
+            "link": "/dp/B00CWXPEPE/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a51a5b06-2de4-4ef6-a515-c068e6e01fa2.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottiglia filtrata – bottiglia d'acqua isolata in acciaio inox senza BPA con tecnologia Nano...",
+            "asin": "B09R83NCVC",
+            "link": "/dp/B09R83NCVC/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af234af9-ddae-4892-a4e0-3346057bb703.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottiglia filtrata – bottiglia d'acqua isolata in acciaio inox senza BPA con tecnologia Nano...",
+            "asin": "B09R8327HG",
+            "link": "/dp/B09R8327HG/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/19b6d980-5d0c-46c3-8fbb-49423f29df5b.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Carraffa filtro acqua Pure White (Filtro avanzato) 1.9 Litri / 8-Coppa",
+            "asin": "B00CWY0OBC",
+            "link": "/dp/B00CWY0OBC/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea28b66e-8136-4c45-8700-3ff6539936d1.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Carraffa filtro acqua Pure White (Filtro avanzato) 1.9 Litri / 8-Coppa",
+            "asin": "B00CWY0OBC",
+            "link": "/dp/B00CWY0OBC/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bf69b90c-e9f7-477b-8c2b-3e87d0dffa30.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Pitcher",
+            "asin": "B00CWY0CY6",
+            "link": "/dp/B00CWY0CY6/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b7579d8-a99a-4c89-bb41-2491eb8390f2.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Carraffa filtro acqua Monaco Blue (Filtro avanzato) 1.9 Litri/ 8-Coppa",
+            "asin": "B00CWY0CY6",
+            "link": "/dp/B00CWY0CY6/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3209226c-49f2-4976-973f-ec4021c3d282.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 500ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J4BBS8",
+            "link": "/dp/B0C6J4BBS8/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11425dda-0759-4e42-99df-905d13bc7b02.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Twist Top 500ml - Bottiglia d'acqua in acciaio inossidabile isolato | Termos, senza B...",
+            "asin": "B00CWXWY3E",
+            "link": "/dp/B00CWXWY3E/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33b3fa19-eb54-4116-ba4e-081997e34370.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Flip Top 500ml - Bottiglia isolante in acciaio inossidabile con cannuccia | Termos, s...",
+            "asin": "B0C6J4HG85",
+            "link": "/dp/B0C6J4HG85/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e5b83b6-3113-42d2-9e35-d28f82473579.__CR0,0,664,728_PT0_SX166_V1___.png"
+          },
+          {
+            "title": "LARQ Bottle Twist Top 500ml - Bottiglia d'acqua in acciaio inossidabile isolato | Termos, senza B...",
+            "asin": "B00CWXWOAC",
+            "link": "/dp/B00CWXWOAC/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ee8c5b4-fd07-4ed4-9e1a-648e669b25d8.__CR0,0,664,728_PT0_SX166_V1___.png"
+          }
+        ]
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7abffaeb-de38-44c3-beb5-d828528f3492.__CR0,0,315,145_PT0_SX315_V1___.png",
+      "company_description_text": "L'approccio di LARQ all'innovazione del prodotto è guidato da un unico scopo - rendiamo semplice optare per la scelta di idratazione più salutare e sostenibile, in qualsiasi momento e ovunque. La nostra premiata gamma di prodotti per l'idratazione migliora la qualità, il gusto dell'acqua e la comodità generale, così da non rendere mai l'opzione della bottiglia monouso la scelta migliore."
+    },
     "sub_title": {
       "text": "Visita lo Store di LARQ",
       "link": "https://www.amazon.it/stores/LARQ/page/AA2979AF-BAFB-4B68-9939-EA6419FB6629?ref_=ast_bln&tag=8vcue204-21"
@@ -273,7 +312,7 @@
         "body": "Non ho mai avuto propensione al bere l'acqua di rubinetto, soprattutto per i precedenti casi di contaminazione da PFAS in Veneto, dove vivo. Ho sempre comprato le mia casse di acqua naturale al supermercato e stop. Da tempo seguivo Larq, marchio conosciuto ai tempi dei crowdfunding col quale sono partiti, ma non sapevo che oltre alle borracce producessero anche caraffe. Fatti due calcoli, con 2 litri di acqua al giorno al costo medio di 35 centesimi al litro, spendo circa €250 all'anno. Con la stessa cifra si compra la caraffa e si comprano i filtri, quelli più cari ed efficaci tra le due tipologie, per un anno. Dal secondo anno in poi, quindi, c'è solo la spesa dei filtri che è di circa €100 annuali, con un risparmio quindi di €150 all'anno nel mio caso. Rispetto alle classiche caraffe filtrate di marchi più conosciuti in Italia, la Larq ha sia un filtro che rimuove Cloro, BPA (Bisfenolo), Mercurio, Cadmio, Rame, piombo, HAA5 e TTHM (residui del cloro), Particolati, Benzene, PFAS/PFOA, redidui farmaceutici e pesticidi, e addirittura microplastiche, sia una tecnologia esclusiva, denominata PureVis, che elimina il 99.9% di biocontaminanti come l'E. coli e tramite raggi UVB purifica l'acqua ad intervalli regolari, automaticamente. Nessun'altra caraffa filtra lo stesso numero di sostanze, difficile trovare caraffe che filtrino PFAS, TTHM, Bisfenolo ecc. tutti assieme, alcune addirittura si limitano a filtare solo calcare (che si può bere tranquillamente) e cloro. La caraffa ha una batteria ricaricabile e si configura con un'app (valutata 4.6 su appstore) per smartphone che ti avvisa quanto il filtro è da sostituire. Unico “neo” è che al momento i filtri vanno comprati sul sito ufficiale di Larq. Sono disponibili con una sottoscrizione che invia un pacco da 3 ogni 6 mesi (i filtri durano massimo 227 litri o 3 mesi l’uno) in automatico, senza spese di spedizione, e può essere annullata o posticipata con un click in qualsiasi momento. Ho preferito prendere qui la caraffa perché il sistema di resi e garanzia di Amazon mi permettono di non sostenere costi in caso fosse necessario rispedire il prodotto…Leggi di più",
         "asin": "B00CWY0CY6",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Non ho mai avuto propensione al bere l'acqua di rubinetto, soprattutto per i precedenti casi di contaminazione da PFAS in Veneto, dove vivo. Ho sempre comprato le mia casse di acqua naturale al supermercato e stop. Da tempo seguivo Larq, marchio conosciuto ai tempi dei crowdfunding col quale sono partiti, ma non sapevo che oltre alle borracce producessero anche caraffe.<br>Fatti due calcoli, con 2 litri di acqua al giorno al costo medio di 35 centesimi al litro, spendo circa €250 all'anno. Con la stessa cifra si compra la caraffa e si comprano i filtri, quelli più cari ed efficaci tra le due tipologie, per un anno. Dal secondo anno in poi, quindi, c'è solo la spesa dei filtri che è di circa €100 annuali, con un risparmio quindi di €150 all'anno nel mio caso.<br>Rispetto alle classiche caraffe filtrate di marchi più conosciuti in Italia, la Larq ha sia un filtro che rimuove Cloro, BPA (Bisfenolo), Mercurio, Cadmio, Rame, piombo, HAA5 e TTHM (residui del cloro), Particolati, Benzene, PFAS/PFOA, redidui farmaceutici e pesticidi, e addirittura microplastiche, sia una tecnologia esclusiva, denominata PureVis, che elimina il 99.9% di biocontaminanti come l'E. coli e tramite raggi UVB purifica l'acqua ad intervalli regolari, automaticamente.<br>Nessun'altra caraffa filtra lo stesso numero di sostanze, difficile trovare caraffe che filtrino PFAS, TTHM, Bisfenolo ecc. tutti assieme, alcune addirittura si limitano a filtare solo calcare (che si può bere tranquillamente) e cloro.<br>La caraffa ha una batteria ricaricabile e si configura con un'app (valutata 4.6 su appstore) per smartphone che ti avvisa quanto il filtro è da sostituire. Unico “neo” è che al momento i filtri vanno comprati sul sito ufficiale di Larq. Sono disponibili con una sottoscrizione che invia un pacco da 3 ogni 6 mesi (i filtri durano massimo 227 litri o 3 mesi l’uno) in automatico, senza spese di spedizione, e può essere annullata o posticipata con un click in qualsiasi momento. Ho preferito prendere qui la caraffa perché il sistema di resi e garanzia di Amazon mi permettono di non sostenere costi in caso fosse necessario rispedire il prodotto…</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R38XAKKY7P38VA?ASIN=B00CWY0CY6",
+        "link": "https://www.amazon.it/gp/customer-reviews/R38XAKKY7P38VA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00CWY0CY6",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 6 novembre 2023",
@@ -281,7 +320,7 @@
         },
         "profile": {
           "name": "Amazoner",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFW4CIUWNQKG4QIPBPKUFCP7XNJQ",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFW4CIUWNQKG4QIPBPKUFCP7XNJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
           "id": "AFW4CIUWNQKG4QIPBPKUFCP7XNJQ",
           "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5ffab068-4186-4f3c-a849-c390d89be65e._CR0,0,500,500_SX48_.jpg"
         },
@@ -301,7 +340,7 @@
         "body": "Finalmente possiamo bere l’acqua del rubinetto senza pensieri! Elimina una miriade di elementi che davvero non vuoi bere e dà all’acqua un sapore ottimo. Acquistata attraverso il sito, ne comprerò presto un’altra su amazon per una seconda abitazioneLeggi di più",
         "asin": "B00CWY0CY6",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Finalmente possiamo bere l’acqua del rubinetto senza pensieri! Elimina una miriade di elementi che davvero non vuoi bere e dà all’acqua un sapore ottimo. Acquistata attraverso il sito, ne comprerò presto un’altra su amazon per una seconda abitazione</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/RXOX86HB6HDC9?ASIN=B00CWY0CY6",
+        "link": "https://www.amazon.it/gp/customer-reviews/RXOX86HB6HDC9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00CWY0CY6",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 1 settembre 2022",
@@ -309,7 +348,7 @@
         },
         "profile": {
           "name": "Julie",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHNBTGFD5WDKHY4TAVCVTXJD6L6Q",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHNBTGFD5WDKHY4TAVCVTXJD6L6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
           "id": "AHNBTGFD5WDKHY4TAVCVTXJD6L6Q",
           "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e1829891-9082-4d58-8bae-e92fb10f0d9b._CR0,0.0,333,333_SX48_.jpg"
         },
@@ -436,12 +475,12 @@
       "fulfillment": {
         "type": "2p",
         "standard_delivery": {
-          "date": "domenica, 12 novembre",
+          "date": "marted, 14 novembre",
           "name": "GRATUITA"
         },
         "fastest_delivery": {
-          "date": "sabato, 11 novembre",
-          "name": "oppure consegna pi rapida sabato, 11 novembre. Ordina entro 13 ore 24 min. Maggiori informazioni"
+          "date": "domenica, 12 novembre",
+          "name": "oppure ritiro pi rapido domenica, 12 novembre. Ordina entro 6 ore 9 min"
         },
         "is_sold_by_amazon": false,
         "is_fulfilled_by_amazon": true,
@@ -465,6 +504,12 @@
     },
     "more_buying_choices": [
       {
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 168,
+          "raw": "€168,00"
+        },
         "seller_name": "LARQ, Inc.",
         "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A18ZHTM0ANAG7O&isAmazonFulfilled=0&asin=B00CWY0CY6&ref_=dp_mbc_seller",
         "free_shipping": true,
@@ -496,8 +541,8 @@
     "total_price": {
       "symbol": "€",
       "currency": "EUR",
-      "value": 237.95,
-      "raw": "237,95 €"
+      "value": 346.95,
+      "raw": "346,95 €"
     },
     "products": [
       {
@@ -510,66 +555,170 @@
         "asin": "B09R8327HG",
         "title": "LARQ Bottle Filtered - Acciaio inossidabile isolato Bottiglia per l’acqua Senza BPA con tecnologia Nano Zero e filtri a lunga durata, 740ml, Granite White",
         "link": "https://www.amazon.it/dp/B09R8327HG?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/51+MgNq0TqL._AC_UL116_SR116,116_.jpg",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51+MgNq0TqL._AC_UL116_SR116,116_.jpg"
+      },
+      {
+        "asin": "B00CWXPEPE",
+        "title": "LARQ Bottle PureVis – Bottiglia d'Acqua autopulente e Sistema di depurazione dell'Acqua, 500ml, Granite White",
+        "link": "https://www.amazon.it/dp/B00CWXPEPE?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61HN36q1jzS._AC_UL116_SR116,116_.jpg",
         "price": {
           "symbol": "€",
           "currency": "EUR",
-          "value": 69.95,
-          "raw": "69,95€"
+          "value": 109,
+          "raw": "109,00€"
         }
       }
     ]
   },
   "similar_to_consider": {
     "asin": "B0BT1F3BV2",
-    "link": "https://www.amazon.it/dp/B0BT1F3BV2/ref=vp_d_cpf-substitute-widget-dynamic-title_pd?_encoding=UTF8&pf_rd_p=75d951f6-faca-4cef-92cc-e3f0adb2e650&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=WO803&pd_rd_i=B0BT1F3BV2&pd_rd_w=hSTs1&content-id=amzn1.sym.75d951f6-faca-4cef-92cc-e3f0adb2e650&pd_rd_r=f28699bf-5c41-4970-a84b-2504d78c2e47&psc=1",
+    "link": "https://www.amazon.it/dp/B0BT1F3BV2/ref=vp_d_cpf-substitute-widget-dynamic-title_pd?_encoding=UTF8&pf_rd_p=75d951f6-faca-4cef-92cc-e3f0adb2e650&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=MfpCu&pd_rd_i=B0BT1F3BV2&pd_rd_w=k8xIw&content-id=amzn1.sym.75d951f6-faca-4cef-92cc-e3f0adb2e650&pd_rd_r=3a55bd25-684b-4061-b8a5-8f9ff02e254e&psc=1",
     "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribaltabile per riempimento facile, in confezione Smart Box sostenibile",
     "rating": 4.5,
-    "ratings_total": 443,
+    "ratings_total": 455,
     "image": "https://m.media-amazon.com/images/I/71YQ3OaynxL._SS100_.jpg",
+    "price": {
+      "currency": "EUR",
+      "value": 61.6,
+      "symbol": "€",
+      "raw": "EUR 61,60"
+    },
     "is_prime": true
   },
+  "compare_with_similar": [
+    {
+      "asin": "B00CWY0CY6",
+      "image": "https://m.media-amazon.com/images/I/71SRH54SR+L._AC_SS450_.jpg",
+      "title": "LARQ Carraffa filtro acqua Monaco Blue (Filtro avanzato) 1.9 Litri/ 8-Coppa",
+      "rating": 4,
+      "ratings_total": 180,
+      "link": "https://www.amazon.it/dp/B00CWY0CY6"
+    },
+    {
+      "asin": "B07HKXKZ1J",
+      "image": "https://m.media-amazon.com/images/I/713TCrq8CjL._AC_SS450_.jpg",
+      "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
+      "rating": 4,
+      "ratings_total": 471,
+      "link": "https://www.amazon.it/dp/B07HKXKZ1J"
+    },
+    {
+      "asin": "B09YMH8K33",
+      "image": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SS450_.jpg",
+      "title": "Aarke Purifier, Caraffa Filtrante Brevettata in Vetro e Acciaio Inox, 2.4L, Sacchetto di ricarica del filtro per Aarke Pure",
+      "rating": 4.5,
+      "ratings_total": 262,
+      "link": "https://www.amazon.it/dp/B09YMH8K33"
+    },
+    {
+      "asin": "B01GFJWA52",
+      "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._AC_SS450_.jpg",
+      "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+      "rating": 4.5,
+      "ratings_total": 12685,
+      "link": "https://www.amazon.it/dp/B01GFJWA52"
+    },
+    {
+      "asin": "B0BZSVC51Z",
+      "image": "https://m.media-amazon.com/images/I/81PYykzQFkL._AC_SS450_.jpg",
+      "title": "BRITA Caraffa in vetro Light Blue (2.5L) incl. 1x filtro MAXTRA PRO All-in-1 - Caraffa di design premium, coperchio ribaltabile per riempimento facile & indicatore, riduce cloro, calcare e impurità",
+      "rating": 4.5,
+      "ratings_total": 455,
+      "link": "https://www.amazon.it/dp/B0BZSVC51Z"
+    },
+    {
+      "asin": "B09BR77WFK",
+      "image": "https://m.media-amazon.com/images/I/61AHIpdVQWL._AC_SS450_.jpg",
+      "title": "Philips Instant Water Filter, caraffa filtrante con capacità di 3 l, ricaricabile tramite porta USB-C",
+      "rating": 4,
+      "ratings_total": 2286,
+      "link": "https://www.amazon.it/dp/B09BR77WFK"
+    }
+  ],
   "also_bought": [
     {
-      "title": "Marchio Amazon - Belei, Siero idratante anti-age, per pelle ultra sensibile, 30 ml",
-      "asin": "B07V485KXN",
-      "link": "https://www.amazon.it/Marchio-Amazon-idratante-anti-age-sensibile/dp/B07V485KXN/ref=pb_allspark_purchase_sims_desktop_sccl_2_1/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B07V485KXN&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51r855k9ObL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.1,
-      "ratings_total": 851,
+      "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+      "asin": "B01GFJWA52",
+      "link": "https://www.amazon.it/AmazonBasics-Caraffa-filtrante-lacqua-litri/dp/B01GFJWA52/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_1/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B08PVSJ789&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61SV9cbfCiL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 12685,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 18.85,
-        "raw": "€18,85"
+        "value": 23.45,
+        "raw": "€23,45"
       }
     },
     {
-      "title": "Eve Motion – Sensore di movimento intelligente con sensore di luminosità, IPX3, notifiche, attivazione automatica di luci e d",
-      "asin": "B0B5XRXBTF",
-      "link": "https://www.amazon.it/EVE-intelligente-luminosit%C3%A0-attivazione-dispositivi/dp/B0B5XRXBTF/ref=pb_allspark_purchase_sims_desktop_sccl_2_2/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B0B5XRXBTF&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71SS0BLcK5L._AC_UL160_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 531,
+      "title": "LARQ Bottle PureVis – Bottiglia d'Acqua autopulente e Sistema di depurazione dell'Acqua, 740ml, Obsidian Black",
+      "asin": "B00CWXSNY8",
+      "link": "https://www.amazon.it/LARQ-Bottle-740ml-autopulente-depurazione/dp/B00CWXSNY8/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_2/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B00CWXSNY8&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/713bP3h8jaS._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 1907,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 49.89,
-        "raw": "€49,89"
+        "value": 129,
+        "raw": "€129,00"
       }
     },
     {
-      "title": "Marchio Amazon - Belei, Siero idratante anti-age, per pelle ultra sensibile, 30 ml",
-      "asin": "B07V485KXN",
-      "link": "https://www.amazon.it/Marchio-Amazon-idratante-anti-age-sensibile/dp/B07V485KXN/ref=pb_allspark_purchase_sims_desktop_sccl_2_3/261-8625033-0480755?pd_rd_w=fEKgp&content-id=amzn1.sym.1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_p=1e88494b-6c69-49d1-99bf-cdcf727f9cd1&pf_rd_r=55V4S6R34XE3F1KTSDJT&pd_rd_wg=Dscrl&pd_rd_r=8981092c-138e-4b7c-9617-3fdb87da5417&pd_rd_i=B08F84W8VM&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51r855k9ObL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.1,
-      "ratings_total": 851,
+      "title": "Amazon Basics Water Filter Cartridges – 12 Pack - Fits BRITA Maxtra Jugs (not Maxtra+) and 2.3L (4 Pints) Water Filter Jug wi",
+      "asin": "B07YJCPZ1Y",
+      "link": "https://www.amazon.it/Amazon-Basics-Water-Filter-Cartridges/dp/B07YJCPZ1Y/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_3/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B07YJCPZ1Y&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/31zDK6S7YfL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 25869,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 18.85,
-        "raw": "€18,85"
+        "value": 79.04,
+        "raw": "€79,04"
+      }
+    },
+    {
+      "title": "LARQ Bottle Filtered - Acciaio inossidabile isolato Bottiglia per l’acqua Senza BPA con tecnologia Nano Zero e filtri a lunga",
+      "asin": "B09R8327HG",
+      "link": "https://www.amazon.it/LARQ-Bottle-Filtered-Granite-White/dp/B09R8327HG/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_4/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B09R8327HG&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51+MgNq0TqL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.1,
+      "ratings_total": 201,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 69.95,
+        "raw": "€69,95"
+      }
+    },
+    {
+      "title": "Amazon Basics - Contenitori per alimenti, in vetro, con coperchi 20 unità, (10 contenitori + 10 coperchi), senza BPA, Transpa",
+      "asin": "B073ZRS74L",
+      "link": "https://www.amazon.it/AmazonBasics-Contenitori-alimenti-vetro-coperchi/dp/B073ZRS74L/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_5/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B073ZRS74L&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61lcJGNX8wL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.7,
+      "ratings_total": 11889,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 57,
+        "raw": "€57,00"
+      }
+    },
+    {
+      "title": "LARQ Bottle Twist Top 500ml - Bottiglia d'acqua in acciaio inossidabile isolato | Termos, senza BPA | Bottiglia d'acqua riuti",
+      "asin": "B00CWXWAW4",
+      "link": "https://www.amazon.it/LARQ-Bottiglia-sottovuoto-bottiglia-ossidiana/dp/B00CWXWAW4/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_6/262-1814816-3436237?pd_rd_w=zALXg&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=71K9B8EMR5JQ4N6BD4DR&pd_rd_wg=vUmbZ&pd_rd_r=07022864-6d9c-40ef-87d7-61f5e226d475&pd_rd_i=B00CWXWAW4&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51dOqIhRAGL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 171,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 35,
+        "raw": "€35,00"
       }
     }
   ]

@@ -1,8 +1,8 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 75,
-    "credits_remaining": 25,
+    "credits_used": 85,
+    "credits_remaining": 15,
     "credits_used_this_request": 1
   },
   "request_parameters": {
@@ -15,9 +15,9 @@
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-09T09:36:32.658Z",
-    "processed_at": "2023-11-09T09:36:49.386Z",
-    "total_time_taken": 16.73,
+    "created_at": "2023-11-10T16:52:24.082Z",
+    "processed_at": "2023-11-10T16:52:41.059Z",
+    "total_time_taken": 16.98,
     "amazon_url": "https://www.amazon.it/dp/B09YMH8K33?th=1&psc=1&language=it_IT"
   },
   "product": {
@@ -44,9 +44,244 @@
       "Pure"
     ],
     "asin": "B09YMH8K33",
+    "parent_asin": "B0C4HGC555",
     "link": "https://www.amazon.it/aarke-Purifier-Filtrante-Brevettata-Sacchetto/dp/B09YMH8K33?tag=8vcue204-21",
     "brand": "aarke",
-    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B0BTZ8NWPQ",
+        "title": "Purifier + Vetro cristallo",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0BTZ8NWPQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Purifier + Vetro cristallo"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/612MUJjQDyL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/612MUJjQDyL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61JBBsjYouL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51VCZ05hv4L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/51plYc8LEfL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51+A-+9TRsL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/51DGn6IKBxL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71fifBYaMPL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/714WNEw+-WL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 170,
+          "raw": "€170,00"
+        }
+      },
+      {
+        "asin": "B0BTZ3PGNN",
+        "title": "Purifier + 3 Pezzi di Pure",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0BTZ3PGNN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Purifier + 3 Pezzi di Pure"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61py+sODJbL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61py+sODJbL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61JBBsjYouL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51plYc8LEfL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/5158L0oP4fL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/719lGA2c-rL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71fifBYaMPL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 145,
+          "raw": "€145,00"
+        }
+      },
+      {
+        "asin": "B09YMH8K33",
+        "title": "Purifier",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B09YMH8K33?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Purifier"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61AIVkrkapL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/51kEOxS+5nL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81vH3cW6GkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/51Sk25mV6KL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/4190be4IvWL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/31M40YzNooL._AC_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 117.65,
+          "raw": "€117,65"
+        }
+      },
+      {
+        "asin": "B0BTZ66WG2",
+        "title": "Purifier + 3 Pezzi di Enriched",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0BTZ66WG2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Purifier + 3 Pezzi di Enriched"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71nbPN3EQRL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71nbPN3EQRL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61JBBsjYouL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51FM4yeGm8L._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71wovV05EpL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/51plYc8LEfL._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51QVrOdTM6L._AC_SL1260_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71gdbu2fTkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71fifBYaMPL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 152.64,
+          "raw": "€152,64"
+        }
+      }
+    ],
+    "variant_asins_flat": "B0BTZ8NWPQ,B0BTZ3PGNN,B09YMH8K33,B0BTZ66WG2",
     "energy_efficiency": {},
     "categories": [
       {
@@ -152,8 +387,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/71SS1-wYMVL.SX522_.png",
         "is_hero_video": false,
         "variant": "MAIN",
-        "group_id": "IB_G1",
-        "group_type": "videos_for_this_product",
+        "group_id": "IB_G1_T1",
         "title": "Purifier 3D animation"
       },
       {
@@ -164,8 +398,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/51ugA87y-kL.SX522_.jpg",
         "is_hero_video": false,
         "variant": "MAIN",
-        "group_id": "IB_G1",
-        "group_type": "videos_for_this_product",
+        "group_id": "IB_G1_T1",
         "title": "How to use Aarke Purifier"
       }
     ],
@@ -184,7 +417,7 @@
     "attributes": [
       {
         "name": "Marchio",
-        "value": "Aarke"
+        "value": "aarke"
       },
       {
         "name": "Caratteristica speciale",
@@ -456,7 +689,7 @@
         "value": 30,
         "hard_maximum": true
       },
-      "new_offers_count": 4,
+      "new_offers_count": 6,
       "new_offers_from": {
         "raw": "Spedizione GRATUITA."
       },
@@ -474,12 +707,12 @@
       "fulfillment": {
         "type": "1p",
         "standard_delivery": {
-          "date": "domenica, 12 novembre",
+          "date": "marted, 14 novembre",
           "name": "GRATUITA"
         },
         "fastest_delivery": {
-          "date": "domani, 10 novembre",
-          "name": "oppure consegna pi rapida domani, 10 novembre. Ordina entro 5 ore 28 min. Maggiori informazioni"
+          "date": "domani, 11 novembre",
+          "name": "oppure ritiro pi rapido domani, 11 novembre. Ordina entro 1 ora 42 min"
         },
         "is_sold_by_amazon": true,
         "amazon_seller": {
@@ -508,51 +741,7 @@
     "specifications": [
       {
         "name": "Marchio",
-        "value": "‎Aarke"
-      },
-      {
-        "name": "Modello",
-        "value": "‎A1120"
-      },
-      {
-        "name": "Colore",
-        "value": "‎Argento"
-      },
-      {
-        "name": "Dimensioni prodotto",
-        "value": "‎12,1 x 17,2 x 27,5 cm; 1,14 Kg"
-      },
-      {
-        "name": "Volume",
-        "value": "‎2,4 Litri"
-      },
-      {
-        "name": "Caratteristiche speciali",
-        "value": "‎Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio"
-      },
-      {
-        "name": "Peso articolo",
-        "value": "‎1,14 Kilograms"
-      },
-      {
-        "name": "ASIN",
-        "value": "B09YMH8K33"
-      },
-      {
-        "name": "Media recensioni",
-        "value": "4,4 4,4 su 5 stelle         262 voti          4,4 su 5 stelle"
-      },
-      {
-        "name": "Posizione nella classifica Bestseller di Amazon",
-        "value": "n. 43,936 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 51 in Caraffe Filtranti"
-      },
-      {
-        "name": "Disponibile su Amazon.it a partire dal",
-        "value": "24 aprile 2022"
-      },
-      {
-        "name": "Marchio",
-        "value": "Aarke"
+        "value": "aarke"
       },
       {
         "name": "Caratteristica speciale",
@@ -579,27 +768,9 @@
         "value": "Water Filter Pitcher"
       }
     ],
-    "specifications_flat": "Nome modello: Water Filter Pitcher. Peso articolo: 1140 Grammi. Sorgente di alimentazione: Non elettrico. Informazioni pacco: Sacchetto. Dimensioni del prodotto: 17,2L x 12,1l x 27,5H cm. Caratteristica speciale: Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio Mostra altro. Marchio: Aarke. Disponibile su Amazon.it a partire dal: 24 aprile 2022. Posizione nella classifica Bestseller di Amazon: n. 43,936 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 51 in Caraffe Filtranti. Media recensioni: 4,4 4,4 su 5 stelle         262 voti          4,4 su 5 stelle. ASIN: B09YMH8K33. Peso articolo: ‎1,14 Kilograms. Caratteristiche speciali: ‎Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio. Volume: ‎2,4 Litri. Dimensioni prodotto: ‎12,1 x 17,2 x 27,5 cm; 1,14 Kg. Colore: ‎Argento. Modello: ‎A1120. Marchio: ‎Aarke.",
-    "bestsellers_rank": [
-      {
-        "category": "Casa e cucina",
-        "rank": 43936,
-        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
-      },
-      {
-        "category": "Caraffe Filtranti",
-        "rank": 51,
-        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
-      }
-    ],
-    "color": "‎Argento",
+    "specifications_flat": "Nome modello: Water Filter Pitcher. Peso articolo: 1140 Grammi. Sorgente di alimentazione: Non elettrico. Informazioni pacco: Sacchetto. Dimensioni del prodotto: 17,2L x 12,1l x 27,5H cm. Caratteristica speciale: Un coperchio particolare che permette di filtrare mentre si versa, Il paraurti rimovibile in silicone aiuta a proteggere la caraffa di vetro, Indicatore di cambio filtro nel coperchio Mostra altro. Marchio: aarke.",
     "weight": "1140 Grammi",
-    "first_available": {
-      "raw": "24 aprile 2022",
-      "utc": "2022-04-24T00:00:00.000Z"
-    },
-    "dimensions": "17,2L x 12,1l x 27,5H cm",
-    "bestsellers_rank_flat": "Category: Casa e cucina | Rank: 43936, Category: Caraffe Filtranti | Rank: 51"
+    "dimensions": "17,2L x 12,1l x 27,5H cm"
   },
   "brand_store": {
     "id": "6388FF11-D8A8-4561-A346-A5A5103E96C1",
@@ -640,12 +811,18 @@
     ]
   },
   "similar_to_consider": {
-    "asin": "B01GFJWA52",
-    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt2_TIER4_sessmp_lp_B09YMH8K33_pd?_encoding=UTF8&pf_rd_p=ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=mOCwg&pd_rd_i=B01GFJWA52&pd_rd_w=IOhzW&content-id=amzn1.sym.ebdb8bea-b82b-4b1a-bff4-21dc896a8f71&pd_rd_r=b76f7996-5fec-487c-9de7-de7678dad376&psc=1",
-    "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+    "asin": "B07V4PGBQY",
+    "link": "https://www.amazon.it/dp/B07V4PGBQY/ref=vp_d_cpf-substitute-widget-dynamic-title_pd?_encoding=UTF8&pf_rd_p=75d951f6-faca-4cef-92cc-e3f0adb2e650&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=DC1Gk&pd_rd_i=B07V4PGBQY&pd_rd_w=9tHF9&content-id=amzn1.sym.75d951f6-faca-4cef-92cc-e3f0adb2e650&pd_rd_r=a4aea261-771f-4b74-9b9d-08d838c25a5c&psc=1",
+    "title": "Invigorated Water PH Restore Caraffa filtrante per acqua alcalina – Brocca acqua filtrante durevole con sistema di filtrazione a più livelli – Brocca in vetro per pH elevato, filtro acqua pura, 3,5 L",
     "rating": 4.5,
-    "ratings_total": 12676,
-    "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._SS100_.jpg",
+    "ratings_total": 952,
+    "image": "https://m.media-amazon.com/images/I/71aQl5CBmzL._SS100_.jpg",
+    "price": {
+      "currency": "EUR",
+      "value": 70,
+      "symbol": "€",
+      "raw": "EUR 70,00"
+    },
     "is_prime": true
   },
   "compare_with_similar": [
@@ -658,19 +835,11 @@
       "link": "https://www.amazon.it/dp/B09YMH8K33"
     },
     {
-      "asin": "B07V4PGBQY",
-      "image": "https://m.media-amazon.com/images/I/71aQl5CBmzL._AC_SS450_.jpg",
-      "title": "Invigorated Water PH Restore Caraffa filtrante per acqua alcalina – Brocca acqua filtrante durevole con sistema di filtrazione a più livelli – Brocca in vetro per pH elevato, filtro acqua pura, 3,5 L",
-      "rating": 4.5,
-      "ratings_total": 950,
-      "link": "https://www.amazon.it/dp/B07V4PGBQY"
-    },
-    {
       "asin": "B0B39C2W9C",
       "image": "https://m.media-amazon.com/images/I/71mdAW6FnlL._AC_SS450_.jpg",
       "title": "Wessper Caraffa Filtrante di Vetro con 1 Cartuccia Aquaclassic (Compatibile con Brita Classic), Elimina Cloro, Impurità e Metalli Pesanti, 2.5Litri, Bianco",
       "rating": 4,
-      "ratings_total": 52,
+      "ratings_total": 53,
       "link": "https://www.amazon.it/dp/B0B39C2W9C"
     },
     {
@@ -678,34 +847,42 @@
       "image": "https://m.media-amazon.com/images/I/71LEXno8uYL._AC_SS450_.jpg",
       "title": "pH REPLENISH - caraffa filtrante in vetro per acqua alcalina e ionizzata - elimina cloro, impurità e metalli pesanti - aumenta il pH - con filtro a lunga durata - 1,8 litri",
       "rating": 4,
-      "ratings_total": 642,
+      "ratings_total": 643,
       "link": "https://www.amazon.it/dp/B07F6RWRDR"
+    },
+    {
+      "asin": "B01IBTR8RE",
+      "image": "https://m.media-amazon.com/images/I/71mgu0ng1SL._AC_SS450_.jpg",
+      "title": "Wessper Caraffa Filtrante in Vetro con 1 Cartuccia (Compatibile con Brita Maxtra), Elimina Cloro, Impurità e Metalli Pesanti, 2.5Litri, Bianco",
+      "rating": 4,
+      "ratings_total": 441,
+      "link": "https://www.amazon.it/dp/B01IBTR8RE"
     },
     {
       "asin": "B07HKXKZ1J",
       "image": "https://m.media-amazon.com/images/I/713TCrq8CjL._AC_SS450_.jpg",
-      "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, filtro e misuratore della qualitá dell'acqua inclusi, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
+      "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
       "rating": 4,
       "ratings_total": 471,
       "link": "https://www.amazon.it/dp/B07HKXKZ1J"
     },
     {
-      "asin": "B0BT1F3BV2",
-      "image": "https://m.media-amazon.com/images/I/71YQ3OaynxL._AC_SS450_.jpg",
-      "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribaltabile per riempimento facile, in confezione Smart Box sostenibile",
+      "asin": "B0BT1F2PQN",
+      "image": "https://m.media-amazon.com/images/I/71JQjuenFdL._AC_SS450_.jpg",
+      "title": "BRITA Caraffa in vetro blu (2,5L) + 1 cartuccia filtro MAXTRA PRO All-in-1 - Nuovo MAXTRA +, Plus - riduce il cloro, alcuni pesticidi, erbicidi, residui medicati e tartaro",
       "rating": 4.5,
-      "ratings_total": 443,
-      "link": "https://www.amazon.it/dp/B0BT1F3BV2"
+      "ratings_total": 43,
+      "link": "https://www.amazon.it/dp/B0BT1F2PQN"
     }
   ],
   "also_bought": [
     {
       "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribalta",
       "asin": "B0BT1F3BV2",
-      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_vtp_sccl_2_1/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_vtp_sccl_2_1/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71YQ3OaynxL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.4,
-      "ratings_total": 443,
+      "rating": 4.5,
+      "ratings_total": 455,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -716,7 +893,7 @@
     {
       "title": "aarke Sacchetti Di Ricarica Per Filtri Pure Da 3 Pezzi Ridurre il Cloro, i Metalli Pesanti e il Calcare Filtra Fino a 3x120 L",
       "asin": "B09YMGXSMP",
-      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Ridurre-Metalli/dp/B09YMGXSMP/ref=pd_vtp_sccl_2_2/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B09YMGXSMP&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Ridurre-Metalli/dp/B09YMGXSMP/ref=pd_vtp_sccl_2_2/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B09YMGXSMP&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51aM37dbzxL._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
       "ratings_total": 154,
@@ -730,10 +907,10 @@
     {
       "title": "BRITA Caraffa filtrante Marella blu (2.4L) - Memo digitale e coperchio ribaltabile - confezione Smart Box sostenibile",
       "asin": "B0BSXDLXC4",
-      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_3/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_3/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81GaxDSEE+L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
-      "ratings_total": 52584,
+      "ratings_total": 52608,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -744,7 +921,7 @@
     {
       "title": "Aarke Sacchetti Di Ricarica Per Filtri Enriched Da 3 Pezzi - Aumenta il Valore del pH, Aggiunge Magnesio, Riduce i Sapori Sgr",
       "asin": "B09YMHF5FF",
-      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Filtri-Enriched/dp/B09YMHF5FF/ref=pd_vtp_sccl_2_4/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B09YMHF5FF&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/aarke-Sacchetti-Ricarica-Filtri-Enriched/dp/B09YMHF5FF/ref=pd_vtp_sccl_2_4/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B09YMHF5FF&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51MrLbTgU0L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
       "ratings_total": 154,
@@ -758,24 +935,24 @@
     {
       "title": "BRITA Caraffa Filtrante Marella per acqua, Grafite (2.4l) - Pacchetto semestrale incl. 6 Filtri MAXTRA+ per la riduzione di c",
       "asin": "B076NK2QM7",
-      "link": "https://www.amazon.it/BRITA-Marella-Filtro-Acqua-Pezzo/dp/B076NK2QM7/ref=pd_vtp_sccl_2_5/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B076NK2QM7&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/BRITA-Marella-Filtro-Acqua-Pezzo/dp/B076NK2QM7/ref=pd_vtp_sccl_2_5/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B076NK2QM7&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71WafloZdYL._AC_UL160_SR160,160_.jpg",
       "rating": 4.7,
-      "ratings_total": 42952,
+      "ratings_total": 42981,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 57.18,
-        "raw": "€57,18"
+        "value": 57.08,
+        "raw": "€57,08"
       }
     },
     {
       "title": "Filtro per acqua BRITA MAXTRA PRO All-in-1 Pacchetto di risparmio semestrale da 6 filtri - MAXTRA+ Riduce impurità, cloro, pe",
       "asin": "B0BXPN4JDD",
-      "link": "https://www.amazon.it/Filtro-MAXTRA-Pacchetto-risparmio-semestrale/dp/B0BXPN4JDD/ref=pd_vtp_sccl_2_6/262-0430590-2694822?pd_rd_w=1asqP&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=T2YN6P96TS3802S6HRRG&pd_rd_wg=WW2al&pd_rd_r=4a837543-14ee-4dfe-8a3b-e3c4fdd0938a&pd_rd_i=B0BXPN4JDD&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Filtro-MAXTRA-Pacchetto-risparmio-semestrale/dp/B0BXPN4JDD/ref=pd_vtp_sccl_2_6/258-9503423-1237419?pd_rd_w=8Ok2y&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=N4HPVJPRZJN5JVG1B55F&pd_rd_wg=i6rZV&pd_rd_r=e4791283-5406-445e-b11d-213d82efb0a3&pd_rd_i=B0BXPN4JDD&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71q0nnU4TCL._AC_UL160_SR160,160_.jpg",
       "rating": 4.7,
-      "ratings_total": 596,
+      "ratings_total": 613,
       "price": {
         "symbol": "€",
         "currency": "EUR",

@@ -1,9 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+
+import caraffeData from './data/caraffe.json';
+import filtriData from './data/filtri.json';
 
 import Intro from './Intro';
-import Caraffe from './Caraffe';
+import Product from './Product';
+import Filtri from './Filtri';
 import Calcolatore from './Calcolatore';
-import caraffeData from './data/caraffe.json';
 
 const shuffleArray = (array) => {
 	return array.sort(function () {
@@ -11,62 +14,94 @@ const shuffleArray = (array) => {
 	});
 };
 
-const getFiltroString = (filtro = '') =>
-	filtro ? '_' + filtro.toLowerCase().replace(/ /g, '') : '';
-
 function App() {
-	const [loadedData, setLoadedData] = useState([]);
+	const [caraffe, setCaraffe] = useState([]);
 	const [selectedCaraffa, setSelectedCaraffa] = useState(null);
+	const [filtri, setFiltri] = useState([]);
+	const [selectedFiltro, setSelectedFiltro] = useState(null);
+     const filterRef = useRef(null)
+	const calcRef = useRef(null)
+	const scrollToFilters = () => filterRef.current.scrollIntoView();
+	const scrollToCalc = () => calcRef.current.scrollIntoView();
+
+	const handleProductClick = (code) => {
+		setSelectedCaraffa(code);
+		resetCalcoloFiltri();
+		scrollToFilters();
+		//ref.current?.scrollIntoView({ behavior: 'smooth' });
+	};
+
+	const resetCalcoloFiltri = () => {
+		setSelectedFiltro(null);
+	};
 
 	useEffect(() => {
-		const fetchData = async () => {
-			const loadedDataArray = await Promise.all(
+		(selectedFiltro) ? scrollToCalc() : scrollToFilters();
+	}, [selectedFiltro]);
+
+	useEffect(() => {
+		resetCalcoloFiltri();
+	}, [selectedCaraffa]);
+
+	useEffect(() => {
+		const fetchCaraffe = async () => {
+			const caraffeArray = await Promise.all(
 				shuffleArray(caraffeData).map(async (entry) => {
-					const response = await import(`./data/caraffe/${entry.file}`);
-					const matchingCaraffe = caraffeData.find(
-						(caraffe) => caraffe.asin === response.product.asin
+					const caraffaAmznData = await import(`./data/caraffe/${entry.file}`);
+					const caraffaData = caraffeData.find(
+						(car) => car.asin === caraffaAmznData.product.asin
 					);
 					return {
-						asin: matchingCaraffe.asin,
-						title: matchingCaraffe.title,
-						link: response.product.link,
-						price: response.product.buybox_winner.price.value,
-						rating: response.product.rating,
-						rating_num: response.product.ratings_total,
-						image: response.product.main_image.link,
-						custom_title: entry.title,
-						filtri: matchingCaraffe.filtri,
+						asin: caraffaData.asin,
+						code: caraffaData.code,
+						custom_title: caraffaData.title,
+						title: caraffaAmznData.product.title,
+						link: caraffaAmznData.product.link,
+						price: caraffaAmznData.product.buybox_winner.price.value,
+						capacita: caraffaData.capacita,
+						rating: caraffaAmznData.product.rating,
+						rating_num: caraffaAmznData.product.ratings_total,
+						image: caraffaAmznData.product.main_image.link,
 					};
 				})
 			);
-			setLoadedData(loadedDataArray);
+			setCaraffe(caraffeArray);
 		};
 
-		fetchData();
+		fetchCaraffe();
+		setFiltri(filtriData);
 	}, []);
 
 	return (
-		<div className="font-sans subpixel-antialiased text-white px-5 m-0 py-24">
+		<div className="container mx-auto font-sans subpixel-antialiased text-white px-5 m-0 pt-24 pb-2">
 			<Intro />
-			{loadedData.length > 0 ? (
+			{caraffeData.length > 0 && (
 				<>
-					<Caraffe
-						lista={loadedData}
-						setLista={setLoadedData}
-						car={selectedCaraffa}
-						setCar={setSelectedCaraffa}
-						getFiltroString={getFiltroString}
+					<Product
+						listaCaraffe={caraffe}
+						currentCaraffa={selectedCaraffa}
+						handleProductClick={handleProductClick}
 					/>
+
+					<Filtri
+						listaFiltri={filtri}
+						currentFiltro={selectedFiltro}
+						setCurrentFiltro={setSelectedFiltro}
+						currentCaraffa={selectedCaraffa}
+						thisref={filterRef}
+					/>
+
 					<Calcolatore
-						lista={loadedData}
-						mainfile={caraffeData}
-						car={selectedCaraffa}
-						setCar={setSelectedCaraffa}
-						getFiltroString={getFiltroString}
+						listaCaraffe={caraffe}
+						currentCaraffa={selectedCaraffa}
+						setCurrentCaraffa={setSelectedCaraffa}
+						listaFiltri={filtri}
+						currentFiltro={selectedFiltro}
+						setCurrentFiltro={setSelectedFiltro}
+						thisref={calcRef}
 					/>
+					<footer className="text-center text-xs text-blue-200 mt-20">Realizzato da <a href="https://www.filippotinnirello.it/" target="_blank">Filippo Tinnirello</a></footer>
 				</>
-			) : (
-				<></>
 			)}
 		</div>
 	);

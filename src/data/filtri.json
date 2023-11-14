@@ -1,0 +1,280 @@
+[
+	{
+		"nome": "Filtro Larq Essential",
+		"caraffe": { "larq": 1 },
+		"asin": "larq-essential",
+		"url": "hhttps://www.livelarq.com/accessories/larq-pitcher-filter-essential-filter",
+		"durata_litri": 227,
+		"durata_mesi": 3,
+		"costo": 21.32,
+		"caratteristiche": {
+			"cloro": 1,
+			"mercurio": 1,
+			"cadmio": 1,
+			"rame": 1,
+			"pesti": 1,
+			"voc": 1,
+			"tetracloruro": 1,
+			"stirene": 1,
+			"toluene": 1
+		}
+	},
+	{
+		"nome": "Filtro Larq Advanced",
+		"caraffe": { "larq": 1 },
+		"asin": "larq-advanced",
+		"url": "https://www.livelarq.com/accessories/larq-pitcher-filter-advanced-filter/",
+		"durata_litri": 227,
+		"durata_mesi": 3,
+		"costo": 27.88,
+		"caratteristiche": {
+			"cloro": 1,
+			"mercurio": 1,
+			"cadmio": 1,
+			"cromo":1,
+			"arsenico":1,
+			"rame": 1,
+			"haa5": 1,
+			"piombo": 1,
+			"particolato": 1,
+			"benzene": 1,
+			"pfas": 1,
+			"resfarma": 1,
+			"bpa": 1,
+			"pesti": 1,
+			"stirene": 1,
+			"tetracloruro": 1,
+			"voc": 1,
+			"deet": 1,
+			"toluene": 1
+		}
+	},
+	{
+		"nome": "Waterdrop WD-PF-01A Plus",
+		"caraffe": { "waterdrop-lucid":1, "waterdrop-chubby":1 },
+		"asin": "B08RHSHJ8Y",
+		"url": "https://www.amazon.it/Waterdrop-WD-PF-01A-Certificati-Filtrazione-Confezione/dp/B08RHSHJ8Y",
+		"durata_litri": 757,
+		"durata_mesi": 3,
+		"costo": 10.8,
+		"caratteristiche": {
+			"piombo": 1,
+			"fluoro":1,
+			"cloro":1,
+			"alluminio":1,
+			"ferro":1,
+			"rame":1,
+			"mercurio":1
+		}
+	},	
+	{
+		"nome": "Waterdrop WD-C07",
+		"caraffe": { "brita-marella-xl": 1, "brita":1,"amazon-basics":1,"dafi":1,"aquaphor":1 },
+		"note": "Brita® Maxtra+® Plus, Maxtra Pro® All-in-1 Filtro, Compatibile con Brita® Marella® Caraffa Filtrante",
+		"asin": "B08M642Q6B",
+		"url": "https://www.amazon.it/Waterdrop-Certificata-Cartuccia-Filtrante-Compatibile/dp/B08M642Q6B/",
+		"durata_litri": 227,
+		"durata_mesi": 1,
+		"costo": 3.5,
+		"caratteristiche": {
+			"cloro": 1,
+			"calcare":1,
+			"rame": 1,
+			"piombo":1,
+			"mercurio":1,
+"arsenico":1,
+"cadmio":1,
+"cromo":1
+		}
+	},
+	{
+		"nome": "Sokana QR_SOK_MaxtraPlus",
+		"caraffe": { "brita-marella-xl": 1, "amazon-basics": 1 },
+		"note": "Adatto alle caraffe Maxtra+, Maxtra, Brita Style, Aluna Cool, Marella Cool, Mavea Elemaris XL, Dafi Unimax, Zelmer, Aquaphor, Amazon Basics",
+		"asin": "B0B5LM918L",
+		"url": "https://www.amazon.it/dp/B0B5LM918L/",
+		"durata_litri": 1000,
+		"durata_mesi": 1,
+		"costo": 3.5,
+		"caratteristiche": {
+			"mercurio": 1,
+			"rame": 1,
+			"piombo":1,
+"arsenico":1,
+"cadmio":1,
+"cromo":1
+		}
+	},
+	{
+		"nome": "Filtro Pure",
+		"note": "L'acqua filtrata è ideale per la carbonizzazione, o per preparare un caffè o un tè perfetti",
+		"caraffe": {
+			"aarke": 1
+		},
+		"asin": "B09YMGXSMP",
+		"url": "https://www.amazon.it/dp/B09YMGXSMP/ref=emc_b_5_t",
+		"costo": 6.66,
+		"durata_litri": 120,
+		"durata_mesi" : 12,
+		"caratteristiche": {
+			"cloro": 1,
+			"rame": 1,
+			"piombo": 1,
+			"calcare": 1
+		}
+	},
+	{
+		"nome": "Filtro Enriched",
+		"note" : "Questa è la versione aggiornata e migliorata dei granuli filtranti Aarke Pure, con ulteriori benefici.",
+		"caraffe": {
+			"aarke": 1
+		},
+		"asin": "B09YMHF5FF",
+		"url": "https://www.amazon.it/dp/B09YMHF5FF/ref=emc_b_5_t",
+		"costo": 10,
+		"durata_litri": 120,
+		"durata_mesi" : 12,
+		"caratteristiche": {
+			"cloro": 1,
+			"rame": 1,
+			"piombo": 1,
+			"calcare": 0
+		}
+	},
+	{
+		"nome": "AmazonBasics",
+		"caraffe": {
+			"amazon-basics": 1,
+			"brita-marella-xl": 1,
+			"brita" : 1
+		},
+		"asin": "B084H8X4SW",
+		"url": "https://www.amazon.it/Amazon-Basics-Cartuccia-filtrante-acqua/dp/B084H8X4SW/",
+		"costo": 4.3,
+		"durata_litri": 150,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"cloro": 1,
+			"calcare": 1
+		}
+	},
+	{
+		"nome": "Wessper",
+		"caraffe": {
+			"brita-maxtra": 1,
+			"brita-marella-xl": 1
+		},
+		"asin": "B07RYVB24S",
+		"url": "https://www.amazon.it/Wessper-Cartucce-filtranti-compatibili-confezione/dp/B07RYVB24S/r",
+		"costo": 3,
+		"durata_litri": 100,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"cloro": 1,
+			"calcare": 1
+		}
+	},
+	{
+		"nome": "Zerowater",
+		"caraffe": {
+			"zerowater": 1,
+			"": 1
+		},
+		"asin": "B00C7N7L1E",
+		"url": "https://www.amazon.it/ZeroWater-Filtri-Caraffa-Filtrante-Certificazione/dp/B00C7N7L1E/r",
+		"costo": 17.5,
+		"durata_litri": 75,
+		"durata_mesi" : 12,
+		"caratteristiche": {
+			"pfas": 1,
+			"piombo": 1,
+			"mercurio": 1,
+			"cadmio": 1,
+			"cromo": 1,
+			"arsenico": 1,
+			"pesti":1,
+			"calcare":1,
+			"cloro":1,
+			"microplastiche":1
+		}
+	},
+	{
+	"nome" : "Dafi Unimax",
+		"caraffe": {
+			"brita-maxtra": 1,
+			"dafi-crystal": 1
+		},
+		"asin": "B00INU5ZH2",
+		"url": "https://www.amazon.it/Unimax-cartucce-filtranti-adatta-PearlCo/dp/B00INU5ZH2/",
+		"costo": 4.33,
+		"durata_litri": 100,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"cloro": 1,
+			"piombo": 1,
+			"mercurio": 1,
+			"cadmio": 1,
+			"cromo": 1,
+			"arsenico": 1,
+			"calcare":1
+		}
+	},
+	{
+	"nome" : "Aqualogis Pure+ ",
+		"caraffe": {
+			"brita-maxtra": 1,
+			"brita-marella-xl": 1,
+			"brita": 1
+		},
+		"asin": "B07KYX29BC",
+		"url": "https://www.amazon.it/Aqualogis-Pure/dp/B07KYX29BC/",
+		"costo": 3.50,
+		"durata_litri": 100,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"cloro": 1,
+			"piombo": 1,
+			"rame":1,
+			"calcare":1
+		}
+	},
+	{
+	"nome" : "Laica Bi-Flux",
+		"caraffe": {
+			"laica": 1,
+			"laica-j996" : 1
+		},
+		"asin": "B01D1CUOB8",
+		"url": "https://www.amazon.it/dp/B01D1CUOB8/",
+		"costo": 3.95,
+		"durata_litri": 150,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"cloro": 1,
+			"piombo": 1,
+			"mercurio": 1,
+			"cadmio": 1,
+			"cromo": 1,
+			"arsenico": 1
+		}
+	},
+	{
+	"nome" : "Philips Filtro Micro X-Clean",
+		"caraffe": {
+			"philips-instant-water": 1
+		},
+		"asin": "B09H39G86C",
+		"url": "https://www.amazon.it/Philips-Filtro-X-Clean-instantaneo-AWP225/dp/B09H39G86C/",
+		"costo": 7.5,
+		"durata_litri": 100,
+		"durata_mesi" : 1,
+		"caratteristiche": {
+			"pfas":1,
+			"cloro": 1,
+			"piombo": 1,
+			"pesti": 1,
+			"calcare": 1,
+			"microplastiche":1
+		}
+	}
+]

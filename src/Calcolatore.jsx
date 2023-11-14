@@ -1,12 +1,24 @@
 import React, { useState, useEffect } from 'react';
 
+import {
+	Card,
+	CardBody,
+	Typography,
+	Slider,
+} from '@material-tailwind/react';
+
 export default function Calcolatore({
-	lista,
-	mainfile,
-	car,
-	setCar,
-	getFiltroString,
+	listaCaraffe,
+	currentCaraffa,
+	setCurrentCaraffa,
+	listaFiltri,
+	currentFiltro,
+	setCurrentFiltro,
+	thisref
 }) {
+
+
+
 	const [eurlit, setEurlit] = useState(0.35);
 	const [daylit, setDaylit] = useState(2);
 	const [yearCost, setYearCost] = useState(0);
@@ -14,7 +26,7 @@ export default function Calcolatore({
 	const [newYearCost, setNewYearCost] = useState('');
 	const [durataMesi, setDurataMesi] = useState(0);
 	const [durataLitri, setDurataLitri] = useState(0);
-	const [filters, setFilters] = useState(1);
+	const filters = useState(1);
 	const [newYearCostNotes, setNewYearCostNotes] = useState('');
 
 	const Drops = ({ litres }) => {
@@ -24,13 +36,13 @@ export default function Calcolatore({
 
 		for (let i = 0; i < fullIcons; i++) {
 			icons.push(
-				<img key={i} src="/img/water-full.svg" className="water-drop" />
+				<img key={i} src="/img/water-full.svg" className="water-drop" alt="rating" />
 			);
 		}
 
 		if (halfIcon) {
 			icons.push(
-				<img key={fullIcons} src="/img/water-half.svg" className="water-drop" />
+				<img key={fullIcons} src="/img/water-half.svg" className="water-drop" alt="water drop" />
 			);
 		}
 
@@ -42,22 +54,19 @@ export default function Calcolatore({
 		let totcoins = Math.floor(amount * 10);
 
 		for (let i = 1; i < totcoins; i++) {
-			coins.push(<img key={i} src="/img/coin.svg" className="coin" />);
+			coins.push(<img key={i} src="/img/coin.svg" className="coin" alt="coins" />);
 		}
 
 		return <div>{coins}</div>;
 	};
 
-	const Filters = ({ number }) => {
-		let filters = [];
-
-		for (let i = 0; i < number; i++) {
-			filters.push(<img key={i} src="/img/filter.svg" className="filter" />);
-		}
-
-		return <div>{filters}</div>;
+	const updCurrentCaraffa = (e) => {
+		setCurrentCaraffa(e.target.value);
 	};
 
+	const updCurrentFiltro = (e) => {
+		setCurrentFiltro(e.target.value);
+	};
 	const manageEurLit = (e) => {
 		let val = e.target.value;
 		let newval = val.replace(',', '.').replace(' ', '');
@@ -65,184 +74,245 @@ export default function Calcolatore({
 	};
 	const manageDayLit = (e) => {
 		let val = e.target.value;
-		//let newval = parseFloat(val.replace(',', '.').replace(' ', ''));
 		setDaylit(val);
 	};
 
-	const manageNewCost = (e) => {
-		let providedAsin = e.target.value;
-		setCar(providedAsin);
-		let [actualAsin, filtroNome] = providedAsin.split('_'); // Dividi l'input in asin e filtroNome se c'è un underscore
-
-		const matchingCaraffa = lista.find(
-			(item) => item.asin === (filtroNome ? actualAsin : providedAsin)
-		);
-
-		if (matchingCaraffa) {
-			setStartCost(matchingCaraffa.price);
-
-			//console.log(filtroNome);
-			let filtro;
-
-			if (filtroNome) {
-				filtro = matchingCaraffa.filtri.find(
-					(f) => getFiltroString(f.nome) === getFiltroString(filtroNome)
-				);
-			} else {
-				filtro = matchingCaraffa.filtri[0];
-			}
-
-			let prezzo_filtro = 0;
-
-			if (filtro) {
-				// Utilizza i valori del filtro per il calcolo
-				setDurataMesi(filtro.durata_mesi);
-				setDurataLitri(filtro.durata_litri);
-				prezzo_filtro = filtro.costo;
-				//console.log(`Durata mesi:  ${durataMesi}`);
-				//console.log(`Durata litri:  ${durataLitri}`);
-			}
-			//Calcolo costo filtri annuale
-			let durata_filtro_giorni = durataMesi * 30;
-			let filtri = 12 / durataMesi;
-			setNewYearCostNotes(
-				`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
-					daylit * (durataMesi * 30)
-				} litri, inferiori al limite di ${durataLitri} litri per ogni filtro. Verranno quindi consumati circa ${
-					12 / durataMesi
-				} filtri all'anno (questo perché il filtro andrà comunque cambiato ogni ${durataMesi} mesi).`
-			);
-			//Se consumo più litri, il filtro dura meno...
-			if (daylit * durata_filtro_giorni > durataLitri) {
-				durata_filtro_giorni = durataLitri / daylit;
-				filtri = 365 / durata_filtro_giorni;
-				setNewYearCostNotes(
-					`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} mesi.\nIl consumo previsto nel periodo di ${durataMesi} mesi è di ${
-						daylit * (durataMesi * 30)
-					} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
-						0
-					)} giorni, per un consumo di circa ${(
-						365 / durata_filtro_giorni
-					).toFixed(0)} filtri all'anno.`
-				);
-			}
-			/*console.log(
-					`365 / ${durata_filtro_giorni} * ${prezzo_filtro} ---- daylit: ${daylit}`
-				);*/
-			setNewYearCost(((365 / durata_filtro_giorni) * prezzo_filtro).toFixed(0));
-			setFilters(filtri.toFixed(0));
-		}
-	};
-
 	useEffect(() => {
-		if (car) {
-			manageNewCost({ target: { value: car } });
-		}
-	}, [lista, car, manageNewCost, daylit]);
+		manageNewCost();
+	}, [currentCaraffa, currentFiltro, daylit,durataMesi]);
+
 	useEffect(() => {
 		const costo_annuale = Math.round(eurlit * daylit * 365);
 		setYearCost(costo_annuale);
 	}, [eurlit, daylit]);
 
+	const manageNewCost = () => {
+		const currentC = listaCaraffe.find((item) => item.code === currentCaraffa);
+		const currentF = listaFiltri.find((item) => item.asin === currentFiltro);
+
+		currentC && setStartCost(currentC.price);
+
+		if (currentF) {
+			let prezzo_filtro = 0;
+
+			setDurataMesi(currentF.durata_mesi);
+			setDurataLitri(currentF.durata_litri);
+			prezzo_filtro = Number(currentF.costo);
+
+			//Calcolo costo filtri annuale
+			let durata_filtro_mesi = currentF.durata_mesi;
+			let durata_filtro_giorni = durata_filtro_mesi * 30;
+			let durata_filtro_litri = currentF.durata_litri;
+			//console.log(durata_filtro_giorni);
+			let filtri = 12 / durata_filtro_mesi;
+
+			setNewYearCostNotes(
+				`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} ${
+					durataMesi === 1 ? `mese` : `mesi`
+				}. Il consumo previsto nel periodo di ${durataMesi} ${
+					durataMesi === 1 ? `mese` : `mesi`
+				} è di ${
+					daylit * (durataMesi * 30)
+				} litri, inferiori al limite di ${durataLitri} litri per ogni filtro. Verranno quindi consumati circa ${
+					12 / durataMesi
+				} filtri all'anno (questo perché il filtro andrà comunque cambiato ogni ${
+					durataMesi === 1 ? `mese` : `${durataMesi} mesi`
+				}).`
+			);
+
+			//Se consumo più litri, il filtro dura meno...
+			if (daylit * durata_filtro_giorni > durata_filtro_litri) {
+				durata_filtro_giorni = durataLitri / daylit;
+				filtri = (365 / durata_filtro_giorni);
+				setNewYearCostNotes(
+					`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} ${
+					durataMesi === 1 ? `mese` : `mesi`
+				}. Il consumo previsto nel periodo di ${durataMesi} ${
+					durataMesi === 1 ? `mese` : `mesi`
+				} è di ${
+						daylit * (durata_filtro_mesi * 30)
+					} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
+						0
+					)} giorni${durata_filtro_giorni>90 ? ` (verificare che i filtri non abbiano un periodo temporale massimo di utilizzo)` : ``}, per un consumo di circa ${filtri.toFixed(0)} filtri all'anno.`
+				);
+			}
+
+			setNewYearCost((filtri * prezzo_filtro).toFixed(0));
+			//setFilters(filtri.toFixed(0));
+		} else {
+			setNewYearCost(null);
+			setNewYearCostNotes('');
+		}
+	};
+
+
+
 	return (
-		<form className="max-w-6xl mx-auto text-center" id="calcolatore">
-			<div className="row">
-				<label>Litri bevuti al giorno: {daylit} </label>
-				<br />
-				<Drops litres={daylit} />
-				<input
-					name="daylit"
-					id="daylit"
-					type="range"
-					value={daylit}
-					min="0.5"
-					max="10"
-					step="0.5"
-					onChange={(e) => manageDayLit(e)}
-				/>
-			</div>
-			<div className="card rounded-lg bg-white text-sky-900 shadow-lg p-10 mt-5 mb-10">
-				<h1 className="text-4xl font-bold mb-4">
-					Spesa attuale (acqua in bottiglia)
-				</h1>
-				<div className="row">
-					<label>Costo al litro: € {eurlit}</label>
-					<br />
-					<Coins amount={eurlit} />
-					<input
-						type="range"
-						id="eurlit"
-						name="eurlit"
-						min="0.20"
-						max="1"
-						value={eurlit}
-						step="0.05"
-						onChange={(e) => manageEurLit(e)}
-					/>
-				</div>
-				<div className="row underline">
-					<label>Costo annuale acqua in bottiglia</label>
-					<span>€ {yearCost}</span>
-				</div>
-			</div>
-			<div className="card rounded-lg bg-white text-sky-900 shadow-lg p-10">
-				<h1 className="text-4xl font-bold mb-4">
-					Spesa futura (acqua filtrata)
-				</h1>
-				<div className="row mb-2">
-					<label>Caraffa</label>
-					<select onChange={(e) => manageNewCost(e)}>
-						{!car && (
-							<option value="" selected>
+		<div className="pt-24" ref={thisref} id="calcolatore">
+			<Typography
+				variant="h3"
+				color="white"
+				className="mt-24 mb-0 text-2xl text-center"
+			>
+				Calcola
+			</Typography>
+			<Card
+				className="max-w-4xl mx-auto text-center text-white mt-6 border border-blue bg-blue-800"
+
+				color="transparent"
+				shadow={false}
+
+			>
+				<CardBody>
+					<Typography variant="lead" color="white" className="mb-2">
+						Litri bevuti al giorno: {daylit}
+					</Typography>
+
+					<Drops litres={daylit} />
+					<div className="flex w-96 flex-col gap-8 my-5 mx-auto mb-10">
+						<Slider
+							size="lg"
+							name="daylit"
+							id="daylit"
+							color="blue"
+							value={daylit}
+							min="0.5"
+							max="10"
+							step="0.5"
+							onChange={(e) => manageDayLit(e)}
+						/>
+					</div>
+					<Typography variant="lead" color="white">
+						{' '}
+						<label>Costo acqua in bottiglia al litro: € {eurlit}</label>
+					</Typography>
+					<Coins amount={eurlit} className="mt-2" />
+					<div className="flex w-96 flex-col gap-8 my-5 mx-auto">
+						<Slider
+							size="lg"
+							color="blue"
+							id="eurlit"
+							name="eurlit"
+							min="0.20"
+							max="1"
+							value={eurlit}
+							step="0.05"
+							onChange={(e) => manageEurLit(e)}
+						/>
+					</div>
+
+					</CardBody>
+					</Card>
+
+			<Card
+				className="max-w-4xl mx-auto text-center text-white p-5 shadow-lg mt-6 border border-blue"
+				color="blue"
+				variant="gradient"
+			>
+				<CardBody>
+					<Typography variant="h4" color="white" className="mb-2">
+						Costo annuale acqua in bottiglia: <span>€ {yearCost}</span>
+					</Typography>
+
+<hr className="my-8 border-blue-gray-50" />
+
+					Scegli caraffa e filtri
+					<div className="max-w-md text-white mx-auto">
+						<select
+							label="Caraffa"
+							size="lg"
+							color="white"
+							onChange={(e) => updCurrentCaraffa(e)}
+							value={currentCaraffa}
+							className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 text-center"
+						>
+							{/*!currentCaraffa && (
+							<Option value="" key="0">
+								Seleziona...
+							</Option>
+						)*/}
+							{listaCaraffe
+							.slice()
+							.sort((a,b) => {
+								 if (a.custom_title < b.custom_title) {
+    								 return -1;
+  								 }
+  								 if (a.custom_title > b.custom_title) {
+    								 return 1;
+  								 }
+  								 return 0;
+							})
+							.map((entry) => (
+								<option
+									key={entry.code}
+									value={entry.code}
+
+								>
+									{entry.custom_title}
+								</option>
+							))}
+						</select>
+					</div>
+
+					{filters && (
+						<div className="max-w-md mt-2 text-white mx-auto">
+							<select
+								label="Filtro"
+								size="lg"
+								color="white"
+								onChange={(e) => updCurrentFiltro(e)}
+								value={currentFiltro}
+								className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 text-center"
+							>
+								{!currentFiltro && (
+							<option value="" key="00">
 								Seleziona...
 							</option>
 						)}
-						{lista.flatMap((entry) =>
-							entry.filtri.length > 1
-								? entry.filtri.map((filtro) => (
-										<option
-											key={`${entry.asin}${getFiltroString(filtro.nome)}`}
-											value={`${entry.asin}${getFiltroString(filtro.nome)}`}
-											selected={
-												`${entry.asin}${getFiltroString(filtro.nome)}` === car
-											}
-										>
-											{entry.custom_title} - {filtro.nome}
-										</option>
-								  ))
-								: [
+								{listaFiltri
+									.filter((f) => f.caraffe[currentCaraffa] === 1)
+									.map((entry) => (
 										<option
 											key={entry.asin}
 											value={entry.asin}
-											selected={entry.asin === car}
+
 										>
-											{entry.custom_title}
-										</option>,
-								  ]
-						)}
-					</select>
-				</div>
-				{car && (
-					<>
-						{/* <Coins amount={startCost} /> */}
-						<div className="row underline py-4">
-							<label>Costo iniziale caraffa</label>
-							<span>€ {startCost}</span>
+											{entry.nome}
+										</option>
+									))}
+							</select>
 						</div>
+					)}
 
-						{/* <Filters number={filters} /> */}
+					{currentCaraffa && (
+						<>
+							{/* <Coins amount={startCost} /> */}
+							<Typography
+								className="pt-4 pb-2 mt-4"
+								variant="h4"
+								color="white"
+							>
+								<label>Costo caraffa:</label>
+								<span>€ {startCost}</span>
+							</Typography>
 
-						<div className="row underline">
-							<label>Costo annuale filtri</label>
-							<span>€ {newYearCost}</span>
-						</div>
-						<div className="row">
-							<br />
-							<small className="text-block">{newYearCostNotes}</small>
-						</div>
-					</>
-				)}
-			</div>
-		</form>
+							{listaFiltri && newYearCost ? (
+								<>
+									<Typography variant="h4" color="white">
+										<label>Costo annuale filtri:</label>
+										<span>€ {newYearCost}</span>
+									</Typography>
+									<Typography variant="paragraph" color="white">
+										<small className="text-block text-justify mt-8">{newYearCostNotes}</small>
+									</Typography>
+								</>
+							) : (
+								''
+							)}
+						</>
+					)}
+				</CardBody>
+			</Card>
+		</div>
 	);
 }

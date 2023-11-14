@@ -1,8 +1,8 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 72,
-    "credits_remaining": 28,
+    "credits_used": 82,
+    "credits_remaining": 18,
     "credits_used_this_request": 1
   },
   "request_parameters": {
@@ -15,9 +15,9 @@
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-09T09:35:43.406Z",
-    "processed_at": "2023-11-09T09:36:07.967Z",
-    "total_time_taken": 24.56,
+    "created_at": "2023-11-10T16:51:26.276Z",
+    "processed_at": "2023-11-10T16:51:44.317Z",
+    "total_time_taken": 18.04,
     "amazon_url": "https://www.amazon.it/dp/B09BR77WFK?th=1&psc=1&language=it_IT"
   },
   "product": {
@@ -41,20 +41,246 @@
       "USB-C"
     ],
     "asin": "B09BR77WFK",
+    "parent_asin": "B0BFB687NK",
     "link": "https://www.amazon.it/Philips-Water-filtrante-capacit%C3%A0-ricaricabile/dp/B09BR77WFK?tag=8vcue204-21",
     "brand": "Philips Water",
-    "has_size_guide": true,
-    "energy_efficiency": {},
-    "documents": [
+    "variants": [
       {
-        "name": "Manuale dell'utente (PDF)",
-        "link": "https://m.media-amazon.com/images/I/B1mkfk0UZeL.pdf"
+        "asin": "B09BR77WFK",
+        "title": "Caraffa filtrante",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B09BR77WFK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Caraffa filtrante"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61AHIpdVQWL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61AHIpdVQWL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/710xoRVo1VL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61Q5hyq755L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71eE+0NDQ5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71afuj8zMxL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71zoKgA5qrL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71day96c8ZL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/61XqtfcMYiL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71YyQJ+rduL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/71zcLhIFRDL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/71ww4oiNmSL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/61whOgC+F8L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/81bEfmMzIuL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT13",
+            "link": "https://m.media-amazon.com/images/I/81bEfmMzIuL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 39.99,
+          "raw": "€39,99"
+        }
       },
       {
-        "name": "Manuale utente (PDF)",
-        "link": "https://m.media-amazon.com/images/I/B1-EdCF5BzL.pdf"
+        "asin": "B09H39G86C",
+        "title": "Cartuccia filtrante, 3 pezzi",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B09H39G86C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "Cartuccia filtrante, 3 pezzi"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71jOjaRRftL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71jOjaRRftL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71eE+0NDQ5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61Q5hyq755L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71FDU1P1CjS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71PEo0VBwpL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81Vd2Oq1gIL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71zDh0BqlbL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71ww4oiNmSL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71zoKgA5qrL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 24.78,
+          "raw": "€24,78"
+        }
+      },
+      {
+        "asin": "B0B5XMC5BP",
+        "title": "+ X-Guard Filtro",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0B5XMC5BP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "+ X-Guard Filtro"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/41rjadWfPXL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/41rjadWfPXL._AC_SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/619aIt8dOvL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71eE+0NDQ5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Q5hyq755L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/815V7D9O9KL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81uCjpO8zVL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/715T7zORGnL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 49.98,
+          "raw": "€49,98"
+        }
+      },
+      {
+        "asin": "B0B5DJ1VMQ",
+        "title": "+ Filtro Micro",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0B5DJ1VMQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nome stile",
+            "value": "+ Filtro Micro"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51vs6IOm4RL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51vs6IOm4RL._AC_SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/619aIt8dOvL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71eE+0NDQ5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Q5hyq755L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71jOjaRRftL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71eE+0NDQ5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61Q5hyq755L._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 64.77,
+          "raw": "€64,77"
+        }
       }
     ],
+    "variant_asins_flat": "B09BR77WFK,B09H39G86C,B0B5XMC5BP,B0B5DJ1VMQ",
+    "has_size_guide": true,
+    "energy_efficiency": {},
     "categories": [
       {
         "name": "Casa e cucina",
@@ -73,11 +299,6 @@
       }
     ],
     "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
-    "a_plus_content": {
-      "has_a_plus_content": true,
-      "has_brand_story": false,
-      "third_party": false
-    },
     "sub_title": {
       "text": "Marca: Philips Water",
       "link": "https://www.amazon.it/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Philips+Water&tag=8vcue204-21"
@@ -87,26 +308,26 @@
     "rating_breakdown": {
       "five_star": {
         "percentage": 64,
-        "count": 1449
+        "count": 1463
       },
       "four_star": {
         "percentage": 16,
-        "count": 362
+        "count": 365
       },
       "three_star": {
         "percentage": 6,
-        "count": 135
+        "count": 137
       },
       "two_star": {
         "percentage": 5,
-        "count": 113
+        "count": 114
       },
       "one_star": {
         "percentage": 9,
-        "count": 203
+        "count": 205
       }
     },
-    "ratings_total": 2265,
+    "ratings_total": 2286,
     "main_image": {
       "link": "https://m.media-amazon.com/images/I/61AHIpdVQWL.jpg"
     },
@@ -237,7 +458,7 @@
         "body": "Più capiente delle classiche caraffe ed erogazione più veloce, acqua disponibile subito senza dover aspettare il gocciolamento a caduta. Si può anche mettere in frigorifero (anche nelle mensole dello sportello) per avere acqua fredda oppure portare ovunque al bisogno in casa, sulla tavola o fuori. Mi ha sorpreso in positivo la durata della batteria, avendolo da più di due mesi oltre alla prima ricarica lho dovuto ricaricare solo una volta e lo uso quotidianamente (siamo in due in casa). Sapore dell'acqua sempre buono, ovviamente dopo aver ricaricato il filtro le prime erogazioni hanno un sapore particolare ma comunque a mio avviso gradevole. Elimina anche microplastiche. Il prezzo del filtro lho trovato conveniente rispetto a molte altre caraffe e all'acquisto delle bottiglie. Basta all'uso di plastica!Leggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Più capiente delle classiche caraffe ed erogazione più veloce, acqua disponibile subito senza dover aspettare il gocciolamento a caduta. Si può anche mettere in frigorifero (anche nelle mensole dello sportello) per avere acqua fredda oppure portare ovunque al bisogno in casa, sulla tavola o fuori. Mi ha sorpreso in positivo la durata della batteria, avendolo da più di due mesi oltre alla prima ricarica lho dovuto ricaricare solo una volta e lo uso quotidianamente (siamo in due in casa). Sapore dell'acqua sempre buono, ovviamente dopo aver ricaricato il filtro le prime erogazioni hanno un sapore particolare ma comunque a mio avviso gradevole. Elimina anche microplastiche. Il prezzo del filtro lho trovato conveniente rispetto a molte altre caraffe e all'acquisto delle bottiglie. Basta all'uso di plastica!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3CRKCWXZ9MLF8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3CRKCWXZ9MLF8?ASIN=B09BR77WFK",
         "rating": 4,
         "date": {
           "raw": "Recensito in Italia il 21 ottobre 2023",
@@ -245,7 +466,7 @@
         },
         "profile": {
           "name": "Stefano",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEZGKVUOS5FX7GBHE6SWHCMAEPBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEZGKVUOS5FX7GBHE6SWHCMAEPBA",
           "id": "AEZGKVUOS5FX7GBHE6SWHCMAEPBA"
         },
         "vine_program": false,
@@ -259,7 +480,7 @@
         "body": "Acquistato principalmente come esperimento, ha superato ogni aspettativa. L'acqua dei rubinetti di casa nella mia zona è normalmente molto ferrosa e calcarea come sapore. Il risultato dopo il filtraggio è impressionante, restituzisce un'acqua leggerissima e godibilissima da bere. L'erogatore istantaneo tramite rubinetto è veramente comodo, e anche a livello di estetica si presenta bene in cucina. A conti fatti infine, il costo al litro risulta anche inferiore all'acqua che abbiamo sempre acquistato in bottiglia. In casa siamo talmente contenti che ne abbiamo ordinato uno anche per nonni e zii. Riassumendo quindi, acquisto super consigliato.Leggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Acquistato principalmente come esperimento, ha superato ogni aspettativa. L'acqua dei rubinetti di casa nella mia zona è normalmente molto ferrosa e calcarea come sapore. Il risultato dopo il filtraggio è impressionante, restituzisce un'acqua leggerissima e godibilissima da bere. L'erogatore istantaneo tramite rubinetto è veramente comodo, e anche a livello di estetica si presenta bene in cucina. A conti fatti infine, il costo al litro risulta anche inferiore all'acqua che abbiamo sempre acquistato in bottiglia. In casa siamo talmente contenti che ne abbiamo ordinato uno anche per nonni e zii.<br>Riassumendo quindi, acquisto super consigliato.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3GAZLXC2J83EV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3GAZLXC2J83EV?ASIN=B09BR77WFK",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 15 ottobre 2023",
@@ -267,7 +488,7 @@
         },
         "profile": {
           "name": "Matteo",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGAKAP7PX7WIYFXUWPGKBWBLZYRQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGAKAP7PX7WIYFXUWPGKBWBLZYRQ",
           "id": "AGAKAP7PX7WIYFXUWPGKBWBLZYRQ"
         },
         "vine_program": false,
@@ -281,7 +502,7 @@
         "body": "Attualmente per l’utilizzo sono molto contento, è vero che piu o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili. 5 stelle per il momento.Leggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Attualmente per l’utilizzo sono molto contento, è vero che piu o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili.<br>5 stelle per il momento.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3GOE4M89UE8HD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3GOE4M89UE8HD?ASIN=B09BR77WFK",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 14 ottobre 2023",
@@ -289,7 +510,7 @@
         },
         "profile": {
           "name": "Roberto M.",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG4GG326OJ6RW6ORZZLEZYJFPIHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG4GG326OJ6RW6ORZZLEZYJFPIHQ",
           "id": "AG4GG326OJ6RW6ORZZLEZYJFPIHQ"
         },
         "vine_program": false,
@@ -303,7 +524,7 @@
         "body": "Dopo varie caraffe filtranti ho voluto provare questa. Senza dubbio la migliore di tutte le altre. L’acqua ha il sapore come quella in bottiglia. Abito in una zona dove l’estate riempiono l’acqua di cloro e questa caraffa è stata l’unica in grado di eliminarne il sapore. Purtroppo nel mio frigo a doppia anta non entra lateralmente (sarebbe stata comoda da avercela subito a portata di mano). In ogni caso super consigliataLeggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Dopo varie caraffe filtranti ho voluto provare questa. Senza dubbio la migliore di tutte le altre. L’acqua ha il sapore come quella in bottiglia. Abito in una zona dove l’estate riempiono l’acqua di cloro e questa caraffa è stata l’unica in grado di eliminarne il sapore. Purtroppo nel mio frigo a doppia anta non entra lateralmente (sarebbe stata comoda da avercela subito a portata di mano). In ogni caso super consigliata</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R1X1E0OUDDP9E5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1X1E0OUDDP9E5?ASIN=B09BR77WFK",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 3 ottobre 2023",
@@ -311,7 +532,7 @@
         },
         "profile": {
           "name": "Sole DT",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHJCHQYMHK2GIROPYBOPJ572EP7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHJCHQYMHK2GIROPYBOPJ572EP7A",
           "id": "AHJCHQYMHK2GIROPYBOPJ572EP7A"
         },
         "vine_program": false,
@@ -326,7 +547,7 @@
         "body": "L'acqua è bebibileLeggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>L'acqua è bebibile</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3U3B5PECNUU00/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3U3B5PECNUU00?ASIN=B09BR77WFK",
         "rating": 4,
         "date": {
           "raw": "Recensito in Italia il 1 ottobre 2023",
@@ -334,7 +555,7 @@
         },
         "profile": {
           "name": "Antonio",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFJ7HFKX62B4ECSIXAGKKAGI4BAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFJ7HFKX62B4ECSIXAGKKAGI4BAA",
           "id": "AFJ7HFKX62B4ECSIXAGKKAGI4BAA"
         },
         "vine_program": false,
@@ -348,7 +569,7 @@
         "body": "Design compatto e molto curato. Non sono un chimico, ma l' acqua è molto più gradevole. La confezione e la consegna puntuale e precisa 🤗Leggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Design compatto e molto curato.<br>Non sono un chimico, ma l' acqua è molto più gradevole. La confezione e la consegna puntuale e precisa 🤗</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R39TH07IX0NR0P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R39TH07IX0NR0P?ASIN=B09BR77WFK",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 22 ottobre 2023",
@@ -356,7 +577,7 @@
         },
         "profile": {
           "name": "Carla Aloisini",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHRJDOE44QR4TJH6WLYFY6SVPQ7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHRJDOE44QR4TJH6WLYFY6SVPQ7A",
           "id": "AHRJDOE44QR4TJH6WLYFY6SVPQ7A",
           "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5845d857-2ca8-41fb-974c-de487c8db318._CR0,0.0,333,333_SX48_.jpg"
         },
@@ -371,7 +592,7 @@
         "body": "Al momento non funziona. Seguite tutte le istruzioni ma nonostante il led blu l’acqua non scende. Sostituita con una finalmente funzionante.Leggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Al momento non funziona. Seguite tutte le istruzioni ma nonostante il led blu l’acqua non scende. Sostituita con una finalmente funzionante.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R2CVXNDYQZ96ZW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2CVXNDYQZ96ZW?ASIN=B09BR77WFK",
         "rating": 4,
         "date": {
           "raw": "Recensito in Italia il 28 agosto 2023",
@@ -379,7 +600,7 @@
         },
         "profile": {
           "name": "Cliente Amazon",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFPIZUGUUKIM5IJC3RZ7HAQIUL3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFPIZUGUUKIM5IJC3RZ7HAQIUL3Q",
           "id": "AFPIZUGUUKIM5IJC3RZ7HAQIUL3Q"
         },
         "vine_program": false,
@@ -394,7 +615,7 @@
         "body": "Oltre al prezzo è un prodotto davvero valido e anche bello esteticamenteLeggi di più",
         "asin": "B09BR77WFK",
         "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Oltre al prezzo è un prodotto davvero valido e anche bello esteticamente</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R1UW8S8FMLK12R/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09BR77WFK",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1UW8S8FMLK12R?ASIN=B09BR77WFK",
         "rating": 5,
         "date": {
           "raw": "Recensito in Italia il 22 settembre 2023",
@@ -402,7 +623,7 @@
         },
         "profile": {
           "name": "Imma",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEHJ47LEUOCCYKFBDSIFMR5FVLEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEHJ47LEUOCCYKFBDSIFMR5FVLEA",
           "id": "AEHJ47LEUOCCYKFBDSIFMR5FVLEA"
         },
         "vine_program": false,
@@ -476,6 +697,24 @@
         "is_global_review": true
       },
       {
+        "id": "R121F3ZT519UWD",
+        "title": "Très bon",
+        "body": "Une carafe filtrante très bonne en goût. Rien à voir avec la gamme brita.  De plus, j'utilise la même technique pour les filtres aqua clean (machine à café automatique Phillips saeco) : Je laisse dans un récipient rempli d'eau le filtre avant de l'installer dans le distributeur Phillips et laisser couler deux fois avant de commencer à consommer l'eau.  L'avantage comparé à Brita, c'est qu'il ne faut pas attendre avant de consommer l'eau et c'est un plus.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Une carafe filtrante très bonne en goût. Rien à voir avec la gamme brita.<br><br>De plus, j'utilise la même technique pour les filtres aqua clean (machine à café automatique Phillips saeco) :<br>Je laisse dans un récipient rempli d'eau le filtre avant de l'installer dans le distributeur Phillips et laisser couler deux fois avant de commencer à consommer l'eau.<br><br>L'avantage comparé à Brita, c'est qu'il ne faut pas attendre avant de consommer l'eau et c'est un plus.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Francia il 12 settembre 2023",
+          "utc": "2023-09-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "désir"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
         "id": "R1HMNGO8XX5XUO",
         "title": "Meilleur que la concurrence",
         "body": "Première information pour les futurs acheteurs, pour enlever totalement le goût de plastique j’ai purger 6 fois la totalité du réservoir. Mais je vous rassure c’est à faire uniquement lors du déballage. J’ai acheté cette accessoires premièrement pour ne plus acheter des bouteilles d’eau ce qui est nettement plus confortable et écologique. Mais j’ai également un frigidaire intégré avec un très petit compartiment à boisson ou les bouteilles classiques de 1,5l ne rentre pas. Pour les personnes dans la même situation je vous rassure le gabarit et parfait même pour un très petit frigidaire. J’ai enlevé une étoile car je trouve que le système de fixation de la cartouche filtrante est perfectible. Il m’arrive de l’enlever sans le vouloir ce qui est dérangeant. C’est tellement plus confortable qu’une carafe filtrante je ne pourrai plus revenir en arrière.Leggi di più",
@@ -494,24 +733,6 @@
         "helpful_votes": 3,
         "review_country": "fr",
         "is_global_review": true
-      },
-      {
-        "id": "R121F3ZT519UWD",
-        "title": "Très bon",
-        "body": "Une carafe filtrante très bonne en goût. Rien à voir avec la gamme brita.  De plus, j'utilise la même technique pour les filtres aqua clean (machine à café automatique Phillips saeco) : Je laisse dans un récipient rempli d'eau le filtre avant de l'installer dans le distributeur Phillips et laisser couler deux fois avant de commencer à consommer l'eau.  L'avantage comparé à Brita, c'est qu'il ne faut pas attendre avant de consommer l'eau et c'est un plus.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Une carafe filtrante très bonne en goût. Rien à voir avec la gamme brita.<br><br>De plus, j'utilise la même technique pour les filtres aqua clean (machine à café automatique Phillips saeco) :<br>Je laisse dans un récipient rempli d'eau le filtre avant de l'installer dans le distributeur Phillips et laisser couler deux fois avant de commencer à consommer l'eau.<br><br>L'avantage comparé à Brita, c'est qu'il ne faut pas attendre avant de consommer l'eau et c'est un plus.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Francia il 12 settembre 2023",
-          "utc": "2023-09-12T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "désir"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "fr",
-        "is_global_review": true
       }
     ],
     "buybox_winner": {
@@ -519,7 +740,7 @@
         "value": 30,
         "hard_maximum": true
       },
-      "mixed_offers_count": 30,
+      "mixed_offers_count": 29,
       "mixed_offers_from": {
         "raw": "Spedizione GRATUITA."
       },
@@ -537,12 +758,12 @@
       "fulfillment": {
         "type": "1p",
         "standard_delivery": {
-          "date": "domenica, 12 novembre",
+          "date": "marted, 14 novembre",
           "name": "GRATUITA"
         },
         "fastest_delivery": {
-          "date": "domani, 10 novembre",
-          "name": "oppure consegna pi rapida domani, 10 novembre. Ordina entro 5 ore 13 min. Maggiori informazioni"
+          "date": "domani, 11 novembre",
+          "name": "oppure ritiro pi rapido domani, 11 novembre. Ordina entro 1 ora 43 min"
         },
         "is_sold_by_amazon": true,
         "amazon_seller": {
@@ -564,18 +785,36 @@
     },
     "more_buying_choices": [
       {
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 44.98,
+          "raw": "€44,98"
+        },
         "seller_name": "CLICCANDOSHOP",
         "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=AWSQSPWEP9URB&isAmazonFulfilled=0&asin=B09BR77WFK&ref_=dp_mbc_seller",
         "free_shipping": true,
         "position": 1
       },
       {
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 45.9,
+          "raw": "€45,90"
+        },
         "seller_name": "IGLM STORE",
         "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A3N492UXW082CF&isAmazonFulfilled=0&asin=B09BR77WFK&ref_=dp_mbc_seller",
         "free_shipping": true,
         "position": 2
       },
       {
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 39.79,
+          "raw": "€39,79"
+        },
         "seller_name": "Flash Shopping",
         "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A71DD7NFUA23N&isAmazonFulfilled=0&asin=B09BR77WFK&ref_=dp_mbc_seller",
         "position": 3
@@ -619,13 +858,12 @@
     "weight": "1 Chilogrammi",
     "dimensions": "24L x 18l x 27H cm"
   },
-  "user_guide": "https://m.media-amazon.com/images/I/B1mkfk0UZeL.pdf",
   "frequently_bought_together": {
     "total_price": {
       "symbol": "€",
       "currency": "EUR",
-      "value": 66.98,
-      "raw": "66,98 €"
+      "value": 109.08,
+      "raw": "109,08 €"
     },
     "products": [
       {
@@ -635,36 +873,42 @@
         "image": "https://images-eu.ssl-images-amazon.com/images/I/61AHIpdVQWL._AC_UL116_SR116,116_.jpg"
       },
       {
-        "asin": "B08FD57Y63",
-        "title": "Philips - Micro X-Clean Filtro per caraffa 3 pack",
-        "link": "https://www.amazon.it/dp/B08FD57Y63?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/611SuxfkDpL._AC_UL116_SR116,116_.jpg",
+        "asin": "B08P6T3K3S",
+        "title": "Philips Water ADD4902WH/10, Gasatore per acqua, Bianco",
+        "link": "https://www.amazon.it/dp/B08P6T3K3S?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71QY+PjRJ6L._AC_UL116_SR116,116_.jpg",
         "price": {
           "symbol": "€",
           "currency": "EUR",
-          "value": 26.99,
-          "raw": "26,99€"
+          "value": 69.09,
+          "raw": "69,09€"
         }
       }
     ]
   },
   "similar_to_consider": {
     "asin": "B0BSXFK9TJ",
-    "link": "https://www.amazon.it/dp/B0BSXFK9TJ/ref=vp_d_cpf-substitute-widget-dynamic-title_pd?_encoding=UTF8&pf_rd_p=75d951f6-faca-4cef-92cc-e3f0adb2e650&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=LSpXJ&pd_rd_i=B0BSXFK9TJ&pd_rd_w=Dn12k&content-id=amzn1.sym.75d951f6-faca-4cef-92cc-e3f0adb2e650&pd_rd_r=46af73eb-762d-4eb4-8ead-6932168bf9dd&psc=1",
-    "title": "Filtro per acqua BRITA MAXTRA PRO Limescale Expert pacchetto semestrale da 6 filtri - GENERAZIONE FILTRI- Ottimi per bevande calde & protezione dal calcare per macchina da caffè e bollitori",
+    "link": "https://www.amazon.it/dp/B0BSXFK9TJ/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=a6fd09d6-3ef7-4321-8ce5-2456b8e99e0b&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=qMwta&pd_rd_i=B0BSXFK9TJ&pd_rd_w=UZKen&content-id=amzn1.sym.a6fd09d6-3ef7-4321-8ce5-2456b8e99e0b&pd_rd_r=bc9e6eb1-06d6-4b04-93b4-6f9e89e27b2c&psc=1",
+    "title": "Filtro per acqua BRITA MAXTRA PRO Limescale Expert pacchetto semestrale da 6 filtri - NUOVA GENERAZIONE FILTRI - Ottimo per bevande calde & protezione dal calcare per macchina da caffè e bollitori",
     "rating": 4.5,
-    "ratings_total": 596,
+    "ratings_total": 613,
     "image": "https://m.media-amazon.com/images/I/71K6PH4+tBL._SS100_.jpg",
+    "price": {
+      "currency": "EUR",
+      "value": 44,
+      "symbol": "€",
+      "raw": "EUR 44,00"
+    },
     "is_prime": true
   },
   "also_bought": [
     {
       "title": "BRITA Caraffa filtrante Marella blu (2.4L) - Memo digitale e coperchio ribaltabile - confezione Smart Box sostenibile",
       "asin": "B0BSXDLXC4",
-      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_1/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_1/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81GaxDSEE+L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
-      "ratings_total": 52584,
+      "ratings_total": 52608,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -673,40 +917,26 @@
       }
     },
     {
-      "title": "BRITA Caraffa Filtrante Marella XL Bianca (3.5L) incl. 1 Filtro MAXTRA PRO All-in-1 Adatta alla Porta del Frigorifero con Mem",
+      "title": "BRITA Caraffa filtrante Marella bianca XL (3.5L) incl. 1 filtro MAXTRA PRO All-in-1, adatta alla porta del frigorifero con Me",
       "asin": "B0BSXFVB6M",
-      "link": "https://www.amazon.it/Filtrante-Frigorifero-Ribaltabile-Confezione-Sostenibile/dp/B0BSXFVB6M/ref=pd_vtp_sccl_2_2/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B0BSXFVB6M&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/filtrante-frigorifero-ribaltabile-confezione-sostenibile/dp/B0BSXFVB6M/ref=pd_vtp_sccl_2_2/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B0BSXFVB6M&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81MWz9x9ZtL._AC_UL160_SR160,160_.jpg",
       "rating": 4.7,
-      "ratings_total": 9047,
+      "ratings_total": 9069,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 29.64,
-        "raw": "€29,64"
-      }
-    },
-    {
-      "title": "Laica Caraffa Filtrante Prime Line, Capacità 3.0L, Con 3 Filtri Bi-Flux che riduce calce e cloro, acqua filtrata per un gusto",
-      "asin": "B0BFJGJV7P",
-      "link": "https://www.amazon.it/Laica-Confezione-filtrante-filtrata-ottimale/dp/B0BFJGJV7P/ref=pd_vtp_sccl_2_3/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B0BFJGJV7P&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61acyW4Fg-L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 72,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 29.9,
-        "raw": "€29,90"
+        "value": 27.69,
+        "raw": "€27,69"
       }
     },
     {
       "title": "Laica J996 Kit 6 filtri (6 mesi di acqua filtrata) + 1 Caraffa Filtrante Stream Line in omaggio (colori assortiti), 100% made",
       "asin": "B0086W3D8K",
-      "link": "https://www.amazon.it/Laica-J996-filtri-caraffa-filtrante/dp/B0086W3D8K/ref=pd_vtp_sccl_2_4/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B0086W3D8K&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Laica-J996-filtri-caraffa-filtrante/dp/B0086W3D8K/ref=pd_vtp_sccl_2_3/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B0086W3D8K&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61QWZseZDuL._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
-      "ratings_total": 7025,
+      "ratings_total": 7029,
       "price": {
         "symbol": "€",
         "currency": "EUR",
@@ -715,9 +945,23 @@
       }
     },
     {
+      "title": "Laica Caraffa Filtrante Prime Line, Capacità 3.0L, Con 3 Filtri Bi-Flux che riduce calce e cloro, acqua filtrata per un gusto",
+      "asin": "B0BFJGJV7P",
+      "link": "https://www.amazon.it/Laica-Confezione-filtrante-filtrata-ottimale/dp/B0BFJGJV7P/ref=pd_vtp_sccl_2_4/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B0BFJGJV7P&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61acyW4Fg-L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 74,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 29.9,
+        "raw": "€29,90"
+      }
+    },
+    {
       "title": "Laica J31Af Stream Line Caraffa Filtrante, Plastica, 2.3L, Bianco, ‎‎22 x 21 x 9 cm 617 grammi",
       "asin": "B002ECI19E",
-      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_vtp_sccl_2_5/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
+      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_vtp_sccl_2_5/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/513eQbk7f0L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
       "ratings_total": 1452,
@@ -729,17 +973,17 @@
       }
     },
     {
-      "title": "Cartuccia filtrante per acqua LAICA Bi-Flux – Preserva i sali minerali riducendo cloro e metalli pesanti – Riduce la durezza ",
-      "asin": "B009DIOBZ0",
-      "link": "https://www.amazon.it/Laica-F6S-Cartuccia-Filtrante-Bi-Flux/dp/B009DIOBZ0/ref=pd_vtp_sccl_2_6/258-6042623-8817167?pd_rd_w=SxtfT&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=Z38WD5C65DM45ZAY2PJR&pd_rd_wg=ZFvaI&pd_rd_r=46dc82d6-315c-46a4-9766-caf53433d239&pd_rd_i=B009DIOBZ0&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51rAZqrspNL._AC_UL160_SR160,160_.jpg",
+      "title": "Brita Caraffa Filtrante Marella Bianca (2.4L) incl. 1 Filtro MAXTRA PRO All-in-1, Adatta alla Porta del Frigorifero con Memo ",
+      "asin": "B0BSXDSRZW",
+      "link": "https://www.amazon.it/Brita-Frigorifero-Ribaltabile-Confezione-Sostenibile/dp/B0BSXDSRZW/ref=pd_vtp_sccl_2_6/258-3383555-4804535?pd_rd_w=uoXg3&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQH60ZQV7C8M8BBF3RXE&pd_rd_wg=5bo9A&pd_rd_r=f54f3dfd-6728-4bda-836f-8047aff52670&pd_rd_i=B0BSXDSRZW&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71FFPqa9n0L._AC_UL160_SR160,160_.jpg",
       "rating": 4.6,
-      "ratings_total": 8421,
+      "ratings_total": 9058,
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 22.5,
-        "raw": "€22,50"
+        "value": 23.62,
+        "raw": "€23,62"
       }
     }
   ]

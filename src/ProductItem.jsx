@@ -1,53 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import sostanze from './data/sostanze.json';
+import React from 'react';
+import {
+	Card,
+	CardBody,
+	Typography,
+	Button,
+} from '@material-tailwind/react';
 import { BsStarFill, BsStarHalf } from 'react-icons/bs';
-
-// Componente Caratteristiche
-const Caratteristiche = ({ filtro, sostanzeData }) => {
-	const getEtichettaENota = (caratteristica, sostanzeData) => {
-		const sostanza = sostanzeData[caratteristica];
-		if (sostanza) {
-			return {
-				etichetta: sostanza.etichetta,
-				nota: sostanza.nota || '',
-			};
-		}
-		return {
-			etichetta: caratteristica,
-			nota: '',
-		};
-	};
-
-	return (
-		<div className="caratteristiche mt-5" key={filtro.nome}>
-			<table className="mx-auto">
-				{Object.entries(filtro.caratteristiche)
-					.sort(([car1], [car2]) => car1.localeCompare(car2))
-					.map(([caratteristica, valore]) => {
-						const { etichetta, nota } = getEtichettaENota(
-							caratteristica,
-							sostanzeData
-						);
-						return (
-							<React.Fragment key={caratteristica}>
-								<tr>
-									<td style={{ textAlign: 'left' }}>{etichetta}</td>
-									<td>{valore === 1 ? '✅' : valore < 1 ? '❌' : '✓'}</td>
-								</tr>
-								{nota && (
-									<tr>
-										<td colSpan="2" style={{ display: 'table-cell' }}>
-											<small>{nota}</small>
-										</td>
-									</tr>
-								)}
-							</React.Fragment>
-						);
-					})}
-			</table>
-		</div>
-	);
-};
 
 // Componente Rating
 const Rating = ({ stars }) => {
@@ -67,64 +25,55 @@ const Rating = ({ stars }) => {
 };
 
 // Componente ProductItem
-const ProductItem = ({
-	lista,
-	entry,
-	filtro,
-	filtrostring,
-	car,
-	setCar,
-	remove,
-}) => {
-	const [sostanzeData, setSostanzeData] = useState({});
-
-	useEffect(() => {
-		setSostanzeData(sostanze);
-	}, []);
-
-	const isItemSelected =
-		entry.asin === car || entry.asin + filtrostring === car;
+const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
+	const isItemSelected = code === currentCar;
 
 	return (
-		<div
-			key={entry.asin + filtrostring}
-			className={`product-col p-4 border border-white rounded-lg text-center shadow ${
-				isItemSelected && `selected`
+		<Card
+			key={code}
+			className={`product-col p-2 w-full _max-w-[90%] _mx-auto rounded-lg text-center shadow border-solid border-4 ${
+				isItemSelected ? `border-blue-900 text-blue-800` : `border-white text-black`
 			}`}
-			onClick={() => setCar(entry.asin + filtrostring)}
+			onClick={() => handleProductClick(code)}
 		>
-			<div style={{ height: 60 }}>
-				<h2 className="text-xl">{entry.custom_title}</h2>
-				<p>{filtro.nome}</p>
-			</div>
 
-			<div className="img-container rounded-md my-12">
-				<img src={entry.image} className="max-w-full" alt={entry.title} />
-			</div>
-			<p>€ {JSON.stringify(entry.price)}</p>
-			<p className="rating">
-				Rating: <Rating stars={entry.rating} />{' '}
-				<span>({entry.rating_num})</span>
-			</p>
-
-			{/* Utilizza il componente Caratteristiche */}
-			<Caratteristiche filtro={filtro} sostanzeData={sostanzeData} />
-
-			<a href={entry.link} target="_blank" rel="noreferrer">
-				<button className="bg-gray-800 p-1 px-4 mt-5 rounded-md">
-					ACQUISTA
-				</button>
-			</a>
-			{lista.length > 1 && (
-				<span
-					className="close"
-					onClick={() => remove(entry.asin + filtrostring)}
-					title="Scarta"
+			<CardBody>
+				<Typography
+					variant="h3"
+					color={isItemSelected ? `blue-gray` : `blue-800`}
+					className="mt-2 mb-6 text-2xl"
 				>
-					&times;
-				</span>
-			)}
-		</div>
+					{product.custom_title}
+				</Typography>
+				<img
+					src={product.image}
+					className="max-w-fullrelative h-56 mx-auto mb-8"
+					alt={product.title}
+				/>
+				<Typography>
+					{product.capacita>0 && (
+						<p className="rating">Capacità: {product.capacita} litri</p>
+					)}
+					<p className="rating">
+						Rating: <Rating stars={product.rating} />{' '}
+						<span>({product.rating_num})</span>
+					</p>
+				</Typography>
+				<Typography
+					variant="h4"
+					color="black"
+					className="mt-6 flex justify-center gap-1 text-3xl font-normal"
+				>
+					<span className="mt-2 text-sm">€</span>
+					{JSON.stringify(product.price)}{' '}
+				</Typography>
+				<a href={product.link} target="_blank" rel="noreferrer">
+					<Button className={`p-1 px-4 mt-5 rounded-md ${isItemSelected ? `bg-blue-800` : `bg-blue-gray-800`} `} >
+						Vedi su Amazon
+					</Button>
+				</a>
+			</CardBody>
+		</Card>
 	);
 };
 

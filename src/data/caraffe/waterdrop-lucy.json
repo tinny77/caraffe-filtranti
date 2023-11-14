@@ -1,0 +1,693 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 79,
+    "credits_remaining": 21,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.it",
+    "asin": "B0891QZ9PT",
+    "type": "product",
+    "associate_id": "8vcue204-21",
+    "currency": "eur",
+    "output": "json",
+    "language": "it_IT"
+  },
+  "request_metadata": {
+    "created_at": "2023-11-10T16:51:01.063Z",
+    "processed_at": "2023-11-10T16:51:06.969Z",
+    "total_time_taken": 5.91,
+    "amazon_url": "https://www.amazon.it/dp/B0891QZ9PT?th=1&psc=1&language=it_IT"
+  },
+  "product": {
+    "title": "Waterdrop Lucid NSF Certificato 3.5L Caraffa Filtrante Progettata con 1×90 Giorni Filtro, Riduce Piombo, Fluoro, Cloro e Altro, Senza BPA, Blu Classico (Filtro di Ricambio: WD-PF-01A Plus)",
+    "search_alias": {
+      "title": "Industria e Scienza",
+      "value": "industrial"
+    },
+    "keywords": "Waterdrop,Lucid,NSF,Certificato,3.5L,Caraffa,Filtrante,Progettata,con,1×90,Giorni,Filtro,,Riduce,Piombo,,Fluoro,,Cloro,e,Altro,,Senza,BPA,,Blu,Classico,(Filtro,di,Ricambio:,WD-PF-01A,Plus)",
+    "keywords_list": [
+      "Waterdrop",
+      "Lucid",
+      "Certificato",
+      "3.5L",
+      "Caraffa",
+      "Filtrante",
+      "Progettata",
+      "1×90",
+      "Giorni",
+      "Filtro",
+      "Riduce",
+      "Piombo",
+      "Fluoro",
+      "Cloro",
+      "Altro",
+      "Senza",
+      "Classico",
+      "(Filtro",
+      "Ricambio:",
+      "WD-PF-01A",
+      "Plus)"
+    ],
+    "asin": "B0891QZ9PT",
+    "link": "https://www.amazon.it/Waterdrop-Certificato-Caraffa-Filtrante-Progettata/dp/B0956NQXHR?tag=8vcue204-21",
+    "brand": "Waterdrop",
+    "energy_efficiency": {},
+    "categories": [
+      {
+        "name": "Industria e Scienza"
+      },
+      {
+        "name": "Casa e cucina",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "category_id": "524015031"
+      },
+      {
+        "name": "Distributori d'acqua, caraffe filtranti e cartucce",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "category_id": "652719031"
+      },
+      {
+        "name": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "category_id": "652720031"
+      }
+    ],
+    "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "description": "DESCRIZIONE PRODOTTO \n Waterdrop Snappy - Brocca filtro acqua",
+    "sub_title": {
+      "text": "Visita lo Store di Waterdrop",
+      "link": "https://www.amazon.it/stores/Waterdrop/page/8ED09DBC-7993-42CF-B62B-0450826C9A79?ref_=ast_bln&tag=8vcue204-21"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 5347
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 972
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 277
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 138
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 208
+      }
+    },
+    "ratings_total": 6945,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71qkb1owrRL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71qkb1owrRL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51X+ukd1RTL._SL1000_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/711ORzSuNOL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81DNRSpdKDL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/816Qs6cytTL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ckizr3amL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/7184HXptnsL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71LLQhQaGSL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81pMAABgqdL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71qkb1owrRL._SL1500_.jpg,https://m.media-amazon.com/images/I/51X+ukd1RTL._SL1000_.jpg,https://m.media-amazon.com/images/I/711ORzSuNOL._SL1500_.jpg,https://m.media-amazon.com/images/I/81DNRSpdKDL._SL1500_.jpg,https://m.media-amazon.com/images/I/816Qs6cytTL._SL1500_.jpg,https://m.media-amazon.com/images/I/71ckizr3amL._SL1500_.jpg,https://m.media-amazon.com/images/I/7184HXptnsL._SL1500_.jpg,https://m.media-amazon.com/images/I/71LLQhQaGSL._SL1500_.jpg,https://m.media-amazon.com/images/I/81pMAABgqdL._SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Filtrazione certificata: La brocca è certificata NSF 42 per la riduzione di cloro, gusto e odore. È anche certificato NSF 372 per materiale senza piombo. Utilizzando la tecnologia del filtro dell'acqua multistadio, questa brocca filtro dell'acqua può ridurre efficacemente l'arsenico, il fluoro, il piombo e altri contaminanti nell'acqua. Bevi più acqua ogni giorno con Waterdrop. I filtri di ricambio sono disponibili per l'acquisto! (modello di ricerca: WD-PF-01A Plus).",
+      "Scelta d'élite: la brocca Waterdrop è realizzata in plastica senza BPA di alta qualità e ha un manico ergonomico, che facilita la manipolazione. Poiché il lanciatore utilizza carbone attivo e ACF altamente efficiente dal Giappone, puoi stare certo che avrai prestazioni ottimali. Waterdrop è la tua scelta d'élite.",
+      "Che cosa è TDS: Lo scopo principale del filtro Waterdrop non è la riduzione TDS. \"TDS\" sta per \"solidi totali disciolti\", che sono sostanzialmente sali inorganici e una piccola quantità di materia organica. Il filtro può ridurre le sostanze nocive mantenendo il calcio e il magnesio benefici, che sono i componenti principali dei sali inorganici. Se si desidera ridurre fisicamente TDS, la scelta migliore è il sistema Waterdrop RO. Waterdrop dice la verità e fornisce molteplici opzioni per te.",
+      "Lunga durata senza rischi: il filtro di alta qualità produce 200 litri d'acqua prima di essere sostituito. Una brocca filtro acqua Waterdrop WD-PT-07C può sostituire più di 1.600 bottiglie d'acqua standard da 16 oz, aiutando così a risparmiare denaro e proteggere il nostro ambiente. Waterdrop ha una grande capacità di 10 tazze, che aiuta il vostro business a essere pronto per una grande riunione.",
+      "Design innovativo: la brocca Waterdrop si adatta perfettamente alla maggior parte delle porte del frigorifero senza occupare troppo spazio. Il design innovativo del coperchio del beccuccio può aiutare a prevenire la penetrazione di polvere e altre particelle nella brocca. Non è necessario rimuovere la copertura. Il lanciatore Waterdrop contiene un indicatore di induzione a gravità che ti consente di sapere quando è il momento di sostituire il filtro. Waterdrop porta nell'innovazione e WD-PT-07C è più di un normale lanciatore."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Design innovativo: la brocca Waterdrop si adatta perfettamente alla maggior parte delle porte del frigorifero senza occupare troppo spazio. Il design innovativo del coperchio del beccuccio può aiutare a prevenire la penetrazione di polvere e altre particelle nella brocca. Non è necessario rimuovere la copertura. Il lanciatore Waterdrop contiene un indicatore di induzione a gravità che ti consente di sapere quando è il momento di sostituire il filtro. Waterdrop porta nell'innovazione e WD-PT-07C è più di un normale lanciatore. Lunga durata senza rischi: il filtro di alta qualità produce 200 litri d'acqua prima di essere sostituito. Una brocca filtro acqua Waterdrop WD-PT-07C può sostituire più di 1.600 bottiglie d'acqua standard da 16 oz, aiutando così a risparmiare denaro e proteggere il nostro ambiente. Waterdrop ha una grande capacità di 10 tazze, che aiuta il vostro business a essere pronto per una grande riunione. Che cosa è TDS: Lo scopo principale del filtro Waterdrop non è la riduzione TDS. \"TDS\" sta per \"solidi totali disciolti\", che sono sostanzialmente sali inorganici e una piccola quantità di materia organica. Il filtro può ridurre le sostanze nocive mantenendo il calcio e il magnesio benefici, che sono i componenti principali dei sali inorganici. Se si desidera ridurre fisicamente TDS, la scelta migliore è il sistema Waterdrop RO. Waterdrop dice la verità e fornisce molteplici opzioni per te. Scelta d'élite: la brocca Waterdrop è realizzata in plastica senza BPA di alta qualità e ha un manico ergonomico, che facilita la manipolazione. Poiché il lanciatore utilizza carbone attivo e ACF altamente efficiente dal Giappone, puoi stare certo che avrai prestazioni ottimali. Waterdrop è la tua scelta d'élite. Filtrazione certificata: La brocca è certificata NSF 42 per la riduzione di cloro, gusto e odore. È anche certificato NSF 372 per materiale senza piombo. Utilizzando la tecnologia del filtro dell'acqua multistadio, questa brocca filtro dell'acqua può ridurre efficacemente l'arsenico, il fluoro, il piombo e altri contaminanti nell'acqua. Bevi più acqua ogni giorno con Waterdrop. I filtri di ricambio sono disponibili per l'acquisto! (modello di ricerca: WD-PF-01A Plus).",
+    "attributes": [
+      {
+        "name": "Marchio",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Brocca"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1,98 Libbre"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2L2DUDBOHQ5Y9",
+        "title": "Molto valide",
+        "body": "L acqua è veramente buona. Mi figlia aveva sempre storie che li piaceva solo levissima più di 40 cent a bottiglia. Subito mi ha detto che li piace di più. Poi considerando che tirare su delle casse d acqua non è divertente. E la plastica è sempre un problema direi che è un ottimo acquisto. Bisogna vedere nel tempo come va. Se veramente il filtro dura 3 mesi allora è top.Leggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>L acqua è veramente buona. Mi figlia aveva sempre storie che li piaceva solo levissima più di 40 cent a bottiglia. Subito mi ha detto che li piace di più. Poi considerando che tirare su delle casse d acqua non è divertente. E la plastica è sempre un problema direi che è un ottimo acquisto. Bisogna vedere nel tempo come va. Se veramente il filtro dura 3 mesi allora è top.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2L2DUDBOHQ5Y9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 18 settembre 2023",
+          "utc": "2023-09-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "mira",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGE4Z3WR765KXJZ76OFNYTWKHK5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGE4Z3WR765KXJZ76OFNYTWKHK5A",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/acf1d294-2e6b-4e28-a8bf-b4591c56e67f._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1TLL6N18BFRAU",
+        "title": "Ottimo acquisto",
+        "body": "Lo utilizzo da più di un mese e mi sto trovando benissimo Comodo da riempire, pulire e capacità perfetta per una/due persone L'acqua filtrata è leggera ma non alterata nel gusto, e non totalmente insapore I filtri di ricambio sono più cari e difficili da reperire di altre marche, ma ne vale decisamente la penaLeggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Lo utilizzo da più di un mese e mi sto trovando benissimo<br>Comodo da riempire, pulire e capacità perfetta per una/due persone<br>L'acqua filtrata è leggera ma non alterata nel gusto, e non totalmente insapore<br>I filtri di ricambio sono più cari e difficili da reperire di altre marche, ma ne vale decisamente la pena</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1TLL6N18BFRAU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 21 agosto 2023",
+          "utc": "2023-08-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lavinia",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFNZQJCQOS7TKAD4XQIBOYVXEIHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFNZQJCQOS7TKAD4XQIBOYVXEIHQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "RTZQZU16RKYCH",
+        "title": "Bella e molto capiente",
+        "body": "Devo dire molto bella esteticamente e molto funzionale, chiaramente tre litri e mezzo il peso si sente ma molte meno scocciature delle piccole da riempire di continuo 😁Leggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Devo dire molto bella esteticamente e molto funzionale, chiaramente tre litri e mezzo il peso si sente ma molte meno scocciature delle piccole da riempire di continuo 😁</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/RTZQZU16RKYCH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 19 aprile 2023",
+          "utc": "2023-04-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alessio",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AH4J5NUH2DG5J5YAJTUWJDT77NBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4J5NUH2DG5J5YAJTUWJDT77NBQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/74350ad4-0538-4548-9960-f39ec6cc42ea._CR0,54.0,225,225_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R3JXRFHL3M99LX",
+        "title": "Fantastico",
+        "body": "Prodotto oltre le aspettative, robusto ed efficente, ho verificato l'efficenza del filtro ed è perfetta! GrazieLeggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Prodotto oltre le aspettative, robusto ed efficente, ho verificato l'efficenza del filtro ed è perfetta! Grazie</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3JXRFHL3M99LX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 1 marzo 2023",
+          "utc": "2023-03-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mary",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFNR44NKHIWFCIC3PSYY2FCHDJQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFNR44NKHIWFCIC3PSYY2FCHDJQQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R5L5IM2QZUVH4",
+        "title": "Perfetta",
+        "body": "La caraffa fa il suo lavoro e migliora moltissimo il sapore dell'acqua. Servizio eccellente come sempreLeggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>La caraffa fa il suo lavoro e migliora moltissimo il sapore dell'acqua. Servizio eccellente come sempre</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R5L5IM2QZUVH4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 27 gennaio 2023",
+          "utc": "2023-01-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cliente Amazon",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFCD7CF7U3ZNLHHUVUUVSBZZFRHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFCD7CF7U3ZNLHHUVUUVSBZZFRHA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1XW0VYP99GW5B",
+        "title": "Ottimo prodotto",
+        "body": "Un buon compromesso qualità prezzo, la gran comodità di cambiare la capsula filtrante ogni 3 mesi piuttosto che ogni mese come qualla che usavo prima, ha un led sul coperchio che ti avvisa quando è ora di sostituirla passando dal blu al rossoLeggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Un buon compromesso qualità prezzo, la gran comodità di cambiare la capsula filtrante ogni 3 mesi piuttosto che ogni mese come qualla che usavo prima, ha un led sul coperchio che ti avvisa quando è ora di sostituirla passando dal blu al rosso</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R1XW0VYP99GW5B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 1 ottobre 2022",
+          "utc": "2022-10-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "giuseppe fidone",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG7VGNRVRGK5ISRL3BXVJHLAAWAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG7VGNRVRGK5ISRL3BXVJHLAAWAA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R3DTX656LR3MRY",
+        "title": "Comprato in sostituzione di altra caraffa",
+        "body": "Sia la scatola che il prodotto si presentano molto bene; ho comprato questa caraffa per il suo design oltre al fatto che il suo filtro dura 3 volte in più rispetto a tutte le altre caraffe \"comuni\" e filtra in minor tempo. L'attuale caraffa, con il filtro nuovo, ci mette 10 minuti a filtrare il tutto!Leggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Sia la scatola che il prodotto si presentano molto bene; ho comprato questa caraffa per il suo design oltre al fatto che il suo filtro dura 3 volte in più rispetto a tutte le altre caraffe \"comuni\" e filtra in minor tempo. L'attuale caraffa, con il filtro nuovo, ci mette 10 minuti a filtrare il tutto!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R3DTX656LR3MRY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 7 maggio 2022",
+          "utc": "2022-05-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jacopo Gori",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEVZT7LU3G4LBEBQ47RAH3KV73GA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEVZT7LU3G4LBEBQ47RAH3KV73GA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R2J7YD47BCW2M0",
+        "title": "Buon livello di filtrazione unica pecca difficoltà nel trovare le cartucce filtro!",
+        "body": "Buon livello di filtrazione, esagerata la capienza, sistema di indicazione semplice e funzionale con il led che lampeggia unica pecca difficoltà a trovare i filtri conviene ricomprarla nuova ogni 3 mesi si fa prima certo per il pianeta non è il massimo!Leggi di più",
+        "asin": "B0891QZ9PT",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Buon livello di filtrazione, esagerata la capienza, sistema di indicazione semplice e funzionale con il led che lampeggia unica pecca difficoltà a trovare i filtri conviene ricomprarla nuova ogni 3 mesi si fa prima certo per il pianeta non è il massimo!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "link": "https://www.amazon.it/gp/customer-reviews/R2J7YD47BCW2M0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0891QZ9PT",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito in Italia il 26 luglio 2021",
+          "utc": "2021-07-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Luigi",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEOKS7XGDESM4ZJTR35KFUU5XUOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEOKS7XGDESM4ZJTR35KFUU5XUOQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d804f44d-7f17-4800-b959-e1bf8d0b72c2._CR0,0,380,380_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "it",
+        "is_global_review": false
+      },
+      {
+        "id": "R1VI4AQLZA4R17",
+        "title": "Tastes Great",
+        "body": "Figure if you drink about a gallon of water a day, the first filter will last you 200 days.  I get that same fresh clean taste every time I use it, and I've had mine now for just shy of 3 months or 100 day mark.  The water tastes great, definitely better than any bottled water, or any other filter that I have used.  If I had to narrow it down, it doesn't have the dirt earthy taste like Arrowhead does. It doesn't have the harsh chemical aftertaste like tap water does. In fact, this filter removes more chlorine than any other filter out there as far as I know and have tested myself. It's probably something like closer to Dasani I'd say, borderline Fiji brand of water... but better.  It tastes great, I don't know what else to say. I would continue to buy the filters, and use this thing as long as it'll keep working.  The material of the container, or shell, feels very solid and durable. Feels like a good quality plastic. The handle feels solid.  Lastly, I do feel like you're getting your money's worth. The replacement filter cost is less expensive than any other filter out there. Also, they do last longer than other water filter replacement cartridges.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Figure if you drink about a gallon of water a day, the first filter will last you 200 days.<br><br>I get that same fresh clean taste every time I use it, and I've had mine now for just shy of 3 months or 100 day mark.<br><br>The water tastes great, definitely better than any bottled water, or any other filter that I have used.<br><br>If I had to narrow it down, it doesn't have the dirt earthy taste like Arrowhead does.<br>It doesn't have the harsh chemical aftertaste like tap water does. In fact, this filter removes more chlorine than any other filter out there as far as I know and have tested myself.<br>It's probably something like closer to Dasani I'd say, borderline Fiji brand of water... but better.<br><br>It tastes great, I don't know what else to say. I would continue to buy the filters, and use this thing as long as it'll keep working.<br><br>The material of the container, or shell, feels very solid and durable. Feels like a good quality plastic. The handle feels solid.<br><br>Lastly, I do feel like you're getting your money's worth. The replacement filter cost is less expensive than any other filter out there. Also, they do last longer than other water filter replacement cartridges.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 3 novembre 2023",
+          "utc": "2023-11-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Old Coot"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R3GN6KJYR4QIKK",
+        "title": "Just buy it!",
+        "body": "I love my Waterdrop! Never before have I used a filter that worked so quickly and effortlessly. The large size is also a big plus. We were staying with friends who had a small Brita and we could only get a glass and a half of water from it at a time and it seemed to take forever to filter - even a larger one wouldn't have helped all that much because it too so long. That's not a problem with the Waterdrop filter. I originally bought it when my fridge's filtered water system was on the fritz but we've continued to use the Waterdrop to filter water for making coffee and tea, and to have some extra filtered water on hand when we have guests over. The filters are as expensive as the unit itself but still not as expensive as the filter for my refrigerated water dispenser so I think it's well worth it. I want to always have one of these on hand!Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I love my Waterdrop! Never before have I used a filter that worked so quickly and effortlessly. The large size is also a big plus. We were staying with friends who had a small Brita and we could only get a glass and a half of water from it at a time and it seemed to take forever to filter - even a larger one wouldn't have helped all that much because it too so long. That's not a problem with the Waterdrop filter. I originally bought it when my fridge's filtered water system was on the fritz but we've continued to use the Waterdrop to filter water for making coffee and tea, and to have some extra filtered water on hand when we have guests over. The filters are as expensive as the unit itself but still not as expensive as the filter for my refrigerated water dispenser so I think it's well worth it. I want to always have one of these on hand!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 15 ottobre 2023",
+          "utc": "2023-10-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jennifer J."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "RIRIOJSSFU9QP",
+        "title": "The only problem I had was registering the product.",
+        "body": "This review is for the Waterdrop WD-PT-07B.  The pitcher is an attractive baby blue. The photo to my eyes looked a bit more aqua blue. It is semi-transparent but not enough to really see through the top. The materials feel good. The size of the pitcher is much bigger than my OXO alkaline water pitcher, which was too small for my taste but it's fine. This jug holds enough water to last me about 2 days before refilling, OR I just refill it each time I take it out. It also comes with a little timer button to let you know when it's time to change filters - I assume it will base it on time like 3 months from now?  There is a nifty little spring port at the top so you won't have to remove and replace the lid of this pitcher each time you fill it up. You can set the jug in the sink and turn the water on. The spring hinged top port is big enough not to cause issue: roughtly 2\" by 1.5\". The spring is loose enough that the pressure from your spicket should keep the aperture depressed while it fills, you still have to turn your water off if you don't want it to overflow. (Someone probably wouldn't figure that out if I do not tell them.) I truly enjoy this novel idea BUT if the spring fails it might be more of a problem than a solution - good idea nevertheless.  I was sold on this pitcher because of the 7 sediment filtration system and the partial filtering of fluoride, something Brita filters do not claim to do that this one CLAIMS to do. I haven't done any scientific research to see if it does it's job at all because unless you take your water to a specialist, none of the test on Amazon seem to be legit testers. The technology of this filter is generally what is found in higher priced systems, be it at a much smaller degree.  I done a blind taste test with my mom and she knew right away which was filtered and which wasn't. I used the same style glass, same water level, same temperature. She didn't have to do a repeat, she pointed right away the correct choice. She said easy decision. Her taste buds are better than mine but I agreed with her that I thought I could tell a difference too. The city water had a chemical aftertaste to me, this one I couldn't get much aftertaste at all. So, as far as flavor it is filtering out something because the taste is better than bottled water IMO.  The only negatives I see with this filter are: The filter a lot of times does get very slow filtering - almost coming to a complete hault. I try to leave the pitcher out until it is finished. It seems to have a tougher time filtering cold water than room temp water. This could be a good thing as it is slowing the water down to a standstill, therefore in my imagination I am assuming it must be cleaning it. It is good it has 2 drains, as often one gets jammed but the other continues flowing water through. I haven't had a filter take more than 5 minutes but it may slow down with age?  The great idea of the spring could be a cause of concern if it stopped springing back up. I genuinely applaud the effort and I hope it holds up. If it holds up this is one of the best ideas ever. Very useful concept and so far works flawlessly. I would advise not to play with it too much and don't let your kids break it.  The registration was a pain. Their website does not list this model. So expect to have to speak with the customer service and correspond through your email address. The rep said this has been a problem they are trying to fix. Mia was very kind even though I was getting impatient. I spent 4 days trying to register this. In the end, I tried to put in Pitcher Filtration System and then all straightforward information since the model number is not listed. The website would not accept Pitcher Filtration System - it flagged it. So I had to send Mia a screenshot and she said she got my information in. This took 4 days and I'll spare you the back and forth. I hope you know what to do if you buy this filter.  On a good note, the registration gives 2 year warranty and a free filter. So it was a nice addition that kind of backfired. But since Mia was so polite and kind, I cannot fault the pitcher for this and anyone looking for a good pitcher should realize this seems like an excellent bargain for an excellent product. I don't want to confuse people with lower ratings simply based on a failed attempt to provide excellent customer service that intertwined with it a simple human error.  Thank you Waterdrop! I like this filter and appreciate the free filter (if I get it). I wasn't expecting one so if I get it, a great gift!Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">This review is for the Waterdrop WD-PT-07B.<br><br>The pitcher is an attractive baby blue. The photo to my eyes looked a bit more aqua blue. It is semi-transparent but not enough to really see through the top. The materials feel good. The size of the pitcher is much bigger than my OXO alkaline water pitcher, which was too small for my taste but it's fine. This jug holds enough water to last me about 2 days before refilling, OR I just refill it each time I take it out. It also comes with a little timer button to let you know when it's time to change filters - I assume it will base it on time like 3 months from now?<br><br>There is a nifty little spring port at the top so you won't have to remove and replace the lid of this pitcher each time you fill it up. You can set the jug in the sink and turn the water on. The spring hinged top port is big enough not to cause issue: roughtly 2\" by 1.5\". The spring is loose enough that the pressure from your spicket should keep the aperture depressed while it fills, you still have to turn your water off if you don't want it to overflow. (Someone probably wouldn't figure that out if I do not tell them.) I truly enjoy this novel idea BUT if the spring fails it might be more of a problem than a solution - good idea nevertheless.<br><br>I was sold on this pitcher because of the 7 sediment filtration system and the partial filtering of fluoride, something Brita filters do not claim to do that this one CLAIMS to do. I haven't done any scientific research to see if it does it's job at all because unless you take your water to a specialist, none of the test on Amazon seem to be legit testers. The technology of this filter is generally what is found in higher priced systems, be it at a much smaller degree.<br><br>I done a blind taste test with my mom and she knew right away which was filtered and which wasn't. I used the same style glass, same water level, same temperature. She didn't have to do a repeat, she pointed right away the correct choice. She said easy decision. Her taste buds are better than mine but I agreed with her that I thought I could tell a difference too. The city water had a chemical aftertaste to me, this one I couldn't get much aftertaste at all. So, as far as flavor it is filtering out something because the taste is better than bottled water IMO.<br><br>The only negatives I see with this filter are:<br>The filter a lot of times does get very slow filtering - almost coming to a complete hault. I try to leave the pitcher out until it is finished. It seems to have a tougher time filtering cold water than room temp water. This could be a good thing as it is slowing the water down to a standstill, therefore in my imagination I am assuming it must be cleaning it. It is good it has 2 drains, as often one gets jammed but the other continues flowing water through. I haven't had a filter take more than 5 minutes but it may slow down with age?<br><br>The great idea of the spring could be a cause of concern if it stopped springing back up. I genuinely applaud the effort and I hope it holds up. If it holds up this is one of the best ideas ever. Very useful concept and so far works flawlessly. I would advise not to play with it too much and don't let your kids break it.<br><br>The registration was a pain. Their website does not list this model. So expect to have to speak with the customer service and correspond through your email address. The rep said this has been a problem they are trying to fix. Mia was very kind even though I was getting impatient. I spent 4 days trying to register this. In the end, I tried to put in Pitcher Filtration System and then all straightforward information since the model number is not listed. The website would not accept Pitcher Filtration System - it flagged it. So I had to send Mia a screenshot and she said she got my information in. This took 4 days and I'll spare you the back and forth. I hope you know what to do if you buy this filter.<br><br>On a good note, the registration gives 2 year warranty and a free filter. So it was a nice addition that kind of backfired. But since Mia was so polite and kind, I cannot fault the pitcher for this and anyone looking for a good pitcher should realize this seems like an excellent bargain for an excellent product. I don't want to confuse people with lower ratings simply based on a failed attempt to provide excellent customer service that intertwined with it a simple human error.<br><br>Thank you Waterdrop! I like this filter and appreciate the free filter (if I get it). I wasn't expecting one so if I get it, a great gift!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 16 settembre 2020",
+          "utc": "2020-09-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pumpkin"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 132,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R26T752FCBPBCJ",
+        "title": "Just what I needed",
+        "body": "With the lack of rain this year the water levels are low. I noticed my water had an unpleasant taste. I am not a fan of bottled water, 1-because I drink a LOT of water and that would be a little expensive and 2- what would I do with all of that extra plastic? After days of research and reading the reviews, I ordered. Keep in mind I love the taste of our water, btw we have a well and normally I get it straight from the tap. When it arrived followed the instructions, easy to follow. The 1st glass of water I got from the picture was perfect. Thank you, AMAZON! Definitely recommend for anyone looking for a filtered water picture.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">With the lack of rain this year the water levels are low. I noticed my water had an unpleasant taste. I am not a fan of bottled water, 1-because I drink a LOT of water and that would be a little expensive and 2- what would I do with all of that extra plastic? After days of research and reading the reviews, I ordered. Keep in mind I love the taste of our water, btw we have a well and normally I get it straight from the tap. When it arrived followed the instructions, easy to follow. The 1st glass of water I got from the picture was perfect. Thank you, AMAZON! Definitely recommend for anyone looking for a filtered water picture.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 26 ottobre 2023",
+          "utc": "2023-10-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Teresa"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "it",
+        "is_global_review": true
+      },
+      {
+        "id": "R112GI3THQYH98",
+        "title": "Provides great tasting and filtered water note the P65 warning.",
+        "body": "To start this product has a P65 (Cancer and reproductive harm) warning which surprised me upon delivery. The warning can be found in the Q and A section of the product on Amazon, and on the box of the product itself. With that said, I did my research into P65, or proposition 65. The take away I get is that the P65 warning labels were noted for things like belts, other plastics, to even Starbucks coffee cups in California. The Q and A notes that while the merchants could have had a certification done to prove 100% that the product isn't a hazard, this would have made the item more expensive, which is understandable. So I docked 1 star for the warning not being noted in the product's description. Do your research if you're still concerned.  On to the review, the pitcher functions wonderfully. For starters, you have to soak the filter for 10 minutes, so it function to the best extent. Once this is done, the filter fits easily into the picture, and is capable of quickly filtering water. The taste of the water is excellent, and I feel this cleans the water significantly more than my Brita filter, which I had since 2018. The filter is designed differently from Brita allowing the water to be filtered on two sides. It doesn't take long for water to go through. I did my research online, and this was the best filter I came across comparing it to other filters like Brita and Zerowater which the latter according to my research, needs a filter changed every two weeks. Overall, an excellent buy, and I would recommend this product.Leggi di più",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">To start this product has a P65 (Cancer and reproductive harm) warning which surprised me upon delivery. The warning can be found in the Q and A section of the product on Amazon, and on the box of the product itself. With that said, I did my research into P65, or proposition 65. The take away I get is that the P65 warning labels were noted for things like belts, other plastics, to even Starbucks coffee cups in California. The Q and A notes that while the merchants could have had a certification done to prove 100% that the product isn't a hazard, this would have made the item more expensive, which is understandable. So I docked 1 star for the warning not being noted in the product's description. Do your research if you're still concerned.<br><br>On to the review, the pitcher functions wonderfully. For starters, you have to soak the filter for 10 minutes, so it function to the best extent. Once this is done, the filter fits easily into the picture, and is capable of quickly filtering water. The taste of the water is excellent, and I feel this cleans the water significantly more than my Brita filter, which I had since 2018. The filter is designed differently from Brita allowing the water to be filtered on two sides. It doesn't take long for water to go through. I did my research online, and this was the best filter I came across comparing it to other filters like Brita and Zerowater which the latter according to my research, needs a filter changed every two weeks. Overall, an excellent buy, and I would recommend this product.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 30 settembre 2023",
+          "utc": "2023-09-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Stepheon"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 52,
+        "review_country": "it",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Disponibilità immediata",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "marted, 14 novembre",
+          "name": "GRATUITA"
+        },
+        "fastest_delivery": {
+          "date": "domani, 11 novembre",
+          "name": "oppure ritiro pi rapido domani, 11 novembre. Ordina entro 1 ora 43 min"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Waterdrop direct",
+          "link": "https://www.amazon.it/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A63AVEWJK89C&asin=B0891QZ9PT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A63AVEWJK89C"
+        }
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 24.99,
+        "raw": "€24,99"
+      },
+      "shipping": {
+        "raw": "GRATUITA"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Dimensioni prodotto",
+        "value": "25,5 x 25,5 x 13,5 cm; 898,11 grammi"
+      },
+      {
+        "name": "Disponibile su Amazon.it a partire dal",
+        "value": "26 giugno 2020"
+      },
+      {
+        "name": "Produttore",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0891QZ9PT"
+      },
+      {
+        "name": "Numero modello articolo",
+        "value": "WD-PT-07C"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "Visualizza i Top 100 nella categoria Casa e cucina"
+      },
+      {
+        "name": "Marchio",
+        "value": "Waterdrop"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Brocca"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "1,98 Libbre"
+      }
+    ],
+    "specifications_flat": "Peso articolo: 1,98 Libbre. Informazioni pacco: Brocca. Marchio: Waterdrop. Posizione nella classifica Bestseller di Amazon: Visualizza i Top 100 nella categoria Casa e cucina. Numero modello articolo: WD-PT-07C. ASIN: B0891QZ9PT. Produttore: Waterdrop. Disponibile su Amazon.it a partire dal: 26 giugno 2020. Dimensioni prodotto: 25,5 x 25,5 x 13,5 cm; 898,11 grammi.",
+    "bestsellers_rank": [
+      {
+        "category": "Visualizza i Top 100 nella categoria Casa e cucina",
+        "rank": 260293,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
+      },
+      {
+        "category": "Caraffe Filtranti",
+        "rank": 181,
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
+      }
+    ],
+    "weight": "1,98 Libbre",
+    "first_available": {
+      "raw": "26 giugno 2020",
+      "utc": "2020-06-26T00:00:00.000Z"
+    },
+    "dimensions": "25,5 x 25,5 x 13,5 cm; 898,11 grammi",
+    "model_number": "WD-PT-07C",
+    "bestsellers_rank_flat": "Category: Visualizza i Top 100 nella categoria Casa e cucina | Rank: 260293, Category: Caraffe Filtranti | Rank: 181",
+    "whats_in_the_box": [
+      "filtro"
+    ]
+  },
+  "brand_store": {
+    "id": "8ED09DBC-7993-42CF-B62B-0450826C9A79",
+    "link": "https://www.amazon.it/stores/Waterdrop/page/8ED09DBC-7993-42CF-B62B-0450826C9A79"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 58.98,
+      "raw": "58,98 €"
+    },
+    "products": [
+      {
+        "asin": "B0891QZ9PT",
+        "title": "Waterdrop Lucid NSF Certificato 3.5L Caraffa Filtrante Progettata con 1×90 Giorni Filtro, Riduce Piombo, Fluoro, Cloro e Altro, Senza BPA, Blu Classico (Filtro di Ricambio: WD-PF-01A Plus)",
+        "link": "https://www.amazon.it/dp/B0891QZ9PT?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71qkb1owrRL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 24.99,
+          "raw": "24,99€"
+        }
+      },
+      {
+        "asin": "B08RHSHJ8Y",
+        "title": "Waterdrop WD-PF-01A Plus Filtri di Ricambio Certificati NSF per Tutti i Sistemi di Filtrazione Della Caraffa Waterdrop, Durano Fino a 3 Mesi o 757 Litri (Confezione da 3)",
+        "link": "https://www.amazon.it/dp/B08RHSHJ8Y?tag=8vcue204-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71I8WdJMJ9L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 33.99,
+          "raw": "33,99€"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B01GFJWA52",
+    "link": "https://www.amazon.it/dp/B01GFJWA52/ref=vp_d_pbbnt1_TIER4_cml_lp_B0891QZ9PT_pd?_encoding=UTF8&pf_rd_p=75fe3d72-561e-49da-8142-0cec61c0a0d4&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=ruz4w&pd_rd_i=B01GFJWA52&pd_rd_w=4if6S&content-id=amzn1.sym.75fe3d72-561e-49da-8142-0cec61c0a0d4&pd_rd_r=c4e9f7d4-6a25-4be1-b325-c6aff1bac4c0&psc=1",
+    "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+    "rating": 4.5,
+    "ratings_total": 12685,
+    "image": "https://m.media-amazon.com/images/I/61SV9cbfCiL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Amazon Basics - Caraffa filtrante per l'acqua, 2,3 litri, nero",
+      "asin": "B01GFJWA52",
+      "link": "https://www.amazon.it/AmazonBasics-Caraffa-filtrante-lacqua-litri/dp/B01GFJWA52/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_1/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B08PVSJ789&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61SV9cbfCiL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 12685,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 23.45,
+        "raw": "€23,45"
+      }
+    },
+    {
+      "title": "Waterdrop WD-PT-07W - Caraffa filtrante da 10 tazze con 1 filtro, lunga durata (200 galloni), 5 volte a vita, riduce piombo, ",
+      "asin": "B087F8126N",
+      "link": "https://www.amazon.it/Waterdrop-WD-PT-07W-Caraffa-filtrante-galloni/dp/B087F8126N/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_2/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B087F8126N&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71VlLD64gHL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1191,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 24.99,
+        "raw": "€24,99"
+      }
+    },
+    {
+      "title": "Amazon Basics - Cartucce filtranti per acqua, Confezione da 12",
+      "asin": "B01GFJWJG2",
+      "link": "https://www.amazon.it/Amazon-Basics-Cartucce-filtranti-Confezione/dp/B01GFJWJG2/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_3/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B01GFJWJG2&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51BaXMGuR0L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 25869,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 55.59,
+        "raw": "€55,59"
+      }
+    },
+    {
+      "title": "Waterdrop Dispenser per filtro dell'acqua sottile, grande 18 tazze, lunga durata 200 litri, 5 volte di durata, riduce il fluo",
+      "asin": "B09Q8HDVRZ",
+      "link": "https://www.amazon.it/Waterdrop-galloni-durata-filtro-dispenser/dp/B09Q8HDVRZ/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_4/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B09Q8HDVRZ&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71vq7DTLAiL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1253,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 46.99,
+        "raw": "€46,99"
+      }
+    },
+    {
+      "title": "Amazon Basics Filtri per acqua, confezione da 3, adatto e compatibile con tutte le caraffe BRITA, incluse le caraffe PerfectF",
+      "asin": "B084H8QL1D",
+      "link": "https://www.amazon.it/Amazon-Basics-Cartuccia-filtrante-acqua/dp/B084H8QL1D/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_5/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B084H8QL1D&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71eiJI72QDL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 431,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 15.56,
+        "raw": "€15,56"
+      }
+    },
+    {
+      "title": "Wessper Caraffa Filtrante di Vetro con 1 Cartuccia Aquaclassic (Compatibile con Brita Classic), Elimina Cloro, Impurità e Met",
+      "asin": "B0B39C2W9C",
+      "link": "https://www.amazon.it/Wessper-Filtrante-Cartuccia-Aquaclassic-Compatibile/dp/B0B39C2W9C/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2_6/258-0496511-2803909?pd_rd_w=HyKyW&content-id=amzn1.sym.50a451ad-962e-4058-a69f-46adea38d940&pf_rd_p=50a451ad-962e-4058-a69f-46adea38d940&pf_rd_r=NG2HJ4YE29KHTZ5S88JB&pd_rd_wg=otWf3&pd_rd_r=ae45dc0a-c273-4892-abc5-619b66a6acde&pd_rd_i=B0B39C2W9C&psc=1&tag=8vcue204-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71mdAW6FnlL._AC_UL160_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 53,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 33.99,
+        "raw": "€33,99"
+      }
+    }
+  ]
+}
