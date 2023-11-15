@@ -38,11 +38,19 @@
 	"resfarma": {
 		"etichetta": "Residui farmaceutici"
 	},
-	"tetracloruro": { "etichetta": "Tetracloruro di carbonio" },
-	"stirene": { "etichetta": "Stirene" },
-	"toluene": { "etichetta": "Toluene" },
+	"tetracloruro": {
+		"etichetta": "Tetracloruro di carbonio"
+	},
+	"stirene": {
+		"etichetta": "Stirene"
+	},
+	"toluene": {
+		"etichetta": "Toluene"
+	},
 	"bpa": {
 		"etichetta": "BPA (Bisfenolo A)"
 	},
-	"calcare": { "etichetta": "Calcare" }
+	"calcare": {
+		"etichetta": "Calcare"
+	}
 }

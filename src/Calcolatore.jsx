@@ -154,11 +154,11 @@ export default function Calcolatore({
 	}, [eurlit, daylit]);
 
 	return (
-		<div className="pt-24" ref={thisref} id="calcolatore">
+		<div className="pt-24 mt-24" ref={thisref} id="calcolatore">
 			<Typography
 				variant="h3"
 				color="white"
-				className="title mt-24 mb-0 text-2xl text-center"
+				className="title  mb-0 text-2xl text-center"
 			>
 				Calcola
 			</Typography>
@@ -214,7 +214,7 @@ export default function Calcolatore({
 				<CardBody>
 					<Typography variant="h4" color="white" className="mb-2">
 						Costo annuale acqua in bottiglia:{' '}
-						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block">
 							€ {yearCost}
 						</strong>
 					</Typography>
@@ -289,7 +289,7 @@ export default function Calcolatore({
 								color="white"
 							>
 								Costo caraffa:{' '}
-								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block">
 									€ {startCost}
 								</strong>
 							</Typography>
@@ -298,7 +298,7 @@ export default function Calcolatore({
 								<>
 									<Typography variant="h4" color="white">
 										Costo annuale filtri:{' '}
-										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline">
 											€ {newYearCost}
 										</strong>
 									</Typography>
