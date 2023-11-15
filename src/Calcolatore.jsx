@@ -81,15 +81,6 @@ export default function Calcolatore({
 		setDaylit(val);
 	};
 
-	useEffect(() => {
-		manageNewCost();
-	}, [currentCaraffa, currentFiltro, daylit, durataMesi]);
-
-	useEffect(() => {
-		const costo_annuale = Math.round(eurlit * daylit * 365);
-		setYearCost(costo_annuale);
-	}, [eurlit, daylit]);
-
 	const manageNewCost = () => {
 		const currentC = listaCaraffe.find((item) => item.code === currentCaraffa);
 		const currentF = listaFiltri.find((item) => item.asin === currentFiltro);
@@ -153,6 +144,15 @@ export default function Calcolatore({
 		}
 	};
 
+	useEffect(() => {
+		manageNewCost();
+	}, [currentCaraffa, currentFiltro, daylit, durataMesi]);
+
+	useEffect(() => {
+		const costo_annuale = Math.round(eurlit * daylit * 365);
+		setYearCost(costo_annuale);
+	}, [eurlit, daylit]);
+
 	return (
 		<div className="pt-24" ref={thisref} id="calcolatore">
 			<Typography
@@ -213,7 +213,10 @@ export default function Calcolatore({
 			>
 				<CardBody>
 					<Typography variant="h4" color="white" className="mb-2">
-						Costo annuale acqua in bottiglia: <span>€ {yearCost}</span>
+						Costo annuale acqua in bottiglia:{' '}
+						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+							€ {yearCost}
+						</strong>
 					</Typography>
 					<hr className="my-8 border-blue-gray-50" />
 					<Typography variant="lead" color="white" className="cursive mb-2">
@@ -226,8 +229,8 @@ export default function Calcolatore({
 							size="lg"
 							color="white"
 							onChange={(e) => updCurrentCaraffa(e)}
-							value={currentCaraffa}
-							className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 text-center"
+							value={currentCaraffa || ''}
+							className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
 						>
 							{/*!currentCaraffa && (
 							<Option value="" key="0">
@@ -259,8 +262,8 @@ export default function Calcolatore({
 								size="lg"
 								color="white"
 								onChange={(e) => updCurrentFiltro(e)}
-								value={currentFiltro}
-								className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 text-center"
+								value={currentFiltro || ''}
+								className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
 							>
 								{!currentFiltro && (
 									<option value="" key="00">
@@ -280,16 +283,24 @@ export default function Calcolatore({
 					{currentCaraffa && (
 						<>
 							{/* <Coins amount={startCost} /> */}
-							<Typography className="pt-4 pb-2 mt-4" variant="h4" color="white">
-								<label>Costo caraffa:</label>
-								<span>€ {startCost}</span>
+							<Typography
+								className="pt-4 pb-2 mb-4 mt-6"
+								variant="h4"
+								color="white"
+							>
+								Costo caraffa:{' '}
+								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+									€ {startCost}
+								</strong>
 							</Typography>
 
 							{listaFiltri && newYearCost ? (
 								<>
 									<Typography variant="h4" color="white">
-										<label>Costo annuale filtri:</label>
-										<span>€ {newYearCost}</span>
+										Costo annuale filtri:{' '}
+										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg ">
+											€ {newYearCost}
+										</strong>
 									</Typography>
 									<Typography
 										variant="paragraph"

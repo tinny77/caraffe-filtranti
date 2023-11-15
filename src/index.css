@@ -22,6 +22,8 @@ body {
 h1.title  {font-family:'Pacifico',cursive}
 h3.title {font-size:2rem}
 
+.intro .text-xl {font-size:1.5rem}
+
 .card {user-select: none;}
 
 .water-drop, .coin, .filter  {display:inline;height:2rem}
@@ -40,7 +42,6 @@ footer {margin-bottom:env(safe-area-inset-bottom);}
 {
   body, html {font-size:14px}
 }
-
 
 @media(max-width:400px)
 {

@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback, useRef } from 'react';
+import React, { useCallback } from 'react';
 import { Typography } from '@material-tailwind/react';
 import FiltriItem from './FiltriItem';
 
