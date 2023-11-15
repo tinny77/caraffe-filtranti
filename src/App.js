@@ -19,8 +19,8 @@ function App() {
 	const [selectedCaraffa, setSelectedCaraffa] = useState(null);
 	const [filtri, setFiltri] = useState([]);
 	const [selectedFiltro, setSelectedFiltro] = useState(null);
-     const filterRef = useRef(null)
-	const calcRef = useRef(null)
+	const filterRef = useRef(null);
+	const calcRef = useRef(null);
 	const scrollToFilters = () => filterRef.current.scrollIntoView();
 	const scrollToCalc = () => calcRef.current.scrollIntoView();
 
@@ -36,8 +36,9 @@ function App() {
 	};
 
 	useEffect(() => {
-		(selectedFiltro) ? scrollToCalc() : scrollToFilters();
-	}, [selectedFiltro]);
+		selectedFiltro && scrollToCalc();
+		selectedCaraffa && scrollToFilters();
+	}, [selectedFiltro, selectedCaraffa]);
 
 	useEffect(() => {
 		resetCalcoloFiltri();
@@ -100,7 +101,12 @@ function App() {
 						setCurrentFiltro={setSelectedFiltro}
 						thisref={calcRef}
 					/>
-					<footer className="text-center text-xs text-blue-200 mt-20">Realizzato da <a href="https://www.filippotinnirello.it/" target="_blank">Filippo Tinnirello</a></footer>
+					<footer className="text-center text-xs text-blue-200 mt-20 py-2">
+						Realizzato da{' '}
+						<a href="https://www.filippotinnirello.it/" target="_blank">
+							Filippo Tinnirello
+						</a>
+					</footer>
 				</>
 			)}
 		</div>

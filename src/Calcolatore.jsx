@@ -1,11 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import {
-	Card,
-	CardBody,
-	Typography,
-	Slider,
-} from '@material-tailwind/react';
+import { Card, CardBody, Typography, Slider } from '@material-tailwind/react';
 
 export default function Calcolatore({
 	listaCaraffe,
@@ -14,11 +9,8 @@ export default function Calcolatore({
 	listaFiltri,
 	currentFiltro,
 	setCurrentFiltro,
-	thisref
+	thisref,
 }) {
-
-
-
 	const [eurlit, setEurlit] = useState(0.35);
 	const [daylit, setDaylit] = useState(2);
 	const [yearCost, setYearCost] = useState(0);
@@ -36,13 +28,23 @@ export default function Calcolatore({
 
 		for (let i = 0; i < fullIcons; i++) {
 			icons.push(
-				<img key={i} src="/img/water-full.svg" className="water-drop" alt="rating" />
+				<img
+					key={i}
+					src="/img/water-full.svg"
+					className="water-drop"
+					alt="rating"
+				/>
 			);
 		}
 
 		if (halfIcon) {
 			icons.push(
-				<img key={fullIcons} src="/img/water-half.svg" className="water-drop" alt="water drop" />
+				<img
+					key={fullIcons}
+					src="/img/water-half.svg"
+					className="water-drop"
+					alt="water drop"
+				/>
 			);
 		}
 
@@ -54,7 +56,9 @@ export default function Calcolatore({
 		let totcoins = Math.floor(amount * 10);
 
 		for (let i = 1; i < totcoins; i++) {
-			coins.push(<img key={i} src="/img/coin.svg" className="coin" alt="coins" />);
+			coins.push(
+				<img key={i} src="/img/coin.svg" className="coin" alt="coins" />
+			);
 		}
 
 		return <div>{coins}</div>;
@@ -79,7 +83,7 @@ export default function Calcolatore({
 
 	useEffect(() => {
 		manageNewCost();
-	}, [currentCaraffa, currentFiltro, daylit,durataMesi]);
+	}, [currentCaraffa, currentFiltro, daylit, durataMesi]);
 
 	useEffect(() => {
 		const costo_annuale = Math.round(eurlit * daylit * 365);
@@ -123,17 +127,21 @@ export default function Calcolatore({
 			//Se consumo più litri, il filtro dura meno...
 			if (daylit * durata_filtro_giorni > durata_filtro_litri) {
 				durata_filtro_giorni = durataLitri / daylit;
-				filtri = (365 / durata_filtro_giorni);
+				filtri = 365 / durata_filtro_giorni;
 				setNewYearCostNotes(
 					`Ogni filtro ha un costo di € ${prezzo_filtro} e una durata di massimo ${durataMesi} ${
-					durataMesi === 1 ? `mese` : `mesi`
-				}. Il consumo previsto nel periodo di ${durataMesi} ${
-					durataMesi === 1 ? `mese` : `mesi`
-				} è di ${
+						durataMesi === 1 ? `mese` : `mesi`
+					}. Il consumo previsto nel periodo di ${durataMesi} ${
+						durataMesi === 1 ? `mese` : `mesi`
+					} è di ${
 						daylit * (durata_filtro_mesi * 30)
 					} litri, superiori al limite di ${durataLitri} litri per ogni filtro, per cui ogni filtro dovrà essere sostituito ogni ${durata_filtro_giorni.toFixed(
 						0
-					)} giorni${durata_filtro_giorni>90 ? ` (verificare che i filtri non abbiano un periodo temporale massimo di utilizzo)` : ``}, per un consumo di circa ${filtri.toFixed(0)} filtri all'anno.`
+					)} giorni${
+						durata_filtro_giorni > 90
+							? ` (verificare che i filtri non abbiano un periodo temporale massimo di utilizzo)`
+							: ``
+					}, per un consumo di circa ${filtri.toFixed(0)} filtri all'anno.`
 				);
 			}
 
@@ -145,31 +153,27 @@ export default function Calcolatore({
 		}
 	};
 
-
-
 	return (
 		<div className="pt-24" ref={thisref} id="calcolatore">
 			<Typography
 				variant="h3"
 				color="white"
-				className="mt-24 mb-0 text-2xl text-center"
+				className="title mt-24 mb-0 text-2xl text-center"
 			>
 				Calcola
 			</Typography>
 			<Card
 				className="max-w-4xl mx-auto text-center text-white mt-6 border border-blue bg-blue-800"
-
 				color="transparent"
 				shadow={false}
-
 			>
 				<CardBody>
-					<Typography variant="lead" color="white" className="mb-2">
+					<Typography variant="lead" color="white" className="mb-2 cursive">
 						Litri bevuti al giorno: {daylit}
 					</Typography>
 
 					<Drops litres={daylit} />
-					<div className="flex w-96 flex-col gap-8 my-5 mx-auto mb-10">
+					<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto mb-10">
 						<Slider
 							size="lg"
 							name="daylit"
@@ -182,12 +186,11 @@ export default function Calcolatore({
 							onChange={(e) => manageDayLit(e)}
 						/>
 					</div>
-					<Typography variant="lead" color="white">
-						{' '}
-						<label>Costo acqua in bottiglia al litro: € {eurlit}</label>
+					<Typography variant="lead" color="white" className="cursive">
+						Costo acqua in bottiglia al litro: € {eurlit}
 					</Typography>
 					<Coins amount={eurlit} className="mt-2" />
-					<div className="flex w-96 flex-col gap-8 my-5 mx-auto">
+					<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto">
 						<Slider
 							size="lg"
 							color="blue"
@@ -200,9 +203,8 @@ export default function Calcolatore({
 							onChange={(e) => manageEurLit(e)}
 						/>
 					</div>
-
-					</CardBody>
-					</Card>
+				</CardBody>
+			</Card>
 
 			<Card
 				className="max-w-4xl mx-auto text-center text-white p-5 shadow-lg mt-6 border border-blue"
@@ -213,10 +215,11 @@ export default function Calcolatore({
 					<Typography variant="h4" color="white" className="mb-2">
 						Costo annuale acqua in bottiglia: <span>€ {yearCost}</span>
 					</Typography>
+					<hr className="my-8 border-blue-gray-50" />
+					<Typography variant="lead" color="white" className="cursive mb-2">
+						Scegli caraffa e filtri
+					</Typography>
 
-<hr className="my-8 border-blue-gray-50" />
-
-					Scegli caraffa e filtri
 					<div className="max-w-md text-white mx-auto">
 						<select
 							label="Caraffa"
@@ -232,28 +235,23 @@ export default function Calcolatore({
 							</Option>
 						)*/}
 							{listaCaraffe
-							.slice()
-							.sort((a,b) => {
-								 if (a.custom_title < b.custom_title) {
-    								 return -1;
-  								 }
-  								 if (a.custom_title > b.custom_title) {
-    								 return 1;
-  								 }
-  								 return 0;
-							})
-							.map((entry) => (
-								<option
-									key={entry.code}
-									value={entry.code}
-
-								>
-									{entry.custom_title}
-								</option>
-							))}
+								.slice()
+								.sort((a, b) => {
+									if (a.custom_title < b.custom_title) {
+										return -1;
+									}
+									if (a.custom_title > b.custom_title) {
+										return 1;
+									}
+									return 0;
+								})
+								.map((entry) => (
+									<option key={entry.code} value={entry.code}>
+										{entry.custom_title}
+									</option>
+								))}
 						</select>
 					</div>
-
 					{filters && (
 						<div className="max-w-md mt-2 text-white mx-auto">
 							<select
@@ -265,33 +263,24 @@ export default function Calcolatore({
 								className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 text-center"
 							>
 								{!currentFiltro && (
-							<option value="" key="00">
-								Seleziona...
-							</option>
-						)}
+									<option value="" key="00">
+										Seleziona...
+									</option>
+								)}
 								{listaFiltri
 									.filter((f) => f.caraffe[currentCaraffa] === 1)
 									.map((entry) => (
-										<option
-											key={entry.asin}
-											value={entry.asin}
-
-										>
+										<option key={entry.asin} value={entry.asin}>
 											{entry.nome}
 										</option>
 									))}
 							</select>
 						</div>
 					)}
-
 					{currentCaraffa && (
 						<>
 							{/* <Coins amount={startCost} /> */}
-							<Typography
-								className="pt-4 pb-2 mt-4"
-								variant="h4"
-								color="white"
-							>
+							<Typography className="pt-4 pb-2 mt-4" variant="h4" color="white">
 								<label>Costo caraffa:</label>
 								<span>€ {startCost}</span>
 							</Typography>
@@ -302,8 +291,12 @@ export default function Calcolatore({
 										<label>Costo annuale filtri:</label>
 										<span>€ {newYearCost}</span>
 									</Typography>
-									<Typography variant="paragraph" color="white">
-										<small className="text-block text-justify mt-8">{newYearCostNotes}</small>
+									<Typography
+										variant="paragraph"
+										color="white"
+										className="leading-none text-justify mt-8"
+									>
+										{newYearCostNotes}
 									</Typography>
 								</>
 							) : (

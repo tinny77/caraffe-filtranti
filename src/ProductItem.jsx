@@ -31,12 +31,13 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 	return (
 		<Card
 			key={code}
-			className={`product-col p-2 w-full _max-w-[90%] _mx-auto rounded-lg text-center shadow border-solid border-4 ${
-				isItemSelected ? `border-blue-900 text-blue-800` : `border-white text-black`
+			className={`product-card p-2 w-full _max-w-[90%] _mx-auto rounded-lg text-center shadow border-solid border-4 ${
+				isItemSelected
+					? `border-blue-900 text-blue-800`
+					: `border-white text-black`
 			}`}
 			onClick={() => handleProductClick(code)}
 		>
-
 			<CardBody>
 				<Typography
 					variant="h3"
@@ -51,7 +52,7 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 					alt={product.title}
 				/>
 				<Typography>
-					{product.capacita>0 && (
+					{product.capacita > 0 && (
 						<p className="rating">Capacità: {product.capacita} litri</p>
 					)}
 					<p className="rating">
@@ -68,7 +69,11 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 					{JSON.stringify(product.price)}{' '}
 				</Typography>
 				<a href={product.link} target="_blank" rel="noreferrer">
-					<Button className={`p-1 px-4 mt-5 rounded-md ${isItemSelected ? `bg-blue-800` : `bg-blue-gray-800`} `} >
+					<Button
+						className={`px-3 py-2 mt-5 rounded-md ${
+							isItemSelected ? `bg-blue-800` : `bg-blue-gray-800`
+						} `}
+					>
 						Vedi su Amazon
 					</Button>
 				</a>

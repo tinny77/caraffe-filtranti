@@ -12,7 +12,7 @@ export default function Product({
 			<Typography
 				variant="h3"
 				color="white"
-				className="pt-24 mb-0 text-2xl text-center"
+				className="title pt-24 mb-0 text-2xl text-center"
 			>
 				Scegli una caraffa
 			</Typography>

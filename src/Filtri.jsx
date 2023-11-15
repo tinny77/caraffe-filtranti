@@ -21,40 +21,33 @@ export default function Filtri({
 
 	return (
 		<>
-<div
-				ref={thisref}
-
-			>
-				{(listaFiltri && currentCaraffa ) && (
+			<div ref={thisref}>
+				{listaFiltri && currentCaraffa && (
 					<>
-					<Typography
-				variant="h3"
-				color="white"
-				className="pt-24 mb-0 text-2xl text-center"
-			>
-				Scegli un filtro
-			</Typography>
-				<div className="grid grid-flow-row grid-cols-2 lg:grid-cols-3 xl:auto-cols-fr gap-8 pt-6">
-
-
-						{filtri.map((product) => {
-							return (
-								<FiltriItem
-									code={product.asin}
-									key={product.asin}
-									filtro={product}
-									currentFiltro={currentFiltro}
-									setCurrentFiltro={setCurrentFiltro}
-									totalFiltri={totalFiltri}
-								/>
-							);
-						})}
-
-		</div>
+						<Typography
+							variant="h3"
+							color="white"
+							className="title pt-24 mb-0 text-2xl text-center"
+						>
+							Scegli un filtro
+						</Typography>
+						<div className="flex-1 flex-wrap pt-6 text-center">
+							{filtri.map((product) => {
+								return (
+									<FiltriItem
+										code={product.asin}
+										key={product.asin}
+										filtro={product}
+										currentFiltro={currentFiltro}
+										setCurrentFiltro={setCurrentFiltro}
+										totalFiltri={totalFiltri}
+									/>
+								);
+							})}
+						</div>
+					</>
+				)}
+			</div>
 		</>
-	)
-}
-				</div></>
-
 	);
 }

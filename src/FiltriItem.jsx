@@ -36,7 +36,7 @@ const FiltriItem = ({
 	return (
 		<Card
 			variant="gradient"
-			className={`min-w-full mx-auto p-6 border-solid border-4 ${
+			className={`product-card mb-6 w-full md:w-2/3 lg:w-1/3 inline-block p-6 md:m-2 lg:m-4 border-solid border-4 ${
 				isItemSelected ? `border-blue-900 ` : `border-white`
 			}`}
 			key={code}
@@ -52,7 +52,9 @@ const FiltriItem = ({
 					color={isItemSelected ? 'black' : 'blue-800'}
 					className="font-normal uppercase"
 				>
-				<a href={filtro.url} target="_blank">{filtro.nome}</a>
+					<a href={filtro.url} target="_blank">
+						{filtro.nome}
+					</a>
 				</Typography>
 				<Typography
 					variant="h4"
