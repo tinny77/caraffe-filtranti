@@ -214,7 +214,7 @@ export default function Calcolatore({
 				<CardBody>
 					<Typography variant="h4" color="white" className="mb-2">
 						Costo annuale acqua in bottiglia:{' '}
-						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block">
+						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
 							€ {yearCost}
 						</strong>
 					</Typography>
@@ -289,7 +289,7 @@ export default function Calcolatore({
 								color="white"
 							>
 								Costo caraffa:{' '}
-								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block">
+								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
 									€ {startCost}
 								</strong>
 							</Typography>
@@ -298,7 +298,7 @@ export default function Calcolatore({
 								<>
 									<Typography variant="h4" color="white">
 										Costo annuale filtri:{' '}
-										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline">
+										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
 											€ {newYearCost}
 										</strong>
 									</Typography>

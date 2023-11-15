@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { Typography } from '@material-tailwind/react';
 
 import caraffeData from './data/caraffe.json';
 import filtriData from './data/filtri.json';
@@ -76,7 +77,7 @@ function App() {
 	return (
 		<div className="container mx-auto font-sans subpixel-antialiased text-white px-5 m-0 pt-24 pb-2">
 			<Intro />
-			{caraffeData.length > 0 && (
+			{caraffeData.length > 0 ? (
 				<>
 					<Product
 						listaCaraffe={caraffe}
@@ -101,14 +102,22 @@ function App() {
 						setCurrentFiltro={setSelectedFiltro}
 						thisref={calcRef}
 					/>
-					<footer className="text-center text-xs text-blue-200 mt-20 py-2">
-						Realizzato da{' '}
-						<a href="https://www.filippotinnirello.it/" target="_blank">
-							Filippo Tinnirello
-						</a>
-					</footer>
 				</>
+			) : (
+				<Typography
+					variant="h3"
+					color="white"
+					className="title pt-24 mb-0 text-2xl text-center"
+				>
+					Carico i dati...
+				</Typography>
 			)}
+			<footer className="text-center text-xs text-blue-200 mt-20 py-2">
+				Realizzato da{' '}
+				<a href="https://www.filippotinnirello.it/" target="_blank">
+					Filippo Tinnirello
+				</a>
+			</footer>
 		</div>
 	);
 }

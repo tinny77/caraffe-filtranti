@@ -37,6 +37,7 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 					: `border-white text-black`
 			}`}
 			onClick={() => handleProductClick(code)}
+			title={product.title}
 		>
 			<CardBody>
 				<Typography

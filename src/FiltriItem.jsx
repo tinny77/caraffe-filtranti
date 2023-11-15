@@ -102,13 +102,14 @@ const Caratteristiche = ({ filtro, setCurrentFiltro }) => {
 							<Chip
 								value={etichetta}
 								className="rounded-full pill"
-								variant={valore === 1 ? 'filled' : valore < 1 ? 'ghost' : 'outlined'}
+								variant={
+									valore === 1 ? 'filled' : valore < 1 ? 'ghost' : 'outlined'
+								}
 							/>
-
 							{nota && (
 								<Typography
 									variant="small"
-									color="blue-800"
+									color="white"
 									className="font-normal"
 								>
 									{nota}
