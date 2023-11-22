@@ -113,7 +113,7 @@ function App() {
 						<footer className="text-center text-xs text-blue-200 mt-20 py-2">
 							Realizzato da{' '}
 							<a
-								href="https://www.filippotinnirello.it/"
+								href="http://www.filippotinnirello.it/"
 								target="_blank"
 								rel="noreferrer"
 							>
