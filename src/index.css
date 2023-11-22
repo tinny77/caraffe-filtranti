@@ -33,6 +33,23 @@ h3.title {font-size:2rem}
 
 .pill {font-size:0.65rem}
 
+.loader-spin {
+  animation: spin-animation 1s infinite;
+  display: inline-block;
+  font-size:4rem;
+}
+
+@keyframes spin-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+
+
 #daylit  .bg-current,
 #eurlit .bg-current {    background-color: rgba(255,255,255,0);}
 

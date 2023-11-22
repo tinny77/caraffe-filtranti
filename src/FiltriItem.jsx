@@ -20,14 +20,7 @@ const FiltriItem = ({
 }) => {
 	const [sostanze, setSostanze] = useState(null);
 
-	/*const fetchCaratteristiche = () => {
-		fetch(sostanzeData).then((response) => setSostanze(response));
-	};*/
-
-	//totalFiltri === 1 && setCurrentFiltro(code);
-
 	useEffect(() => {
-		//fetchCaratteristiche();
 		setSostanze(sostanzeData);
 	}, []);
 
@@ -52,7 +45,7 @@ const FiltriItem = ({
 					color={isItemSelected ? 'black' : 'blue-800'}
 					className="font-normal uppercase"
 				>
-					<a href={filtro.url} target="_blank">
+					<a href={filtro.url} target="_blank" rel="noreferrer">
 						{filtro.nome}
 					</a>
 				</Typography>

@@ -10,6 +10,7 @@ export default function Calcolatore({
 	currentFiltro,
 	setCurrentFiltro,
 	thisref,
+	loading,
 }) {
 	const [eurlit, setEurlit] = useState(0.35);
 	const [daylit, setDaylit] = useState(2);
@@ -154,169 +155,173 @@ export default function Calcolatore({
 	}, [eurlit, daylit]);
 
 	return (
-		<div className="pt-24 mt-24" ref={thisref} id="calcolatore">
-			<Typography
-				variant="h3"
-				color="white"
-				className="title  mb-0 text-2xl text-center"
-			>
-				Calcola
-			</Typography>
-			<Card
-				className="max-w-4xl mx-auto text-center text-white mt-6 border border-blue bg-blue-800"
-				color="transparent"
-				shadow={false}
-			>
-				<CardBody>
-					<Typography variant="lead" color="white" className="mb-2 cursive">
-						Litri bevuti al giorno: {daylit}
+		<>
+			{!loading && (
+				<div className="pt-24 mt-24" ref={thisref} id="calcolatore">
+					<Typography
+						variant="h3"
+						color="white"
+						className="title  mb-0 text-2xl text-center"
+					>
+						Calcola
 					</Typography>
+					<Card
+						className="max-w-4xl mx-auto text-center text-white mt-6 border border-blue bg-blue-800"
+						color="transparent"
+						shadow={false}
+					>
+						<CardBody>
+							<Typography variant="lead" color="white" className="mb-2 cursive">
+								Litri bevuti al giorno: {daylit}
+							</Typography>
 
-					<Drops litres={daylit} />
-					<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto mb-10">
-						<Slider
-							size="lg"
-							name="daylit"
-							id="daylit"
-							color="blue"
-							value={daylit}
-							min="0.5"
-							max="10"
-							step="0.5"
-							onChange={(e) => manageDayLit(e)}
-						/>
-					</div>
-					<Typography variant="lead" color="white" className="cursive">
-						Costo acqua in bottiglia al litro: € {eurlit}
-					</Typography>
-					<Coins amount={eurlit} className="mt-2" />
-					<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto">
-						<Slider
-							size="lg"
-							color="blue"
-							id="eurlit"
-							name="eurlit"
-							min="0.20"
-							max="1"
-							value={eurlit}
-							step="0.05"
-							onChange={(e) => manageEurLit(e)}
-						/>
-					</div>
-				</CardBody>
-			</Card>
+							<Drops litres={daylit} />
+							<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto mb-10">
+								<Slider
+									size="lg"
+									name="daylit"
+									id="daylit"
+									color="blue"
+									value={daylit}
+									min="0.5"
+									max="10"
+									step="0.5"
+									onChange={(e) => manageDayLit(e)}
+								/>
+							</div>
+							<Typography variant="lead" color="white" className="cursive">
+								Costo acqua in bottiglia al litro: € {eurlit}
+							</Typography>
+							<Coins amount={eurlit} className="mt-2" />
+							<div className="flex w-96 max-w-full flex-col gap-8 my-5 mx-auto">
+								<Slider
+									size="lg"
+									color="blue"
+									id="eurlit"
+									name="eurlit"
+									min="0.20"
+									max="1"
+									value={eurlit}
+									step="0.05"
+									onChange={(e) => manageEurLit(e)}
+								/>
+							</div>
+						</CardBody>
+					</Card>
 
-			<Card
-				className="max-w-4xl mx-auto text-center text-white p-5 shadow-lg mt-6 border border-blue"
-				color="blue"
-				variant="gradient"
-			>
-				<CardBody>
-					<Typography variant="h4" color="white" className="mb-2">
-						Costo annuale acqua in bottiglia:{' '}
-						<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
-							€ {yearCost}
-						</strong>
-					</Typography>
-					<hr className="my-8 border-blue-gray-50" />
-					<Typography variant="lead" color="white" className="cursive mb-2">
-						Scegli caraffa e filtri
-					</Typography>
+					<Card
+						className="max-w-4xl mx-auto text-center text-white p-5 shadow-lg mt-6 border border-blue"
+						color="blue"
+						variant="gradient"
+					>
+						<CardBody>
+							<Typography variant="h4" color="white" className="mb-2">
+								Costo annuale acqua in bottiglia:{' '}
+								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
+									€ {yearCost}
+								</strong>
+							</Typography>
+							<hr className="my-8 border-blue-gray-50" />
+							<Typography variant="lead" color="white" className="cursive mb-2">
+								Scegli caraffa e filtri
+							</Typography>
 
-					<div className="max-w-md text-white mx-auto">
-						<select
-							label="Caraffa"
-							size="lg"
-							color="white"
-							onChange={(e) => updCurrentCaraffa(e)}
-							value={currentCaraffa || ''}
-							className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
-						>
-							{/*!currentCaraffa && (
+							<div className="max-w-md text-white mx-auto">
+								<select
+									label="Caraffa"
+									size="lg"
+									color="white"
+									onChange={(e) => updCurrentCaraffa(e)}
+									value={currentCaraffa || ''}
+									className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
+								>
+									{/*!currentCaraffa && (
 							<Option value="" key="0">
 								Seleziona...
 							</Option>
 						)*/}
-							{listaCaraffe
-								.slice()
-								.sort((a, b) => {
-									if (a.custom_title < b.custom_title) {
-										return -1;
-									}
-									if (a.custom_title > b.custom_title) {
-										return 1;
-									}
-									return 0;
-								})
-								.map((entry) => (
-									<option key={entry.code} value={entry.code}>
-										{entry.custom_title}
-									</option>
-								))}
-						</select>
-					</div>
-					{filters && (
-						<div className="max-w-md mt-2 text-white mx-auto">
-							<select
-								label="Filtro"
-								size="lg"
-								color="white"
-								onChange={(e) => updCurrentFiltro(e)}
-								value={currentFiltro || ''}
-								className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
-							>
-								{!currentFiltro && (
-									<option value="" key="00">
-										Seleziona...
-									</option>
-								)}
-								{listaFiltri
-									.filter((f) => f.caraffe[currentCaraffa] === 1)
-									.map((entry) => (
-										<option key={entry.asin} value={entry.asin}>
-											{entry.nome}
-										</option>
-									))}
-							</select>
-						</div>
-					)}
-					{currentCaraffa && (
-						<>
-							{/* <Coins amount={startCost} /> */}
-							<Typography
-								className="pt-4 pb-2 mb-4 mt-6"
-								variant="h4"
-								color="white"
-							>
-								Costo caraffa:{' '}
-								<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
-									€ {startCost}
-								</strong>
-							</Typography>
-
-							{listaFiltri && newYearCost ? (
+									{listaCaraffe
+										.slice()
+										.sort((a, b) => {
+											if (a.custom_title < b.custom_title) {
+												return -1;
+											}
+											if (a.custom_title > b.custom_title) {
+												return 1;
+											}
+											return 0;
+										})
+										.map((entry) => (
+											<option key={entry.code} value={entry.code}>
+												{entry.custom_title}
+											</option>
+										))}
+								</select>
+							</div>
+							{filters && (
+								<div className="max-w-md mt-2 text-white mx-auto">
+									<select
+										label="Filtro"
+										size="lg"
+										color="white"
+										onChange={(e) => updCurrentFiltro(e)}
+										value={currentFiltro || ''}
+										className="text-blue-800 border bg-white text-sm rounded-lg block w-full p-2.5 py-3 text-center"
+									>
+										{!currentFiltro && (
+											<option value="" key="00">
+												Seleziona...
+											</option>
+										)}
+										{listaFiltri
+											.filter((f) => f.caraffe[currentCaraffa] === 1)
+											.map((entry) => (
+												<option key={entry.asin} value={entry.asin}>
+													{entry.nome}
+												</option>
+											))}
+									</select>
+								</div>
+							)}
+							{currentCaraffa && (
 								<>
-									<Typography variant="h4" color="white">
-										Costo annuale filtri:{' '}
+									{/* <Coins amount={startCost} /> */}
+									<Typography
+										className="pt-4 pb-2 mb-4 mt-6"
+										variant="h4"
+										color="white"
+									>
+										Costo caraffa:{' '}
 										<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
-											€ {newYearCost}
+											€ {startCost}
 										</strong>
 									</Typography>
-									<Typography
-										variant="paragraph"
-										color="white"
-										className="leading-none text-justify mt-8"
-									>
-										{newYearCostNotes}
-									</Typography>
+
+									{listaFiltri && newYearCost ? (
+										<>
+											<Typography variant="h4" color="white">
+												Costo annuale filtri:{' '}
+												<strong className="text-white p-2 px-4 border border-blue bg-blue-800 rounded-lg block md:inline-block mt-2 md:m-0">
+													€ {newYearCost}
+												</strong>
+											</Typography>
+											<Typography
+												variant="paragraph"
+												color="white"
+												className="leading-none text-justify mt-8"
+											>
+												{newYearCostNotes}
+											</Typography>
+										</>
+									) : (
+										''
+									)}
 								</>
-							) : (
-								''
 							)}
-						</>
-					)}
-				</CardBody>
-			</Card>
-		</div>
+						</CardBody>
+					</Card>
+				</div>
+			)}
+		</>
 	);
 }

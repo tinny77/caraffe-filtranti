@@ -5,7 +5,7 @@ import caraffeData from './data/caraffe.json';
 import filtriData from './data/filtri.json';
 
 import Intro from './Intro';
-import Product from './Product';
+import Products from './Products';
 import Filtri from './Filtri';
 import Calcolatore from './Calcolatore';
 
@@ -16,6 +16,7 @@ const shuffleArray = (array) => {
 };
 
 function App() {
+	const [loading, setLoading] = useState(true);
 	const [caraffe, setCaraffe] = useState([]);
 	const [selectedCaraffa, setSelectedCaraffa] = useState(null);
 	const [filtri, setFiltri] = useState([]);
@@ -50,6 +51,9 @@ function App() {
 			const caraffeArray = await Promise.all(
 				shuffleArray(caraffeData).map(async (entry) => {
 					const caraffaAmznData = await import(`./data/caraffe/${entry.file}`);
+					setTimeout(() => {
+						setLoading(false);
+					}, 2500);
 					const caraffaData = caraffeData.find(
 						(car) => car.asin === caraffaAmznData.product.asin
 					);
@@ -79,10 +83,11 @@ function App() {
 			<Intro />
 			{caraffeData.length > 0 ? (
 				<>
-					<Product
+					<Products
 						listaCaraffe={caraffe}
 						currentCaraffa={selectedCaraffa}
 						handleProductClick={handleProductClick}
+						loading={loading}
 					/>
 
 					<Filtri
@@ -91,6 +96,7 @@ function App() {
 						setCurrentFiltro={setSelectedFiltro}
 						currentCaraffa={selectedCaraffa}
 						thisref={filterRef}
+						loading={loading}
 					/>
 
 					<Calcolatore
@@ -101,23 +107,30 @@ function App() {
 						currentFiltro={selectedFiltro}
 						setCurrentFiltro={setSelectedFiltro}
 						thisref={calcRef}
+						loading={loading}
 					/>
+					{!loading && (
+						<footer className="text-center text-xs text-blue-200 mt-20 py-2">
+							Realizzato da{' '}
+							<a
+								href="https://www.filippotinnirello.it/"
+								target="_blank"
+								rel="noreferrer"
+							>
+								Filippo Tinnirello
+							</a>
+						</footer>
+					)}
 				</>
 			) : (
 				<Typography
-					variant="h3"
+					variant="lead"
 					color="white"
 					className="title pt-24 mb-0 text-2xl text-center"
 				>
-					Carico i dati...
+					Dati mancanti
 				</Typography>
 			)}
-			<footer className="text-center text-xs text-blue-200 mt-20 py-2">
-				Realizzato da{' '}
-				<a href="https://www.filippotinnirello.it/" target="_blank">
-					Filippo Tinnirello
-				</a>
-			</footer>
 		</div>
 	);
 }
