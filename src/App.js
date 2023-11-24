@@ -29,18 +29,17 @@ function App() {
 	const handleProductClick = (code) => {
 		setSelectedCaraffa(code);
 		resetCalcoloFiltri();
-		scrollToFilters();
-		//ref.current?.scrollIntoView({ behavior: 'smooth' });
+		//scrollToFilters();
 	};
 
 	const resetCalcoloFiltri = () => {
 		setSelectedFiltro(null);
 	};
 
-	useEffect(() => {
+	/*useEffect(() => {
 		selectedFiltro && scrollToCalc();
 		selectedCaraffa && scrollToFilters();
-	}, [selectedFiltro, selectedCaraffa]);
+	}, [selectedFiltro, selectedCaraffa]);*/
 
 	useEffect(() => {
 		resetCalcoloFiltri();
@@ -81,7 +80,7 @@ function App() {
 	return (
 		<div className="container mx-auto font-sans subpixel-antialiased text-white px-5 m-0 pt-24 pb-2">
 			<Intro />
-			{caraffeData.length > 0 ? (
+			{caraffeData.length ? (
 				<>
 					<Products
 						listaCaraffe={caraffe}
