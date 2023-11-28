@@ -4,10 +4,10 @@ import { Typography } from '@material-tailwind/react';
 import caraffeData from './data/caraffe.json';
 import filtriData from './data/filtri.json';
 
-import Intro from './Intro';
-import Products from './Products';
-import Filtri from './Filtri';
-import Calcolatore from './Calcolatore';
+import Intro from './components/Intro';
+import Products from './components/Products';
+import Filtri from './components/Filtri';
+import Calcolatore from './components/Calcolatore';
 
 const shuffleArray = (array) => {
 	return array.sort(function () {
@@ -23,8 +23,8 @@ function App() {
 	const [selectedFiltro, setSelectedFiltro] = useState(null);
 	const filterRef = useRef(null);
 	const calcRef = useRef(null);
-	const scrollToFilters = () => filterRef.current.scrollIntoView();
-	const scrollToCalc = () => calcRef.current.scrollIntoView();
+	//const scrollToFilters = () => filterRef.current.scrollIntoView();
+	//const scrollToCalc = () => calcRef.current.scrollIntoView();
 
 	const handleProductClick = (code) => {
 		setSelectedCaraffa(code);
@@ -47,29 +47,34 @@ function App() {
 
 	useEffect(() => {
 		const fetchCaraffe = async () => {
-			const caraffeArray = await Promise.all(
-				shuffleArray(caraffeData).map(async (entry) => {
-					const caraffaAmznData = await import(`./data/caraffe/${entry.file}`);
-					setTimeout(() => {
-						setLoading(false);
-					}, 2500);
-					const caraffaData = caraffeData.find(
-						(car) => car.asin === caraffaAmznData.product.asin
-					);
-					return {
-						asin: caraffaData.asin,
-						code: caraffaData.code,
-						custom_title: caraffaData.title,
-						title: caraffaAmznData.product.title,
-						link: caraffaAmznData.product.link,
-						price: caraffaAmznData.product.buybox_winner.price.value,
-						capacita: caraffaData.capacita,
-						rating: caraffaAmznData.product.rating,
-						rating_num: caraffaAmznData.product.ratings_total,
-						image: caraffaAmznData.product.main_image.link,
-					};
-				})
-			);
+			const caraffeArray = [];
+			const shuffledCaraffeData = shuffleArray(caraffeData);
+
+			for (const entry of shuffledCaraffeData) {
+				const caraffaAmznData = await import(`./data/caraffe/${entry.file}`);
+
+				const caraffaData = caraffeData.find(
+					(car) => car.asin === caraffaAmznData.product.asin
+				);
+				const caraffeItem = {
+					asin: caraffaData.asin,
+					code: caraffaData.code,
+					custom_title: caraffaData.title,
+					title: caraffaAmznData.product.title,
+					link: caraffaAmznData.product.link,
+					price: caraffaAmznData.product.buybox_winner.price.value,
+					capacita: caraffaData.capacita,
+					rating: caraffaAmznData.product.rating,
+					rating_num: caraffaAmznData.product.ratings_total,
+					image: caraffaAmznData.product.main_image.link,
+				};
+
+				caraffeArray.push(caraffeItem);
+			}
+			setTimeout(() => {
+				setLoading(false);
+			}, 2500);
+
 			setCaraffe(caraffeArray);
 		};
 

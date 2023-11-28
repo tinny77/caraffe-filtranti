@@ -8,7 +8,7 @@ import {
 	Chip,
 } from '@material-tailwind/react';
 
-import sostanzeData from './data/sostanze.json';
+import sostanzeData from '../data/sostanze.json';
 
 // Componente ProductItem
 const FiltriItem = ({
