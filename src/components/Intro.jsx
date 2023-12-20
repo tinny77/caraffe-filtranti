@@ -6,9 +6,9 @@ import { Typography } from '@material-tailwind/react';
 export default function Intro() {
 	return (
 		<div className="intro max-w-6xl mx-auto text-center mb-10 ">
-			<Typography variant="h1" className="title mb-12 drop-shadow-md">
+			{/* <Typography variant="h1" className="title mb-12 drop-shadow-md">
 				Caraffe filtranti... Aiuto!
-			</Typography>
+			</Typography> */}
 			<Typography variant="lead">
 				Sai quanto spendi per acquistare acqua in bottiglia ogni mese?
 				<br />

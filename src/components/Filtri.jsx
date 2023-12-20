@@ -1,8 +1,8 @@
-import React, { useCallback } from 'react';
+import React, { useCallback, useState, useEffect, memo } from 'react';
 import { Typography } from '@material-tailwind/react';
 import FiltriItem from './FiltriItem';
 
-export default function Filtri({
+const Filtri = memo(function Filtri({
 	listaFiltri,
 	currentFiltro,
 	setCurrentFiltro,
@@ -10,14 +10,20 @@ export default function Filtri({
 	thisref,
 	loading,
 }) {
+	const [filtri, setFiltri] = useState([]);
+
 	const getListaFiltri = useCallback(() => {
 		//console.log("getListaFiltri");
 		let filtri = listaFiltri.filter((f) => f.caraffe[currentCaraffa] === 1);
 		filtri.length === 1 && setCurrentFiltro(filtri[0].asin);
 		return filtri;
-	}, [currentCaraffa]);
+	}, [currentCaraffa, listaFiltri, setCurrentFiltro]);
 
-	const filtri = getListaFiltri();
+	useEffect(() => {
+		const updatedFiltri = getListaFiltri();
+		setFiltri(updatedFiltri);
+	}, [getListaFiltri]);
+
 	const totalFiltri = filtri.length;
 
 	return (
@@ -53,4 +59,6 @@ export default function Filtri({
 			)}
 		</>
 	);
-}
+});
+
+export default Filtri;

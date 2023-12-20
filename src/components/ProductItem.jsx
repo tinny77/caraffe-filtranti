@@ -49,7 +49,7 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 				</Typography>
 				<img
 					src={product.image}
-					className="max-w-fullrelative h-56 mx-auto mb-8"
+					className="max-w-fullrelative h-56 mx-auto mb-8 p-4"
 					alt={product.title}
 				/>
 				<Typography>
