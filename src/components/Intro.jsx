@@ -12,7 +12,7 @@ export default function Intro({ caraffeCount, filtriCount }) {
 						Caraffe filtranti a confronto, con filtri compatibili e stima del risparmio
 					</Typography>
 					<Typography variant="lead" className="mt-6 max-w-3xl text-base font-medium leading-8 text-slate-700 md:text-xl">
-						Se vuoi capire quale caraffa filtrante puo avere senso per casa tua,
+						Se vuoi capire quale caraffa filtrante può avere senso per casa tua,
 						qui trovi una selezione comparabile per prezzo, capacita, filtri
 						compatibili e costo annuo stimato. Il calcolatore finale traduce i dati
 						in una domanda concreta: rispetto all&apos;acqua in bottiglia, quanto spendi davvero?

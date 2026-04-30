@@ -237,6 +237,102 @@ body {
   text-transform: uppercase;
 }
 
+.guide-panel {
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(240, 249, 255, 0.78)),
+    radial-gradient(circle at top right, rgba(14, 165, 233, 0.12), transparent 35%);
+}
+
+.guide-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.guide-card {
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 1.5rem;
+  background: rgba(255, 255, 255, 0.88);
+  padding: 1.35rem;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.06);
+  text-align: left;
+}
+
+.guide-card__kicker {
+  color: #0b5a8e;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  margin: 0 0 0.55rem;
+  text-transform: uppercase;
+}
+
+.guide-card__title {
+  color: #0f172a;
+  font-family: 'Fraunces', serif;
+  font-size: 1.45rem;
+  line-height: 1.15;
+  margin: 0;
+}
+
+.guide-card__text {
+  color: #475569;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  margin: 0.8rem 0 0;
+}
+
+.guide-note {
+  border: 1px solid rgba(13, 59, 102, 0.1);
+  border-radius: 1.5rem;
+  background: linear-gradient(180deg, rgba(13, 59, 102, 0.06), rgba(14, 165, 233, 0.04));
+  padding: 1.35rem 1.5rem;
+}
+
+.guide-note__title {
+  color: #0f172a;
+  font-size: 0.88rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.guide-note__text {
+  color: #475569;
+  font-size: 0.98rem;
+  line-height: 1.75;
+  margin: 0.7rem 0 0;
+}
+
+.guide-faqs {
+  display: grid;
+  gap: 1rem;
+}
+
+.guide-faq {
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 1.5rem;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 1.35rem 1.5rem;
+  text-align: left;
+}
+
+.guide-faq__question {
+  color: #0f172a;
+  font-family: 'Fraunces', serif;
+  font-size: 1.3rem;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.guide-faq__answer {
+  color: #475569;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  margin: 0.85rem 0 0;
+}
+
 .calculator-selection-status {
   display: flex;
   gap: 0.45rem;
@@ -720,6 +816,7 @@ footer {margin-bottom:env(safe-area-inset-bottom);}
   .calculator-results__body {padding: 1.35rem;}
   .calculator-results__grid {grid-template-columns: 1fr;}
   .calculator-status-row {grid-template-columns: 1fr;}
+  .guide-grid {grid-template-columns: 1fr;}
   .calculator-control-card__head,
   .calculator-results__headline,
   .filter-modal__header {align-items: flex-start; flex-direction: column;}

@@ -8,6 +8,7 @@ import Intro from './components/Intro';
 import Products from './components/Products';
 import Filtri from './components/Filtri';
 import Calcolatore from './components/Calcolatore';
+import GuidaFiltrazione, { guideFaqs } from './components/GuidaFiltrazione';
 
 const pageTitle =
 	'Caraffe filtranti: confronto, filtri compatibili e calcolatore risparmio';
@@ -168,32 +169,14 @@ function App() {
 				},
 				{
 					'@type': 'FAQPage',
-					mainEntity: [
-						{
-							'@type': 'Question',
-							name: 'Come scegliere una caraffa filtrante?',
-							acceptedAnswer: {
-								'@type': 'Answer',
-								text: 'Conviene confrontare capacita, prezzo iniziale, disponibilita dei filtri compatibili e costo annuale stimato in base ai litri bevuti ogni giorno.',
-							},
+					mainEntity: guideFaqs.map((faq) => ({
+						'@type': 'Question',
+						name: faq.question,
+						acceptedAnswer: {
+							'@type': 'Answer',
+							text: faq.answer,
 						},
-						{
-							'@type': 'Question',
-							name: 'Quanto incide il costo dei filtri nel tempo?',
-							acceptedAnswer: {
-								'@type': 'Answer',
-								text: "Il costo dei filtri puo cambiare molto da un modello all'altro. Per questo il sito stima il consumo annuo in base a durata in mesi, durata in litri e abitudini di consumo.",
-							},
-						},
-						{
-							'@type': 'Question',
-							name: 'Il confronto serve anche per stimare il risparmio rispetto alle bottiglie?',
-							acceptedAnswer: {
-								'@type': 'Answer',
-								text: "Si. Il calcolatore confronta il costo annuo dell'acqua in bottiglia con il costo della caraffa e dei filtri compatibili per stimare convenienza e tempi di rientro.",
-							},
-						},
-					],
+					})),
 				},
 			],
 		};
@@ -223,6 +206,7 @@ function App() {
 				/>
 				{caraffeData.length ? (
 					<>
+						<GuidaFiltrazione />
 						<Calcolatore
 							listaCaraffe={caraffe}
 							currentCaraffa={selectedCaraffa}
@@ -249,6 +233,7 @@ function App() {
 							thisref={filterRef}
 							loading={loading}
 						/>
+
 						{!loading && (
 							<footer className="mx-auto mt-16 max-w-4xl rounded-3xl border border-white/60 bg-white/70 px-6 py-5 text-center text-sm text-slate-600 shadow-lg shadow-sky-950/5 backdrop-blur text-balance">
 								Dati comparativi e stime orientative. Verifica sempre
