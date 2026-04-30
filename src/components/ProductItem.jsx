@@ -7,6 +7,13 @@ import {
 } from '@material-tailwind/react';
 import { BsStarFill, BsStarHalf } from 'react-icons/bs';
 
+const formatCurrency = (value) =>
+	new Intl.NumberFormat('it-IT', {
+		style: 'currency',
+		currency: 'EUR',
+		maximumFractionDigits: 2,
+	}).format(Number(value) || 0);
+
 // Componente Rating
 const Rating = ({ stars }) => {
 	let rating = [];
@@ -21,7 +28,7 @@ const Rating = ({ stars }) => {
 		rating.push(<BsStarHalf className="rating-star" key={stars + 1} />);
 	}
 
-	return <div>{rating}</div>;
+	return <div className="flex items-center gap-1 text-amber-500">{rating}</div>;
 };
 
 // Componente ProductItem
@@ -31,53 +38,73 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 	return (
 		<Card
 			key={code}
-			className={`product-card p-2 w-full _max-w-[90%] _mx-auto rounded-lg text-center shadow border-solid border-4 ${
+			className={`product-card h-full w-full rounded-[1.75rem] border p-2 text-center shadow-xl shadow-sky-950/5 ${
 				isItemSelected
-					? `border-blue-900 text-blue-800`
-					: `border-white text-black`
+					? `border-sky-500 bg-sky-50/95 text-sky-950`
+					: `border-white/70 bg-white/88 text-slate-900`
 			}`}
-			onClick={() => handleProductClick(code)}
 			title={product.title}
 		>
-			<CardBody>
+			<CardBody className="flex h-full flex-col p-4 md:p-5">
+				<div className="mb-4 flex items-center justify-between gap-3 text-left">
+					<span className="inline-flex rounded-full bg-sky-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.22em] text-sky-800">
+						{product.capacita > 0 ? `${product.capacita} L` : 'Capacita n.d.'}
+					</span>
+					{isItemSelected && (
+						<span className="inline-flex rounded-full bg-sky-600 px-3 py-1 text-xs font-semibold uppercase tracking-[0.2em] text-white">
+							Selezionata
+						</span>
+					)}
+				</div>
 				<Typography
 					variant="h3"
-					color={isItemSelected ? `blue-gray` : `blue-800`}
-					className="mt-2 mb-6 text-2xl"
+					className="mt-2 min-h-[4.5rem] text-left text-2xl font-semibold leading-tight text-slate-950"
 				>
 					{product.custom_title}
 				</Typography>
 				<img
 					src={product.image}
-					className="max-w-fullrelative h-56 mx-auto mb-8 p-4"
+					className="mx-auto mb-6 h-56 max-w-full object-contain p-3"
 					alt={product.title}
+					loading="lazy"
+					decoding="async"
 				/>
-				<Typography>
+				<Typography className="space-y-2 text-left text-sm leading-6 text-slate-600">
 					{product.capacita > 0 && (
-						<p className="rating">Capacità: {product.capacita} litri</p>
+						<p className="rating">Capacita: {product.capacita} litri</p>
 					)}
-					<p className="rating">
+					<p className="rating flex items-center gap-2">
 						Rating: <Rating stars={product.rating} />{' '}
 						<span>({product.rating_num})</span>
 					</p>
 				</Typography>
 				<Typography
 					variant="h4"
-					color="black"
-					className="mt-6 flex justify-center gap-1 text-3xl font-normal"
+					className="mt-6 text-left text-3xl font-semibold text-slate-950"
 				>
-					<span className="mt-2 text-sm">€</span>
-					{JSON.stringify(product.price)}{' '}
+					{formatCurrency(product.price)}
 				</Typography>
-				<a href={product.link} target="_blank" rel="noreferrer">
+				<p className="mt-2 text-left text-sm text-slate-500">
+					Prezzo indicativo rilevato online. Verifica disponibilita e condizioni sullo store.
+				</p>
+				<div className="mt-6 grid gap-3 sm:grid-cols-2">
 					<Button
-						className={`px-3 py-2 mt-5 rounded-md ${
-							isItemSelected ? `bg-blue-800` : `bg-blue-gray-800`
-						} `}
+						type="button"
+						onClick={() => handleProductClick(code)}
+						className={`rounded-xl px-4 py-3 text-sm font-semibold shadow-none ${
+							isItemSelected ? `bg-sky-700` : `bg-slate-900`
+						}`}
+					>
+						{isItemSelected ? 'Caraffa selezionata' : 'Seleziona caraffa'}
+					</Button>
+					<a href={product.link} target="_blank" rel="noreferrer">
+					<Button
+							className="w-full rounded-xl border border-sky-200 bg-white px-4 py-3 text-sm font-semibold text-sky-900 shadow-none"
 					>
 						Vedi su Amazon
 					</Button>
 				</a>
+				</div>
 			</CardBody>
 		</Card>
 	);
