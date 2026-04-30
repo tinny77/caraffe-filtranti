@@ -174,7 +174,7 @@ function App() {
 					name: 'Caraffe filtranti',
 					url: origin,
 					description:
-						'Progetto editoriale dedicato al confronto tra caraffe filtranti, filtri compatibili e priorita reali di filtrazione.',
+						'Progetto editoriale dedicato al confronto tra caraffe filtranti, filtri compatibili e priorità reali di filtrazione.',
 					inLanguage: 'it-IT',
 				},
 				{

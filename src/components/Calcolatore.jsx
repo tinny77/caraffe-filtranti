@@ -273,8 +273,7 @@ export default function Calcolatore({
 							className="mt-4 text-base leading-7 text-slate-600 md:text-lg"
 						>
 							Imposta il tuo scenario, scegli la caraffa e leggi subito il costo
-							stimato. Il flusso è più rapido e il risultato finale è più facile
-							da capire a colpo d'occhio.
+							stimato.
 						</Typography>
 						<div className="calculator-steps mt-8">
 							<span className="calculator-step">1. Definisci il consumo</span>

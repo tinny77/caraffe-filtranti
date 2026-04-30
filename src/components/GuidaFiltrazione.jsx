@@ -3,24 +3,24 @@ import { Typography } from '@material-tailwind/react';
 
 const priorities = [
 	{
-		kicker: 'Alta priorita',
+		kicker: 'Alta priorità',
 		title: 'PFAS e microinquinanti persistenti',
-		text: "Se un filtro dichiara una riduzione di PFAS, PFOA, BPA o residui farmaceutici, il vantaggio pratico e spesso piu rilevante rispetto al semplice effetto sul gusto. Sono sostanze che conviene tenere d'occhio soprattutto quando vuoi ridurre microcontaminanti difficili da intercettare con soluzioni basilari.",
+		text: "Se un filtro dichiara una riduzione di PFAS, PFOA, BPA o residui farmaceutici, il vantaggio pratico è spesso più rilevante rispetto al semplice effetto sul gusto. Sono sostanze che conviene tenere d'occhio soprattutto quando vuoi ridurre microcontaminanti difficili da intercettare con soluzioni basilari.",
 	},
 	{
-		kicker: 'Alta priorita',
+		kicker: 'Alta priorità',
 		title: 'Metalli come piombo, mercurio e cadmio',
-		text: "I filtri che coprono metalli pesanti hanno piu valore quando l'acqua passa in tubazioni vecchie o quando vuoi una protezione aggiuntiva su contaminanti che non migliorano solo sapore e odore, ma toccano la qualita complessiva dell'acqua.",
+		text: "I filtri che coprono metalli pesanti diventano fondamentali quando l'acqua passa in tubazioni vecchie o quando vuoi una protezione aggiuntiva su contaminanti che non migliorano solo sapore e odore, ma toccano la qualità complessiva dell'acqua.",
 	},
 	{
-		kicker: 'Priorita media',
+		kicker: 'Priorità media',
 		title: 'Cloro e sottoprodotti del trattamento',
-		text: "Ridurre il cloro e alcuni sottoprodotti puo avere senso per gusto, odore e comfort quotidiano. Non e la stessa priorita di PFAS o metalli, ma e una funzione utile se l'acqua di rubinetto ha un sapore netto o un odore che ti infastidisce.",
+		text: "Ridurre il cloro e alcuni sottoprodotti può avere senso per gusto, odore e comfort quotidiano. Non ha la stessa importanza di PFAS o metalli, ma è una funzione utile se l'acqua di rubinetto ha un sapore netto o un odore che ti infastidisce.",
 	},
 	{
-		kicker: 'Priorita bassa',
-		title: 'Calcare: spesso e piu una questione tecnica che sanitaria',
-		text: "In genere il calcare non e la prima cosa da inseguire in un filtro domestico: nelle acque potabili dure e spesso piu un tema di incrostazioni, bollitori e gusto che un contaminante da trattare come priorita sanitaria.",
+		kicker: 'Priorità bassa',
+		title: 'Calcare: più una questione tecnica che sanitaria',
+		text: "In genere il calcare non è la prima cosa da eliminare in un filtro domestico: nelle acque dure causa incrostazioni sugli elettrodomestici e altera il gusto, ma non è un contaminante sanitario da trattare con priorità.",
 	},
 ];
 
@@ -28,17 +28,18 @@ export const guideFaqs = [
 	{
 		question: 'Ha senso filtrare il calcare?',
 		answer:
-			"In molti casi no, almeno non come priorita principale. Il calcare e spesso piu un tema di incrostazioni, bollitori e gusto che un problema da inseguire prima di tutto in ottica di qualita dell'acqua bevuta.",
+			"In molti casi no, almeno non come priorità principale. Il calcare causa incrostazioni sugli elettrodomestici e altera il gusto, ma non è un contaminante sanitario: quando si confrontano due filtri, PFAS e metalli pesanti contano di più.",
 	},
 	{
-		question: 'Quali filtri sono piu utili se voglio fare una scelta piu mirata?',
+		question:
+			'Quali filtri sono più utili se voglio fare una scelta più mirata?',
 		answer:
-			'Sono in genere piu prioritari i filtri che dichiarano una riduzione di PFAS, metalli come piombo, mercurio e cadmio, oppure altri microinquinanti come BPA e residui farmaceutici. Sono voci che pesano di piu del solo effetto anticalcare.',
+			'Sono in genere più prioritari i filtri che dichiarano una riduzione di PFAS, metalli come piombo, mercurio e cadmio, oppure altri microinquinanti come BPA e residui farmaceutici. Sono voci che pesano di più del solo effetto anticalcare.',
 	},
 	{
 		question: 'Ridurre il cloro serve davvero?',
 		answer:
-			"Si, puo servire soprattutto per migliorare gusto e odore dell'acqua di rubinetto. E una funzione utile sul piano del comfort quotidiano, anche se di solito PFAS e metalli hanno una priorita pratica piu alta quando confronti due filtri.",
+			"Sì, può servire soprattutto per migliorare gusto e odore dell'acqua di rubinetto. È una funzione utile sul piano del comfort quotidiano, anche se di solito PFAS e metalli hanno una priorità pratica più alta quando confronti due filtri."
 	},
 ];
 
@@ -54,8 +55,8 @@ export default function GuidaFiltrazione() {
 					variant="lead"
 					className="mt-4 text-base leading-7 text-slate-600 md:text-lg"
 				>
-					Se stai confrontando due filtri, il punto non e contare quante sostanze compaiono in etichetta,
-					 ma capire quali contano davvero. In generale, PFAS e metalli pesanti pesano piu del solo
+					Se stai confrontando due filtri, il punto non è contare quante sostanze compaiono in etichetta,
+					 ma capire quali contano davvero. In generale, PFAS e metalli pesanti pesano più del solo
 					 effetto anticalcare, mentre il cloro incide soprattutto su gusto e odore.
 				</Typography>
 				<p className="guide-updated-at mt-4">Aggiornato: aprile 2026</p>
@@ -74,9 +75,9 @@ export default function GuidaFiltrazione() {
 			<div className="guide-note mx-auto mt-8 ">
 				<p className="guide-note__title">Come leggere queste indicazioni</p>
 				<p className="guide-note__text">
-					Questa e una guida pratica per confrontare i filtri dichiarati dai produttori, non un parere tecnico sulla tua rete idrica.
-					 Se hai dubbi reali sulla qualita dell'acqua di casa, il criterio migliore resta sempre il report del gestore locale o un'analisi dedicata.
-					 Per un confronto d'acquisto, pero, questa gerarchia ti aiuta a leggere le schede filtro con piu criterio e meno rumore.
+					Questa è una guida pratica per confrontare i filtri dichiarati dai produttori, non un parere tecnico sulla tua rete idrica.
+					 Se hai dubbi reali sulla qualità dell'acqua di casa, il criterio migliore resta sempre il report del gestore locale o un'analisi dedicata.
+					 Per un confronto d'acquisto, però, questa pagina ti aiuta a leggere le schede filtro con più criterio e meno rumore.
 				</p>
 			</div>
 
