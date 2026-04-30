@@ -644,7 +644,7 @@ export default function Calcolatore({
 												Scegli il filtro per {selectedCaraffaEntry?.custom_title}
 											</h3>
 											<p className="mt-3 max-w-2xl text-sm leading-6 text-slate-600 md:text-base">
-												Confronta qui le stesse schede mostrate nella sezione filtri e seleziona quella piu adatta al tuo consumo.
+												Confronta qui le stesse schede mostrate nella sezione filtri e seleziona quella più adatta al tuo consumo.
 											</p>
 										</div>
 										<button

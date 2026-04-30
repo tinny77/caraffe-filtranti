@@ -497,27 +497,27 @@
         "is_global_review": false
       },
       {
-        "id": "R3GOE4M89UE8HD",
-        "title": "Molto contento",
-        "body": "Attualmente per l’utilizzo sono molto contento, è vero che piu o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili. 5 stelle per il momento.Leggi di più",
-        "asin": "B09BR77WFK",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Attualmente per l’utilizzo sono molto contento, è vero che piu o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili.<br>5 stelle per il momento.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3GOE4M89UE8HD?ASIN=B09BR77WFK",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Italia il 14 ottobre 2023",
-          "utc": "2023-10-14T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Roberto M.",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG4GG326OJ6RW6ORZZLEZYJFPIHQ",
-          "id": "AG4GG326OJ6RW6ORZZLEZYJFPIHQ"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
+				"id": "R3GOE4M89UE8HD",
+				"title": "Molto contento",
+				"body": "Attualmente per l’utilizzo sono molto contento, è vero che più o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili. 5 stelle per il momento.Leggi di più",
+				"asin": "B09BR77WFK",
+				"body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Attualmente per l’utilizzo sono molto contento, è vero che più o meno bisogna filtrate i primi 3/5l per avere un’acqua buona, peró il risparmio di fatiche per portare a casa bottiglie e il bidone della plastica che diventa pieno in 2 giorni, sono incredibili.<br>5 stelle per il momento.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+				"link": "https://www.amazon.it/gp/customer-reviews/R3GOE4M89UE8HD?ASIN=B09BR77WFK",
+				"rating": 5,
+				"date": {
+					"raw": "Recensito in Italia il 14 ottobre 2023",
+					"utc": "2023-10-14T00:00:00.000Z"
+				},
+				"profile": {
+					"name": "Roberto M.",
+					"link": "https://www.amazon.it/gp/profile/amzn1.account.AG4GG326OJ6RW6ORZZLEZYJFPIHQ",
+					"id": "AG4GG326OJ6RW6ORZZLEZYJFPIHQ"
+				},
+				"vine_program": false,
+				"verified_purchase": true,
+				"review_country": "it",
+				"is_global_review": false
+			},
       {
         "id": "R1X1E0OUDDP9E5",
         "title": "Acqua come in bottiglia",

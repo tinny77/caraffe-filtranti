@@ -91,8 +91,8 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 					<Button
 						type="button"
 						onClick={() => handleProductClick(code)}
-						className={`rounded-xl px-4 py-3 text-sm font-semibold shadow-none ${
-							isItemSelected ? `bg-sky-700` : `bg-slate-900`
+						className={`rounded-xl px-4 py-3 text-sm font-semibold text-white shadow-none ${
+							isItemSelected ? '!bg-sky-700' : '!bg-sky-600'
 						}`}
 					>
 						{isItemSelected ? 'Caraffa selezionata' : 'Seleziona caraffa'}

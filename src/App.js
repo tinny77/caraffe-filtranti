@@ -14,6 +14,7 @@ const pageTitle =
 	'Caraffe filtranti: confronto, filtri compatibili e calcolatore risparmio';
 const pageDescription =
 	"Confronta caraffe filtranti, compatibilita dei filtri, capacita e costi annuali. Usa il calcolatore per stimare quanto puoi risparmiare rispetto all'acqua in bottiglia.";
+const pageUpdatedAt = '2026-04-30';
 
 const upsertMetaTag = (selector, attributes) => {
 	let element = document.head.querySelector(selector);
@@ -57,6 +58,9 @@ function App() {
 	const handleProductClick = (code) => {
 		setSelectedCaraffa(code);
 		resetCalcoloFiltri();
+		window.requestAnimationFrame(() => {
+			calcRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+		});
 	};
 
 	useEffect(() => {
@@ -104,6 +108,15 @@ function App() {
 			name: 'description',
 			content: pageDescription,
 		});
+		upsertMetaTag('meta[name="keywords"]', {
+			name: 'keywords',
+			content:
+				'caraffe filtranti, filtri acqua, PFAS, metalli pesanti, cloro, calcare, confronto caraffe, filtri compatibili, risparmio acqua in bottiglia',
+		});
+		upsertMetaTag('meta[name="author"]', {
+			name: 'author',
+			content: 'Caraffe filtranti',
+		});
 		upsertMetaTag('meta[property="og:title"]', {
 			property: 'og:title',
 			content: pageTitle,
@@ -123,6 +136,10 @@ function App() {
 		upsertMetaTag('meta[property="og:site_name"]', {
 			property: 'og:site_name',
 			content: 'Caraffe filtranti',
+		});
+		upsertMetaTag('meta[property="article:modified_time"]', {
+			property: 'article:modified_time',
+			content: pageUpdatedAt,
 		});
 		upsertMetaTag('meta[name="twitter:title"]', {
 			name: 'twitter:title',
@@ -153,11 +170,28 @@ function App() {
 					inLanguage: 'it-IT',
 				},
 				{
+					'@type': 'Organization',
+					name: 'Caraffe filtranti',
+					url: origin,
+					description:
+						'Progetto editoriale dedicato al confronto tra caraffe filtranti, filtri compatibili e priorita reali di filtrazione.',
+					inLanguage: 'it-IT',
+				},
+				{
 					'@type': 'CollectionPage',
 					name: pageTitle,
 					url: siteUrl,
 					description: pageDescription,
 					inLanguage: 'it-IT',
+					dateModified: pageUpdatedAt,
+					about: [
+						'caraffe filtranti',
+						'filtri compatibili',
+						'PFAS',
+						'metalli pesanti',
+						'cloro',
+						'calcare',
+					],
 					mainEntity: {
 						'@type': 'ItemList',
 						itemListElement: caraffeData.map((caraffa, index) => ({
@@ -166,6 +200,15 @@ function App() {
 							name: caraffa.title,
 						})),
 					},
+				},
+				{
+					'@type': 'WebPage',
+					name: pageTitle,
+					url: siteUrl,
+					inLanguage: 'it-IT',
+					description: pageDescription,
+					dateModified: pageUpdatedAt,
+					primaryImageOfPage: `${origin}/logo512.png`,
 				},
 				{
 					'@type': 'FAQPage',
@@ -235,7 +278,7 @@ function App() {
 						/>
 
 						{!loading && (
-							<footer className="mx-auto mt-16 max-w-4xl rounded-3xl border border-white/60 bg-white/70 px-6 py-5 text-center text-sm text-slate-600 shadow-lg shadow-sky-950/5 backdrop-blur text-balance">
+							<footer className="mx-auto mt-16 rounded-3xl border border-white/60 bg-white/70 px-6 py-5 text-center text-sm text-slate-600 shadow-lg shadow-sky-950/5 backdrop-blur text-balance">
 								Dati comparativi e stime orientative. Verifica sempre
 								compatibilita, condizioni di acquisto e specifiche del
 								produttore prima di comprare.
