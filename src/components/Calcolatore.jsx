@@ -441,18 +441,24 @@ export default function Calcolatore({
 												aria-haspopup="dialog"
 												aria-expanded={isFilterModalOpen}
 											>
-												<span className={`calculator-select-trigger__value ${selectedFiltroEntry ? '' : 'calculator-select-trigger__value--placeholder'}`}>
+												<span
+													className={`calculator-select-trigger__value ${selectedFiltroEntry ? '' : 'calculator-select-trigger__value--placeholder'}`}
+												>
 													{!currentCaraffa
 														? 'Prima scegli una caraffa'
 														: selectedFiltroEntry
 															? selectedFiltroEntry.nome
 															: 'Seleziona'}
 												</span>
-												<span className="calculator-select-trigger__meta" hidden>
-													{currentCaraffa ? `${availableFilters.length} opzioni` : 'Selezione bloccata'}
+												<span
+													className="calculator-select-trigger__meta"
+													hidden
+												>
+													{currentCaraffa
+														? `${availableFilters.length} opzioni`
+														: 'Selezione bloccata'}
 												</span>
 											</button>
-
 										</div>
 									</div>
 
@@ -492,7 +498,7 @@ export default function Calcolatore({
 										{formatCurrency(yearCost)}
 									</span>
 								</div>
-								<div className="calculator-summary-strip">
+								<div className="calculator-summary-strip md:flex-row">
 									<div className="calculator-summary-pill">
 										<span className="calculator-summary-pill__label">
 											Litri annui stimati
@@ -547,9 +553,7 @@ export default function Calcolatore({
 										{currentFiltro ? (
 											<>
 												<div className="calculator-highlight">
-													<p className="calculator-highlight__eyebrow">
-														Lettura rapida
-													</p>
+
 													<h3 className="calculator-highlight__title">
 														{annualSavings >= 0
 															? `Risparmio annuo stimato di ${formatCurrency(annualSavings)}`
@@ -560,7 +564,7 @@ export default function Calcolatore({
 														iniziale della caraffa.
 													</p>
 												</div>
-												<div className="mt-8 grid gap-4 md:grid-cols-3">
+												<div className="mt-8 grid gap-4 md:grid-cols-2">
 													{' '}
 													<div className="calculator-metric">
 														<p className="text-xs font-semibold uppercase tracking-[0.2em] text-sky-200">
@@ -568,14 +572,6 @@ export default function Calcolatore({
 														</p>
 														<p className="mt-3 text-3xl font-semibold text-white">
 															{annualLitres}
-														</p>
-													</div>
-													<div className="calculator-metric">
-														<p className="text-xs font-semibold uppercase tracking-[0.2em] text-sky-200">
-															Risparmio annuo{' '}
-														</p>
-														<p className="mt-3 text-3xl font-semibold text-white">
-															{formatCurrency(annualSavings)}
 														</p>
 													</div>
 													<div className="calculator-metric">
@@ -635,15 +631,20 @@ export default function Calcolatore({
 								aria-label="Chiudi finestra filtri"
 							/>
 							<div className="filter-modal__positioner">
-								<div className="filter-modal__panel">
+								<div className="filter-modal__panel bg-white">
 									<div className="filter-modal__header">
 										<div>
 											<p className="section-kicker">Filtri compatibili</p>
-											<h3 id="filter-modal-title" className="title text-3xl text-slate-950">
-												Scegli il filtro per {selectedCaraffaEntry?.custom_title}
+											<h3
+												id="filter-modal-title"
+												className="title text-3xl text-slate-950"
+											>
+												Scegli il filtro per{' '}
+												{selectedCaraffaEntry?.custom_title}
 											</h3>
 											<p className="mt-3 max-w-2xl text-sm leading-6 text-slate-600 md:text-base">
-												Confronta qui le stesse schede mostrate nella sezione filtri e seleziona quella più adatta al tuo consumo.
+												Confronta qui le stesse schede mostrate nella sezione
+												filtri e seleziona quella più adatta al tuo consumo.
 											</p>
 										</div>
 										<button

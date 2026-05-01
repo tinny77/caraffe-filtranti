@@ -647,14 +647,15 @@ body {
 .calculator-highlight {
   border: 1px solid rgba(125, 211, 252, 0.16);
   border-radius: 1.5rem;
-  background: linear-gradient(135deg, rgba(14, 165, 233, 0.18), rgba(13, 59, 102, 0.22));
+
+  background: linear-gradient(180deg, rgba(247, 252, 255, 0.98), rgba(230, 244, 255, 0.92));
   margin-top: 1.5rem;
   padding: 1.2rem 1.25rem;
   text-align: left;
 }
 
 .calculator-highlight__eyebrow {
-  color: #bae6fd;
+  color: #0f172a;
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.18em;
@@ -663,7 +664,7 @@ body {
 }
 
 .calculator-highlight__title {
-  color: #fff;
+  color: #0f172a;
   font-family: 'Fraunces', serif;
   font-size: clamp(1.5rem, 2.7vw, 2.1rem);
   line-height: 1.1;
@@ -671,7 +672,7 @@ body {
 }
 
 .calculator-highlight__text {
-  color: #dbeafe;
+  color: #0f172a;
   font-size: 0.98rem;
   line-height: 1.6;
   margin: 0.55rem 0 0;

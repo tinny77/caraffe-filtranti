@@ -1,483 +1,172 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 86,
-    "credits_remaining": 14,
+    "credits_used": 100,
+    "credits_remaining": 0,
     "credits_used_this_request": 1
   },
   "request_parameters": {
+    "type": "product",
     "amazon_domain": "amazon.it",
     "asin": "B0086W3D8K",
-    "type": "product",
     "associate_id": "8vcue204-21",
     "currency": "eur",
     "output": "json",
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-10T16:52:41.344Z",
-    "processed_at": "2023-11-10T16:52:47.956Z",
-    "total_time_taken": 6.61,
+    "created_at": "2026-05-01T08:16:47.847Z",
+    "processed_at": "2026-05-01T08:16:50.868Z",
+    "total_time_taken": 3.02,
     "amazon_url": "https://www.amazon.it/dp/B0086W3D8K?th=1&psc=1&language=it_IT"
   },
   "product": {
-    "title": "Laica J996 Kit 6 filtri (6 mesi di acqua filtrata) + 1 Caraffa Filtrante Stream Line in omaggio (colori assortiti), 100% made in Italy",
+    "title": "LAICA Stream Line Caraffa Filtrante - 2,3L - Bianca - Timer Digitale - 6 Filtri bi-flux Inclusi, Preserva i Sali Minerali Utili all'Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy Bianco Con 6 Filtri",
     "search_alias": {
       "title": "Casa e cucina",
-      "value": "kitchen"
+      "value": "search-alias=kitchen"
     },
-    "keywords": "Laica,J996,Kit,6,filtri,(6,mesi,di,acqua,filtrata),+,1,Caraffa,Filtrante,Stream,Line,in,omaggio,(colori,assortiti),,100%,made,in,Italy",
+    "title_excluding_variant_name": "LAICA Stream Line Caraffa Filtrante - 2,3L - Bianca - Timer Digitale - 6 Filtri bi-flux Inclusi, Preserva i Sali Minerali Utili all'Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy",
+    "keywords": "LAICA Stream Line Caraffa Filtrante - 2,3L - Bianca - Timer Digitale - 6 Filtri bi-flux Inclusi, Preserva i Sali Minerali Utili all'Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy Bianco Con 6 Filtri",
     "keywords_list": [
-      "Laica",
-      "J996",
-      "filtri",
-      "mesi",
-      "acqua",
-      "filtrata)",
-      "Caraffa",
-      "Filtrante",
-      "Stream",
-      "Line",
-      "omaggio",
-      "(colori",
-      "assortiti)",
-      "100%",
-      "made",
-      "Italy"
+      "LAICA Stream Line Caraffa Filtrante - 2",
+      "3L - Bianca - Timer Digitale - 6 Filtri bi-flux Inclusi",
+      "Preserva i Sali Minerali Utili all'Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy Bianco Con 6 Filtri"
     ],
+    "is_collection": false,
     "asin": "B0086W3D8K",
-    "parent_asin": "B00PFN43V4",
-    "link": "https://www.amazon.it/Laica-J996-filtri-caraffa-filtrante/dp/B0086W3D8K?tag=8vcue204-21",
+    "parent_asin": "B0FW5FH9XJ",
+    "link": "https://www.amazon.it/Caraffa-Filtrante-Stream-Line-LAICA/dp/B0086W3D8K?tag=8vcue204-21",
     "brand": "Laica",
+    "sell_on_amazon": false,
     "variants": [
       {
+        "asin": "B0GP1K4VGW",
+        "title": "Blu Con 6 Filtri",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B0GP1K4VGW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Blu"
+          },
+          {
+            "name": "Taglia",
+            "value": "Con 6 Filtri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51fo+6PnVPL._SL1080_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51fo+6PnVPL._SL1080_.jpg"
+          }
+        ]
+      },
+      {
         "asin": "B0086W3D8K",
-        "title": "1",
+        "title": "Bianco Con 6 Filtri",
         "is_current_product": true,
         "link": "https://www.amazon.it/dp/B0086W3D8K?th=1&psc=1",
         "dimensions": [
           {
-            "name": "Quantità confezioni articolo",
-            "value": "1"
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "Con 6 Filtri"
           }
         ],
-        "main_image": "https://m.media-amazon.com/images/I/61QWZseZDuL._AC_SL1500_.jpg",
+        "main_image": "https://m.media-amazon.com/images/I/615m6e8G5JL._SL1500_.jpg",
         "images": [
           {
             "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/61QWZseZDuL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/71sfSIHSRBL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/71vFY3Y2XwL._AC_SL1500_.jpg"
-          },
-          {
-            "variant": "PT12",
-            "link": "https://m.media-amazon.com/images/I/21vzDAlSXhL._AC_.jpg"
+            "link": "https://m.media-amazon.com/images/I/615m6e8G5JL._SL1500_.jpg"
           }
         ]
       }
     ],
-    "variant_asins_flat": "B0086W3D8K",
-    "energy_efficiency": {},
+    "variant_asins_flat": "B0GP1K4VGW,B0086W3D8K",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
     "categories": [
       {
         "name": "Casa e cucina",
-        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_1?ie=UTF8&node=524015031",
         "category_id": "524015031"
       },
       {
         "name": "Distributori d'acqua, caraffe filtranti e cartucce",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "link": "https://www.amazon.it/Distributori-Acqua-Caraffe-Filtranti-Cartucce/b/ref=dp_bc_2?ie=UTF8&node=652719031",
         "category_id": "652719031"
       },
       {
         "name": "Caraffe Filtranti",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "link": "https://www.amazon.it/Caraffe-Filtranti/b/ref=dp_bc_3?ie=UTF8&node=652720031",
         "category_id": "652720031"
       }
     ],
     "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
-    "description": "DESCRIZIONE PRODOTTO \n DESCRIZIONE \n Cartucce filtranti Laica (Componenti di ricambio destinate a Caraffa filtrante Laica – Apparecchiatura a uso domestico per il trattamento di acqua potabile). Utilizzata con la caraffa Laica, la cartuccia BI-FLUX filtra l’acqua potabile di rete migliorando il gusto dell’acqua e riducendo alcune sostanze non desiderate eventualmente presenti. La cartuccia filtrante Laica ha una durata di 150 litri (per un massimo di 5 litri filtrati al giorno, per 30 giorni). Trascorsi i 30 giorni (massimo 150 litri filtrati nel periodo) la cartuccia deve essere sostituita Su specifiche prodotto modificare Peso articolo 1250 g (peso delle 6 cartucce senza imballo+caraffa) Capacità : 2,3 litri totali Caratteristiche speciali: 1,2 litri acqua filtrata Attenzione: Questo modello è consegnato dal fabbricante in un assortimento di colore e modello aleatorio. Per questa ragione Amazon.it non puo garantire la spedizione di un modello/colore in particolare. Ordinando questo articolo riceverete uno dei modelli/colori figuranti nell'immagine, in funzione dello stock disponibile. Amazon.it ringrazia per la comprensione. \n\n CONTENUTO DELLA CONFEZIONE \n 6 cartucce filtranti Bi-Flux + 1 caraffe Stream Line",
     "sub_title": {
       "text": "Visita lo Store di Laica",
-      "link": "https://www.amazon.it/stores/LAICA/page/449176C1-8CE0-4048-962A-DD07B9AF16C7?ref_=ast_bln&tag=8vcue204-21"
+      "link": "https://www.amazon.it/stores/LAICA/page/449176C1-8CE0-4048-962A-DD07B9AF16C7?lp_asin=B0086W3D8K&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&tag=8vcue204-21"
     },
     "amazons_choice": {
-      "keywords": "filtri caraffa laica",
-      "link": "https://www.amazon.it/s/ref=choice_dp_b?keywords=filtri+caraffa+laica&tag=8vcue204-21"
+      "link": "https://www.amazon.it/Caraffa-Filtrante-Stream-Line-LAICA/dp/B0086W3D8K?tag=8vcue204-21"
     },
-    "marketplace_id": "APJ6JRA9NG5V4",
     "rating": 4.6,
-    "rating_breakdown": {
-      "five_star": {
-        "percentage": 74,
-        "count": 5201
-      },
-      "four_star": {
-        "percentage": 18,
-        "count": 1265
-      },
-      "three_star": {
-        "percentage": 5,
-        "count": 351
-      },
-      "two_star": {
-        "percentage": 1,
-        "count": 70
-      },
-      "one_star": {
-        "percentage": 2,
-        "count": 140
-      }
-    },
-    "ratings_total": 7029,
+    "ratings_total": 7698,
     "main_image": {
-      "link": "https://m.media-amazon.com/images/I/61QWZseZDuL.jpg"
+      "link": "https://m.media-amazon.com/images/I/615m6e8G5JL.jpg"
     },
     "images": [
       {
-        "link": "https://m.media-amazon.com/images/I/61QWZseZDuL._AC_SL1500_.jpg",
-        "variant": "MAIN"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/71sfSIHSRBL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/71-MqZ9gh0L._SL1500_.jpg",
         "variant": "PT01"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/71vFY3Y2XwL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/61qsFE4gUdL._SL1080_.jpg",
         "variant": "PT02"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/21vzDAlSXhL._AC_.jpg",
-        "variant": "PT12"
-      }
-    ],
-    "images_count": 4,
-    "images_flat": "https://m.media-amazon.com/images/I/61QWZseZDuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71sfSIHSRBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71vFY3Y2XwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/21vzDAlSXhL._AC_.jpg",
-    "videos": [
+        "link": "https://m.media-amazon.com/images/I/61IqLzl2USL._SL1500_.jpg",
+        "variant": "PT03"
+      },
       {
-        "duration_seconds": 20,
-        "width": 854,
-        "height": 480,
-        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d5687858-0c3d-46b4-9a64-08d1a5c513fd/default.jobtemplate.mp4.480.mp4",
-        "thumbnail": "https://m.media-amazon.com/images/I/411RNToduGL.SX522_.jpg",
-        "is_hero_video": false,
-        "variant": "MAIN",
-        "group_id": "IB_G1",
-        "group_type": "videos_for_this_product",
-        "title": "Laica Prime Line Spring Caraffa Filtrante, Plastica, 3 L, Lilla"
+        "link": "https://m.media-amazon.com/images/I/61uDpT9I4TL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61AUzUT7FhL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61XuCLUTh7L._SL1500_.jpg",
+        "variant": "PT06"
       }
     ],
-    "videos_count": 1,
-    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d5687858-0c3d-46b4-9a64-08d1a5c513fd/default.jobtemplate.mp4.480.mp4",
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/71-MqZ9gh0L._SL1500_.jpg,https://m.media-amazon.com/images/I/61qsFE4gUdL._SL1080_.jpg,https://m.media-amazon.com/images/I/61IqLzl2USL._SL1500_.jpg,https://m.media-amazon.com/images/I/61uDpT9I4TL._SL1500_.jpg,https://m.media-amazon.com/images/I/61AUzUT7FhL._SL1500_.jpg,https://m.media-amazon.com/images/I/61XuCLUTh7L._SL1500_.jpg",
+    "videos_count": 2,
     "is_bundle": false,
     "feature_bullets": [
-      "Made in Italy",
-      "Migliora il gusto dell'acqua",
-      "6 cartucce = 6 mesi d'acqua",
-      "Comodità, praticità, risparmio, rispetto per l'ambiente",
-      "Contenuto confezione: 6 cartucce filtranti Bi-Flux + 1 caraffe Stream Line"
+      "Idratazione sana, equilibrata e sostenibile - A differenza di altri filtri che privano l'acqua dei suoi preziosi minerali, la Caraffa Stream Line è dotata di un filtro bi-flux che preserva gli essenziali sali minerali presenti naturalmente nell'acqua del tuo rubinetto e riduce le sostanze indesiderate. Prodotta in Italia, ha una capacità totale 2,3L e una capacità di acqua filtrata pari a 1,2L.",
+      "Design semplice ed efficiente - Pratica e leggere da usare, la Caraffa filtrante Stream Line grazie allo sportello automatico \"Quick-Fill\" può essere riempita facilmente sotto l’acqua di rubinetto. Le dimensioni compatte permettono che la caraffa possa essere comodamente riposta nella porta del frigorifero, assicurando facile accesso ad acqua fresca e filtrata.",
+      "Timer digitale - La caraffa filtrante è dotata di un comodo, e rimovibile, indicatore digitale di sostituzione del filtro che segnala quando è il momento giusto per sostituirlo, garantendo prestazioni ottimali.",
+      "Preserva i sali minerali - I filtri bi-flux mantengono i sali minerali, come calcio, magnesio e potassio che sono fondamentali per il funzionamento dell'organismo e che mantengono in salute il corpo. Questi sali minerali, presenti nell'acqua del rubinetto, contribuiscono a regolare il bilanciamento idro-salino e presiedono a tanti processi energetici, fisiologici e metabolici dell'organismo.",
+      "Acqua dal gusto più buono - I filtri bi-flux agiscono efficacemente sul cloro diminuendone la quantità e migliorando notevolmente il gusto dell'acqua. Inoltre grazie alla riduzione del calcare la durezza dell'acqua diminuirà e si otterrà un'acqua più leggera da bere. Idratarsi e dissetarsi sarà così più semplice e piacevole!",
+      "Acqua dal gusto buono a KM 0 - Evita di portare pesanti bottiglie d’acqua fino a casa. Filtrando l’acqua domestica con i filtri bi-flux si eviterà il trasporto di pesanti e ingombranti bottiglie d’acqua dal supermercato fino a casa.​",
+      "Filtrazione bilanciata e controllata - Grazie alla complessa tecnologia bi-flux che prevede 6 stadi di filtrazione ad una velocità controllata, il filtro offre la massima efficacia nella riduzione di sostanze indesiderate eventualmente presenti nell’acqua di rete come: metalli pesanti, cloro, solventi organici clorurati, contaminanti chimici, alcuni pesticidi ed erbicidi clorurati e trialometani.",
+      "Meno rifiuti di plastica - La scelta migliore per chi cerca un'alternativa sicura e affidabile al consumo di acqua in bottiglia di plastica monouso. Un anno di acqua filtrata con i filtri bi-flux, corrisponde ad un risparmio di 1200 bottiglie di plastica da 1,5 L ottenendo così una riduzione del consumo di plastica del 97,125%.",
+      "Sicurezza e qualità certificate - ​Da più di trent’anni LAICA è specializzata nella filtrazione domestica e possiede sistemi di controllo qualità avanzati. I filtri bi-flux sono sviluppati e prodotti in Italia. Sono sottoposti a processo di sterilizzazione per garantire la massima sicurezza. Ogni componente e materiale del filtro è 100% rintracciabile.",
+      "Attenzione: questa apparecchiatura necessita di una regolare manutenzione periodica al fine di garantire i requisiti di potabilità dell'acqua potabile trattata ed il mantenimento dei miglioramenti come dichiarati dal produttore."
     ],
-    "feature_bullets_count": 5,
-    "feature_bullets_flat": "Contenuto confezione: 6 cartucce filtranti Bi-Flux + 1 caraffe Stream Line. Comodità, praticità, risparmio, rispetto per l'ambiente. 6 cartucce = 6 mesi d'acqua. Migliora il gusto dell'acqua. Made in Italy.",
-    "attributes": [
-      {
-        "name": "Marchio",
-        "value": "Laica"
-      },
-      {
-        "name": "Materiale",
-        "value": "Plastica"
-      },
-      {
-        "name": "Colore",
-        "value": "Assortiti"
-      },
-      {
-        "name": "Capacità",
-        "value": "2,3 Litri"
-      },
-      {
-        "name": "Caratteristica speciale",
-        "value": "set di 6 filtri Bi-Flux con caraffa filtrante. Capacità: 2.3 L (1.2 L filtrati). Caratteristiche caraffa: coperchio con dispositivo Flow “n” go: permette un riempimento rapido direttamente sotto il rubinetto di casa. L’indicatore elettronico ricorda quando è il momento di sostituire la cartuccia. Lavabile in lavastoviglie (ad eccezione del coperchio). Riponibile nel comparto frigo Mostra altro"
-      }
-    ],
-    "top_reviews": [
-      {
-        "id": "R1UD0NP9NKEZXO",
-        "title": "Molto comoda",
-        "body": "L’ho comprata perché era molto faticoso per me trasportare casse d’acqua, fa il suo lavoro e toglie il sapore di cloro tipico dell’acqua di rubinetto. Unico difetto è che la plastica della caraffa tende a graffiarsi molto facilmente, consiglio di lavarla con la parte più morbida della spugnetta.Leggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>L’ho comprata perché era molto faticoso per me trasportare casse d’acqua, fa il suo lavoro e toglie il sapore di cloro tipico dell’acqua di rubinetto.<br>Unico difetto è che la plastica della caraffa tende a graffiarsi molto facilmente, consiglio di lavarla con la parte più morbida della spugnetta.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R1UD0NP9NKEZXO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Italia il 19 ottobre 2023",
-          "utc": "2023-10-19T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "CM",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFA5E3T7UUNRVO6ITUXFXSIDEGHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AFA5E3T7UUNRVO6ITUXFXSIDEGHA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R11QK32M894AXT",
-        "title": "Finalmente l'acqua del rubinetto ha un buon sapore",
-        "body": "Rapidità di funzionamento, sapore dell' acqua pari a quella di fonte. In più non inquini con plastica a go go. Non solo: non devi preoccuparti di ricordarti di comprare l'acqua quando sta finendo quella in bottiglia!Leggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Rapidità di funzionamento, sapore dell' acqua pari a quella di fonte. In più non inquini con plastica a go go. Non solo: non devi preoccuparti di ricordarti di comprare l'acqua quando sta finendo quella in bottiglia!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R11QK32M894AXT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Italia il 3 novembre 2023",
-          "utc": "2023-11-03T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "dario82",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFDDO3HDUJKJU54TQWZ6E5S6Z2RA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AFDDO3HDUJKJU54TQWZ6E5S6Z2RA",
-          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5fbab380-fcc1-4f3c-81c2-043b2c428e1a._CR324,0,1944,1944_SX48_.jpg"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R32P5KHLWN638J",
-        "title": "ok",
-        "body": "rapporto prezzo molto bene materiale non robustoLeggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>rapporto prezzo molto bene materiale non robusto</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R32P5KHLWN638J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Italia il 8 novembre 2023",
-          "utc": "2023-11-08T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "massimo",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGV3QOMYVTKFUFEBO7OOSPJLYKRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AGV3QOMYVTKFUFEBO7OOSPJLYKRA",
-          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/4facb813-3447-43f5-a247-80adfac5a560._CR0,0,734,734_SX48_.jpg"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R28YCSOPE9X5GV",
-        "title": "buono",
-        "body": "e un buon prodotto, ma do 4 stele per che a parte che cambia il sapore del' acqua di rubinetto nn fa altro . e ho comprato la caraffa e i 6 filtri a soli 19 euro . se avrei dovuto pagare 30 ...non valeLeggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>e un buon prodotto, ma do 4 stele per che a parte che cambia il sapore del' acqua di rubinetto nn fa altro . e ho comprato la caraffa e i 6 filtri a soli 19 euro . se avrei dovuto pagare 30 ...non vale</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R28YCSOPE9X5GV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Italia il 7 ottobre 2023",
-          "utc": "2023-10-07T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "camelia elena",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFPACLJSHTIHXJSNFKFVSIGP7I5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AFPACLJSHTIHXJSNFKFVSIGP7I5Q"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "RD03W1MX6HGLK",
-        "title": "Caraffa okay",
-        "body": "Caraffa di buona qualità, però difficile da pulire e certe volte si potrebbe aprire e farvi rovesciare l'acqua. Ad ogni modo comoda in quanto si possono utilizzare diversi tipi di filtri facilmente recuperabili online, molto resistente e di giusta velocità nel filtrare l'acqua.Leggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Caraffa di buona qualità, però difficile da pulire e certe volte si potrebbe aprire e farvi rovesciare l'acqua. Ad ogni modo comoda in quanto si possono utilizzare diversi tipi di filtri facilmente recuperabili online, molto resistente e di giusta velocità nel filtrare l'acqua.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/RD03W1MX6HGLK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Italia il 29 settembre 2023",
-          "utc": "2023-09-29T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Paola Dall'Asta",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG7RUETLBAJVJYFLOG4OUWAVO2MA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AG7RUETLBAJVJYFLOG4OUWAVO2MA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R2GXKE4F5LPVI5",
-        "title": "Super Offerta",
-        "body": "Ho acquistato questa caraffa laica per la seconda volta. 30€ caraffa + 6 filtri. Un vero affare, consiglio vivamente!Leggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ho acquistato questa caraffa laica per la seconda volta. 30€ caraffa + 6 filtri. Un vero affare, consiglio vivamente!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R2GXKE4F5LPVI5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Italia il 28 ottobre 2023",
-          "utc": "2023-10-28T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Donato",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AG6WWPBNOACQPUZAYC6463J7VBLQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AG6WWPBNOACQPUZAYC6463J7VBLQ"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "RR9WZ2UL2UAMC",
-        "title": "Ottima e semplice in formato convenienza",
-        "body": "La brocca addolcisce l'acqua e ne migliora il sapore per preparazione caffè etc. non elimina completamente le sostanze dell'acqua ma la maggiorparte ( quindi se soffrite di calcoli etc va fatta cmq attenzione specie in zone con acqua \"pesante\" , cmq aiuta)Leggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>La brocca addolcisce l'acqua e ne migliora il sapore per preparazione caffè etc. non elimina completamente le sostanze dell'acqua ma la maggiorparte<br>( quindi se soffrite di calcoli etc va fatta cmq attenzione specie in zone con acqua \"pesante\" , cmq aiuta)</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/RR9WZ2UL2UAMC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Italia il 13 ottobre 2023",
-          "utc": "2023-10-13T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Ale_e_Franci",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGQS6YTN43HZ7RYMHMT644ZNG7QA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AGQS6YTN43HZ7RYMHMT644ZNG7QA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "RZ4C5LYUJ4ZJ5",
-        "title": "Fa l'acqua buona",
-        "body": "Robusta facile da usare e pulire, la uso da un anno e sono felice basta averne cura, pulizia ogni cambio cartucciaLeggi di più",
-        "asin": "B0086W3D8K",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Robusta facile da usare e pulire, la uso da un anno e sono felice basta averne cura, pulizia ogni cambio cartuccia</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/RZ4C5LYUJ4ZJ5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0086W3D8K",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Italia il 19 ottobre 2023",
-          "utc": "2023-10-19T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "raja",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AF3W5NE7DCPHRTE3T6CWSIBEFSRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AF3W5NE7DCPHRTE3T6CWSIBEFSRA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R1QC0GI0VL5YW4",
-        "title": "todook",
-        "body": "muy practicaLeggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">muy practica</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Spagna il 8 novembre 2023",
-          "utc": "2023-11-08T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Cliente Amazon"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": true
-      },
-      {
-        "id": "R21K6IB9JJCNKM",
-        "title": "carafes + 6 filtres",
-        "body": "Achetée en occasion, la carafe est neuve et tout y est : notice et cartouches. La couleur était aléatoire, je suis tombée sur le orange (pas ma favorite mais pas grave). Le couvercle est équipé d'un mini compteur pour savoir quand changer la cartouche. L'entrée d'eau se fait facilement car le capot bascule automatiquement sous la pression de l'eau. Bec verseur articulé. Petit moins : lorsqu'on verse en penchant beaucoup la carafe (fond de carafe), la cartouche sort de son logement. Une fois qu'on le sait, on fait attention.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Achetée en occasion, la carafe est neuve et tout y est : notice et cartouches. La couleur était aléatoire, je suis tombée sur le orange (pas ma favorite mais pas grave).<br>Le couvercle est équipé d'un mini compteur pour savoir quand changer la cartouche. L'entrée d'eau se fait facilement car le capot bascule automatiquement sous la pression de l'eau. Bec verseur articulé.<br>Petit moins : lorsqu'on verse en penchant beaucoup la carafe (fond de carafe), la cartouche sort de son logement. Une fois qu'on le sait, on fait attention.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Francia il 13 dicembre 2019",
-          "utc": "2019-12-13T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Christiane/Carolyne",
-          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/0cece4e9-a1cf-4ce3-9b44-b23af062726a._CR0,0,400,400_SX48_.jpg"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "fr",
-        "is_global_review": true
-      },
-      {
-        "id": "RGHWZMRV99DF0",
-        "title": "It's the second one I buy, I love it!",
-        "body": "I've been very fond of this water filter since I got the first one over a year ago. The filters function well, the water is lighter, but with no alteration in taste. There is a little basic system to keep an eye on when you should change the filter. The only thing you have to be super careful (which is obvious, but you may not realize it when you are in a hurry) is not pouring water in a cup until it hasn't most of it gone down yet. Once I did it and the upper part of the filter obviously fell on the ground together with all the water. It was a good occasion though to test its durability, the upper lid just got slightly chipped in the heavy fall, making it possible to still use it today.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">I've been very fond of this water filter since I got the first one over a year ago. The filters function well, the water is lighter, but with no alteration in taste. There is a little basic system to keep an eye on when you should change the filter. The only thing you have to be super careful (which is obvious, but you may not realize it when you are in a hurry) is not pouring water in a cup until it hasn't most of it gone down yet. Once I did it and the upper part of the filter obviously fell on the ground together with all the water. It was a good occasion though to test its durability, the upper lid just got slightly chipped in the heavy fall, making it possible to still use it today.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Germania il 13 luglio 2022",
-          "utc": "2022-07-13T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Mel"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "de",
-        "is_global_review": true
-      },
-      {
-        "id": "R18N8PMRKQW855",
-        "title": "Buen precio. Calidad.",
-        "body": "Los elementos en la jarra encajan muy bien, a diferencia de otras jarras más conocidas.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Los elementos en la jarra encajan muy bien, a diferencia de otras jarras más conocidas.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Spagna il 22 luglio 2023",
-          "utc": "2023-07-22T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "pilar.g.f."
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": true
-      },
-      {
-        "id": "R10R1BZFIS32EW",
-        "title": "Super",
-        "body": "Einfach zu befüllen,schnell durchgelaufenLeggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Einfach zu befüllen,schnell durchgelaufen</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
-        "date": {
-          "raw": "Recensito in Germania il 24 dicembre 2022",
-          "utc": "2022-12-24T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "beatrix r."
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "de",
-        "is_global_review": true
-      }
-    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "Attenzione: questa apparecchiatura necessita di una regolare manutenzione periodica al fine di garantire i requisiti di potabilità dell'acqua potabile trattata ed il mantenimento dei miglioramenti come dichiarati dal produttore. Sicurezza e qualità certificate - ​Da più di trent’anni LAICA è specializzata nella filtrazione domestica e possiede sistemi di controllo qualità avanzati. I filtri bi-flux sono sviluppati e prodotti in Italia. Sono sottoposti a processo di sterilizzazione per garantire la massima sicurezza. Ogni componente e materiale del filtro è 100% rintracciabile. Meno rifiuti di plastica - La scelta migliore per chi cerca un'alternativa sicura e affidabile al consumo di acqua in bottiglia di plastica monouso. Un anno di acqua filtrata con i filtri bi-flux, corrisponde ad un risparmio di 1200 bottiglie di plastica da 1,5 L ottenendo così una riduzione del consumo di plastica del 97,125%. Filtrazione bilanciata e controllata - Grazie alla complessa tecnologia bi-flux che prevede 6 stadi di filtrazione ad una velocità controllata, il filtro offre la massima efficacia nella riduzione di sostanze indesiderate eventualmente presenti nell’acqua di rete come: metalli pesanti, cloro, solventi organici clorurati, contaminanti chimici, alcuni pesticidi ed erbicidi clorurati e trialometani. Acqua dal gusto buono a KM 0 - Evita di portare pesanti bottiglie d’acqua fino a casa. Filtrando l’acqua domestica con i filtri bi-flux si eviterà il trasporto di pesanti e ingombranti bottiglie d’acqua dal supermercato fino a casa.​. Acqua dal gusto più buono - I filtri bi-flux agiscono efficacemente sul cloro diminuendone la quantità e migliorando notevolmente il gusto dell'acqua. Inoltre grazie alla riduzione del calcare la durezza dell'acqua diminuirà e si otterrà un'acqua più leggera da bere. Idratarsi e dissetarsi sarà così più semplice e piacevole!. Preserva i sali minerali - I filtri bi-flux mantengono i sali minerali, come calcio, magnesio e potassio che sono fondamentali per il funzionamento dell'organismo e che mantengono in salute il corpo. Questi sali minerali, presenti nell'acqua del rubinetto, contribuiscono a regolare il bilanciamento idro-salino e presiedono a tanti processi energetici, fisiologici e metabolici dell'organismo. Timer digitale - La caraffa filtrante è dotata di un comodo, e rimovibile, indicatore digitale di sostituzione del filtro che segnala quando è il momento giusto per sostituirlo, garantendo prestazioni ottimali. Design semplice ed efficiente - Pratica e leggere da usare, la Caraffa filtrante Stream Line grazie allo sportello automatico \"Quick-Fill\" può essere riempita facilmente sotto l’acqua di rubinetto. Le dimensioni compatte permettono che la caraffa possa essere comodamente riposta nella porta del frigorifero, assicurando facile accesso ad acqua fresca e filtrata. Idratazione sana, equilibrata e sostenibile - A differenza di altri filtri che privano l'acqua dei suoi preziosi minerali, la Caraffa Stream Line è dotata di un filtro bi-flux che preserva gli essenziali sali minerali presenti naturalmente nell'acqua del tuo rubinetto e riduce le sostanze indesiderate. Prodotta in Italia, ha una capacità totale 2,3L e una capacità di acqua filtrata pari a 1,2L.",
     "additional_details": [
       {
         "name": "Made in Italy",
@@ -490,11 +179,17 @@
         "value": 30,
         "hard_maximum": true
       },
-      "new_offers_count": 16,
+      "price_only_available_in_cart": false,
+      "new_offers_count": 10,
       "new_offers_from": {
-        "raw": "Spedizione GRATUITA sul tuo primo ordine idoneo."
+        "raw": "Nuovo"
       },
-      "is_prime": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 14,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
       "is_prime_exclusive_deal": false,
       "is_amazon_fresh": false,
       "condition": {
@@ -506,9 +201,9 @@
         "dispatch_days": 1
       },
       "fulfillment": {
-        "type": "2p",
+        "type": "p2",
         "standard_delivery": {
-          "date": "marted, 14 novembre",
+          "date": "marted, 5 maggio",
           "name": "GRATUITA"
         },
         "is_sold_by_amazon": false,
@@ -524,300 +219,65 @@
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 32.99,
-        "raw": "€32,99"
-      },
-      "rrp": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 46.9,
-        "raw": "€46,90"
+        "value": 39.9,
+        "raw": "€39,90"
       },
       "shipping": {
         "raw": "GRATUITA"
       }
     },
-    "more_buying_choices": [
-      {
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 31.08,
-          "raw": "€31,08"
-        },
-        "seller_name": "Dagimarket",
-        "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A14IB2MBZ5O3VC&isAmazonFulfilled=0&asin=B0086W3D8K&ref_=dp_mbc_seller",
-        "position": 1
-      },
-      {
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 39.99,
-          "raw": "€39,99"
-        },
-        "seller_name": "Amazon",
-        "free_shipping": true,
-        "position": 2
-      }
-    ],
     "specifications": [
       {
         "name": "Marchio",
-        "value": "‎Laica"
-      },
-      {
-        "name": "Modello",
-        "value": "‎J996"
-      },
-      {
-        "name": "Colore",
-        "value": "‎Assortiti"
-      },
-      {
-        "name": "Dimensioni del collo",
-        "value": "‎29,4 x 29,2 x 18,4 cm; 1,27 Kg"
-      },
-      {
-        "name": "Capacità",
-        "value": "‎2,3 Litri"
-      },
-      {
-        "name": "Volume",
-        "value": "‎2,3 Litri"
-      },
-      {
-        "name": "Materiale",
-        "value": "‎Plastica"
-      },
-      {
-        "name": "Caratteristiche speciali",
-        "value": "‎set di 6 filtri Bi-Flux con caraffa filtrante. Capacità: 2.3 L (1.2 L filtrati). Caratteristiche caraffa: coperchio con dispositivo Flow “n” go: permette un riempimento rapido direttamente sotto il rubinetto di casa. L’indicatore elettronico ricorda quando è il momento di sostituire la cartuccia. Lavabile in lavastoviglie (ad eccezione del coperchio). Riponibile nel comparto frigo"
-      },
-      {
-        "name": "Peso articolo",
-        "value": "‎1,27 Kilograms"
-      },
-      {
-        "name": "ASIN",
-        "value": "B0086W3D8K"
-      },
-      {
-        "name": "Media recensioni",
-        "value": "4,6 4,6 su 5 stelle         7.029 voti          4,6 su 5 stelle"
-      },
-      {
-        "name": "Posizione nella classifica Bestseller di Amazon",
-        "value": "n. 1,444 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 5 in Caraffe Filtranti"
-      },
-      {
-        "name": "Disponibile su Amazon.it a partire dal",
-        "value": "28 maggio 2012"
-      },
-      {
-        "name": "Marchio",
         "value": "Laica"
+      },
+      {
+        "name": "Caratteristica speciale",
+        "value": "Indicatore di sostituzione filtro, Robusta"
+      },
+      {
+        "name": "Dimensioni del prodotto",
+        "value": "17,9L x 29,2l x 31,8H cm"
       },
       {
         "name": "Materiale",
         "value": "Plastica"
       },
       {
-        "name": "Colore",
-        "value": "Assortiti"
-      },
-      {
         "name": "Capacità",
         "value": "2,3 Litri"
       },
       {
-        "name": "Caratteristica speciale",
-        "value": "set di 6 filtri Bi-Flux con caraffa filtrante. Capacità: 2.3 L (1.2 L filtrati). Caratteristiche caraffa: coperchio con dispositivo Flow “n” go: permette un riempimento rapido direttamente sotto il rubinetto di casa. L’indicatore elettronico ricorda quando è il momento di sostituire la cartuccia. Lavabile in lavastoviglie (ad eccezione del coperchio). Riponibile nel comparto frigo Mostra altro"
-      }
-    ],
-    "specifications_flat": "Caratteristica speciale: set di 6 filtri Bi-Flux con caraffa filtrante. Capacità: 2.3 L (1.2 L filtrati). Caratteristiche caraffa: coperchio con dispositivo Flow “n” go: permette un riempimento rapido direttamente sotto il rubinetto di casa. L’indicatore elettronico ricorda quando è il momento di sostituire la cartuccia. Lavabile in lavastoviglie (ad eccezione del coperchio). Riponibile nel comparto frigo Mostra altro. Capacità: 2,3 Litri. Colore: Assortiti. Materiale: Plastica. Marchio: Laica. Disponibile su Amazon.it a partire dal: 28 maggio 2012. Posizione nella classifica Bestseller di Amazon: n. 1,444 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 5 in Caraffe Filtranti. Media recensioni: 4,6 4,6 su 5 stelle         7.029 voti          4,6 su 5 stelle. ASIN: B0086W3D8K. Peso articolo: ‎1,27 Kilograms. Caratteristiche speciali: ‎set di 6 filtri Bi-Flux con caraffa filtrante. Capacità: 2.3 L (1.2 L filtrati). Caratteristiche caraffa: coperchio con dispositivo Flow “n” go: permette un riempimento rapido direttamente sotto il rubinetto di casa. L’indicatore elettronico ricorda quando è il momento di sostituire la cartuccia. Lavabile in lavastoviglie (ad eccezione del coperchio). Riponibile nel comparto frigo. Materiale: ‎Plastica. Volume: ‎2,3 Litri. Capacità: ‎2,3 Litri. Dimensioni del collo: ‎29,4 x 29,2 x 18,4 cm; 1,27 Kg. Colore: ‎Assortiti. Modello: ‎J996. Marchio: ‎Laica.",
-    "bestsellers_rank": [
-      {
-        "category": "Casa e cucina",
-        "rank": 1444,
-        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen?tag=8vcue204-21"
+        "name": "Componenti inclusi",
+        "value": "Filtro"
       },
       {
-        "category": "Caraffe Filtranti",
-        "rank": 5,
-        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen?tag=8vcue204-21"
+        "name": "Informazioni pacco",
+        "value": "Da lanciatore"
+      },
+      {
+        "name": "Tipo di installazione",
+        "value": "Controsoffitto"
+      },
+      {
+        "name": "Metodo di purificazione",
+        "value": "Carbone attivo"
+      },
+      {
+        "name": "Sorgente di alimentazione",
+        "value": "Funzionamento manuale"
       }
     ],
-    "color": "Assortiti",
-    "material": "Plastica",
-    "weight": "‎1,27 Kilograms",
-    "first_available": {
-      "raw": "28 maggio 2012",
-      "utc": "2012-05-28T00:00:00.000Z"
+    "specifications_flat": "Sorgente di alimentazione: Funzionamento manuale. Metodo di purificazione: Carbone attivo. Tipo di installazione: Controsoffitto. Informazioni pacco: Da lanciatore. Componenti inclusi: Filtro. Capacità: 2,3 Litri. Materiale: Plastica. Dimensioni del prodotto: 17,9L x 29,2l x 31,8H cm. Caratteristica speciale: Indicatore di sostituzione filtro, Robusta. Marchio: Laica.",
+    "recent_sales": "200+ acquistati nel mese scorso",
+    "gift_guide_badge": {
+      "badge_text": "200+ acquistati nel mese scorso"
     },
-    "dimensions": "‎29,4 x 29,2 x 18,4 cm; 1,27 Kg",
-    "bestsellers_rank_flat": "Category: Casa e cucina | Rank: 1444, Category: Caraffe Filtranti | Rank: 5"
+    "material": "Plastica",
+    "dimensions": "17,9L x 29,2l x 31,8H cm"
   },
   "brand_store": {
     "id": "449176C1-8CE0-4048-962A-DD07B9AF16C7",
     "link": "https://www.amazon.it/stores/LAICA/page/449176C1-8CE0-4048-962A-DD07B9AF16C7"
-  },
-  "frequently_bought_together": {
-    "total_price": {
-      "symbol": "€",
-      "currency": "EUR",
-      "value": 55.49,
-      "raw": "55,49 €"
-    },
-    "products": [
-      {
-        "asin": "B0086W3D8K",
-        "title": "Laica J996 Kit 6 filtri (6 mesi di acqua filtrata) + 1 Caraffa Filtrante Stream Line in omaggio (colori assortiti), 100% made in Italy",
-        "link": "https://www.amazon.it/dp/B0086W3D8K?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/61QWZseZDuL._AC_UL116_SR116,116_.jpg"
-      },
-      {
-        "asin": "B009DIOBZ0",
-        "title": "Cartuccia filtrante per acqua LAICA Bi-Flux – Preserva i sali minerali riducendo cloro e metalli pesanti – Riduce la durezza dell'acqua del rubinetto – Filtro per brocche d'acqua, confezione da 6",
-        "link": "https://www.amazon.it/dp/B009DIOBZ0?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/51rAZqrspNL._AC_UL116_SR116,116_.jpg"
-      }
-    ]
-  },
-  "compare_with_similar": [
-    {
-      "asin": "B0086W3D8K",
-      "image": "https://m.media-amazon.com/images/I/61QWZseZDuL._AC_SS450_.jpg",
-      "title": "Laica J996 Kit 6 filtri (6 mesi di acqua filtrata) + 1 Caraffa Filtrante Stream Line in omaggio (colori assortiti), 100% made in Italy",
-      "rating": 4.5,
-      "ratings_total": 7029,
-      "link": "https://www.amazon.it/dp/B0086W3D8K"
-    },
-    {
-      "asin": "B0BFJGJV7P",
-      "image": "https://m.media-amazon.com/images/I/61acyW4Fg-L._AC_SS450_.jpg",
-      "title": "Laica Caraffa Filtrante Prime Line, Capacità 3.0L, Con 3 Filtri Bi-Flux che riduce calce e cloro, acqua filtrata per un gusto ottimale",
-      "rating": 4.5,
-      "ratings_total": 74,
-      "link": "https://www.amazon.it/dp/B0BFJGJV7P"
-    },
-    {
-      "asin": "B07JG4466W",
-      "image": "https://m.media-amazon.com/images/I/515PNd-1T6L._AC_SS450_.jpg",
-      "title": "Laica J9074A1 kit 13 filtri bi-flux e caraffa filtrante, 2.3 Litri totali, 1.2 Litri filtrati",
-      "rating": 5,
-      "ratings_total": 315,
-      "link": "https://www.amazon.it/dp/B07JG4466W"
-    },
-    {
-      "asin": "B009DIOBZ0",
-      "image": "https://m.media-amazon.com/images/I/51rAZqrspNL._AC_SS450_.jpg",
-      "title": "Cartuccia filtrante per acqua LAICA Bi-Flux – Preserva i sali minerali riducendo cloro e metalli pesanti – Riduce la durezza dell'acqua del rubinetto – Filtro per brocche d'acqua, confezione da 6",
-      "rating": 4.5,
-      "ratings_total": 8429,
-      "link": "https://www.amazon.it/dp/B009DIOBZ0"
-    },
-    {
-      "asin": "B01GQ0ODJG",
-      "image": "https://m.media-amazon.com/images/I/61EEwP+p11L._AC_SS450_.jpg",
-      "title": "Laica Kit J9057 Caraffa Filtrante per il Trattamento dell'Acqua Big Roma, con 3 Indicatori Manuali Volorati, Capacità totale 3.7 L / Capacità filtrata 2.2 L, Crema",
-      "rating": 4.5,
-      "ratings_total": 587,
-      "link": "https://www.amazon.it/dp/B01GQ0ODJG"
-    },
-    {
-      "asin": "B01HQNV9G2",
-      "image": "https://m.media-amazon.com/images/I/41jxL-HNQsL._AC_SS450_.jpg",
-      "title": "Laica Carmen Tosca, Caraffa Filtrante per il trattamento dell’acqua potabile, J35HC, colore Crema/Blu notte, indicatore analogico removibile eco-friendly, 1 cartuccia bi-flux inclusa (150L/1 mese)",
-      "rating": 4.5,
-      "ratings_total": 143,
-      "link": "https://www.amazon.it/dp/B01HQNV9G2"
-    }
-  ],
-  "also_bought": [
-    {
-      "title": "Cartuccia filtrante per acqua LAICA Bi-Flux – Preserva i sali minerali riducendo cloro e metalli pesanti – Riduce la durezza ",
-      "asin": "B009DIOBZ0",
-      "link": "https://www.amazon.it/Laica-F6S-Cartuccia-Filtrante-Bi-Flux/dp/B009DIOBZ0/ref=pd_vtp_sccl_2_1/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B009DIOBZ0&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51rAZqrspNL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 8429,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 22.5,
-        "raw": "€22,50"
-      }
-    },
-    {
-      "title": "Cartuccia filtrante per acqua LAICA Bi-Flux – Preserva i sali minerali riducendo cloro e metalli pesanti – Riduce la durezza ",
-      "asin": "B01D1CUOB8",
-      "link": "https://www.amazon.it/Cartuccia-filtrante-acqua-LAICA-Bi-Flux/dp/B01D1CUOB8/ref=pd_vtp_sccl_2_2/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B01D1CUOB8&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71XYubedb0L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.7,
-      "ratings_total": 6811,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 49.9,
-        "raw": "€49,90"
-      }
-    },
-    {
-      "title": "Laica Caraffa Filtrante Prime Line, Capacità 3.0L, Con 3 Filtri Bi-Flux che riduce calce e cloro, acqua filtrata per un gusto",
-      "asin": "B0BFJGJV7P",
-      "link": "https://www.amazon.it/Laica-Confezione-filtrante-filtrata-ottimale/dp/B0BFJGJV7P/ref=pd_vtp_sccl_2_3/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B0BFJGJV7P&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61acyW4Fg-L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 74,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 29.9,
-        "raw": "€29,90"
-      }
-    },
-    {
-      "title": "Laica J31Af Stream Line Caraffa Filtrante, Plastica, 2.3L, Bianco, ‎‎22 x 21 x 9 cm 617 grammi",
-      "asin": "B002ECI19E",
-      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_vtp_sccl_2_4/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/513eQbk7f0L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 1452,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 21.9,
-        "raw": "€21,90"
-      }
-    },
-    {
-      "title": "BRITA Caraffa filtrante Marella blu (2.4L) - Memo digitale e coperchio ribaltabile - confezione Smart Box sostenibile",
-      "asin": "B0BSXDLXC4",
-      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-2-4L/dp/B0BSXDLXC4/ref=pd_vtp_sccl_2_5/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B0BSXDLXC4&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81GaxDSEE+L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 52608,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 28.94,
-        "raw": "€28,94"
-      }
-    },
-    {
-      "title": "Aqua Optima Oria Caraffa Filtro Acqua e Cartucce Filtro Acqua 9 x 30 Giorni Evolve+, capacità 2,8 litri, per Riduzione di Mic",
-      "asin": "B0BH9FQ1KJ",
-      "link": "https://www.amazon.it/Aqua-Optima-Cartucce-Riduzione-Microplastiche/dp/B0BH9FQ1KJ/ref=pd_vtp_sccl_2_6/259-3832419-4721318?pd_rd_w=gh5hh&content-id=amzn1.sym.c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_p=c65b91f5-bfc3-463e-9a3c-108b45dd42c2&pf_rd_r=WQHYEXN3Z45DEEB3YF49&pd_rd_wg=uC52E&pd_rd_r=9eb79271-4236-4390-9f54-6444e368c6f6&pd_rd_i=B0BH9FQ1KJ&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61rdV2PJ5+L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.5,
-      "ratings_total": 132,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 36.86,
-        "raw": "€36,86"
-      }
-    }
-  ]
+  }
 }

@@ -1,171 +1,211 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 84,
-    "credits_remaining": 16,
+    "credits_used": 98,
+    "credits_remaining": 2,
     "credits_used_this_request": 1
   },
   "request_parameters": {
+    "type": "product",
     "amazon_domain": "amazon.it",
     "asin": "B0CG1KX7ZH",
-    "type": "product",
     "associate_id": "8vcue204-21",
     "currency": "eur",
     "output": "json",
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-10T16:52:12.524Z",
-    "processed_at": "2023-11-10T16:52:23.910Z",
-    "total_time_taken": 11.39,
+    "created_at": "2026-05-01T08:16:36.440Z",
+    "processed_at": "2026-05-01T08:16:40.239Z",
+    "total_time_taken": 3.8,
     "amazon_url": "https://www.amazon.it/dp/B0CG1KX7ZH?th=1&psc=1&language=it_IT"
   },
   "product": {
-    "title": "Dafi Crystal Caraffa Filtrante in Vetro 2 L per Acqua, Effetto per Ridurre Calcare, Cloro e Metalli, Senza BPA, Sensore LED | Caraffa Filtrante + Filtro Acqua UNIMAX – Nero",
+    "title": "Dafi CRYSTAL - Caraffa filtrante in vetro LED, 2 l, per acqua, riduzione del calcare, cloro, Sns BPA, sensore LED, contiene una caraffa filtrante + un filtro dell'acqua UNIMAX",
     "search_alias": {
-      "title": "Industria e Scienza",
-      "value": "industrial"
+      "title": "Casa e cucina",
+      "value": "search-alias=kitchen"
     },
-    "keywords": "Dafi,Crystal,Caraffa,Filtrante,in,Vetro,2,L,per,Acqua,,Effetto,per,Ridurre,Calcare,,Cloro,e,Metalli,,Senza,BPA,,Sensore,LED,|,Caraffa,Filtrante,+,Filtro,Acqua,UNIMAX,–,Nero",
+    "keywords": "Dafi CRYSTAL - Caraffa filtrante in vetro LED, 2 l, per acqua, riduzione del calcare, cloro, Sns BPA, sensore LED, contiene una caraffa filtrante + un filtro dell'acqua UNIMAX",
     "keywords_list": [
-      "Dafi",
-      "Crystal",
-      "Caraffa",
-      "Filtrante",
-      "Vetro",
-      "Acqua",
-      "Effetto",
-      "Ridurre",
-      "Calcare",
-      "Cloro",
-      "Metalli",
-      "Senza",
-      "Sensore",
-      "Caraffa",
-      "Filtrante",
-      "Filtro",
-      "Acqua",
-      "UNIMAX",
-      "Nero"
+      "Dafi CRYSTAL - Caraffa filtrante in vetro LED",
+      "2 l",
+      "per acqua",
+      "riduzione del calcare",
+      "cloro",
+      "Sns BPA",
+      "sensore LED",
+      "contiene una caraffa filtrante + un filtro dell'acqua UNIMAX"
     ],
+    "is_collection": false,
     "asin": "B0CG1KX7ZH",
-    "link": "https://www.amazon.it/Dafi-Crystal-Caraffa-Filtrante-Effetto/dp/B0CG1JCV27?tag=8vcue204-21",
+    "link": "https://www.amazon.it/Dafi-Crystal-Caraffa-Filtrante-Effetto/dp/B0CG1KX7ZH?tag=8vcue204-21",
     "brand": "Dafi",
-    "energy_efficiency": {},
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
     "categories": [
       {
-        "name": "Industria e Scienza"
-      },
-      {
         "name": "Casa e cucina",
-        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_1?ie=UTF8&node=524015031",
         "category_id": "524015031"
       },
       {
         "name": "Distributori d'acqua, caraffe filtranti e cartucce",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "link": "https://www.amazon.it/Distributori-Acqua-Caraffe-Filtranti-Cartucce/b/ref=dp_bc_2?ie=UTF8&node=652719031",
         "category_id": "652719031"
       },
       {
         "name": "Caraffe Filtranti",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "link": "https://www.amazon.it/Caraffe-Filtranti/b/ref=dp_bc_3?ie=UTF8&node=652720031",
         "category_id": "652720031"
       }
     ],
-    "categories_flat": "Industria e Scienza > Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
+    "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
     "sub_title": {
       "text": "Marca: Dafi",
       "link": "https://www.amazon.it/Dafi/b/ref=bl_dp_s_web_19720810031?ie=UTF8&node=19720810031&field-lbr_brands_browse-bin=Dafi&tag=8vcue204-21"
     },
+    "amazons_choice": {
+      "link": "https://www.amazon.it/Dafi-Crystal-Caraffa-Filtrante-Effetto/dp/B0CG1KX7ZH?tag=8vcue204-21"
+    },
     "marketplace_id": "APJ6JRA9NG5V4",
-    "rating": 5,
+    "rating": 3.5,
     "rating_breakdown": {
       "five_star": {
-        "percentage": 100,
-        "count": 1
+        "percentage": 43,
+        "count": 9
       },
       "four_star": {
-        "percentage": 0,
-        "count": 0
+        "percentage": 20,
+        "count": 4
       },
       "three_star": {
-        "percentage": 0,
-        "count": 0
+        "percentage": 8,
+        "count": 2
       },
       "two_star": {
-        "percentage": 0,
-        "count": 0
+        "percentage": 7,
+        "count": 1
       },
       "one_star": {
-        "percentage": 0,
-        "count": 0
+        "percentage": 22,
+        "count": 4
       }
     },
-    "ratings_total": 1,
+    "ratings_total": 20,
     "main_image": {
       "link": "https://m.media-amazon.com/images/I/418A2uRdXPL.jpg"
     },
     "images": [
       {
-        "link": "https://m.media-amazon.com/images/I/418A2uRdXPL.jpg",
-        "variant": "MAIN"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/51IHMbg7czL._SL1087_.jpg",
+        "link": "https://m.media-amazon.com/images/I/51IHMbg7czL._AC_SL1087_.jpg",
         "variant": "PT01"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/41P2sroUesL.jpg",
+        "link": "https://m.media-amazon.com/images/I/41P2sroUesL._AC_.jpg",
         "variant": "PT02"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/61KRf29vxrL._SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/61KRf29vxrL._AC_SL1500_.jpg",
         "variant": "PT03"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/41wgz+giZsL.jpg",
+        "link": "https://m.media-amazon.com/images/I/41wgz+giZsL._AC_.jpg",
         "variant": "PT04"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/31aj6iBpEQL.jpg",
+        "link": "https://m.media-amazon.com/images/I/31aj6iBpEQL._AC_.jpg",
         "variant": "PT05"
       }
     ],
-    "images_count": 6,
-    "images_flat": "https://m.media-amazon.com/images/I/418A2uRdXPL.jpg,https://m.media-amazon.com/images/I/51IHMbg7czL._SL1087_.jpg,https://m.media-amazon.com/images/I/41P2sroUesL.jpg,https://m.media-amazon.com/images/I/61KRf29vxrL._SL1500_.jpg,https://m.media-amazon.com/images/I/41wgz+giZsL.jpg,https://m.media-amazon.com/images/I/31aj6iBpEQL.jpg",
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/51IHMbg7czL._AC_SL1087_.jpg,https://m.media-amazon.com/images/I/41P2sroUesL._AC_.jpg,https://m.media-amazon.com/images/I/61KRf29vxrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/41wgz+giZsL._AC_.jpg,https://m.media-amazon.com/images/I/31aj6iBpEQL._AC_.jpg",
     "is_bundle": false,
     "feature_bullets": [
-      "🌎𝐒𝐎𝐋𝐔𝐙𝐈𝐎𝐍𝐄 𝐈𝐍𝐍𝐎𝐕𝐀𝐓𝐈𝐕𝐀: La caraffa filtrante Dafi Crystal è un'eccellente fonte di acqua pura. Assicura che l'acqua del rubinetto abbia lo stesso sapore dell'acqua in bottiglia del negozio. L'utilizzo di una caraffa filtrante consente di alleggerire il bilancio familiare.",
-      "💦𝐀𝐋𝐓𝐀 𝐐𝐔𝐀𝐋𝐈𝐓𝐀̀:: la caraffa è realizzata in vetro di alta qualità che non ingiallisce e non altera l'odore dell'acqua filtrata.",
-      "💦𝐃𝐈𝐒𝐏𝐋𝐀𝐘 𝐀 𝐋𝐄𝐃: La caraffa è dotata di un indicatore a LED di facile lettura che ricorda quando è il momento di sostituire il filtro. Il filtro Unimax standard è progettato per migliorare la qualità dell'acqua del rubinetto.",
-      "💦𝐀𝐂𝐐𝐔𝐀 𝐏𝐔𝐋𝐈𝐓𝐀: Il filtro della caraffa Dafi Unimax contiene una miscela di carbone attivo e resina a scambio ionico opportunamente selezionata e sistematicamente controllata. Di conseguenza, il filtro riduce in modo significativo la durezza dell'acqua (che porta a depositi di calcare) ed elimina il retrogusto sgradevole del cloro dall'acqua.",
-      "💦𝐅𝐎𝐑𝐌𝐀 𝐄𝐑𝐆𝐎𝐍𝐎𝐌𝐈𝐂𝐀: l'aspetto della caraffa è moderno e si adatta a qualsiasi ambiente. Inoltre, la forma ergonomica e il comodo manico sono adatti a qualsiasi mano: sia di adulti che di bambini."
+      "SOLUZIONE INNOVATA-Caraffa filtrante per acqua Dafi Crystal è un'ottima fonte di acqua pura. Aiuta a garantire che l'acqua del rubinetto abbia lo stesso sapore dell'acqua in bottiglia del negozio. L'uso di una caraffa filtrante alleggerisce quindi il bilancio della famiglia.",
+      "Alta qualità: la caraffa per acqua è realizzata in vetro di alta qualità che non ingiallisce e non cambia l'odore dell'acqua filtrata.",
+      "Display LED- La brocca è dotata di un indicatore a sensore LED di facile lettura che ti ricorda quando è il momento di cambiare il filtro. Il filtro standard Unimax è stato progettato per migliorare la qualità dell'acqua del rubinetto.",
+      "FILTRO UNIMAX - Il filtro per vaso Dafi Unimax contiene una miscela di filtrazione di carbone attivo e resina a scambio ionico selezionata di conseguenza e sistematicamente controllata. Pertanto, il filtro riduce significativamente il grado di durezza dell'acqua (che porta a depositi di calcare) ed elimina lo sgradevole retrogusto del cloro dall'acqua.",
+      "FORMA ERGONOMICA: l'aspetto della caraffa è moderno e si adatta a qualsiasi interno. Inoltre, la sua forma ergonomica e la comoda maniglia sono adatti a tutte le mani, sia per adulti che per bambini."
     ],
     "feature_bullets_count": 5,
-    "feature_bullets_flat": "💦𝐅𝐎𝐑𝐌𝐀 𝐄𝐑𝐆𝐎𝐍𝐎𝐌𝐈𝐂𝐀: l'aspetto della caraffa è moderno e si adatta a qualsiasi ambiente. Inoltre, la forma ergonomica e il comodo manico sono adatti a qualsiasi mano: sia di adulti che di bambini. 💦𝐀𝐂𝐐𝐔𝐀 𝐏𝐔𝐋𝐈𝐓𝐀: Il filtro della caraffa Dafi Unimax contiene una miscela di carbone attivo e resina a scambio ionico opportunamente selezionata e sistematicamente controllata. Di conseguenza, il filtro riduce in modo significativo la durezza dell'acqua (che porta a depositi di calcare) ed elimina il retrogusto sgradevole del cloro dall'acqua. 💦𝐃𝐈𝐒𝐏𝐋𝐀𝐘 𝐀 𝐋𝐄𝐃: La caraffa è dotata di un indicatore a LED di facile lettura che ricorda quando è il momento di sostituire il filtro. Il filtro Unimax standard è progettato per migliorare la qualità dell'acqua del rubinetto. 💦𝐀𝐋𝐓𝐀 𝐐𝐔𝐀𝐋𝐈𝐓𝐀̀:: la caraffa è realizzata in vetro di alta qualità che non ingiallisce e non altera l'odore dell'acqua filtrata. 🌎𝐒𝐎𝐋𝐔𝐙𝐈𝐎𝐍𝐄 𝐈𝐍𝐍𝐎𝐕𝐀𝐓𝐈𝐕𝐀: La caraffa filtrante Dafi Crystal è un'eccellente fonte di acqua pura. Assicura che l'acqua del rubinetto abbia lo stesso sapore dell'acqua in bottiglia del negozio. L'utilizzo di una caraffa filtrante consente di alleggerire il bilancio familiare.",
-    "attributes": [
-      {
-        "name": "Marchio",
-        "value": "Dafi"
-      },
-      {
-        "name": "Dimensioni del prodotto",
-        "value": "10L x 10l x 10H mm"
-      }
-    ],
+    "feature_bullets_flat": "FORMA ERGONOMICA: l'aspetto della caraffa è moderno e si adatta a qualsiasi interno. Inoltre, la sua forma ergonomica e la comoda maniglia sono adatti a tutte le mani, sia per adulti che per bambini. FILTRO UNIMAX - Il filtro per vaso Dafi Unimax contiene una miscela di filtrazione di carbone attivo e resina a scambio ionico selezionata di conseguenza e sistematicamente controllata. Pertanto, il filtro riduce significativamente il grado di durezza dell'acqua (che porta a depositi di calcare) ed elimina lo sgradevole retrogusto del cloro dall'acqua. Display LED- La brocca è dotata di un indicatore a sensore LED di facile lettura che ti ricorda quando è il momento di cambiare il filtro. Il filtro standard Unimax è stato progettato per migliorare la qualità dell'acqua del rubinetto. Alta qualità: la caraffa per acqua è realizzata in vetro di alta qualità che non ingiallisce e non cambia l'odore dell'acqua filtrata. SOLUZIONE INNOVATA-Caraffa filtrante per acqua Dafi Crystal è un'ottima fonte di acqua pura. Aiuta a garantire che l'acqua del rubinetto abbia lo stesso sapore dell'acqua in bottiglia del negozio. L'uso di una caraffa filtrante alleggerisce quindi il bilancio della famiglia.",
     "top_reviews": [
       {
-        "id": "R3D1IX7QZALZ3D",
-        "title": "Jolie, fonctionnelle",
-        "body": "On est très content de cet achat. La carafe est jolie, maniable, stable et filtre très rapidement. Le bec verseur est bien conçu, n'éclabousse pas. L'eau a un bon goût ; on ne sent plus de chlore ni de calcaire et la bouilloire est nickel. Je recommande.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">On est très content de cet achat. La carafe est jolie, maniable, stable et filtre très rapidement. Le bec verseur est bien conçu, n'éclabousse pas. L'eau a un bon goût ; on ne sent plus de chlore ni de calcaire et la bouilloire est nickel. Je recommande.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 5,
+        "id": "R11O4QDW76A69U",
+        "asin": "B0CG1KX7ZH",
+        "rating": 1,
         "date": {
-          "raw": "Recensito in Francia il 2 ottobre 2023",
-          "utc": "2023-10-02T00:00:00.000Z"
+          "raw": "Recensito in Francia il 26 maggio 2025",
+          "utc": "2025-05-26T00:00:00.000Z"
         },
         "profile": {
-          "name": "Rami"
+          "name": "JOE"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
+        "id": "RLQOXG9NH0KK0",
+        "asin": "B0CG1KX7ZH",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Spagna il 7 marzo 2025",
+          "utc": "2025-03-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lluís C."
+        },
+        "vine_program": false,
+        "verified_purchase": true
+      },
+      {
+        "id": "R1U8EZ8VFY4635",
+        "asin": "B0CG1KX7ZH",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Francia il 26 maggio 2025",
+          "utc": "2025-05-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Client d'Amazon"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
+        "id": "R2FYE76L6GESGZ",
+        "asin": "B0CG1KX7ZH",
+        "rating": 1,
+        "date": {
+          "raw": "Recensito in Spagna il 11 giugno 2025",
+          "utc": "2025-06-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Espartak",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/bac8c600-8f28-4140-a8d6-ac4233594986._CR0%2C0%2C333%2C333_UX460_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true
+      },
+      {
+        "id": "R17KAFTTJDF4U7",
+        "asin": "B0CG1KX7ZH",
+        "rating": 1,
+        "date": {
+          "raw": "Recensito in Francia il 3 luglio 2025",
+          "utc": "2025-07-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "rojas"
         },
         "vine_program": false,
         "verified_purchase": true,
@@ -173,10 +213,28 @@
         "is_global_review": true
       }
     ],
+    "bestsellers_rank": [
+      {
+        "rank": 1982878,
+        "category": "Casa e cucina",
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 539,
+        "category": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
     "buybox_winner": {
       "maximum_order_quantity": {
         "value": 30,
         "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 14,
+        "type": "refund/replacement"
       },
       "is_prime": false,
       "is_prime_exclusive_deal": false,
@@ -190,9 +248,9 @@
         "dispatch_days": 1
       },
       "fulfillment": {
-        "type": "3p",
+        "type": "p3",
         "standard_delivery": {
-          "date": "20 - 22 novembre",
+          "date": "13 - 15 maggio",
           "name": "GRATUITA"
         },
         "is_sold_by_amazon": false,
@@ -221,143 +279,101 @@
         "value": "Dafi"
       },
       {
+        "name": "Caratteristica speciale",
+        "value": "Indicatore di sostituzione filtro"
+      },
+      {
         "name": "Dimensioni del prodotto",
-        "value": "10L x 10l x 10H mm"
+        "value": "23L x 15l x 25H cm"
+      },
+      {
+        "name": "Materiale",
+        "value": "Vetro"
+      },
+      {
+        "name": "Capacità",
+        "value": "2 Litri"
+      },
+      {
+        "name": "Componenti inclusi",
+        "value": "Caraffa per acqua"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "lanciatore"
+      },
+      {
+        "name": "Tipo di installazione",
+        "value": "Controsoffitto"
+      },
+      {
+        "name": "Metodo di purificazione",
+        "value": "Carbone attivo, resina a scambio ionico"
+      },
+      {
+        "name": "Nome modello",
+        "value": "0d0e683f-40ab-4816-80d2-d0a7ef9a2173"
+      },
+      {
+        "name": "Caratteristiche speciali",
+        "value": "Indicatore di sostituzione filtro"
+      },
+      {
+        "name": "Tipo di contenitore",
+        "value": "lanciatore"
+      },
+      {
+        "name": "Temperatura di esercizio superiore",
+        "value": "30 Gradi Celsius"
+      },
+      {
+        "name": "TDS massimo di acqua supportato (PPM)",
+        "value": "500"
+      },
+      {
+        "name": "Dimensioni dell'articolo, lunghezza x larghezza x altezza",
+        "value": "23L x 15l x 25H cm"
+      },
+      {
+        "name": "La capacità del prodotto",
+        "value": "2 Litri"
+      },
+      {
+        "name": "Tipo materiale",
+        "value": "Vetro"
+      },
+      {
+        "name": "Nome del modello",
+        "value": "0d0e683f-40ab-4816-80d2-d0a7ef9a2173"
+      },
+      {
+        "name": "Modello",
+        "value": "Czarny"
+      },
+      {
+        "name": "Produttore",
+        "value": "Dafi"
+      },
+      {
+        "name": "Numero parte",
+        "value": "PARENT.D.FO.DAFI.SZKLANY.LED.UM"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "n. 1.982.878 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 539 in Caraffe Filtranti"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CG1KX7ZH"
+      },
+      {
+        "name": "Media recensioni",
+        "value": "3,5    3,5 su 5 stelle         (20)           3,5 su 5 stelle"
       }
     ],
-    "specifications_flat": "Dimensioni del prodotto: 10L x 10l x 10H mm. Marchio: Dafi.",
-    "dimensions": "10L x 10l x 10H mm"
-  },
-  "frequently_bought_together": {
-    "total_price": {
-      "symbol": "€",
-      "currency": "EUR",
-      "value": 82.94,
-      "raw": "82,94 €"
-    },
-    "products": [
-      {
-        "asin": "B0CG1KX7ZH",
-        "title": "Dafi Crystal Caraffa Filtrante in Vetro 2 L per Acqua, Effetto per Ridurre Calcare, Cloro e Metalli, Senza BPA, Sensore LED | Caraffa Filtrante + Filtro Acqua UNIMAX – Nero",
-        "link": "https://www.amazon.it/dp/B0CG1KX7ZH?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/418A2uRdXPL._AC_UL116_SR116,116_.jpg",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 38.99,
-          "raw": "38,99€"
-        }
-      },
-      {
-        "asin": "B0186BZEWI",
-        "title": "Dafi Unimax Confezione 3 filtri per acqua per caraffe Brita Maxtra & Dafi Unimax",
-        "link": "https://www.amazon.it/dp/B0186BZEWI?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/31BGZF67PtL._AC_UL116_SR116,116_.jpg",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 17.96,
-          "raw": "17,96€"
-        }
-      },
-      {
-        "asin": "B00INU5ZH2",
-        "title": "Dafi Unimax - 6 cartucce per filtro acqua compatibili anche con Brita Maxtra, PearlCo Unimax",
-        "link": "https://www.amazon.it/dp/B00INU5ZH2?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/61z01pbdYDL._AC_UL116_SR116,116_.jpg",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 25.99,
-          "raw": "25,99€"
-        }
-      }
-    ]
-  },
-  "also_bought": [
-    {
-      "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cl",
-      "asin": "B07QCNTCK8",
-      "link": "https://www.amazon.it/Waterdrop-Caraffa-Filtrante-Certificata-Ricambio/dp/B07QCNTCK8/ref=pd_day0_sccl_2_1/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B07QCNTCK8&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61eAyClCnqL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 7248,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 26.99,
-        "raw": "€26,99"
-      }
-    },
-    {
-      "title": "Laica J31Af Stream Line Caraffa Filtrante, Plastica, 2.3L, Bianco, ‎‎22 x 21 x 9 cm 617 grammi",
-      "asin": "B002ECI19E",
-      "link": "https://www.amazon.it/Laica-Stream-caraffa-Filtrante-Plastica/dp/B002ECI19E/ref=pd_day0_sccl_2_2/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B002ECI19E&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/513eQbk7f0L._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 1452,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 21.9,
-        "raw": "€21,90"
-      }
-    },
-    {
-      "title": "Wessper Caraffa Filtrante di Vetro con 1 Cartuccia Aquaclassic (Compatibile con Brita Classic), Elimina Cloro, Impurità e Met",
-      "asin": "B0B39C2W9C",
-      "link": "https://www.amazon.it/Wessper-Filtrante-Cartuccia-Aquaclassic-Compatibile/dp/B0B39C2W9C/ref=pd_day0_sccl_2_3/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B0B39C2W9C&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71mdAW6FnlL._AC_UL160_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 53,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 33.99,
-        "raw": "€33,99"
-      }
-    },
-    {
-      "title": "Brita Caraffa in vetro Light Blue (2.5L) incl. 3 filtri MAXTRA PRO All-in-1 - Caraffa di design premium con coperchio ribalta",
-      "asin": "B0BT1F3BV2",
-      "link": "https://www.amazon.it/Brita-Caraffa-vetro-filtro-MAXTRA/dp/B0BT1F3BV2/ref=pd_day0_sccl_2_4/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B0BT1F3BV2&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71YQ3OaynxL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.5,
-      "ratings_total": 455,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 61.6,
-        "raw": "€61,60"
-      }
-    },
-    {
-      "title": "BRITA Caraffa Filtrante Marella per acqua, Bianco (2.4l) - incl. 3 Filtri MAXTRA+ per la riduzione di cloro, calcare e impuri",
-      "asin": "B01MZZI7OI",
-      "link": "https://www.amazon.it/BRITA-Marella-Confezione-Caraffa-Coperchio/dp/B01MZZI7OI/ref=pd_day0_sccl_2_5/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B01MZZI7OI&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61+qVHTtxLL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 52608,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 37.99,
-        "raw": "€37,99"
-      }
-    },
-    {
-      "title": "BRITA Caraffa Filtrante Marella per acqua, Bianco (2.4l) - incl. 1 Filtro MAXTRA+ per la riduzione di cloro, calcare e impuri",
-      "asin": "B01NCEIPNM",
-      "link": "https://www.amazon.it/BRITA-Caraffa-filtrante-Marella-Bianco/dp/B01NCEIPNM/ref=pd_day0_sccl_2_6/262-8091718-4077713?pd_rd_w=fhLbP&content-id=amzn1.sym.83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_p=83cce1a6-e776-499c-bcbb-7ac72e5db8b4&pf_rd_r=0EMS6JC6XKWKGD7RBD37&pd_rd_wg=ChpVr&pd_rd_r=2bfa8104-0ea0-46a0-986f-8680380e7f52&pd_rd_i=B01NCEIPNM&psc=1&tag=8vcue204-21",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/618qcOfmTkL._AC_UL160_SR160,160_.jpg",
-      "rating": 4.6,
-      "ratings_total": 9058,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 23.8,
-        "raw": "€23,80"
-      }
-    }
-  ]
+    "specifications_flat": "Media recensioni: 3,5    3,5 su 5 stelle         (20)           3,5 su 5 stelle. ASIN: B0CG1KX7ZH. Posizione nella classifica Bestseller di Amazon: n. 1.982.878 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 539 in Caraffe Filtranti. Numero parte: PARENT.D.FO.DAFI.SZKLANY.LED.UM. Produttore: Dafi. Modello: Czarny. Nome del modello: 0d0e683f-40ab-4816-80d2-d0a7ef9a2173. Tipo materiale: Vetro. La capacità del prodotto: 2 Litri. Dimensioni dell'articolo, lunghezza x larghezza x altezza: 23L x 15l x 25H cm. TDS massimo di acqua supportato (PPM): 500. Temperatura di esercizio superiore: 30 Gradi Celsius. Tipo di contenitore: lanciatore. Caratteristiche speciali: Indicatore di sostituzione filtro. Nome modello: 0d0e683f-40ab-4816-80d2-d0a7ef9a2173. Metodo di purificazione: Carbone attivo, resina a scambio ionico. Tipo di installazione: Controsoffitto. Informazioni pacco: lanciatore. Componenti inclusi: Caraffa per acqua. Capacità: 2 Litri. Materiale: Vetro. Dimensioni del prodotto: 23L x 15l x 25H cm. Caratteristica speciale: Indicatore di sostituzione filtro. Marchio: Dafi.",
+    "material": "Vetro",
+    "dimensions": "23L x 15l x 25H cm",
+    "bestsellers_rank_flat": "Category: Casa e cucina | Rank: 1982878, Category: Caraffe Filtranti | Rank: 539"
+  }
 }

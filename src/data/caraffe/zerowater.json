@@ -1,401 +1,920 @@
 {
   "request_info": {
     "success": true,
-    "credits_used": 78,
-    "credits_remaining": 22,
+    "credits_used": 92,
+    "credits_remaining": 8,
     "credits_used_this_request": 1
   },
   "request_parameters": {
-    "amazon_domain": "amazon.it",
-    "asin": "B07HKXKZ1J",
     "type": "product",
+    "amazon_domain": "amazon.it",
+    "asin": "B0722YFFCQ",
     "associate_id": "8vcue204-21",
     "currency": "eur",
     "output": "json",
     "language": "it_IT"
   },
   "request_metadata": {
-    "created_at": "2023-11-10T16:50:53.778Z",
-    "processed_at": "2023-11-10T16:51:00.858Z",
-    "total_time_taken": 7.08,
-    "amazon_url": "https://www.amazon.it/dp/B07HKXKZ1J?th=1&psc=1&language=it_IT"
+    "created_at": "2026-05-01T08:15:59.037Z",
+    "processed_at": "2026-05-01T08:16:05.732Z",
+    "total_time_taken": 6.7,
+    "amazon_url": "https://www.amazon.it/dp/B0722YFFCQ?th=1&psc=1&language=it_IT"
   },
   "product": {
-    "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
+    "title": "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 1,7 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu Bianco 1.7 l - 1 filtre 1,7 litri",
     "search_alias": {
       "title": "Casa e cucina",
-      "value": "kitchen"
+      "value": "search-alias=kitchen"
     },
-    "keywords": "ZeroWater,Caraffa,filtrante,per,acqua,2,6L,,,Acciaio,INOX,,Plastica,priva,di,BpA,e,certificato,per,la,Riduzione,di,Piombo,e,Altri,Metalli,Pesanti",
+    "title_excluding_variant_name": "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 1,7 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu",
+    "keywords": "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 1,7 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu Bianco 1.7 l - 1 filtre 1,7 litri",
     "keywords_list": [
-      "ZeroWater",
-      "Caraffa",
-      "filtrante",
-      "acqua",
-      "Acciaio",
-      "INOX",
-      "Plastica",
-      "priva",
-      "certificato",
-      "Riduzione",
-      "Piombo",
-      "Altri",
-      "Metalli",
-      "Pesanti"
+      "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 1",
+      "7 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu Bianco 1.7 l - 1 filtre 1",
+      "7 litri"
     ],
-    "asin": "B07HKXKZ1J",
-    "link": "https://www.amazon.it/ZeroWater-filtrante-misuratore-dellacqua-certificato/dp/B07HKXKZ1J?tag=8vcue204-21",
+    "is_collection": false,
+    "asin": "B0722YFFCQ",
+    "parent_asin": "B07FK1XGG5",
+    "link": "https://www.amazon.it/ZeroWater-Caraffa-Filtrante-Acqua-Fasi/dp/B0722YFFCQ?tag=8vcue204-21",
     "brand": "ZeroWater",
-    "energy_efficiency": {
-      "product_fiche_image": "https://m.media-amazon.com/images/I/81yvyOSSrJL.SX367_SY500_.jpg"
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B09HR998GK",
+        "title": "Bianco 1.7 l - 3 filtres Combo 1.7 L - 3 filtri",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B09HR998GK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 3 filtres"
+          },
+          {
+            "name": "Nome stile",
+            "value": "Combo 1.7 L - 3 filtri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61p6zIu280L._AC_SL1400_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61p6zIu280L._AC_SL1400_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09HR5XT3X",
+        "title": "Bianco Combo 2,8 L - 3 filtri Combo 2.8 L - 3 filtri",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B09HR5XT3X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "Combo 2,8 L - 3 filtri"
+          },
+          {
+            "name": "Nome stile",
+            "value": "Combo 2.8 L - 3 filtri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/619MqnhBpJL._AC_SL1400_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/619MqnhBpJL._AC_SL1400_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09HR4M1GP",
+        "title": "bianco, blu. Combo 2,4 L - 3 filtri Combo 2.4 L - 3 filtri",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B09HR4M1GP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "bianco, blu."
+          },
+          {
+            "name": "Taglia",
+            "value": "Combo 2,4 L - 3 filtri"
+          },
+          {
+            "name": "Nome stile",
+            "value": "Combo 2.4 L - 3 filtri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/619MqnhBpJL._AC_SL1400_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/619MqnhBpJL._AC_SL1400_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0722YFFCQ",
+        "title": "Bianco 1.7 l - 1 filtre 1,7 litri",
+        "is_current_product": true,
+        "link": "https://www.amazon.it/dp/B0722YFFCQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/619fG3SKy5L._AC_SL1400_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/619fG3SKy5L._AC_SL1400_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07J2HJMKQ",
+        "title": "Bianco 2.4 l - 1 filtre 2,4 litri",
+        "is_current_product": false,
+        "link": "https://www.amazon.it/dp/B07J2HJMKQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "2.4 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "2,4 litri"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Eb5fqewxL._AC_SL1400_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Eb5fqewxL._AC_SL1400_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09HR998GK,B09HR5XT3X,B09HR4M1GP,B0722YFFCQ,B07J2HJMKQ",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
     },
     "categories": [
       {
         "name": "Casa e cucina",
-        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_aui_C_1?ie=UTF8&node=524015031",
+        "link": "https://www.amazon.it/Casa-Cucina/b/ref=dp_bc_1?ie=UTF8&node=524015031",
         "category_id": "524015031"
       },
       {
         "name": "Distributori d'acqua, caraffe filtranti e cartucce",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_2?ie=UTF8&node=652719031",
+        "link": "https://www.amazon.it/Distributori-Acqua-Caraffe-Filtranti-Cartucce/b/ref=dp_bc_2?ie=UTF8&node=652719031",
         "category_id": "652719031"
       },
       {
         "name": "Caraffe Filtranti",
-        "link": "https://www.amazon.it/b/ref=dp_bc_aui_C_3?ie=UTF8&node=652720031",
+        "link": "https://www.amazon.it/Caraffe-Filtranti/b/ref=dp_bc_3?ie=UTF8&node=652720031",
         "category_id": "652720031"
       }
     ],
     "categories_flat": "Casa e cucina > Distributori d'acqua, caraffe filtranti e cartucce > Caraffe Filtranti",
     "sub_title": {
       "text": "Visita lo Store di ZeroWater",
-      "link": "https://www.amazon.it/stores/ZeroWater/page/EC6EE214-C049-453C-A2A0-BAD49D76D8B8?ref_=ast_bln&tag=8vcue204-21"
+      "link": "https://www.amazon.it/stores/ZeroWater/page/EC6EE214-C049-453C-A2A0-BAD49D76D8B8?lp_asin=B0722YFFCQ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&tag=8vcue204-21"
     },
-    "rating": 4.1,
+    "amazons_choice": {
+      "link": "https://www.amazon.it/ZeroWater-Caraffa-Filtrante-Acqua-Fasi/dp/B0722YFFCQ?tag=8vcue204-21",
+      "badge_text": "Scelta  Amazon"
+    },
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "rating": 4,
     "rating_breakdown": {
       "five_star": {
-        "percentage": 66,
-        "count": 310
+        "percentage": 61,
+        "count": 2525
       },
       "four_star": {
-        "percentage": 10,
-        "count": 47
+        "percentage": 13,
+        "count": 538
       },
       "three_star": {
         "percentage": 8,
-        "count": 37
+        "count": 331
       },
       "two_star": {
-        "percentage": 5,
-        "count": 23
+        "percentage": 6,
+        "count": 248
       },
       "one_star": {
-        "percentage": 11,
-        "count": 51
+        "percentage": 12,
+        "count": 497
       }
     },
-    "ratings_total": 471,
+    "ratings_total": 4140,
     "main_image": {
-      "link": "https://m.media-amazon.com/images/I/713TCrq8CjL.jpg"
+      "link": "https://m.media-amazon.com/images/I/619fG3SKy5L.jpg"
     },
     "images": [
       {
-        "link": "https://m.media-amazon.com/images/I/713TCrq8CjL._AC_SL1500_.jpg",
-        "variant": "MAIN"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/71WmxVgp7hL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/71eVpgKbOzL._AC_SL1400_.jpg",
         "variant": "PT01"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/81m0E1J2CbL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/61Dq9psH5TL._AC_SL1400_.jpg",
         "variant": "PT02"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/71Rev0T9vBL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/71BwXTKssgL._AC_SL1400_.jpg",
         "variant": "PT03"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/712HlF7IOKL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/61GjxgkyGNL._AC_SL1400_.jpg",
         "variant": "PT04"
       },
       {
-        "link": "https://m.media-amazon.com/images/I/81eDk1ycwyL._AC_SL1500_.jpg",
+        "link": "https://m.media-amazon.com/images/I/51VkAB2K7pL._AC_SL1400_.jpg",
         "variant": "PT05"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/81lb4beCGEL._AC_SL1500_.jpg",
-        "variant": "PT06"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/81LG+4Oh5YL._AC_SL1500_.jpg",
-        "variant": "PT07"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/81gH+hjkEpL._AC_SL1500_.jpg",
-        "variant": "PT08"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/81MJ4rFr7ML._AC_SL1500_.jpg",
-        "variant": "PT09"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/81m4qtbBwOL._AC_SL1500_.jpg",
-        "variant": "PT10"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/31ieOEVsiYL._AC_.jpg",
-        "variant": "PT12"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/618LXde8mHL._AC_SL1332_.jpg",
-        "variant": "PT88"
       }
     ],
-    "images_count": 13,
-    "images_flat": "https://m.media-amazon.com/images/I/713TCrq8CjL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71WmxVgp7hL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81m0E1J2CbL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Rev0T9vBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/712HlF7IOKL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81eDk1ycwyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81lb4beCGEL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81LG+4Oh5YL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81gH+hjkEpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81MJ4rFr7ML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81m4qtbBwOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/31ieOEVsiYL._AC_.jpg,https://m.media-amazon.com/images/I/618LXde8mHL._AC_SL1332_.jpg",
-    "videos": [
-      {
-        "duration_seconds": 21,
-        "width": 854,
-        "height": 480,
-        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/32285294-a9a9-449c-9818-bc6f1b73222e/default.jobtemplate.mp4.480.mp4",
-        "thumbnail": "https://m.media-amazon.com/images/I/51S2J6sFmQL.SX522_.jpg",
-        "is_hero_video": false,
-        "variant": "MAIN",
-        "group_id": "IB_G1_T1",
-        "title": "ZeroWater Filtri Caraffa Acqua a 5 Fasi"
-      }
-    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/71eVpgKbOzL._AC_SL1400_.jpg,https://m.media-amazon.com/images/I/61Dq9psH5TL._AC_SL1400_.jpg,https://m.media-amazon.com/images/I/71BwXTKssgL._AC_SL1400_.jpg,https://m.media-amazon.com/images/I/61GjxgkyGNL._AC_SL1400_.jpg,https://m.media-amazon.com/images/I/51VkAB2K7pL._AC_SL1400_.jpg",
     "videos_count": 1,
-    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/32285294-a9a9-449c-9818-bc6f1b73222e/default.jobtemplate.mp4.480.mp4",
     "is_bundle": false,
     "feature_bullets": [
-      "11 caraffa filtrante per acqua: avrai sempre a portata di mano acqua più pulita e pura con la nostra brocca per filtro dell'acqua in acciaio inossidabile nel tuo frigorifero. Il misuratore di qualità dell'acqua incluso ti consente di testare la tua acqua, quindi non devi mai chiederti della sua qualità.",
-      "Filtrazione dell'acqua a cinque fasi: a differenza di molti filtri e brocche, i filtri ZeroWater utilizzano 5 fasi di filtrazione, per offrirti acqua più pulita e dal sapore migliore. Invece di filtrare solo il carbonio, i nostri filtri utilizzano la tecnologia Ion Exchange per ridurre i contaminanti.",
-      "NON UN FILTRO ORDINARIO DELL'ACQUA: I filtri ZeroWater filtrano l'acqua in 5 fasi, sono certificati NSF per ridurre piombo e altri metalli pesanti. Zerowater rimuove il 99,6% dei solidi disciolti totali, 2 volte in più rispetto al marchio leader (testato da laboratorio indipendente).",
-      "OTTIENI DI PIÙ DALL'ACQUA: rimuovi più impurità dall'acqua con l'esclusivo sistema di filtri a 5 stadi di ZeroWater. Con una varietà di opzioni, puoi avere acqua più pulita ovunque, da brocche, sistemi di filtrazione delle bottiglie o filtri portatili a tazza.",
-      "ZEROWATER QUALITÀ: alcuni filtri ZeroWater sono compatibili con altre marche di brocche d'acqua. Prova a passare a ZeroWater se hai utilizzato filtri per l'acqua o brocche di Brita, Pur, Aquagear, Nakii, Waterdrop, Kenmore, Berkey, Fridgidaire o Aquasana."
+      "- CARAFFA FILTRANTE DA 1,7 LITRI: goditi dell'acqua piú pulita, del sapore piú puro, grazie alla nostra caraffa filtrante in plastica priva di BpA. Include gratis un misuratore della qualitá dell'acqua, che ti permetterá di testare la tua acqua in modo tale da poterti assicurare che sia della miglior qualitá.",
+      "- FILTRAZIONE DELL'ACQUA IN 5 FASI: a differenza di molti filtri dell'acqua e caraffe filtranti, i filtri ZeroWater usano 5 fasi per la filtrazione, per garantirti un'acqua piú pulita e dal sapore piú buono. Invece di usare solo il filtro a carboni attivi, i nostri filtri utilizzano una tecnologia a scambio ionico per ridurre la contaminazione. Elimina il 99% del Fluoruro.",
+      "- NON UN FILTRO D'ACQUA QUALSIASI: i filtri ZeroWater filtrano l'acqua in 5 fasi, sono certificati dall'NSF per ridurre piombo e altri metalli pesanti. ZeroWater elimina il 99% del totale dei solidi disciolti, il doppio rispetto alla marca leader sul mercato (verificato da un laboratorio indipendente).",
+      "- GODITI L'ACQUA DAL SAPORE PIÚ PURO: la quantitá di solidi disciolti presenti nell'acqua del rubinetto varia in Europa. Ogni filtro ZeroWater elimina 18.000 milligrammi di solidi disciolti lasciandoti con l'acqua dal sapore piú puro possibile. É importante cambiare il filtro quando il misuratore della qualitá dell'acqua fornisce una lettura superiore a 006 ppm.",
+      "- INCLUDE UN MISURATORE DELLA QUALITÁ DELL'ACQUA E UN FILTRO: viene incluso un misuratore di qualitá dell'acqua digitale in gradi da laboratorio che ti mostrerá l'esatta quantitá del Totale dei Solidi Disciolti presenti nella tua acqua."
     ],
     "feature_bullets_count": 5,
-    "feature_bullets_flat": "ZEROWATER QUALITÀ: alcuni filtri ZeroWater sono compatibili con altre marche di brocche d'acqua. Prova a passare a ZeroWater se hai utilizzato filtri per l'acqua o brocche di Brita, Pur, Aquagear, Nakii, Waterdrop, Kenmore, Berkey, Fridgidaire o Aquasana. OTTIENI DI PIÙ DALL'ACQUA: rimuovi più impurità dall'acqua con l'esclusivo sistema di filtri a 5 stadi di ZeroWater. Con una varietà di opzioni, puoi avere acqua più pulita ovunque, da brocche, sistemi di filtrazione delle bottiglie o filtri portatili a tazza. NON UN FILTRO ORDINARIO DELL'ACQUA: I filtri ZeroWater filtrano l'acqua in 5 fasi, sono certificati NSF per ridurre piombo e altri metalli pesanti. Zerowater rimuove il 99,6% dei solidi disciolti totali, 2 volte in più rispetto al marchio leader (testato da laboratorio indipendente). Filtrazione dell'acqua a cinque fasi: a differenza di molti filtri e brocche, i filtri ZeroWater utilizzano 5 fasi di filtrazione, per offrirti acqua più pulita e dal sapore migliore. Invece di filtrare solo il carbonio, i nostri filtri utilizzano la tecnologia Ion Exchange per ridurre i contaminanti. 11 caraffa filtrante per acqua: avrai sempre a portata di mano acqua più pulita e pura con la nostra brocca per filtro dell'acqua in acciaio inossidabile nel tuo frigorifero. Il misuratore di qualità dell'acqua incluso ti consente di testare la tua acqua, quindi non devi mai chiederti della sua qualità.",
-    "attributes": [
-      {
-        "name": "Marchio",
-        "value": "ZeroWater"
-      },
-      {
-        "name": "Caratteristica speciale",
-        "value": "Portatile"
-      },
-      {
-        "name": "Dimensioni del prodotto",
-        "value": "18L x 15l x 27H cm"
-      },
-      {
-        "name": "Sorgente di alimentazione",
-        "value": "Non elettrico"
-      },
-      {
-        "name": "Peso articolo",
-        "value": "3 Libbre"
-      },
-      {
-        "name": "Nome modello",
-        "value": "Brocca"
-      }
-    ],
+    "feature_bullets_flat": "- INCLUDE UN MISURATORE DELLA QUALITÁ DELL'ACQUA E UN FILTRO: viene incluso un misuratore di qualitá dell'acqua digitale in gradi da laboratorio che ti mostrerá l'esatta quantitá del Totale dei Solidi Disciolti presenti nella tua acqua. - GODITI L'ACQUA DAL SAPORE PIÚ PURO: la quantitá di solidi disciolti presenti nell'acqua del rubinetto varia in Europa. Ogni filtro ZeroWater elimina 18.000 milligrammi di solidi disciolti lasciandoti con l'acqua dal sapore piú puro possibile. É importante cambiare il filtro quando il misuratore della qualitá dell'acqua fornisce una lettura superiore a 006 ppm. - NON UN FILTRO D'ACQUA QUALSIASI: i filtri ZeroWater filtrano l'acqua in 5 fasi, sono certificati dall'NSF per ridurre piombo e altri metalli pesanti. ZeroWater elimina il 99% del totale dei solidi disciolti, il doppio rispetto alla marca leader sul mercato (verificato da un laboratorio indipendente). - FILTRAZIONE DELL'ACQUA IN 5 FASI: a differenza di molti filtri dell'acqua e caraffe filtranti, i filtri ZeroWater usano 5 fasi per la filtrazione, per garantirti un'acqua piú pulita e dal sapore piú buono. Invece di usare solo il filtro a carboni attivi, i nostri filtri utilizzano una tecnologia a scambio ionico per ridurre la contaminazione. Elimina il 99% del Fluoruro. - CARAFFA FILTRANTE DA 1,7 LITRI: goditi dell'acqua piú pulita, del sapore piú puro, grazie alla nostra caraffa filtrante in plastica priva di BpA. Include gratis un misuratore della qualitá dell'acqua, che ti permetterá di testare la tua acqua in modo tale da poterti assicurare che sia della miglior qualitá.",
     "top_reviews": [
       {
-        "id": "R98SJ3MSPF3YJ",
-        "title": "Caraffa migliorabile - filtraggio ottimo",
-        "body": "Pagato circa 60€  PRO: - Sistema di filtraggio eccellente! L'acqua è perfetta - brocca capiente e resistente - i filtri non scadono mensilmente, ma in base al loro utilizzo. (Io l'ho utilizzato anche per più di 2 mesi) -È dotata di un dispositivo digitale con il quale si misura la purezza dell'acqua filtrata.  CONTRO: -La caraffa è suddivisa nella parte superiore acqua nn filtrata e quella inferiore acqua filtrata, quando riempite totalmente la parte superiore se utilizzate la caraffa oltre all'acqua filtrata esce (dalla chiusura superiore) l'acqua non filtrata. -quando piena la caraffa in acciaio risulta pesante per l'utilizzo a una mano di bambini, anziani.  OSSERVAZIONI: -L'acqua filtrata è buonissima quindi si al sistema di filtraggio Zero Water. -la caraffa in acciaio è una spesa inutileLeggi di più",
-        "asin": "B07HKXKZ1J",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Pagato circa 60€<br><br>PRO:<br>- Sistema di filtraggio eccellente! L'acqua è perfetta<br>- brocca capiente e resistente<br>- i filtri non scadono mensilmente, ma in base al loro utilizzo. (Io l'ho utilizzato anche per più di 2 mesi)<br>-È dotata di un dispositivo digitale con il quale si misura la purezza dell'acqua filtrata.<br><br>CONTRO:<br>-La caraffa è suddivisa nella parte superiore acqua nn filtrata e quella inferiore acqua filtrata, quando riempite totalmente la parte superiore se utilizzate la caraffa oltre all'acqua filtrata esce (dalla chiusura superiore) l'acqua non filtrata.<br>-quando piena la caraffa in acciaio risulta pesante per l'utilizzo a una mano di bambini, anziani.<br><br>OSSERVAZIONI:<br>-L'acqua filtrata è buonissima quindi si al sistema di filtraggio Zero Water.<br>-la caraffa in acciaio è una spesa inutile</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R98SJ3MSPF3YJ?ASIN=B07HKXKZ1J",
-        "rating": 3,
-        "date": {
-          "raw": "Recensito in Italia il 5 ottobre 2023",
-          "utc": "2023-10-05T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Victor B.",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AE7YS6F3KTXJPEUYT4T2YVNJRWXA",
-          "id": "AE7YS6F3KTXJPEUYT4T2YVNJRWXA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R3VBQI9S6XBPVK",
-        "title": "Il sapore dell'acqua è incommensurabilmente migliore",
-        "body": "Il sapore dell'acqua è incommensurabilmente migliore di quella filtrata da altre caraffe in mio possesso!Leggi di più",
-        "asin": "B07HKXKZ1J",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Il sapore dell'acqua è incommensurabilmente migliore di quella filtrata da altre caraffe in mio possesso!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/R3VBQI9S6XBPVK?ASIN=B07HKXKZ1J",
+        "id": "R3GDH3YL89F914",
+        "asin": "B0722YFFCQ",
         "rating": 5,
         "date": {
-          "raw": "Recensito in Italia il 20 giugno 2020",
-          "utc": "2020-06-20T00:00:00.000Z"
+          "raw": "Recensito in Italia il 2 febbraio 2026",
+          "utc": "2026-02-02T00:00:00.000Z"
         },
         "profile": {
-          "name": "Cliente Kindle",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AGD2TISCMJJFGZ43I67NTX54TTIQ",
-          "id": "AGD2TISCMJJFGZ43I67NTX54TTIQ"
+          "name": "Ivan Luminaria",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFFX565JF7SOZBJRWJSNS247YISQ",
+          "id": "AFFX565JF7SOZBJRWJSNS247YISQ"
         },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
         "vine_program": false,
         "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
+        "review_country": "it"
       },
       {
-        "id": "REZ46XJ3NSVYI",
-        "title": "Sembra di qualità ...",
-        "body": "Non ci sono istruzioni in Italiano. Non mi piace come chiude il coperchio.Leggi di più",
-        "asin": "B07HKXKZ1J",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Non ci sono istruzioni in Italiano.<br>Non mi piace come chiude il coperchio.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/REZ46XJ3NSVYI?ASIN=B07HKXKZ1J",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito in Italia il 1 febbraio 2021",
-          "utc": "2021-02-01T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "livia",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHS3LMDPWDSCAKZSXLF553VWGXMA",
-          "id": "AHS3LMDPWDSCAKZSXLF553VWGXMA"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "RB1M4MPULWOLF",
-        "title": "Non ci siamo.",
-        "body": "Il rapporto qualità prezzo è pessimo, il coperchio non sta in sede e va mantenuto con la mano. La qualità dell'acqua è ottima.Leggi di più",
-        "asin": "B07HKXKZ1J",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Il rapporto qualità prezzo è pessimo, il coperchio non sta in sede e va mantenuto con la mano. La qualità dell'acqua è ottima.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "link": "https://www.amazon.it/gp/customer-reviews/RB1M4MPULWOLF?ASIN=B07HKXKZ1J",
-        "rating": 2,
-        "date": {
-          "raw": "Recensito in Italia il 6 settembre 2021",
-          "utc": "2021-09-06T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "massimo montagna",
-          "link": "https://www.amazon.it/gp/profile/amzn1.account.AF3NVPCNTTILUX2W3QFP4KSDXNQQ",
-          "id": "AF3NVPCNTTILUX2W3QFP4KSDXNQQ",
-          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d6421cd8-5596-46d7-aa58-ff833eeb0270._CR0,26.0,281,281_SX48_.jpg"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "it",
-        "is_global_review": false
-      },
-      {
-        "id": "R3RLVH4KYESNXZ",
-        "title": "ZeroWater | Carafe filtrante en acier inoxydable",
-        "body": "Envoi rapide, bien protéger, excellent produit, qualité +++, reste que la carafe est lourde à porter d'une seule main, mais fait bien ce pourquoi il est fait, je recommandeLeggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Envoi rapide, bien protéger, excellent produit, qualité +++, reste que la carafe est lourde à porter d'une seule main, mais fait bien ce pourquoi il est fait, je recommande</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "id": "R1QHZQCQ9EBKKS",
+        "asin": "B0722YFFCQ",
         "rating": 5,
         "date": {
-          "raw": "Recensito in Francia il 16 ottobre 2023",
-          "utc": "2023-10-16T00:00:00.000Z"
+          "raw": "Recensito in Italia il 24 dicembre 2024",
+          "utc": "2024-12-24T00:00:00.000Z"
         },
         "profile": {
-          "name": "libellule"
+          "name": "Marib",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFXQ6M72YY57EYY22FBDEHTSM7QQ",
+          "id": "AFXQ6M72YY57EYY22FBDEHTSM7QQ"
         },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
         "vine_program": false,
         "verified_purchase": true,
-        "review_country": "fr",
-        "is_global_review": true
+        "review_country": "it"
       },
       {
-        "id": "RW4SXHV3VT4U0",
-        "title": "Cleans Water, at a Price",
-        "body": "UPDATED REVIEW I bought a Zerowater 11-cup pitcher which comes with one filter because it takes out calcium carbonate. In the Southwest, total dissolved solids (TDS) in tapwater routinely run 400 ppm (parts per million, same as milligrams per liter). TDS are inorganic salts that make water \"hard.\" My water is so hard, it is close to having marbles. TDS won't hurt you but they make terrible coffee and tea and they ruin your appliances, so I wanted TDS, including CaCO3, out.  I looked at elaborate under-the sink and countertop multi-stage water softeners but they are expensive, including the filters, and I don't have the space or the patience. The pitcher seemed like a simple solution.  I ran the Zerowater filter for three weeks, filtering one pitcher a day (11 cups = just under three quarts). My tap water went in at measured 391 to 420 TDS and came out at measured 000 TDS. The pitcher comes with an instrument that infers TDS from a battery current between electrodes immersed in the water. For comparison, steam-distilled water from the store measured 000 TDS. The Zerowater pitcher produced zero TDS water for two weeks.  On pitcher cycle 15, the meter showed 001 ppm TDS output. Zerowater says to replace the filter when it reads 006 or more. That occurred on cycle 17 but I kept running it to see what would happen. The filter's flat performance went off a cliff. Cycle 20 produced 013 ppm and cycle 21, 032 ppm. Cycle 22 was 149 ppm.  At first I thought, that's still less TDS than my unfiltered tapwater. It looked, smelled, and tasted fine. However, the nonlinear decline in filter performance meant I would only get a few more cycles out of it and I might be contaminating otherwise potable water by running it through a filter jammed with concentrated contaminants such as lead. So I deemed 20 cycles my cutoff point.  Zerowater says to expect 8 to 15 gallons of filtration for 400 TDS water. I got just under 13 gallons. The average TDS for US municipal water is 240 ppm, and a filter would last more than twice as long for most people as it did for me.  Filters typically cost $15 each in a two-pack plus tax and potential shipping. Using Bed-Bath funny money, I got filters for $12 + tax = $12.96 each. They are genuine Zerowaters. Counterfeit filters are problem in the market, especially online.  At that price, running a filter for 20 cycles costs me 6 cents per 8-oz. cup. That's $0.96 a gallon, about the price of a gallon of steam-distilled from the store. But, the store gallon comes in an evil, single-use plastic jug, and if you've been following the news, you know recycling is not happening anymore. There's also a high transaction cost for schlepping seven jugs a week from store shelf to my shelf. Disregarding those unquantifiable costs, am I willing to pay that to have my TDS problem solved? I decided it's a luxury I can afford.  Zerowater filters are recycled, either at Whole Foods, or by sending them to a station in El Paso in exchange for a $10 coupon, which covers your cost of shipping and packaging materials. Meanwhile, my coffee tastes great.  Updated Review: I am downgrading my rating of the Zerowater pitcher water filter system because I found that genuine Zerowater replacement filters do not last as long as the one that comes with the pitcher. Inputs were the same and procedures and measurement were the same as previously reported, but the filter only lasted through 13 cycles instead of 20. That raises my cost per cup of filtered water from 6 cents to 9 cents, and my cost per gallon by 50% to $1.45. I am still willing to pay that price for the convenience of the pitcher and the avoidance of single-use plastic, however, I am knocking off a star from the rating because of the cheating.  Why can't an American company just offer a good product at a fair price and let it go at that? Why is it necessary to cheat by selling inferior refills? Oh, yeah, because America.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">UPDATED REVIEW<br>I bought a Zerowater 11-cup pitcher which comes with one filter because it takes out calcium carbonate. In the Southwest, total dissolved solids (TDS) in tapwater routinely run 400 ppm (parts per million, same as milligrams per liter). TDS are inorganic salts that make water \"hard.\" My water is so hard, it is close to having marbles. TDS won't hurt you but they make terrible coffee and tea and they ruin your appliances, so I wanted TDS, including CaCO3, out.<br><br>I looked at elaborate under-the sink and countertop multi-stage water softeners but they are expensive, including the filters, and I don't have the space or the patience. The pitcher seemed like a simple solution.<br><br>I ran the Zerowater filter for three weeks, filtering one pitcher a day (11 cups = just under three quarts). My tap water went in at measured 391 to 420 TDS and came out at measured 000 TDS. The pitcher comes with an instrument that infers TDS from a battery current between electrodes immersed in the water. For comparison, steam-distilled water from the store measured 000 TDS. The Zerowater pitcher produced zero TDS water for two weeks.<br><br>On pitcher cycle 15, the meter showed 001 ppm TDS output. Zerowater says to replace the filter when it reads 006 or more. That occurred on cycle 17 but I kept running it to see what would happen. The filter's flat performance went off a cliff. Cycle 20 produced 013 ppm and cycle 21, 032 ppm. Cycle 22 was 149 ppm.<br><br>At first I thought, that's still less TDS than my unfiltered tapwater. It looked, smelled, and tasted fine. However, the nonlinear decline in filter performance meant I would only get a few more cycles out of it and I might be contaminating otherwise potable water by running it through a filter jammed with concentrated contaminants such as lead. So I deemed 20 cycles my cutoff point.<br><br>Zerowater says to expect 8 to 15 gallons of filtration for 400 TDS water. I got just under 13 gallons. The average TDS for US municipal water is 240 ppm, and a filter would last more than twice as long for most people as it did for me.<br><br>Filters typically cost $15 each in a two-pack plus tax and potential shipping. Using Bed-Bath funny money, I got filters for $12 + tax = $12.96 each. They are genuine Zerowaters. Counterfeit filters are problem in the market, especially online.<br><br>At that price, running a filter for 20 cycles costs me 6 cents per 8-oz. cup. That's $0.96 a gallon, about the price of a gallon of steam-distilled from the store. But, the store gallon comes in an evil, single-use plastic jug, and if you've been following the news, you know recycling is not happening anymore. There's also a high transaction cost for schlepping seven jugs a week from store shelf to my shelf. Disregarding those unquantifiable costs, am I willing to pay that to have my TDS problem solved? I decided it's a luxury I can afford.<br><br>Zerowater filters are recycled, either at Whole Foods, or by sending them to a station in El Paso in exchange for a $10 coupon, which covers your cost of shipping and packaging materials. Meanwhile, my coffee tastes great.<br><br>Updated Review:<br>I am downgrading my rating of the Zerowater pitcher water filter system because I found that genuine Zerowater replacement filters do not last as long as the one that comes with the pitcher. Inputs were the same and procedures and measurement were the same as previously reported, but the filter only lasted through 13 cycles instead of 20. That raises my cost per cup of filtered water from 6 cents to 9 cents, and my cost per gallon by 50% to $1.45. I am still willing to pay that price for the convenience of the pitcher and the avoidance of single-use plastic, however, I am knocking off a star from the rating because of the cheating.<br><br>Why can't an American company just offer a good product at a fair price and let it go at that? Why is it necessary to cheat by selling inferior refills? Oh, yeah, because America.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 4,
+        "id": "R2H3H74IM6ZD57",
+        "asin": "B0722YFFCQ",
+        "rating": 1,
         "date": {
-          "raw": "Recensito negli Stati Uniti il 29 agosto 2019",
-          "utc": "2019-08-29T00:00:00.000Z"
+          "raw": "Recensito in Italia il 18 novembre 2024",
+          "utc": "2024-11-18T00:00:00.000Z"
         },
         "profile": {
-          "name": "BillAdams"
+          "name": "RPilla",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AECAEWMI5ZG2LEEZLNAFDB36S2LQ",
+          "id": "AECAEWMI5ZG2LEEZLNAFDB36S2LQ"
         },
-        "vine_program": false,
-        "verified_purchase": true,
-        "helpful_votes": 33,
-        "review_country": "it",
-        "is_global_review": true
-      },
-      {
-        "id": "R1QO96ZC6V2YVO",
-        "title": "Our water measured over 375 on the dip-stick, it was zero after it had been through the filter.",
-        "body": "the water has a slight flavour which takes a bit of getting used to, not sure why that is. I've been drinking from it for two days and I don't notice it now, but my husband won't drink it!Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">the water has a slight flavour which takes a bit of getting used to, not sure why that is. I've been drinking from it for two days and I don't notice it now, but my husband won't drink it!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
-        "rating": 4,
-        "date": {
-          "raw": "Recensito nel Regno Unito il 30 giugno 2020",
-          "utc": "2020-06-30T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "Wend"
-        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
         "vine_program": false,
         "verified_purchase": true,
         "helpful_votes": 4,
-        "review_country": "it",
-        "is_global_review": true
+        "review_country": "it"
       },
       {
-        "id": "R38PFYN98J404Q",
-        "title": "Works as promised",
-        "body": "There's a lot I can say about this water filter. First of all: I will keep using it! All the positives: -It lives up to its claim: filters (from my 200) to 0 tds. -Water tastes good. Unfiltered tasted slightly unpleasant. -Pitcher is solid, holds enough water, looks nice. -Everything ZeroWater claims is accurate, as much as I can observe.  Then the 'in the middle', but certainly not negative, because it is how these filters are designed: - One filter does not last long until it reaches 6 tds. In my case it was 20 days. - When it reaches 6, the taste becomes different. Not bad, just different. I know that I got quite some manganese and uranium in my well water, so the filter works hard to deal with those, next to all the other minerals. It's the resin in the filter cartridge that does this very effectively (!) but the downside is that resin will get 'saturated' and would need regeneration. That's not possible with this type of filter, unless you hack the heck out of it.  Then the only negative, that in my opinion deserves a minor redesign: -The filler lid of the pitcher does not want to stay in place very well. It needs the tds meter to be placed on top at any time when you handle it, otherwise it will fall off easily.  Finally a recommendation to the company: your products get sold worldwide. Services and campaigns for discounts and recycle possibilities for used filters should preferably also be worldwide. I would welcome the latter very much, because I don't like the idea of tossing out spent filter after filter in the bin.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">There's a lot I can say about this water filter. First of all: I will keep using it!<br>All the positives:<br>-It lives up to its claim: filters (from my 200) to 0 tds.<br>-Water tastes good. Unfiltered tasted slightly unpleasant.<br>-Pitcher is solid, holds enough water, looks nice.<br>-Everything ZeroWater claims is accurate, as much as I can observe.<br><br>Then the 'in the middle', but certainly not negative, because it is how these filters are designed:<br>- One filter does not last long until it reaches 6 tds. In my case it was 20 days.<br>- When it reaches 6, the taste becomes different. Not bad, just different.<br>I know that I got quite some manganese and uranium in my well water, so the filter works hard to deal with those, next to all the other minerals. It's the resin in the filter cartridge that does this very effectively (!) but the downside is that resin will get 'saturated' and would need regeneration. That's not possible with this type of filter, unless you hack the heck out of it.<br><br>Then the only negative, that in my opinion deserves a minor redesign:<br>-The filler lid of the pitcher does not want to stay in place very well. It needs the tds meter to be placed on top at any time when you handle it, otherwise it will fall off easily.<br><br>Finally a recommendation to the company: your products get sold worldwide. Services and campaigns for discounts and recycle possibilities for used filters should preferably also be worldwide. I would welcome the latter very much, because I don't like the idea of tossing out spent filter after filter in the bin.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "id": "R14PLG19ECG5ZL",
+        "asin": "B0722YFFCQ",
         "rating": 4,
         "date": {
-          "raw": "Recensito in Germania il 21 ottobre 2021",
-          "utc": "2021-10-21T00:00:00.000Z"
+          "raw": "Recensito in Italia il 26 novembre 2025",
+          "utc": "2025-11-26T00:00:00.000Z"
         },
         "profile": {
-          "name": "roope roberto"
+          "name": "luca nicoli",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHZUQ4BZX2UGHBVL6PXVLSUN2WIA",
+          "id": "AHZUQ4BZX2UGHBVL6PXVLSUN2WIA"
         },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
         "vine_program": false,
         "verified_purchase": true,
-        "review_country": "de",
-        "is_global_review": true
+        "review_country": "it"
       },
       {
-        "id": "R4H6E2YV7IPMZ",
-        "title": "Très bien",
-        "body": "L'efficacité du filtre et surtout la grande capacité de la carafe sont intéressant. Le filtre dure facilement 4 mois avec une utilisation quotidienne. De plus le testeur d'eau est très bien.Leggi di più",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">L'efficacité du filtre et surtout la grande capacité de la carafe sont intéressant. Le filtre dure facilement 4 mois avec une utilisation quotidienne. De plus le testeur d'eau est très bien.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Attiva/disattiva testo di revisione completa\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leggi di più&quot;, &quot;collapse_prompt&quot;:&quot;Leggi meno&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leggi di più</span></a></div></div>",
+        "id": "R32TWFMRHQVU9I",
+        "asin": "B0722YFFCQ",
         "rating": 5,
         "date": {
-          "raw": "Recensito in Francia il 9 luglio 2023",
-          "utc": "2023-07-09T00:00:00.000Z"
+          "raw": "Recensito in Italia il 23 maggio 2020",
+          "utc": "2020-05-23T00:00:00.000Z"
         },
         "profile": {
-          "name": "Lionel"
+          "name": "TechnoNaturalista",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHFNI2LSNPJGYC2UDIHMP5MCHPHQ",
+          "id": "AHFNI2LSNPJGYC2UDIHMP5MCHPHQ"
         },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "it"
+      },
+      {
+        "id": "RSF74VQ389KFT",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 31 agosto 2024Recensito in Italia il 31 agosto 2024"
+        },
+        "profile": {
+          "name": "Massimo",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AEEOIUFHAA2UYS66UT7E5OFEQSBA",
+          "id": "AEEOIUFHAA2UYS66UT7E5OFEQSBA"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "it"
+      },
+      {
+        "id": "RESTHDTCFKFHW",
+        "asin": "B0722YFFCQ",
+        "rating": 3,
+        "date": {
+          "raw": "Recensito in Italia il 1 settembre 2022",
+          "utc": "2022-09-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alberto",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFQ6LB44IMYCOCQK5FTLWK75R2NA",
+          "id": "AFQ6LB44IMYCOCQK5FTLWK75R2NA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/279fa55b-ea59-4051-92b9-6b58e0eb3e90._CR0%2C0%2C500%2C500_SX460_SX48_.jpg"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "review_country": "it"
+      },
+      {
+        "id": "RSPC6TTKFXL4E",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Italia il 28 settembre 2023",
+          "utc": "2023-09-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "marco d'ovidio",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AHQCORN2GH6OZY3UDGYH7N4PEPVQ",
+          "id": "AHQCORN2GH6OZY3UDGYH7N4PEPVQ"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "it"
+      },
+      {
+        "id": "R16VQH1RGR8E0K",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Brasile il 24 febbraio 2026",
+          "utc": "2026-02-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amador Nunes"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true
+      },
+      {
+        "id": "R1CDP2NII1U0WG",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Francia il 13 dicembre 2025",
+          "utc": "2025-12-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Stella"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
         "vine_program": false,
         "verified_purchase": true,
         "review_country": "fr",
         "is_global_review": true
+      },
+      {
+        "id": "R1I4203AQTXPN4",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito negli Stati Uniti il 24 marzo 2020",
+          "utc": "2020-03-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "MikeTheBlueCow"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true
+      },
+      {
+        "id": "R23V2Q647JY0PK",
+        "asin": "B0722YFFCQ",
+        "rating": 5,
+        "date": {
+          "raw": "Recensito in Canada il 22 marzo 2026Recensito in Canada il 22 marzo 2026"
+        },
+        "profile": {
+          "name": "Apple Crisp",
+          "link": "https://www.amazon.it/gp/profile/amzn1.account.AFVTYQCKGHYDXW6V5K65B7S4IZ6Q",
+          "id": "AFVTYQCKGHYDXW6V5K65B7S4IZ6Q",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/e5285af3-8060-4562-9be0-901b37729be5._CR0%2C38%2C257%2C257_UX460_SX48_.jpg"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true
+      },
+      {
+        "id": "R2S5GGHCB3R8PP",
+        "asin": "B0722YFFCQ",
+        "rating": 1,
+        "date": {
+          "raw": "Recensito in Polonia in data 6 febbraio 2022",
+          "utc": "2022-02-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marcin Wittenberg"
+        },
+        "attributes": [
+          {
+            "name": "Colore",
+            "value": "Bianco"
+          },
+          {
+            "name": "Taglia",
+            "value": "1.7 l - 1 filtre"
+          },
+          {
+            "name": "Nome stile",
+            "value": "1,7 litri"
+          }
+        ],
+        "attributes_flat": "Colore: Bianco, Taglia: 1.7 l - 1 filtre, Nome stile: 1,7 litri",
+        "asin_review": "B0722YFFCQ",
+        "vine_program": false,
+        "verified_purchase": true
       }
     ],
+    "bestsellers_rank": [
+      {
+        "rank": 32452,
+        "category": "Casa e cucina",
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 40,
+        "category": "Caraffe Filtranti",
+        "link": "https://www.amazon.it/gp/bestsellers/kitchen/652720031/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c0e43a7-4363-47d9-94b1-93ace245ed48.__CR0,0,869,400_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36ba61c3-bba8-400b-86f8-b073cb572cef.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "description": "CulliganZeroWaterèunsistemadifiltrazionedell'acquauniconelsuogenerecheportaacquapotabilepulitaesicuraacasavostra.",
+        "brand_store": {
+          "link": "/stores/page/EC6EE214-C049-453C-A2A0-BAD49D76D8B8",
+          "id": "EC6EE214-C049-453C-A2A0-BAD49D76D8B8"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36ba61c3-bba8-400b-86f8-b073cb572cef.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24f2769f-41c5-4f41-b734-abd3c2dcec4b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac8c7550-58f6-4733-87bf-ec1c2c7d09b8.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85be5da0-b1ff-412f-971c-d3a203820a0d.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36ba61c3-bba8-400b-86f8-b073cb572cef.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "Collezione di componenti per la filtrazione dell&#39;acqua di colore blu, tra cui serbatoio erogatore e contenitori filtranti multipli disposti"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c0e43a7-4363-47d9-94b1-93ace245ed48.__CR0,0,869,400_PT0_SX315_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24f2769f-41c5-4f41-b734-abd3c2dcec4b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Immagine del prodotto del sistema di filtrazione Culligan Zero Water che mostra una cartuccia filtrante circolare con marchio blu e nero, che pubblicizza la filtrazione"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8991282-923e-44d1-97eb-2e8fcec2479c.__AC_SR166,182___.jpg",
+          "name": "Filtro per acqua cilindrico o dispositivo di purificazione con accenti blu chiaro e design a cartuccia sostituibile"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9aeb791a-0ac4-4054-8d3c-eec3639cc715.__AC_SR166,182___.jpg",
+          "name": "Sistema di filtrazione dell&#39;acqua con cartuccia filtrante cilindrica trasparente e confezione con marchio blu etichettata"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b03c5b5-5b9b-4bcc-ab19-a991d1580f0a.__AC_SR166,182___.jpg",
+          "name": "Le cartucce di ricambio per il filtro dell&#39;acqua ZeroWater sono mostrate con la confezione, con più unità filtranti blu e bianche progettate per i sistemi di purificazione dell&#39;acqua"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2040d470-3031-4002-999a-78124e43fcfd.__AC_SR166,182___.jpg",
+          "name": "Set di cartucce filtranti ZeroWater di colore blu chiaro, confezionate in una scatola nera con più cartucce"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac8c7550-58f6-4733-87bf-ec1c2c7d09b8.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d6af53b-26e4-4345-9d63-7bf270356db4.__AC_SR166,182___.jpg",
+          "name": "Caraffa filtrante per acqua blu chiaro con serbatoio trasparente e indicatore digitale"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa404a1d-f708-4253-a6c7-de30a013a3fe.__AC_SR166,182___.jpg",
+          "name": "Brocca d&#39;acqua in plastica trasparente con coperchio e manico grigi. Presenta un vano filtro integrato e un design aerodinamico per un facile versamento."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97ae05c8-684b-4102-881d-fd4102bf8890.__AC_SR166,182___.jpg",
+          "name": "Culligan ZeroWater acqua fitration PFOAS PFAS fluoruro calcare tds filter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d885f754-841b-41c5-a294-27b49530d8bb.__AC_SR166,182___.jpg",
+          "name": "Culligan ZeroWater acqua fitration PFOAS PFAS fluoruro calcare tds filter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85be5da0-b1ff-412f-971c-d3a203820a0d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/019493a0-c4fb-4347-bb18-4c6b0222c153.__AC_SR166,182___.jpg",
+          "name": "ZeroWater Distributore di filtro dell&#39;acqua a 5 stadi pronto da leggere da 22 tazze con lettura i..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/846edec6-c2eb-455c-a964-c8d92b356ab0.__AC_SR166,182___.jpg",
+          "name": "ZeroWater - Dispenser per filtro dell&#39;acqua a 5 stadi pronto da leggere, 12,3 litri, con lettura ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f96d117-f092-4425-a5da-e324e3becc14.__AC_SR166,182___.jpg",
+          "name": "Viste multiple di un distributore di sapone commerciale a parete con serbatoio in plastica trasparente e staffa di montaggio bianca. Mostra le fasi del processo di installazione e ricarica."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b6459be-6a56-4e06-a164-eec6d0a9be8e.__AC_SR166,182___.jpg",
+          "name": "ZeroWater Distributore di acqua filtrata 9L, in vetro, filtro e misuratore della qualitá dell&#39;acq..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4897fb1a-c8bd-4c06-83da-a6a1fc5d7638.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c528a1e-c5c1-44b4-9de4-56f6fb255fd5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bd34999-5be5-43b3-a686-611ea46845dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91ebe40b-1ec3-4945-bbdf-346859215b26.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "TDS meter total dissolved solids water filter "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0b09619-2066-4542-9d19-0e30defdcd43.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/209f971a-e55b-4b76-99e0-367703fdb46e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e8e173c-6d22-48ef-839a-c7ed96472f67.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "TDS meter total dissolved solids water filter "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d14e9b57-09cd-48fb-8072-e2767ab3fdc1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "filter limescale chromium water filtration pitcher jug dispenser alkaline chromium pfoa pfos lead"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e88a75a-7073-437b-800f-3a6b5eaa4cb9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8ee85ca1-2527-40a9-9d31-7e608b402b3f.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0108dcc-98e0-4169-84ff-e68083790a9e.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/42299554-1d20-4f2b-90c5-7121bd01d17f.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cd1e31be-c8bd-432c-9d01-b4bdc3fe441b.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f02f69d0-2673-4db4-9211-cbd2ab68ff70.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b6be0e5-90f1-4e69-87ef-a51869a6eb35.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f83d84e-d72b-4ff6-9b82-c519c3803467.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+          "name": ""
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c0e43a7-4363-47d9-94b1-93ace245ed48.__CR0,0,869,400_PT0_SX315_V1___.jpg",
+      "company_description_text": "Culligan ZeroWater è un sistema di filtrazione dell'acqua unico nel suo genere che porta acqua potabile pulita e sicura a casa vostra. I motivi per cui il filtro dell'acqua a 5 stadi di Culligan ZeroWater non è un filtro ordinario:"
+    },
     "buybox_winner": {
       "maximum_order_quantity": {
-        "value": 11,
+        "value": 10,
         "hard_maximum": true
       },
-      "new_offers_count": 4,
-      "new_offers_from": {
-        "raw": "Spedizione GRATUITA."
+      "secondary_buybox": {
+        "offer_id": "UiVv1PXZ4P5fhQ6KauM3n9lB2C59gIRxwvSwL%2Fpq4VzzJBKkleiQNPQZEEDIX9ozXW81CaeSM0R%2F6hPckG%2Fh14ET3dAqqz277wRTIp8QvCcx378lbrLN1Sg%2BZDs1T6Eg0ZoVaVsMrQjaAz7rdS78bBfOP46g7MCTMbca2LpKSUv6P%2Ft5aW7duA%3D%3D",
+        "caption": "Usato - Come nuovo",
+        "availability": {
+          "raw": "Disponibilità: solo 1",
+          "type": "in_stock"
+        },
+        "product_condition": "L'articolo verrà fornito nell'imballaggio originale.",
+        "condition": {
+          "raw": "Usato - Come nuovo",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 26.14,
+          "raw": "€26,14"
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "mercoledì, 6 maggio",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Seconda mano"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "spedito da Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        },
+        "ship_details": "Venduto da Amazon Seconda mano e spedito da Amazon."
+      },
+      "price_only_available_in_cart": false,
+      "offer_id": "UiVv1PXZ4P5fhQ6KauM3n9lB2C59gIRxwvSwL/pq4VzzJBKkleiQNPQZEEDIX9ozXW81CaeSM0R/6hPckG/h14ET3dAqqz277wRTIp8QvCcx378lbrLN1Sg+ZDs1T6Eg0ZoVaVsMrQjaAz7rdS78bBfOP46g7MCTMbca2LpKSUv6P/t5aW7duA==",
+      "mixed_offers_count": 4,
+      "mixed_offers_from": {
+        "raw": "Spedizione GRATUITA sul tuo primo ordine idoneo."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 14,
+        "type": "refund/replacement",
+        "seller": "Amazon"
       },
       "is_prime": true,
       "is_prime_exclusive_deal": false,
@@ -409,61 +928,36 @@
         "dispatch_days": 1
       },
       "fulfillment": {
-        "type": "2p",
+        "type": "p1",
         "standard_delivery": {
-          "date": "marted, 14 novembre",
+          "date": "marted, 5 maggio",
           "name": "GRATUITA"
         },
-        "fastest_delivery": {
-          "date": "domani, 11 novembre",
-          "name": "oppure ritiro pi rapido domani, 11 novembre. Ordina entro 1 ora 14 min"
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon",
+          "link": "https://www.amazon.it/b?node=3581999031"
         },
-        "is_sold_by_amazon": false,
         "is_fulfilled_by_amazon": true,
         "is_fulfilled_by_third_party": false,
-        "is_sold_by_third_party": true,
-        "third_party_seller": {
-          "name": "ZeroWater",
-          "link": "https://www.amazon.it/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NSR71WS69G5X&asin=B07HKXKZ1J&ref_=dp_merchant_link&isAmazonFulfilled=1",
-          "id": "A1NSR71WS69G5X"
-        }
+        "is_sold_by_third_party": false
       },
       "price": {
         "symbol": "€",
         "currency": "EUR",
-        "value": 79.95,
-        "raw": "€79,95"
+        "value": 37.95,
+        "raw": "€37,95"
+      },
+      "rrp": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 37.95,
+        "raw": "€37,95"
       },
       "shipping": {
         "raw": "GRATUITA"
       }
     },
-    "more_buying_choices": [
-      {
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 79.95,
-          "raw": "€79,95"
-        },
-        "seller_name": "ZeroWater",
-        "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A1NSR71WS69G5X&isAmazonFulfilled=1&asin=B07HKXKZ1J&ref_=dp_mbc_seller",
-        "free_shipping": true,
-        "position": 1
-      },
-      {
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 79.71,
-          "raw": "€79,71"
-        },
-        "seller_name": "Amazon UK",
-        "seller_link": "https://www.amazon.it/gp/aag/main?ie=UTF8&seller=A3R2BN8GAL312Z&isAmazonFulfilled=0&asin=B07HKXKZ1J&ref_=dp_mbc_seller",
-        "free_shipping": true,
-        "position": 2
-      }
-    ],
     "specifications": [
       {
         "name": "Marchio",
@@ -471,369 +965,137 @@
       },
       {
         "name": "Caratteristica speciale",
-        "value": "Portatile"
+        "value": "Brocca di filtro dell'acqua certificata NSF, Cambia indicatore filtro, Compatibile con filtri di ricambio per acqua zero, Indicatore di sostituzione filtro, Misuratore TDS incluso Mostra altro"
       },
       {
         "name": "Dimensioni del prodotto",
-        "value": "18L x 15l x 27H cm"
+        "value": "26,7L x 24,1l x 12,5H cm"
+      },
+      {
+        "name": "Materiale",
+        "value": "Plastica"
+      },
+      {
+        "name": "Capacità",
+        "value": "1,7 Litri"
+      },
+      {
+        "name": "Componenti inclusi",
+        "value": "TDS Meter Digital Water Tester ; 1 cartuccia filtrante"
+      },
+      {
+        "name": "Informazioni pacco",
+        "value": "Da lanciatore"
+      },
+      {
+        "name": "Tipo di installazione",
+        "value": "Libera installazione"
+      },
+      {
+        "name": "Metodo di purificazione",
+        "value": "Carbone attivo"
       },
       {
         "name": "Sorgente di alimentazione",
         "value": "Non elettrico"
       },
       {
-        "name": "Peso articolo",
-        "value": "3 Libbre"
+        "name": "Caratteristiche speciali",
+        "value": "Brocca di filtro dell'acqua certificata NSF, Cambia indicatore filtro, Compatibile con filtri di ricambio per acqua zero, Indicatore di sostituzione filtro, Misuratore TDS incluso"
       },
       {
-        "name": "Nome modello",
-        "value": "Brocca"
+        "name": "Tipo di contenitore",
+        "value": "Da lanciatore"
+      },
+      {
+        "name": "TDS massimo di acqua supportato (PPM)",
+        "value": "500"
+      },
+      {
+        "name": "Compatibilità con casa intelligente",
+        "value": "Non compatibile con casa intelligente"
+      },
+      {
+        "name": "Dimensioni dell'articolo, lunghezza x larghezza x altezza",
+        "value": "26,7L x 24,1l x 12,5H cm"
+      },
+      {
+        "name": "La capacità del prodotto",
+        "value": "1,7 Litri"
+      },
+      {
+        "name": "Peso articolo",
+        "value": "2,24 Libbre"
+      },
+      {
+        "name": "Tipo materiale",
+        "value": "Plastica"
+      },
+      {
+        "name": "Nome del modello",
+        "value": "ZP-007RP"
+      },
+      {
+        "name": "Modello",
+        "value": "ZP-007RP"
+      },
+      {
+        "name": "Codice prodotto",
+        "value": "791109327678 704452995227 188781000614"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00188781000614"
+      },
+      {
+        "name": "Produttore",
+        "value": "Zero Technologies Llc"
+      },
+      {
+        "name": "Numero parte",
+        "value": "ZP-007RP"
+      },
+      {
+        "name": "Nome del tipo di prodotto",
+        "value": "Zero 7 Cup Brocca di filtrazione dell'acqua"
+      },
+      {
+        "name": "Paese di origine",
+        "value": "Messico"
+      },
+      {
+        "name": "Volume/peso dell’unità di vendita",
+        "value": "1700.0 Millilitri"
+      },
+      {
+        "name": "Posizione nella classifica Bestseller di Amazon",
+        "value": "n. 32.452 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 40 in Caraffe Filtranti"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0722YFFCQ"
+      },
+      {
+        "name": "Media recensioni",
+        "value": "4,0    4,0 su 5 stelle         (4.140)           4,0 su 5 stelle"
       }
     ],
-    "specifications_flat": "Nome modello: Brocca. Peso articolo: 3 Libbre. Sorgente di alimentazione: Non elettrico. Dimensioni del prodotto: 18L x 15l x 27H cm. Caratteristica speciale: Portatile. Marchio: ZeroWater.",
-    "weight": "3 Libbre",
-    "dimensions": "18L x 15l x 27H cm"
+    "specifications_flat": "Media recensioni: 4,0    4,0 su 5 stelle         (4.140)           4,0 su 5 stelle. ASIN: B0722YFFCQ. Posizione nella classifica Bestseller di Amazon: n. 32.452 in Casa e cucina (Visualizza i Top 100 nella categoria Casa e cucina) n. 40 in Caraffe Filtranti. Volume/peso dell’unità di vendita: 1700.0 Millilitri. Paese di origine: Messico. Nome del tipo di prodotto: Zero 7 Cup Brocca di filtrazione dell'acqua. Numero parte: ZP-007RP. Produttore: Zero Technologies Llc. Global Trade Identification Number: 00188781000614. Codice prodotto: 791109327678 704452995227 188781000614. Modello: ZP-007RP. Nome del modello: ZP-007RP. Tipo materiale: Plastica. Peso articolo: 2,24 Libbre. La capacità del prodotto: 1,7 Litri. Dimensioni dell'articolo, lunghezza x larghezza x altezza: 26,7L x 24,1l x 12,5H cm. Compatibilità con casa intelligente: Non compatibile con casa intelligente. TDS massimo di acqua supportato (PPM): 500. Tipo di contenitore: Da lanciatore. Caratteristiche speciali: Brocca di filtro dell'acqua certificata NSF, Cambia indicatore filtro, Compatibile con filtri di ricambio per acqua zero, Indicatore di sostituzione filtro, Misuratore TDS incluso. Sorgente di alimentazione: Non elettrico. Metodo di purificazione: Carbone attivo. Tipo di installazione: Libera installazione. Informazioni pacco: Da lanciatore. Componenti inclusi: TDS Meter Digital Water Tester ; 1 cartuccia filtrante. Capacità: 1,7 Litri. Materiale: Plastica. Dimensioni del prodotto: 26,7L x 24,1l x 12,5H cm. Caratteristica speciale: Brocca di filtro dell'acqua certificata NSF, Cambia indicatore filtro, Compatibile con filtri di ricambio per acqua zero, Indicatore di sostituzione filtro, Misuratore TDS incluso Mostra altro. Marchio: ZeroWater.",
+    "ingredients": [
+      "ZeroWater 7 tazze ZP-007RP - Caraffa filtro acqua blu",
+      "1",
+      "7 l",
+      "design porta frigorifero con sistema di filtrazione a 5 fasi",
+      "cartuccia filtro dell'acqua inclusa"
+    ],
+    "ingredients_flat": "ZeroWater 7 tazze ZP-007RP - Caraffa filtro acqua blu, 1, 7 l, design porta frigorifero con sistema di filtrazione a 5 fasi, cartuccia filtro dell'acqua inclusa",
+    "material": "Plastica",
+    "weight": "2,24 Libbre",
+    "dimensions": "26,7L x 24,1l x 12,5H cm",
+    "bestsellers_rank_flat": "Category: Casa e cucina | Rank: 32452, Category: Caraffe Filtranti | Rank: 40"
   },
   "brand_store": {
     "id": "EC6EE214-C049-453C-A2A0-BAD49D76D8B8",
     "link": "https://www.amazon.it/stores/ZeroWater/page/EC6EE214-C049-453C-A2A0-BAD49D76D8B8"
-  },
-  "newer_model": {
-    "title": "ZeroWater - Brocca filtrante per acqua, 11 tazze, tecnologia Ready Pour",
-    "asin": "B083KZHMQD",
-    "link": "https://www.amazon.it/ZeroWater-ZS-011RP-2-N-Brocca-tazze-trasparente-dp-B083KZHMQD/dp/B083KZHMQD/ref=dp_ob_image_kitchen?tag=8vcue204-21",
-    "image": "https://m.media-amazon.com/images/I/61Mt0mD+7CL._SR75,75_.jpg",
-    "rating": 4,
-    "ratings_total": 352,
-    "price": {
-      "symbol": "€",
-      "currency": "EUR",
-      "value": 87.74,
-      "raw": "€87,74"
-    }
-  },
-  "frequently_bought_together": {
-    "total_price": {
-      "symbol": "€",
-      "currency": "EUR",
-      "value": 149.9,
-      "raw": "149,90 €"
-    },
-    "products": [
-      {
-        "asin": "B07HKXKZ1J",
-        "title": "ZeroWater Caraffa filtrante per acqua 2,6L , Acciaio INOX, Plastica priva di BpA e certificato per la Riduzione di Piombo e Altri Metalli Pesanti",
-        "link": "https://www.amazon.it/dp/B07HKXKZ1J?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/713TCrq8CjL._AC_UL116_SR116,116_.jpg"
-      },
-      {
-        "asin": "B00C7N7L1E",
-        "title": "ZeroWater Filtri Caraffa Acqua a 5 Fasi, Filtri Caraffa Filtrante con Certificazione NSF - Filtri Acqua - Riducono la Presenza di Piombo, PFOA/PFOS e Altri Metalli Pesanti - Confezione da 4, Bianco",
-        "link": "https://www.amazon.it/dp/B00C7N7L1E?tag=8vcue204-21",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/71Ltr3pvOmL._AC_UL116_SR116,116_.jpg",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 69.95,
-          "raw": "69,95€"
-        }
-      }
-    ]
-  },
-  "sponsored_products": [
-    {
-      "title": "ZeroWater Caraffa Filtrante a 5 Fasi da 2,4 L con Design Arrotondato - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu",
-      "asin": "B0749NRV62",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDA2OTgxMTg0NzkzMjo6Ojo&url=%2Fdp%2FB0749NRV62%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0749NRV62%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31L9pj+X14L._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 740,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 47.95,
-        "raw": "€47,95"
-      }
-    },
-    {
-      "title": "Vortopt Filtro Rubinetto in Acciaio Inossidabile, 400 Galloni Filtro Acqua Rubinetto, Depuratore Acqua Rubinetto, Rimuove Sabbia, Piombo, Cloro e Cattivo Gusto, T2 (1 Filtro Incluso)",
-      "asin": "B09Q2WCX51",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDAyMDk0NzA4NjAzMjo6Ojo&url=%2Fdp%2FB09Q2WCX51%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09Q2WCX51%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31r5zaAOUpL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 174,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 39.99,
-        "raw": "€39,99"
-      }
-    },
-    {
-      "title": "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 2,4 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu",
-      "asin": "B07J2HJMKQ",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDA2OTgxMTg0NjczMjo6Ojo&url=%2Fdp%2FB07J2HJMKQ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07J2HJMKQ%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41dsVFKDK4L._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 47.95,
-        "raw": "€47,95"
-      }
-    },
-    {
-      "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus)",
-      "asin": "B07QCNTCK8",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjIwMDM0MDEyNTc2ODk4Ojo6Og&url=%2Fdp%2FB07QCNTCK8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07QCNTCK8%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41Ahy48LweL._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 26.99,
-        "raw": "€26,99"
-      }
-    },
-    {
-      "title": "ZeroWater Dispenser Acqua Filtrata a 5 Fasi da 4,7 L - Distributore Acqua con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianco e Blu",
-      "asin": "B0749N837V",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDA2OTgxMTg0NzUzMjo6Ojo&url=%2Fdp%2FB0749N837V%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0749N837V%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41XwkD5+BaL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 193,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 59.95,
-        "raw": "€59,95"
-      }
-    },
-    {
-      "title": "Vortopt Filtro acqua rubinetto, 400 galloni Depuratore acqua cucina, Filtro calcare, Riduce sabbia, piombo, cloro e cattivo gusto, T1",
-      "asin": "B09Q2TRZW5",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDAyMDg5MjIyNzIzMjo6Ojo&url=%2Fdp%2FB09Q2TRZW5%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09Q2TRZW5%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31F9Pjr3gvL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 437,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 32.99,
-        "raw": "€32,99"
-      }
-    },
-    {
-      "title": "Philips Instant Water Filter, caraffa filtrante con capacità di 3 l, ricaricabile tramite porta USB-C",
-      "asin": "B09BR77WFK",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjIwMTI5MzkxODg4Mzk4Ojo6Og&url=%2Fdp%2FB09BR77WFK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09BR77WFK%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31RLnlInRJL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 39.99,
-        "raw": "€39,99"
-      }
-    },
-    {
-      "title": "SILBERTHAL Caraffa filtrante in vetro, 3 litri, cartuccia filtrante inclusa, riduce il calcare, grande capacità di acqua filtrata",
-      "asin": "B085LJ5ZPB",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjIwMTQ3NjE1MDE5NDk4Ojo6Og&url=%2Fdp%2FB085LJ5ZPB%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB085LJ5ZPB%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31GRcPsypeL._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "ratings_total": 827,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 47.95,
-        "raw": "€47,95"
-      }
-    },
-    {
-      "title": "Vortopt Sistema di Filtro Acqua - 70K Litri Depuratore Acqua per Sotto Bancone, 0.5μm Sistema di Filtraggio Acqua, Riduce Piombo, Cloro, Cattivo Gusto e Odore, Q5-C2",
-      "asin": "B0C4H7JQGK",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjMwMDAzODIwNTQ1OTEzMjo6Ojo&url=%2Fdp%2FB0C4H7JQGK%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0C4H7JQGK%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/51kouVXhPqL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 12,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 85.99,
-        "raw": "€85,99"
-      }
-    },
-    {
-      "title": "Dropson - Caraffa con filtro, modello CrystalDrink, in vetro, 1 l, con coperchio blu + filtro per l’acqua del rubinetto, lattina filtrante da 300 litri",
-      "asin": "B07N2SW58F",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MTozODYxNTg3MDY4Mzk4Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsOjIwMTQ3NjY5NzAzOTk4Ojo6Og&url=%2Fdp%2FB07N2SW58F%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB07N2SW58F%26pd_rd_w%3DTrxGs%26content-id%3Damzn1.sym.7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_p%3D7ef04998-a968-4397-9cab-635d55e2c83b%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31jA8XPUZGS._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 67,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 26.95,
-        "raw": "€26,95"
-      }
-    },
-    {
-      "title": "Vortopt Filtro Rubinetto in Acciaio Inossidabile, 400 Galloni Filtro Acqua Rubinetto, Depuratore Acqua Rubinetto, Rimuove Sabbia, Piombo, Cloro e Cattivo Gusto, T2 (1 Filtro Incluso)",
-      "asin": "B09Q2WCX51",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwMjA5NDcwODYwMzI6Ojo6&url=%2Fdp%2FB09Q2WCX51%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09Q2WCX51%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31r5zaAOUpL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 174,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 39.99,
-        "raw": "€39,99"
-      }
-    },
-    {
-      "title": "Vortopt Filtro acqua rubinetto, 400 galloni Depuratore acqua cucina, Filtro calcare, Riduce sabbia, piombo, cloro e cattivo gusto, T1",
-      "asin": "B09Q2TRZW5",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwMjA4OTIyMjcyMzI6Ojo6&url=%2Fdp%2FB09Q2TRZW5%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09Q2TRZW5%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31F9Pjr3gvL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 437,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 32.99,
-        "raw": "€32,99"
-      }
-    },
-    {
-      "title": "Waterdrop Chubby Caraffa Filtrante da 3,5 Litri Certificata NSF con 1 Filtro da 90 Giorni, Riduce il Piombo, il Fluoro, il Cloro e Altro, Senza BPA, Bianca (Filtro di Ricambio: WD-PF-01A Plus)",
-      "asin": "B07QCNTCK8",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjoyMDAzNDAxMjU3Njg5ODo6Ojo&url=%2Fdp%2FB07QCNTCK8%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07QCNTCK8%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41Ahy48LweL._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 26.99,
-        "raw": "€26,99"
-      }
-    },
-    {
-      "title": "Vortopt Filtro Acqua Rubinetto Aggiornato da Banco in Acciaio Inossidabile - Filtraggio a 5 Stadi per 8000 Galloni - Depuratore d'acqua con KDF, Riduce Cloro e Metalli Pesanti, F7 (1 Filtro Incluso)",
-      "asin": "B09YJ1ZVGF",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwMjA4NDI4ODE5MzI6Ojo6&url=%2Fdp%2FB09YJ1ZVGF%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09YJ1ZVGF%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/31vqoOc7WAL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 61,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 109.99,
-        "raw": "€109,99"
-      }
-    },
-    {
-      "title": "Vortopt Sistema di Filtro Acqua - 70K Litri Depuratore Acqua per Sotto Bancone, 0.5μm Sistema di Filtraggio Acqua, Riduce Piombo, Cloro, Cattivo Gusto e Odore, Q5-C2",
-      "asin": "B0C4H7JQGK",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwMzgyMDU0NTkxMzI6Ojo6&url=%2Fdp%2FB0C4H7JQGK%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0C4H7JQGK%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/51kouVXhPqL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 12,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 85.99,
-        "raw": "€85,99"
-      }
-    },
-    {
-      "title": "Vortopt Sistema di Filtro Acqua Sotto il Lavello - 0,01 μm Ultra Filtrazione Depuratore Acqua, 70K Litri Sistema di Filtraggio Acqua, Riduce Piombo, Cloro, Cattivo Gusto e Odore, Q5-UF",
-      "asin": "B0C4H8RY7R",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwMzgyMDU0NTkwMzI6Ojo6&url=%2Fdp%2FB0C4H8RY7R%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0C4H8RY7R%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/51Q8LeWdvRL._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "ratings_total": 12,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 95.99,
-        "raw": "€95,99"
-      }
-    },
-    {
-      "title": "Zerowater - Caraffa Filtrante Rotondaper Acqua 1,9L",
-      "asin": "B0749N6P9T",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwNjk4MTE4NDc4MzI6Ojo6&url=%2Fdp%2FB0749N6P9T%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0749N6P9T%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41SxuUWOnyL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 740,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 44.95,
-        "raw": "€44,95"
-      }
-    },
-    {
-      "title": "ZeroWater Dispenser Acqua Filtrata a 5 Fasi da 4,7 L - Distributore Acqua con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianco e Blu",
-      "asin": "B0749N837V",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwNjk4MTE4NDc1MzI6Ojo6&url=%2Fdp%2FB0749N837V%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0749N837V%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41XwkD5+BaL._AC_SR160,160_.jpg",
-      "rating": 4,
-      "ratings_total": 193,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 59.95,
-        "raw": "€59,95"
-      }
-    },
-    {
-      "title": "ZeroWater Caraffa Filtrante per Acqua a 5 Fasi da 2,4 L - Brocca Acqua Filtrante con Certificazione NSF - Riduce la Presenza di Piombo PFOA/PFOS e Altri Metalli Pesanti - Bianca e Blu",
-      "asin": "B07J2HJMKQ",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwNjk4MTE4NDY3MzI6Ojo6&url=%2Fdp%2FB07J2HJMKQ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB07J2HJMKQ%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/41dsVFKDK4L._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 47.95,
-        "raw": "€47,95"
-      }
-    },
-    {
-      "title": "BRITA Sistema filtrante per acqua ON TAP V, incl. 1x filtro V per acqua sostenibile dal gusto ottimo dal rubinetto, riduce le piccole particelle, i metalli e le sostanze che alterano il gusto",
-      "asin": "B0CGV6FM76",
-      "link": "https://www.amazon.it/sspa/click?ie=UTF8&spc=MToxMTkyMDYzNDM1MTE3Njc4OjE2OTk2MzUwNTQ6c3BfZGV0YWlsMjozMDAwNzIwNzk3MDUyMzI6Ojo6&url=%2Fdp%2FB0CGV6FM76%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0CGV6FM76%26pd_rd_w%3D7gJaF%26content-id%3Damzn1.sym.a179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_p%3Da179acca-8693-4136-9558-da756d8c9e9d%26pf_rd_r%3D6ERWSMQF7HRX32ARN3JK%26pd_rd_wg%3DfxynI%26pd_rd_r%3D5bb1e9a1-3b2b-400c-b2f4-b39c68881a1b%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&tag=8vcue204-21",
-      "image": "https://m.media-amazon.com/images/I/51NOUa9IbxL._AC_SR160,160_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 43.9,
-        "raw": "€43,90"
-      }
-    }
-  ]
+  }
 }

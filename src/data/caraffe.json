@@ -10,7 +10,7 @@
 	{
 		"title": "ZeroWater",
 		"code": "zerowater",
-		"asin": "B07HKXKZ1J",
+		"asin": "B0722YFFCQ",
 		"file": "zerowater.json",
 		"capacita": 2.5
 	},
@@ -29,9 +29,9 @@
 		"capacita": 3.5
 	},
 	{
-		"title": "Brita Marella XL",
+		"title": "Brita Marella",
 		"code": "brita-marella-xl",
-		"asin": "B0CJ9RWQG2",
+		"asin": "B0BSXDLXC4",
 		"file": "brita.json"
 	},
 	{

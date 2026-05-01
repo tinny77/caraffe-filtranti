@@ -40,8 +40,8 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 			key={code}
 			className={`product-card h-full w-full rounded-[1.75rem] border p-2 text-center shadow-xl shadow-sky-950/5 ${
 				isItemSelected
-					? `border-sky-500 bg-sky-50/95 text-sky-950`
-					: `border-white/70 bg-white/88 text-slate-900`
+					? `border-sky-500 bg-white text-sky-950`
+					: `border-white/70 bg-white text-slate-900`
 			}`}
 			title={product.title}
 		>
@@ -72,11 +72,13 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 				<Typography className="space-y-2 text-left text-sm leading-6 text-slate-600">
 					{product.capacita > 0 && (
 						<p className="rating">Capacita: {product.capacita} litri</p>
-					)}
+                    )}
+                    {product.rating > 0 && (
 					<p className="rating flex items-center gap-2">
 						Rating: <Rating stars={product.rating} />{' '}
 						<span>({product.rating_num})</span>
 					</p>
+                    )}
 				</Typography>
 				<Typography
 					variant="h4"
@@ -85,7 +87,7 @@ const ProductItem = ({ code, product, currentCar, handleProductClick }) => {
 					{formatCurrency(product.price)}
 				</Typography>
 				<p className="mt-2 text-left text-sm text-slate-500">
-					Prezzo indicativo rilevato online. Verifica disponibilita e condizioni sullo store.
+					Prezzo indicativo rilevato online. Verifica disponibilità e condizioni sullo store.
 				</p>
 				<div className="mt-6 grid gap-3 sm:grid-cols-2">
 					<Button
